@@ -21,7 +21,7 @@ lang: id-ID
 
 ## ASUMSI DAN KLARIFIKASI
 
-1. Nama project tetap **VAST**, bukan Findor. Catatan “Logo Findor” pada diskusi tim diasumsikan sebagai typo/nama sementara. **[PERLU KLARIFIKASI]** apakah logo final bertuliskan VAST atau Findor.
+1. Nama project tetap **VAST**
 2. Website dibangun dengan **Next.js + React.js** sebagai front-end static site. Fitur server-side/backend Next.js tidak digunakan untuk MVP.
 3. Website tidak menggunakan database, backend/API server, CMS, LocalStorage, atau SessionStorage.
 4. Semua konten budaya, gambar, quiz, matching game, dan puzzle disimpan sebagai data statis di repository.
@@ -805,7 +805,7 @@ vast/
 
 # 14. OPEN ISSUES / PRIORITY CLARIFICATION QUESTIONS
 
-1. Logo final harus bertuliskan **VAST** atau **Findor**? Catatan diskusi menyebut “Logo Findor”, sedangkan project tetap VAST.
+1. Logo final harus bertuliskan **VAST**
 2. Apakah tim akan menggunakan **TypeScript** atau JavaScript biasa di Next.js?
 3. Apakah peta SVG Jawa Timur sudah tersedia, atau Rey harus membuat/menyesuaikan dari nol?
 4. Apakah setiap kabupaten/kota wajib memiliki 10 gambar lengkap pada MVP, atau cukup prioritas 5-8 daerah showcase?
