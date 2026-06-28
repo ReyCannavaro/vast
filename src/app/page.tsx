@@ -35,7 +35,7 @@ export default function Home() {
                 Mulai Jelajah
               </Link>
               <Link
-                href="#games"
+                href="#game"
                 className="inline-flex h-12 items-center justify-center border border-border bg-surface px-6 text-sm font-semibold text-primary transition hover:border-secondary hover:text-secondary"
               >
                 Lihat Mini Game
@@ -113,10 +113,10 @@ export default function Home() {
           </div>
         </section>
 
-        <section id="games" className="scroll-mt-24 border-y border-border bg-surface py-16">
+        <section id="game" className="scroll-mt-24 border-y border-border bg-surface py-16">
           <div className="mx-auto max-w-6xl px-5">
             <p className="text-sm font-semibold uppercase text-secondary">
-              Mini Games
+              Mini Game
             </p>
             <h2 className="mt-2 text-3xl font-bold text-foreground">
               Placeholder alur game edukatif
@@ -137,10 +137,10 @@ export default function Home() {
               ))}
             </div>
             <Link
-              href="/games"
+              href="/game"
               className="mt-8 inline-flex h-11 items-center justify-center bg-primary px-5 text-sm font-semibold text-white transition hover:bg-secondary"
             >
-              Buka route games
+              Buka route game
             </Link>
           </div>
         </section>

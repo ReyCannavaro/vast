@@ -231,7 +231,7 @@ Peluang utama VAST adalah mengisi celah antara **otoritas informasi** dan **peng
                v
 +-----------------------------+
 | Component Logic Layer       |
-| Map, Cards, Filter, Games   |
+| Map, Cards, Filter, Game   |
 +--------------+--------------+
                |
                v
@@ -409,7 +409,7 @@ VAST tidak memiliki backend dan tidak menggunakan server API pada MVP v1. Semua 
 - Static hosting aman untuk traffic 10x karena tidak ada server state dan tidak ada database bottleneck.
 - Struktur data modular memudahkan penambahan detail 38 daerah secara bertahap.
 - Komponen reusable seperti `RegionCard`, `FilterBar`, `QuizCard`, dan `PatternTile` mengurangi duplikasi.
-- Jika data makin lengkap, dapat dipisah per domain: regions, foods, batik, destinations, heritage, games.
+- Jika data makin lengkap, dapat dipisah per domain: regions, foods, batik, destinations, heritage, game.
 - Untuk v2, bisa dipertimbangkan CMS/headless API, tetapi tidak untuk lomba v1.
 
 ### 10.4 Accessibility & Lokalisasi

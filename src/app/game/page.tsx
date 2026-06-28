@@ -2,35 +2,35 @@ import Link from "next/link";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 
-const games = [
+const gameItems = [
   {
-    href: "/games/quiz",
+    href: "/game/quiz",
     title: "Culture Quiz",
     description: "Kuis pilihan ganda tentang budaya Jawa Timur.",
   },
   {
-    href: "/games/matching",
+    href: "/game/matching",
     title: "Match the Heritage",
     description: "Cocokkan daerah dengan ikon budaya, kuliner, atau destinasi.",
   },
   {
-    href: "/games/puzzle",
+    href: "/game/puzzle",
     title: "Sliding Puzzle",
     description: "Puzzle visual untuk landmark atau motif budaya.",
   },
 ];
 
-export default function GamesPage() {
+export default function GamePage() {
   return (
     <div className="min-h-screen bg-background">
       <SiteHeader />
       <main className="mx-auto max-w-6xl px-5 py-14">
-        <p className="text-sm font-semibold uppercase text-secondary">Games</p>
+        <p className="text-sm font-semibold uppercase text-secondary">Game</p>
         <h1 className="mt-2 text-4xl font-bold text-foreground">
           Mini game edukatif VAST
         </h1>
         <div className="mt-8 grid gap-4 md:grid-cols-3">
-          {games.map((game) => (
+          {gameItems.map((game) => (
             <Link
               key={game.href}
               href={game.href}
