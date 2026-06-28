@@ -17,5 +17,9 @@ export type Region = {
   summary: string;
   nickname?: string;
   dialect?: string;
+  cultureHighlights: string[];
+  foods: string[];
+  destinations: string[];
+  uniqueFacts: string[];
   isFeatured: boolean;
 };
