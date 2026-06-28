@@ -11,7 +11,10 @@ export default function Home() {
     <div className="min-h-screen bg-background">
       <SiteHeader />
       <main>
-        <section className="mx-auto grid min-h-[calc(100vh-73px)] max-w-6xl items-center gap-10 px-5 py-16 md:grid-cols-[1.05fr_0.95fr]">
+        <section
+          id="home"
+          className="mx-auto grid min-h-[calc(100vh-73px)] scroll-mt-24 items-center gap-10 px-5 py-16 md:grid-cols-[1.05fr_0.95fr]"
+        >
           <div>
             <p className="mb-4 text-sm font-semibold uppercase text-secondary">
               Culture Verse - SDG 11
@@ -32,7 +35,7 @@ export default function Home() {
                 Mulai Jelajah
               </Link>
               <Link
-                href="/games"
+                href="#games"
                 className="inline-flex h-12 items-center justify-center border border-border bg-surface px-6 text-sm font-semibold text-primary transition hover:border-secondary hover:text-secondary"
               >
                 Lihat Mini Game
@@ -56,7 +59,10 @@ export default function Home() {
           </div>
         </section>
 
-        <section id="explore" className="border-y border-border bg-surface py-16">
+        <section
+          id="explore"
+          className="scroll-mt-24 border-y border-border bg-surface py-16"
+        >
           <div className="mx-auto max-w-6xl px-5">
             <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
               <div>
@@ -87,7 +93,10 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto max-w-6xl px-5 py-16">
+        <section
+          id="culture"
+          className="mx-auto max-w-6xl scroll-mt-24 px-5 py-16"
+        >
           <p className="text-sm font-semibold uppercase text-secondary">
             Featured Regions
           </p>
@@ -102,6 +111,52 @@ export default function Home() {
               </article>
             ))}
           </div>
+        </section>
+
+        <section id="games" className="scroll-mt-24 border-y border-border bg-surface py-16">
+          <div className="mx-auto max-w-6xl px-5">
+            <p className="text-sm font-semibold uppercase text-secondary">
+              Mini Games
+            </p>
+            <h2 className="mt-2 text-3xl font-bold text-foreground">
+              Placeholder alur game edukatif
+            </h2>
+            <div className="mt-8 grid gap-4 md:grid-cols-3">
+              {[
+                ["Culture Quiz", "Kuis pilihan ganda berbasis data statis."],
+                [
+                  "Match the Heritage",
+                  "Cocokkan daerah dengan budaya, kuliner, atau destinasi.",
+                ],
+                ["Sliding Puzzle", "Puzzle visual untuk aset budaya pilihan."],
+              ].map(([title, description]) => (
+                <article key={title} className="border border-border bg-background p-5">
+                  <h3 className="text-lg font-semibold text-primary">{title}</h3>
+                  <p className="mt-3 text-sm leading-6 text-muted">{description}</p>
+                </article>
+              ))}
+            </div>
+            <Link
+              href="/games"
+              className="mt-8 inline-flex h-11 items-center justify-center bg-primary px-5 text-sm font-semibold text-white transition hover:bg-secondary"
+            >
+              Buka route games
+            </Link>
+          </div>
+        </section>
+
+        <section id="about" className="mx-auto max-w-6xl scroll-mt-24 px-5 py-16">
+          <p className="text-sm font-semibold uppercase text-secondary">
+            About VAST
+          </p>
+          <h2 className="mt-2 text-3xl font-bold text-foreground">
+            Landing page statis untuk Culture Verse
+          </h2>
+          <p className="mt-4 max-w-3xl text-base leading-7 text-muted">
+            Section ini menjadi placeholder untuk penjelasan tujuan VAST,
+            relevansi SDG 11, dan aturan teknis lomba: tanpa backend, database,
+            CMS, LocalStorage, atau SessionStorage.
+          </p>
         </section>
       </main>
       <SiteFooter />

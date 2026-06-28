@@ -1,11 +1,12 @@
 import Link from "next/link";
 
 const navItems = [
+  { href: "/#home", label: "Home" },
   { href: "/#explore", label: "Explore" },
-  { href: "/regions", label: "Regions" },
-  { href: "/games", label: "Games" },
+  { href: "/#culture", label: "Culture" },
+  { href: "/#games", label: "Games" },
   { href: "/gallery", label: "Gallery" },
-  { href: "/about", label: "About" },
+  { href: "/#about", label: "About" },
 ];
 
 export function SiteHeader() {
