@@ -1,0 +1,114 @@
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+
+const dataRoot = join(process.cwd(), "src", "data");
+
+function parseJsonArrayFromDataFile(filename, exportName) {
+  const content = readFileSync(join(dataRoot, filename), "utf8");
+  const marker = `export const ${exportName}:`;
+  const markerIndex = content.indexOf(marker);
+
+  if (markerIndex === -1) {
+    throw new Error(`Tidak menemukan export ${exportName} di ${filename}`);
+  }
+
+  const assignmentIndex = content.indexOf("=", markerIndex);
+  const arrayStart = content.indexOf("[", assignmentIndex);
+  const arrayEnd = content.lastIndexOf("];");
+
+  if (arrayStart === -1 || arrayEnd === -1) {
+    throw new Error(`Format array ${exportName} di ${filename} tidak terbaca`);
+  }
+
+  return JSON.parse(content.slice(arrayStart, arrayEnd + 1));
+}
+
+function parseNamesArray(content, constantName) {
+  const match = content.match(new RegExp(`const ${constantName} = \\[([\\s\\S]*?)\\];`));
+
+  if (!match) {
+    throw new Error(`Tidak menemukan ${constantName} di regions.ts`);
+  }
+
+  return [...match[1].matchAll(/"([^"]+)"/g)].map((item) => item[1]);
+}
+
+function slugify(type, name) {
+  return `${type}-${name.toLowerCase().replaceAll(" ", "-")}`;
+}
+
+const regionsContent = readFileSync(join(dataRoot, "regions.ts"), "utf8");
+const expectedSlugs = [
+  ...parseNamesArray(regionsContent, "kabupatenNames").map((name) =>
+    slugify("kabupaten", name),
+  ),
+  ...parseNamesArray(regionsContent, "kotaNames").map((name) => slugify("kota", name)),
+];
+const expectedSlugSet = new Set(expectedSlugs);
+const matchingGameItems = parseJsonArrayFromDataFile(
+  "matchingGameItems.ts",
+  "matchingGameItems",
+);
+const validCategories = new Set(["food", "batik", "destination", "culture"]);
+const ids = new Set();
+const pairs = new Set();
+const errors = [];
+const warnings = [];
+const coverage = new Map(expectedSlugs.map((slug) => [slug, 0]));
+
+for (const item of matchingGameItems) {
+  if (!item.id || !item.regionSlug || !item.leftLabel || !item.rightLabel) {
+    errors.push(`Item matching tidak lengkap: ${JSON.stringify(item)}`);
+  }
+
+  if (ids.has(item.id)) {
+    errors.push(`Duplikasi id matching: ${item.id}`);
+  }
+
+  ids.add(item.id);
+
+  if (!expectedSlugSet.has(item.regionSlug)) {
+    errors.push(`regionSlug matching tidak valid: ${item.regionSlug}`);
+  }
+
+  if (!validCategories.has(item.category)) {
+    errors.push(`Kategori matching tidak valid: ${item.category}`);
+  }
+
+  const pairKey = `${item.regionSlug}|${item.category}|${item.rightLabel}`;
+
+  if (pairs.has(pairKey)) {
+    errors.push(`Duplikasi pasangan matching: ${pairKey}`);
+  }
+
+  pairs.add(pairKey);
+  coverage.set(item.regionSlug, (coverage.get(item.regionSlug) ?? 0) + 1);
+}
+
+for (const [regionSlug, count] of coverage) {
+  if (count < 5) {
+    warnings.push(`${regionSlug}: hanya punya ${count} pasangan matching`);
+  }
+}
+
+const categoryCounts = matchingGameItems.reduce((counts, item) => {
+  counts[item.category] = (counts[item.category] ?? 0) + 1;
+  return counts;
+}, {});
+
+const result = {
+  summary: {
+    matchingGameItems: matchingGameItems.length,
+    coveredRegions: [...coverage.values()].filter((count) => count > 0).length,
+    categories: categoryCounts,
+  },
+  passed: errors.length === 0,
+  errors,
+  warnings,
+};
+
+console.log(JSON.stringify(result, null, 2));
+
+if (errors.length > 0) {
+  process.exitCode = 1;
+}
