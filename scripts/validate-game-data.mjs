@@ -49,12 +49,16 @@ const matchingGameItems = parseJsonArrayFromDataFile(
   "matchingGameItems.ts",
   "matchingGameItems",
 );
+const quizQuestions = parseJsonArrayFromDataFile("quizQuestions.ts", "quizQuestions");
 const validCategories = new Set(["food", "batik", "destination", "culture"]);
+const validDifficulties = new Set(["easy", "medium", "hard"]);
 const ids = new Set();
 const pairs = new Set();
+const quizIds = new Set();
 const errors = [];
 const warnings = [];
 const coverage = new Map(expectedSlugs.map((slug) => [slug, 0]));
+const quizCoverage = new Map(expectedSlugs.map((slug) => [slug, 0]));
 
 for (const item of matchingGameItems) {
   if (!item.id || !item.regionSlug || !item.leftLabel || !item.rightLabel) {
@@ -91,8 +95,60 @@ for (const [regionSlug, count] of coverage) {
   }
 }
 
+for (const question of quizQuestions) {
+  if (
+    !question.id ||
+    !question.question ||
+    !question.correctAnswer ||
+    !question.explanation ||
+    !Array.isArray(question.options)
+  ) {
+    errors.push(`Soal quiz tidak lengkap: ${JSON.stringify(question)}`);
+  }
+
+  if (quizIds.has(question.id)) {
+    errors.push(`Duplikasi id quiz: ${question.id}`);
+  }
+
+  quizIds.add(question.id);
+
+  if (question.regionSlug && !expectedSlugSet.has(question.regionSlug)) {
+    errors.push(`regionSlug quiz tidak valid: ${question.regionSlug}`);
+  }
+
+  if (!validDifficulties.has(question.difficulty)) {
+    errors.push(`Difficulty quiz tidak valid: ${question.difficulty}`);
+  }
+
+  if (question.options.length !== 4) {
+    errors.push(`Soal ${question.id} tidak memiliki 4 opsi`);
+  }
+
+  if (new Set(question.options).size !== question.options.length) {
+    errors.push(`Soal ${question.id} memiliki opsi duplikat`);
+  }
+
+  if (!question.options.includes(question.correctAnswer)) {
+    errors.push(`Soal ${question.id} tidak memuat correctAnswer di options`);
+  }
+
+  if (question.regionSlug) {
+    quizCoverage.set(question.regionSlug, (quizCoverage.get(question.regionSlug) ?? 0) + 1);
+  }
+}
+
+for (const [regionSlug, count] of quizCoverage) {
+  if (count < 5) {
+    warnings.push(`${regionSlug}: hanya punya ${count} soal quiz`);
+  }
+}
+
 const categoryCounts = matchingGameItems.reduce((counts, item) => {
   counts[item.category] = (counts[item.category] ?? 0) + 1;
+  return counts;
+}, {});
+const difficultyCounts = quizQuestions.reduce((counts, question) => {
+  counts[question.difficulty] = (counts[question.difficulty] ?? 0) + 1;
   return counts;
 }, {});
 
@@ -100,7 +156,10 @@ const result = {
   summary: {
     matchingGameItems: matchingGameItems.length,
     coveredRegions: [...coverage.values()].filter((count) => count > 0).length,
-    categories: categoryCounts,
+    matchingCategories: categoryCounts,
+    quizQuestions: quizQuestions.length,
+    quizCoveredRegions: [...quizCoverage.values()].filter((count) => count > 0).length,
+    quizDifficulties: difficultyCounts,
   },
   passed: errors.length === 0,
   errors,
