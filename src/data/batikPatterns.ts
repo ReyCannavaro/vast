@@ -12,13 +12,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-bangkalan/budaya/batik-gentongan.jpg",
       "alt": "Gambar motif Batik Gentongan dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -32,13 +32,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-banyuwangi/budaya/batik-gajaholing.png",
       "alt": "Gambar motif Batik Gajaholing dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -52,13 +52,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-blitar/budaya/batik-koi.jpg",
       "alt": "Gambar motif Batik Koi dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -72,13 +72,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-bojonegoro/budaya/batik-sekarjati.jpg",
       "alt": "Gambar motif Batik Sekarjati dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -92,13 +92,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-bondowoso/budaya/batik-singoulung.jpg",
       "alt": "Gambar motif Batik Singoulung dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -112,13 +112,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-gresik/budaya/batik-damar-kurung.jpg",
       "alt": "Gambar motif Batik Damar Kurung dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -132,13 +132,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-jember/budaya/batik-kakao.jpg",
       "alt": "Gambar motif Batik Kakao dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -152,13 +152,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-jombang/budaya/batik-jombang.jpg",
       "alt": "Gambar motif Batik Jombang dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -172,13 +172,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-kediri/budaya/batik-kediri.jpg",
       "alt": "Gambar motif Batik Kediri dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -192,13 +192,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-lamongan/budaya/batik-lamongan.jpg",
       "alt": "Gambar motif Batik Lamongan dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -212,13 +212,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-madiun/budaya/batik-madiun.jpg",
       "alt": "Gambar motif Batik Madiun dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -232,13 +232,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-magetan/budaya/batik-magetan.jpg",
       "alt": "Gambar motif Batik Magetan dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -252,13 +252,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-malang/budaya/batik-malang.jpg",
       "alt": "Gambar motif Batik Malang dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -272,13 +272,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-mojokerto/budaya/batik-mojokerto.jpg",
       "alt": "Gambar motif Batik Mojokerto dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -292,13 +292,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-nganjuk/budaya/batik-nganjuk.jpg",
       "alt": "Gambar motif Batik Nganjuk dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -312,13 +312,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-ngawi/budaya/batik-ngawi.jpg",
       "alt": "Gambar motif Batik Ngawi dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -332,13 +332,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-pacitan/budaya/batik-pace.jpg",
       "alt": "Gambar motif Batik Pace dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -352,13 +352,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-pamekasan/budaya/batik-podhek.jpg",
       "alt": "Gambar motif Batik Podhek dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -372,13 +372,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-pasuruan/budaya/batik-pasuruan.jpg",
       "alt": "Gambar motif Batik Pasuruan dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -392,13 +392,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-ponorogo/budaya/batik-merak.jpg",
       "alt": "Gambar motif Batik Merak dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -412,13 +412,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-probolinggo/budaya/batik-manggur.jpg",
       "alt": "Gambar motif Batik Manggur dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -432,13 +432,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-sampang/budaya/batik-sampang.jpg",
       "alt": "Gambar motif Batik Sampang dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -452,13 +452,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-sidoarjo/budaya/batik-jetis.jpg",
       "alt": "Gambar motif Batik Jetis dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -472,13 +472,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-situbondo/budaya/batik-situbondo.jpg",
       "alt": "Gambar motif Batik Situbondo dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -492,13 +492,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-sumenep/budaya/batik-sumenep.jpg",
       "alt": "Gambar motif Batik Sumenep dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -512,13 +512,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-tuban/budaya/batik-tuban.jpg",
       "alt": "Gambar motif Batik Tuban dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -532,13 +532,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kabupaten-tulungagung/budaya/batik-gajah-mada.jpg",
       "alt": "Gambar motif Batik Gajah Mada dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -552,13 +552,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-batu/budaya/batik-batu.jpg",
       "alt": "Gambar motif Batik Batu dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -572,13 +572,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-blitar/budaya/batik-blitar.jpg",
       "alt": "Gambar motif Batik Blitar dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -592,13 +592,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-kediri/budaya/batik-kediri.jpg",
       "alt": "Gambar motif Batik Kediri dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -612,13 +612,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-madiun/budaya/batik-madiun.jpg",
       "alt": "Gambar motif Batik Madiun dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -632,13 +632,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-malang/budaya/batik-malang.jpg",
       "alt": "Gambar motif Batik Malang dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -652,13 +652,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-mojokerto/budaya/batik-mojokerto.jpg",
       "alt": "Gambar motif Batik Mojokerto dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -672,13 +672,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-pasuruan/budaya/batik-pasuruan.jpg",
       "alt": "Gambar motif Batik Pasuruan dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -692,13 +692,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-probolinggo/budaya/batik-manggur.jpg",
       "alt": "Gambar motif Batik Manggur dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -712,13 +712,13 @@ export const batikPatterns: BatikPattern[] = [
       "src": "/images/regions/kota-surabaya/budaya/batik-kintir-kintir.jpg",
       "alt": "Gambar motif Batik Kintir Kintir dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   }
 ];

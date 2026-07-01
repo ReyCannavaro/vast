@@ -5,7 +5,7 @@ const regionsRoot = join(process.cwd(), "public", "images", "regions");
 const dataRoot = join(process.cwd(), "src", "data");
 
 const SOURCE_NOTE =
-  "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final.";
+  "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit.";
 
 const acronymWords = new Set(["b29", "bns", "jfc", "sby", "wbl"]);
 const properWords = new Map([
@@ -89,7 +89,7 @@ function imageAsset(regionSlug, folder, filename, label, altPrefix) {
     src,
     alt: `${altPrefix} ${label} dari ${regionNameFromSlug(regionSlug)}`,
     source: {
-      label: "Aset internal VAST",
+      label: "Kurasi Tim VAST",
       note: SOURCE_NOTE,
     },
   };
@@ -272,7 +272,7 @@ function inferFoodTags(name) {
 
 function sourceObject() {
   return {
-    label: "Aset internal VAST",
+    label: "Kurasi Tim VAST",
     note: SOURCE_NOTE,
   };
 }

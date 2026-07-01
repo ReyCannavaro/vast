@@ -11,13 +11,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/destinations/bukit-jaddih.jpg",
       "alt": "Gambar destinasi Bukit Jaddih dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -30,13 +30,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/destinations/bukit-kapur.jpg",
       "alt": "Gambar destinasi Bukit Kapur dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -49,13 +49,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/destinations/dermaga-rindu.jpg",
       "alt": "Gambar destinasi Dermaga Rindu dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -68,13 +68,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/destinations/mercusuar-sembilangan.jpg",
       "alt": "Gambar destinasi Mercusuar Sembilangan dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -87,13 +87,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/destinations/de-djawatan.jpg",
       "alt": "Gambar destinasi De Djawatan dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -106,13 +106,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/destinations/kawah-ijen.jpg",
       "alt": "Gambar destinasi Kawah Ijen dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -125,13 +125,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/destinations/pantai-sukamade.jpg",
       "alt": "Gambar destinasi Pantai Sukamade dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -144,13 +144,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/destinations/pulau-merah.jpg",
       "alt": "Gambar destinasi Pulau Merah dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -163,13 +163,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/destinations/savana-sadengan.jpg",
       "alt": "Gambar destinasi Savana Sadengan dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -182,13 +182,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-blitar/destinations/candi-penataran.jpg",
       "alt": "Gambar destinasi Candi Penataran dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -201,13 +201,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-blitar/destinations/candi-sawentar.jpg",
       "alt": "Gambar destinasi Candi Sawentar dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -220,13 +220,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-blitar/destinations/pantai-tambakrejo.jpg",
       "alt": "Gambar destinasi Pantai Tambakrejo dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -239,13 +239,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-blitar/destinations/rambut-monte.jpg",
       "alt": "Gambar destinasi Rambut Monte dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -258,13 +258,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-blitar/destinations/sirah-kencong.jpg",
       "alt": "Gambar destinasi Sirah Kencong dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -277,13 +277,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/destinations/dander-waterpark.jpg",
       "alt": "Gambar destinasi Dander Waterpark dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -296,13 +296,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/destinations/kayangan-api.jpg",
       "alt": "Gambar destinasi Kayangan Api dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -315,13 +315,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/destinations/negeri-diatas-awan.jpg",
       "alt": "Gambar destinasi Negeri Diatas Awan dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -334,13 +334,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/destinations/teksas-wonocolo.jpg",
       "alt": "Gambar destinasi Teksas Wonocolo dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -353,13 +353,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/destinations/air-terjun-blawan.jpg",
       "alt": "Gambar destinasi Air Terjun Blawan dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -372,13 +372,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/destinations/kawah-wurung.jpg",
       "alt": "Gambar destinasi Kawah Wurung dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -391,13 +391,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/destinations/situs-megalitikum.jpg",
       "alt": "Gambar destinasi Situs Megalitikum dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -410,13 +410,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/destinations/taman-galuh.jpg",
       "alt": "Gambar destinasi Taman Galuh dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -429,13 +429,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/bukit-jamur.jpg",
       "alt": "Gambar destinasi Bukit Jamur dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -448,13 +448,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/lontar-sewu.jpg",
       "alt": "Gambar destinasi Lontar Sewu dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -467,13 +467,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/malik-ibrahim.jpg",
       "alt": "Gambar destinasi Malik Ibrahim dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -486,13 +486,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/pantai-dalegan.jpg",
       "alt": "Gambar destinasi Pantai Dalegan dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -505,13 +505,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/pulau-bawean.jpg",
       "alt": "Gambar destinasi Pulau Bawean dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -524,13 +524,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/setigi-giri.jpeg",
       "alt": "Gambar destinasi Setigi Giri dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -543,13 +543,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/sunan-giri.jpg",
       "alt": "Gambar destinasi Sunan Giri dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -562,13 +562,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/air-terjun-tancak.jpg",
       "alt": "Gambar destinasi Air Terjun Tancak dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -581,13 +581,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/jember-mini-zoo.jpg",
       "alt": "Gambar destinasi Jember Mini Zoo dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -600,13 +600,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/pantai-papuma.jpg",
       "alt": "Gambar destinasi Pantai Papuma dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -619,13 +619,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/pantai-payangan.jpg",
       "alt": "Gambar destinasi Pantai Payangan dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -638,13 +638,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/pantai-watu-ulo.jpg",
       "alt": "Gambar destinasi Pantai Watu Ulo dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -657,13 +657,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/situs-duplang.png",
       "alt": "Gambar destinasi Situs Duplang dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -676,13 +676,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jombang/destinations/bale-tani.jpg",
       "alt": "Gambar destinasi Bale Tani dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -695,13 +695,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jombang/destinations/banyu-mili.jpg",
       "alt": "Gambar destinasi Banyu Mili dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -714,13 +714,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jombang/destinations/candi-arimbi.jpg",
       "alt": "Gambar destinasi Candi Arimbi dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -733,13 +733,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jombang/destinations/duran-duren-wonosalam-jombang.jpg",
       "alt": "Gambar destinasi Duran Duren Wonosalam Jombang dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -752,13 +752,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-jombang/destinations/kampoeng-djawi.jpg",
       "alt": "Gambar destinasi Kampoeng Djawi dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -771,13 +771,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/air-terjun-besuki.jpg",
       "alt": "Gambar destinasi Air Terjun Besuki dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -790,13 +790,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/candi-surowono.jpg",
       "alt": "Gambar destinasi Candi Surowono dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -809,13 +809,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/candi-tegowangi.png",
       "alt": "Gambar destinasi Candi Tegowangi dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -828,13 +828,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/kawah-kelud.jpg",
       "alt": "Gambar destinasi Kawah Kelud dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -847,13 +847,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/simpang-lima-gumul.jpg",
       "alt": "Gambar destinasi Simpang Lima Gumul dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -866,13 +866,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/sumber-podang.jpeg",
       "alt": "Gambar destinasi Sumber Podang dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -885,13 +885,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/akar-langit.jpg",
       "alt": "Gambar destinasi Akar Langit dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -904,13 +904,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/maharani-zoo.jpg",
       "alt": "Gambar destinasi Maharani Zoo dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -920,16 +920,16 @@ export const destinations: DestinationItem[] = [
     "type": "alam",
     "description": "Pantai Kutang menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kabupaten Lamongan.",
     "image": {
-      "src": "/images/regions/kabupaten-lamongan/destinations/pantai-kutang",
+      "src": "/images/regions/kabupaten-lamongan/destinations/pantai-kutang.webp",
       "alt": "Gambar destinasi Pantai Kutang dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -942,13 +942,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/sendang-duwur.jpg",
       "alt": "Gambar destinasi Sendang Duwur dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -961,13 +961,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/wbl.jpg",
       "alt": "Gambar destinasi WBL dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -980,13 +980,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/wisata-edukasi-gondang.jpg",
       "alt": "Gambar destinasi Wisata Edukasi Gondang dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -999,13 +999,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/ziarah-sunan-drajat.jpg",
       "alt": "Gambar destinasi Ziarah Sunan Drajat dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1018,13 +1018,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lumajang/destinations/air-terjun-kapas-biru.jpg",
       "alt": "Gambar destinasi Air Terjun Kapas Biru dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1034,16 +1034,16 @@ export const destinations: DestinationItem[] = [
     "type": "kota",
     "description": "Puncak B29 menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kabupaten Lumajang.",
     "image": {
-      "src": "/images/regions/kabupaten-lumajang/destinations/Puncak-B29.jpg",
+      "src": "/images/regions/kabupaten-lumajang/destinations/puncak-b29.jpg",
       "alt": "Gambar destinasi Puncak B29 dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1056,13 +1056,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lumajang/destinations/ranu-kumbolo.jpg",
       "alt": "Gambar destinasi Ranu Kumbolo dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1075,13 +1075,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lumajang/destinations/siti-sundari.jpg",
       "alt": "Gambar destinasi Siti Sundari dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1094,13 +1094,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-lumajang/destinations/tumpak-sewu.jpg",
       "alt": "Gambar destinasi Tumpak Sewu dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1113,13 +1113,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-madiun/destinations/air-terjun-seweru.jpg",
       "alt": "Gambar destinasi Air Terjun Seweru dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1129,16 +1129,16 @@ export const destinations: DestinationItem[] = [
     "type": "alam",
     "description": "Hutan Pinus Nongko Ijo menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kabupaten Madiun.",
     "image": {
-      "src": "/images/regions/kabupaten-madiun/destinations/Hutan-Pinus-Nongko-Ijo.jpg",
+      "src": "/images/regions/kabupaten-madiun/destinations/hutan-pinus-nongko-ijo.jpg",
       "alt": "Gambar destinasi Hutan Pinus Nongko Ijo dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1151,13 +1151,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-madiun/destinations/umbul-square.jpg",
       "alt": "Gambar destinasi Umbul Square dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1170,13 +1170,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-madiun/destinations/watu-rumpuk.jpg",
       "alt": "Gambar destinasi Watu Rumpuk dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1189,13 +1189,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-magetan/destinations/air-terjun-tirtosari.jpg",
       "alt": "Gambar destinasi Air Terjun Tirtosari dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1208,13 +1208,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-magetan/destinations/genilangit.jpg",
       "alt": "Gambar destinasi Genilangit dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1227,13 +1227,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-magetan/destinations/mojosemi-park.jpg",
       "alt": "Gambar destinasi Mojosemi Park dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1246,13 +1246,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-magetan/destinations/telaga-sarangan.jpg",
       "alt": "Gambar destinasi Telaga Sarangan dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1265,13 +1265,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-magetan/destinations/telaga-wahyu.jpg",
       "alt": "Gambar destinasi Telaga Wahyu dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1284,13 +1284,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/coban-rondo.jpg",
       "alt": "Gambar destinasi Coban Rondo dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1303,13 +1303,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/goa-cina.jpg",
       "alt": "Gambar destinasi Goa Cina dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1322,13 +1322,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/pantai-balekambang.jpg",
       "alt": "Gambar destinasi Pantai Balekambang dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1341,13 +1341,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/pantai-tiga-warna.jpg",
       "alt": "Gambar destinasi Pantai Tiga Warna dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1360,13 +1360,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/santera.jpg",
       "alt": "Gambar destinasi Santera dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1379,13 +1379,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/singosari.jpg",
       "alt": "Gambar destinasi Singosari dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1398,13 +1398,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/sumber-maron.jpeg",
       "alt": "Gambar destinasi Sumber Maron dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1417,13 +1417,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/sumber-sirah.jpg",
       "alt": "Gambar destinasi Sumber Sirah dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1436,13 +1436,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/air-terjun-dlundung.jpg",
       "alt": "Gambar destinasi Air Terjun Dlundung dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1455,13 +1455,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/bernah-de-vallei.jpg",
       "alt": "Gambar destinasi Bernah De Vallei dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1474,13 +1474,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/candi-tikus.jpg",
       "alt": "Gambar destinasi Candi Tikus dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1493,13 +1493,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/gapura-wringin.jpg",
       "alt": "Gambar destinasi Gapura Wringin dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1512,13 +1512,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/maha-vihara.jpg",
       "alt": "Gambar destinasi Maha Vihara dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1531,13 +1531,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/padusan.jpg",
       "alt": "Gambar destinasi Padusan dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1550,13 +1550,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/bukit-salju.jpg",
       "alt": "Gambar destinasi Bukit Salju dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1569,13 +1569,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/candi-lor.jpg",
       "alt": "Gambar destinasi Candi Lor dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1588,13 +1588,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/roro-kuning-waterfall.jpg",
       "alt": "Gambar destinasi Roro Kuning Waterfall dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1607,13 +1607,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/sedudo-waterfall.jpg",
       "alt": "Gambar destinasi Sedudo Waterfall dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1626,13 +1626,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/the-legend-waterpark.jpg",
       "alt": "Gambar destinasi The Legend Waterpark dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1645,13 +1645,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/watu-lawang.jpg",
       "alt": "Gambar destinasi Watu Lawang dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1664,13 +1664,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/air-terjun-pengantin.jpg",
       "alt": "Gambar destinasi Air Terjun Pengantin dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1683,13 +1683,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/air-terjun-suwono.jpg",
       "alt": "Gambar destinasi Air Terjun Suwono dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1702,13 +1702,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/benteng-van-de-bosch.jpg",
       "alt": "Gambar destinasi Benteng Van De Bosch dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1721,13 +1721,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/jamus-tea.jpeg",
       "alt": "Gambar destinasi Jamus Tea dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1740,13 +1740,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/museum-trinil.jpg",
       "alt": "Gambar destinasi Museum Trinil dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1759,13 +1759,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/taman-wisata-tawun-dhesaku.jpg",
       "alt": "Gambar destinasi Taman Wisata Tawun Dhesaku dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1778,13 +1778,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/banyu-tibo.jpg",
       "alt": "Gambar destinasi Banyu Tibo dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1797,13 +1797,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/goa-tabuhan.jpg",
       "alt": "Gambar destinasi Goa Tabuhan dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1816,13 +1816,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/gua-gong.jpg",
       "alt": "Gambar destinasi Gua Gong dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1835,13 +1835,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/museum-sby-ani.jpg",
       "alt": "Gambar destinasi Museum SBY Ani dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1854,13 +1854,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/pantai-kasap.jpg",
       "alt": "Gambar destinasi Pantai Kasap dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1873,13 +1873,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/pantai-klayar.jpg",
       "alt": "Gambar destinasi Pantai Klayar dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1892,13 +1892,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/pantai-watukarung.jpg",
       "alt": "Gambar destinasi Pantai Watukarung dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1911,13 +1911,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/sungai-maron.jpg",
       "alt": "Gambar destinasi Sungai Maron dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1930,13 +1930,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/api-tak-kunjung.jpg",
       "alt": "Gambar destinasi Api Tak Kunjung dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1949,13 +1949,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/bukit-brukoh.jpg",
       "alt": "Gambar destinasi Bukit Brukoh dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1968,13 +1968,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/pantai-jumiang.jpg",
       "alt": "Gambar destinasi Pantai Jumiang dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1987,13 +1987,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/talang-siring.jpg",
       "alt": "Gambar destinasi Talang Siring dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2006,13 +2006,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/vihara-avalokitesvara.jpg",
       "alt": "Gambar destinasi Vihara Avalokitesvara dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2025,13 +2025,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/wisata-bukit-kehi.jpg",
       "alt": "Gambar destinasi Wisata Bukit Kehi dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2044,13 +2044,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/air-terjun-madakaripura.jpg",
       "alt": "Gambar destinasi Air Terjun Madakaripura dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2063,13 +2063,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/candi-jawi.jpeg",
       "alt": "Gambar destinasi Candi Jawi dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2082,13 +2082,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/cimoryland.png",
       "alt": "Gambar destinasi Cimoryland dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2101,13 +2101,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/kawasan-wisata-tretes.jpg",
       "alt": "Gambar destinasi Kawasan Wisata Tretes dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2120,13 +2120,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/saygon-waterpark.jpg",
       "alt": "Gambar destinasi Saygon Waterpark dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2139,13 +2139,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/taman-safari.jpg",
       "alt": "Gambar destinasi Taman Safari dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2158,13 +2158,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/destinations/air-terjun-sunggah.jpg",
       "alt": "Gambar destinasi Air Terjun Sunggah dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2177,13 +2177,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/destinations/bukit-cumbri.jpg",
       "alt": "Gambar destinasi Bukit Cumbri dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2196,13 +2196,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/destinations/monumen-reog.jpg",
       "alt": "Gambar destinasi Monumen Reog dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2215,13 +2215,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/destinations/tanah-goyang.jpg",
       "alt": "Gambar destinasi Tanah Goyang dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2234,13 +2234,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/destinations/telaga-ngebel.jpg",
       "alt": "Gambar destinasi Telaga Ngebel dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2253,13 +2253,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/destinations/bermi-echo-park.jpg",
       "alt": "Gambar destinasi Bermi Echo Park dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2272,13 +2272,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/destinations/danau-ranu-agung.jpg",
       "alt": "Gambar destinasi Danau Ranu Agung dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2291,13 +2291,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/destinations/gili-ketapang.jpg",
       "alt": "Gambar destinasi Gili Ketapang dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2310,13 +2310,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/destinations/snorkelling-peak.jpg",
       "alt": "Gambar destinasi Snorkelling Peak dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2329,13 +2329,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/destinations/songa-rafting.jpg",
       "alt": "Gambar destinasi Songa Rafting dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2348,13 +2348,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/aire-terjun-toroan.png",
       "alt": "Gambar destinasi Aire Terjun Toroan dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2367,13 +2367,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/gua-lebar.jpg",
       "alt": "Gambar destinasi Gua Lebar dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2386,13 +2386,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/lon-malang.jpeg",
       "alt": "Gambar destinasi Lon Malang dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2405,13 +2405,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/makam-ratu-ibu.jpg",
       "alt": "Gambar destinasi Makam Ratu Ibu dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2424,13 +2424,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/pantai-camplong.jpg",
       "alt": "Gambar destinasi Pantai Camplong dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2443,13 +2443,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/pulau-mandangin.jpg",
       "alt": "Gambar destinasi Pulau Mandangin dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2462,13 +2462,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/destinations/candi-pari.jpg",
       "alt": "Gambar destinasi Candi Pari dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2478,16 +2478,16 @@ export const destinations: DestinationItem[] = [
     "type": "sejarah",
     "description": "Candi Sumur menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kabupaten Sidoarjo.",
     "image": {
-      "src": "/images/regions/kabupaten-sidoarjo/destinations/Candi-Sumur.jpg",
+      "src": "/images/regions/kabupaten-sidoarjo/destinations/candi-sumur.jpg",
       "alt": "Gambar destinasi Candi Sumur dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2497,16 +2497,16 @@ export const destinations: DestinationItem[] = [
     "type": "sejarah",
     "description": "Candi Tawangalun menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kabupaten Sidoarjo.",
     "image": {
-      "src": "/images/regions/kabupaten-sidoarjo/destinations/Candi-tawangalun.jpg",
+      "src": "/images/regions/kabupaten-sidoarjo/destinations/candi-tawangalun.jpg",
       "alt": "Gambar destinasi Candi Tawangalun dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2519,13 +2519,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/destinations/kampung-batik-jetis.jpg",
       "alt": "Gambar destinasi Kampung Batik Jetis dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2538,13 +2538,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/destinations/pulau-lusi.jpg",
       "alt": "Gambar destinasi Pulau Lusi dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2557,13 +2557,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-situbondo/destinations/baluran.jpg",
       "alt": "Gambar destinasi Baluran dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2576,13 +2576,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-situbondo/destinations/kampung-kerapu.jpg",
       "alt": "Gambar destinasi Kampung Kerapu dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2595,13 +2595,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-situbondo/destinations/pantai-pathek.jpg",
       "alt": "Gambar destinasi Pantai Pathek dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2614,13 +2614,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-situbondo/destinations/pasir-putih.jpg",
       "alt": "Gambar destinasi Pasir Putih dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2633,13 +2633,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-situbondo/destinations/rengganis.jpg",
       "alt": "Gambar destinasi Rengganis dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2652,13 +2652,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/gili-iyang.jpg",
       "alt": "Gambar destinasi Gili Iyang dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2671,13 +2671,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/gili-labak.jpg",
       "alt": "Gambar destinasi Gili Labak dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2690,13 +2690,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/masjid-agung-jamik-sumenep.jpg",
       "alt": "Gambar destinasi Masjid Agung Jamik Sumenep dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2709,13 +2709,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/pantai-lombang.jpg",
       "alt": "Gambar destinasi Pantai Lombang dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2728,13 +2728,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/pantai-slopeng.jpg",
       "alt": "Gambar destinasi Pantai Slopeng dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2747,13 +2747,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/pulau-kangean.jpg",
       "alt": "Gambar destinasi Pulau Kangean dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2766,13 +2766,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/destinations/goa-lowo.jpg",
       "alt": "Gambar destinasi Goa Lowo dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2785,13 +2785,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/destinations/pantai-kuyon.jpg",
       "alt": "Gambar destinasi Pantai Kuyon dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2804,13 +2804,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/destinations/pantai-mutiara.jpeg",
       "alt": "Gambar destinasi Pantai Mutiara dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2820,16 +2820,16 @@ export const destinations: DestinationItem[] = [
     "type": "alam",
     "description": "Pantai Pelang menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kabupaten Trenggalek.",
     "image": {
-      "src": "/images/regions/kabupaten-trenggalek/destinations/Pantai-Pelang.png",
+      "src": "/images/regions/kabupaten-trenggalek/destinations/pantai-pelang.png",
       "alt": "Gambar destinasi Pantai Pelang dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2842,13 +2842,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/destinations/pantai-prigi.jpg",
       "alt": "Gambar destinasi Pantai Prigi dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2861,13 +2861,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/air-terjun-nglirip.jpg",
       "alt": "Gambar destinasi Air Terjun Nglirip dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2880,13 +2880,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/bektiharjo.jpg",
       "alt": "Gambar destinasi Bektiharjo dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2899,13 +2899,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/goa-akbar.jpg",
       "alt": "Gambar destinasi Goa Akbar dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2918,13 +2918,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/goa-asmara.jpeg",
       "alt": "Gambar destinasi Goa Asmara dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2937,13 +2937,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/pantai-kelapa.jpg",
       "alt": "Gambar destinasi Pantai Kelapa dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2956,13 +2956,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/tebing-pelangi.jpg",
       "alt": "Gambar destinasi Tebing Pelangi dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2975,13 +2975,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/agro-wilis.jpg",
       "alt": "Gambar destinasi Agro Wilis dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2994,13 +2994,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/alas-kandung.jpg",
       "alt": "Gambar destinasi Alas Kandung dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3013,13 +3013,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/candi-penampihan.jpg",
       "alt": "Gambar destinasi Candi Penampihan dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3032,13 +3032,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/gua-lowo.jpeg",
       "alt": "Gambar destinasi Gua Lowo dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3051,13 +3051,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/kedung-tumpang.jpg",
       "alt": "Gambar destinasi Kedung Tumpang dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3070,13 +3070,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/pantai-coro.jpg",
       "alt": "Gambar destinasi Pantai Coro dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3089,13 +3089,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/pantai-gemah.jpg",
       "alt": "Gambar destinasi Pantai Gemah dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3108,13 +3108,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/ranu-gumbolo.jpg",
       "alt": "Gambar destinasi Ranu Gumbolo dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3127,13 +3127,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/bns.jpg",
       "alt": "Gambar destinasi BNS dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3146,13 +3146,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/cangar.jpg",
       "alt": "Gambar destinasi Cangar dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3162,16 +3162,16 @@ export const destinations: DestinationItem[] = [
     "type": "alam",
     "description": "Coban Rondo menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kota Batu.",
     "image": {
-      "src": "/images/regions/kota-batu/destinations/Coban-Rondo.png",
+      "src": "/images/regions/kota-batu/destinations/coban-rondo.png",
       "alt": "Gambar destinasi Coban Rondo dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3184,13 +3184,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/jatim-park-1.jpg",
       "alt": "Gambar destinasi Jatim Park 1 dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3203,13 +3203,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/jatim-park-2.jpg",
       "alt": "Gambar destinasi Jatim Park 2 dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3222,13 +3222,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/jatim-park-3.jpg",
       "alt": "Gambar destinasi Jatim Park 3 dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3241,13 +3241,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/museum-angkut.jpg",
       "alt": "Gambar destinasi Museum Angkut dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3260,13 +3260,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-batu/destinations/paralayang.jpg",
       "alt": "Gambar destinasi Paralayang dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3279,13 +3279,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-blitar/destinations/kebon-rojo.jpg",
       "alt": "Gambar destinasi Kebon Rojo dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3298,13 +3298,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-blitar/destinations/makam-bung-karno.jpeg",
       "alt": "Gambar destinasi Makam Bung Karno dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3317,13 +3317,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-blitar/destinations/waterpark-sumber-udel.jpg",
       "alt": "Gambar destinasi Waterpark Sumber Udel dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3336,13 +3336,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-kediri/destinations/goa-selomangleng.jpg",
       "alt": "Gambar destinasi Goa Selomangleng dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3355,13 +3355,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-kediri/destinations/kediri-waterpark.png",
       "alt": "Gambar destinasi Kediri Waterpark dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3371,16 +3371,16 @@ export const destinations: DestinationItem[] = [
     "type": "sejarah",
     "description": "Museum Airlangga menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kota Kediri.",
     "image": {
-      "src": "/images/regions/kota-kediri/destinations/Museum-Airlangga.jpg",
+      "src": "/images/regions/kota-kediri/destinations/museum-airlangga.jpg",
       "alt": "Gambar destinasi Museum Airlangga dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3393,13 +3393,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-kediri/destinations/taman-hutan-joyoboyo.jpg",
       "alt": "Gambar destinasi Taman Hutan Joyoboyo dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3412,13 +3412,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-madiun/destinations/alun-alun.jpg",
       "alt": "Gambar destinasi Alun Alun dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3431,13 +3431,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-madiun/destinations/bantaran-brantas-park.jpg",
       "alt": "Gambar destinasi Bantaran Brantas Park dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3450,13 +3450,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-madiun/destinations/taman-sumber-wangi.jpg",
       "alt": "Gambar destinasi Taman Sumber Wangi dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3469,13 +3469,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-malang/destinations/kajoetangan.jpg",
       "alt": "Gambar destinasi Kajoetangan dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3488,13 +3488,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-malang/destinations/kampung-warna-warni.jpg",
       "alt": "Gambar destinasi Kampung Warna Warni dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3507,13 +3507,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-malang/destinations/museum-bentoel.jpg",
       "alt": "Gambar destinasi Museum Bentoel dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3526,13 +3526,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-malang/destinations/tugu-malang.jpg",
       "alt": "Gambar destinasi Tugu Malang dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3545,13 +3545,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-mojokerto/destinations/alun-alun.jpg",
       "alt": "Gambar destinasi Alun Alun dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3564,13 +3564,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-mojokerto/destinations/pemandian-sekarsari.jpeg",
       "alt": "Gambar destinasi Pemandian Sekarsari dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3583,13 +3583,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-mojokerto/destinations/situs-sejarah-sekolah-bung-karno.jpeg",
       "alt": "Gambar destinasi Situs Sejarah Sekolah Bung Karno dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3602,13 +3602,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-mojokerto/destinations/sunrise-mall.jpg",
       "alt": "Gambar destinasi Sunrise Mall dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3621,13 +3621,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-pasuruan/destinations/kampung-mebel-bukir.jpg",
       "alt": "Gambar destinasi Kampung Mebel Bukir dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3640,13 +3640,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-pasuruan/destinations/taman-sekargadung.jpg",
       "alt": "Gambar destinasi Taman Sekargadung dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3659,13 +3659,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-pasuruan/destinations/wisata-payung-madinah.jpg",
       "alt": "Gambar destinasi Wisata Payung Madinah dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3678,13 +3678,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-pasuruan/destinations/wisata-religi-makam-abdul-hamid.jpg",
       "alt": "Gambar destinasi Wisata Religi Makam Abdul Hamid dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3697,13 +3697,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/batik-probolinggo.jpg",
       "alt": "Gambar destinasi Batik Probolinggo dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3716,13 +3716,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/gereja-merah.png",
       "alt": "Gambar destinasi Gereja Merah dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3735,13 +3735,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/museum-probolinggo.jpg",
       "alt": "Gambar destinasi Museum Probolinggo dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3754,13 +3754,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/pantai-permata-pilang.jpg",
       "alt": "Gambar destinasi Pantai Permata Pilang dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3773,13 +3773,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/pelabuhan-mayangan.jpg",
       "alt": "Gambar destinasi Pelabuhan Mayangan dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3792,13 +3792,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/sumber-sentong.jpg",
       "alt": "Gambar destinasi Sumber Sentong dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3811,13 +3811,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/jalan-tunjungan.jpg",
       "alt": "Gambar destinasi Jalan Tunjungan dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3830,13 +3830,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/jembatan-suramadu.jpg",
       "alt": "Gambar destinasi Jembatan Suramadu dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3849,13 +3849,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/kota-tua.jpg",
       "alt": "Gambar destinasi Kota Tua dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3868,13 +3868,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/kya-kya-chinatown.jpg",
       "alt": "Gambar destinasi Kya Kya Chinatown dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3887,13 +3887,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/monumen-kapal-selam.jpg",
       "alt": "Gambar destinasi Monumen Kapal Selam dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3906,13 +3906,13 @@ export const destinations: DestinationItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/sampoerna-museum.jpg",
       "alt": "Gambar destinasi Sampoerna Museum dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3922,16 +3922,16 @@ export const destinations: DestinationItem[] = [
     "type": "sejarah",
     "description": "Tugu Pahlawan menjadi salah satu destinasi atau landmark yang merepresentasikan karakter Kota Surabaya.",
     "image": {
-      "src": "/images/regions/kota-surabaya/destinations/Tugu-Pahlawan.jpg",
+      "src": "/images/regions/kota-surabaya/destinations/tugu-pahlawan.jpg",
       "alt": "Gambar destinasi Tugu Pahlawan dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   }
 ];

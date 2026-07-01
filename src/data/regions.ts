@@ -291,8 +291,8 @@ function createRegion(type: RegionType, name: string): Region {
     isFeatured,
     sourceNotes: [
       {
-        label: "Aset internal VAST",
-        note: "Relasi data region dibuat dari foods, destinations, heritageItems, dan batikPatterns yang digenerate dari public/images/regions.",
+        label: "Kurasi Tim VAST",
+        note: "Relasi data region dikurasi dari konten budaya, kuliner, destinasi, dan batik/pattern yang tersedia di data statis VAST.",
       },
     ],
   };

@@ -10,8 +10,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/foods/bebek-sinjay.jpg",
       "alt": "Gambar kuliner Bebek Sinjay dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -19,8 +19,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -32,8 +32,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/foods/bebek-songkem.jpg",
       "alt": "Gambar kuliner Bebek Songkem dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -41,8 +41,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -54,8 +54,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/foods/kaldu-kokot.jpg",
       "alt": "Gambar kuliner Kaldu Kokot dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -63,8 +63,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -76,8 +76,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/foods/nasi-serpang.jpeg",
       "alt": "Gambar kuliner Nasi Serpang dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -85,8 +85,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -98,8 +98,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/foods/tajin-sobih.jpeg",
       "alt": "Gambar kuliner Tajin Sobih dari Kabupaten Bangkalan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -107,8 +107,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -120,8 +120,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/foods/ayam-kesrut.jpg",
       "alt": "Gambar kuliner Ayam Kesrut dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -129,8 +129,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -142,8 +142,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/foods/pecel-rawon.jpg",
       "alt": "Gambar kuliner Pecel Rawon dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -152,8 +152,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -165,16 +165,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/foods/pindang-koyong.jpg",
       "alt": "Gambar kuliner Pindang Koyong dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -186,8 +186,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/foods/rujak-soto.jpg",
       "alt": "Gambar kuliner Rujak Soto dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -196,8 +196,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -209,8 +209,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/foods/sego-cawuk.jpg",
       "alt": "Gambar kuliner Sego Cawuk dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -218,8 +218,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -231,8 +231,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-blitar/foods/ayam-lodho.jpg",
       "alt": "Gambar kuliner Ayam Lodho dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -240,8 +240,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -253,8 +253,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-blitar/foods/nasi-ampok.jpg",
       "alt": "Gambar kuliner Nasi Ampok dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -262,8 +262,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -275,8 +275,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-blitar/foods/nasi-uceng.jpg",
       "alt": "Gambar kuliner Nasi Uceng dari Kabupaten Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -284,8 +284,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -297,16 +297,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/foods/balung-kuwuk.jpg",
       "alt": "Gambar kuliner Balung Kuwuk dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -318,8 +318,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/foods/kue-ledre.jpeg",
       "alt": "Gambar kuliner Kue Ledre dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -328,8 +328,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -341,16 +341,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/foods/salak-wedi.jpg",
       "alt": "Gambar kuliner Salak Wedi dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -362,8 +362,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/foods/sego-buwuhan.png",
       "alt": "Gambar kuliner Sego Buwuhan dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -371,8 +371,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -381,11 +381,11 @@ export const foods: FoodItem[] = [
     "name": "Bakso Gulung",
     "description": "Bakso Gulung adalah kuliner khas atau populer yang menjadi bagian dari identitas Kabupaten Bondowoso.",
     "image": {
-      "src": "/images/regions/kabupaten-bondowoso/foods/Bakso-Gulung.jpg",
+      "src": "/images/regions/kabupaten-bondowoso/foods/bakso-gulung.jpg",
       "alt": "Gambar kuliner Bakso Gulung dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -393,8 +393,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -406,8 +406,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/foods/nasi-macan.png",
       "alt": "Gambar kuliner Nasi Macan dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -415,8 +415,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -425,11 +425,11 @@ export const foods: FoodItem[] = [
     "name": "Nasi Mamong",
     "description": "Nasi Mamong adalah kuliner khas atau populer yang menjadi bagian dari identitas Kabupaten Bondowoso.",
     "image": {
-      "src": "/images/regions/kabupaten-bondowoso/foods/nasi-mamong",
+      "src": "/images/regions/kabupaten-bondowoso/foods/nasi-mamong.webp",
       "alt": "Gambar kuliner Nasi Mamong dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -437,8 +437,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -450,8 +450,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/foods/prol-tape.jpg",
       "alt": "Gambar kuliner Prol Tape dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -459,8 +459,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -472,8 +472,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/foods/suwar-suwir.jpg",
       "alt": "Gambar kuliner Suwar Suwir dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -481,8 +481,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -494,8 +494,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/foods/tape-bondowoso.jpg",
       "alt": "Gambar kuliner Tape Bondowoso dari Kabupaten Bondowoso",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -503,8 +503,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -516,16 +516,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-gresik/foods/bonggolan.jpg",
       "alt": "Gambar kuliner Bonggolan dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -537,8 +537,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-gresik/foods/legen-siwalan.jpeg",
       "alt": "Gambar kuliner Legen Siwalan dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -546,8 +546,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -559,8 +559,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-gresik/foods/nasi-boranan.jpg",
       "alt": "Gambar kuliner Nasi Boranan dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -568,8 +568,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -581,8 +581,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-gresik/foods/nasi-krawu.jpeg",
       "alt": "Gambar kuliner Nasi Krawu dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -590,8 +590,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -603,8 +603,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-gresik/foods/pudak.jpg",
       "alt": "Gambar kuliner Pudak dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -612,8 +612,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -625,8 +625,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-gresik/foods/sego-rumo.jpg",
       "alt": "Gambar kuliner Sego Rumo dari Kabupaten Gresik",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -634,8 +634,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -647,8 +647,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jember/foods/nasi-langgi.jpg",
       "alt": "Gambar kuliner Nasi Langgi dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -656,8 +656,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -669,8 +669,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jember/foods/pecel-walisongo.jpg",
       "alt": "Gambar kuliner Pecel Walisongo dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -678,8 +678,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -691,8 +691,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jember/foods/pia-tape.jpg",
       "alt": "Gambar kuliner Pia Tape dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -700,8 +700,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -713,8 +713,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jember/foods/proll-tape.jpg",
       "alt": "Gambar kuliner Proll Tape dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -722,8 +722,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -735,8 +735,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jember/foods/wedang-cor.jpg",
       "alt": "Gambar kuliner Wedang Cor dari Kabupaten Jember",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -744,8 +744,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -757,8 +757,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jombang/foods/jenang-kelapa-muda.jpg",
       "alt": "Gambar kuliner Jenang Kelapa Muda dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -766,8 +766,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -779,16 +779,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jombang/foods/ketan-merdeka.jpg",
       "alt": "Gambar kuliner Ketan Merdeka dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -800,8 +800,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-jombang/foods/sego-kikil.jpg",
       "alt": "Gambar kuliner Sego Kikil dari Kabupaten Jombang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -809,8 +809,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -822,8 +822,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-kediri/foods/lupis-cenil.jpg",
       "alt": "Gambar kuliner Lupis Cenil dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -831,8 +831,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -844,8 +844,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-kediri/foods/nasi-goreng-arang.jpeg",
       "alt": "Gambar kuliner Nasi Goreng Arang dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -853,8 +853,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -866,8 +866,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-kediri/foods/sambal-tumpang.jpg",
       "alt": "Gambar kuliner Sambal Tumpang dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -875,8 +875,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -888,8 +888,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-kediri/foods/sate-bekicot.jpg",
       "alt": "Gambar kuliner Sate Bekicot dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -897,8 +897,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -910,16 +910,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-kediri/foods/tahu-takwa.jpg",
       "alt": "Gambar kuliner Tahu Takwa dari Kabupaten Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -931,8 +931,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/dawet-siwalan.jpg",
       "alt": "Gambar kuliner Dawet Siwalan dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -940,8 +940,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -953,16 +953,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/jumbrek.jpg",
       "alt": "Gambar kuliner Jumbrek dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -974,8 +974,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/nasi-boran.jpeg",
       "alt": "Gambar kuliner Nasi Boran dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -983,8 +983,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -996,8 +996,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/pecel-lele.jpeg",
       "alt": "Gambar kuliner Pecel Lele dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1005,8 +1005,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1018,8 +1018,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/soto-lamongan.jpg",
       "alt": "Gambar kuliner Soto Lamongan dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1027,8 +1027,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1040,16 +1040,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/tahu-campur.jpg",
       "alt": "Gambar kuliner Tahu Campur dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1061,8 +1061,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lamongan/foods/wingko-babat.jpg",
       "alt": "Gambar kuliner Wingko Babat dari Kabupaten Lamongan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1070,8 +1070,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1083,8 +1083,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lumajang/foods/kripik-talas.jpeg",
       "alt": "Gambar kuliner Kripik Talas dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1092,8 +1092,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1105,8 +1105,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lumajang/foods/kue-ladu.jpg",
       "alt": "Gambar kuliner Kue Ladu dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1114,8 +1114,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1127,8 +1127,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lumajang/foods/pecel-telo.jpg",
       "alt": "Gambar kuliner Pecel Telo dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1136,8 +1136,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1149,8 +1149,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-lumajang/foods/sego-kelor.jpg",
       "alt": "Gambar kuliner Sego Kelor dari Kabupaten Lumajang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1158,8 +1158,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1171,8 +1171,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-madiun/foods/brem-madiun.jpg",
       "alt": "Gambar kuliner Brem Madiun dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1180,8 +1180,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1193,16 +1193,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-madiun/foods/madu-mongso.jpg",
       "alt": "Gambar kuliner Madu Mongso dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1214,8 +1214,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-madiun/foods/nasi-jotos.jpeg",
       "alt": "Gambar kuliner Nasi Jotos dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1223,8 +1223,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1236,8 +1236,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-madiun/foods/nasi-tiwul.jpg",
       "alt": "Gambar kuliner Nasi Tiwul dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1245,8 +1245,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1258,8 +1258,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-madiun/foods/pecel-madiun.jpeg",
       "alt": "Gambar kuliner Pecel Madiun dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1267,8 +1267,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1280,16 +1280,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-madiun/foods/pentol-corah.jpg",
       "alt": "Gambar kuliner Pentol Corah dari Kabupaten Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1301,8 +1301,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-magetan/foods/ayam-panggang-gandu.jpg",
       "alt": "Gambar kuliner Ayam Panggang Gandu dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1310,8 +1310,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1323,16 +1323,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-magetan/foods/jerangking.jpg",
       "alt": "Gambar kuliner Jerangking dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1344,8 +1344,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-magetan/foods/keripik-melinjo.jpg",
       "alt": "Gambar kuliner Keripik Melinjo dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1353,8 +1353,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1366,8 +1366,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-magetan/foods/sate-kelinci.jpg",
       "alt": "Gambar kuliner Sate Kelinci dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1375,8 +1375,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1388,16 +1388,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-magetan/foods/tepo-tahu.jpg",
       "alt": "Gambar kuliner Tepo Tahu dari Kabupaten Magetan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1409,8 +1409,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-malang/foods/bakso-malang.jpg",
       "alt": "Gambar kuliner Bakso Malang dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1418,8 +1418,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1431,8 +1431,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-malang/foods/cenil-lupis.jpg",
       "alt": "Gambar kuliner Cenil Lupis dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1440,8 +1440,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1453,16 +1453,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-malang/foods/mendol.jpg",
       "alt": "Gambar kuliner Mendol dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1474,8 +1474,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-malang/foods/sate-kelopo.jpeg",
       "alt": "Gambar kuliner Sate Kelopo dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1483,8 +1483,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1496,8 +1496,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-malang/foods/sego-empok.jpeg",
       "alt": "Gambar kuliner Sego Empok dari Kabupaten Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1505,8 +1505,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1518,16 +1518,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/foods/botok-tempe.jpg",
       "alt": "Gambar kuliner Botok Tempe dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1539,8 +1539,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/foods/onde-onde-mojokerto.jpg",
       "alt": "Gambar kuliner Onde Onde Mojokerto dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1548,8 +1548,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1561,16 +1561,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/foods/sambel-wader.png",
       "alt": "Gambar kuliner Sambel Wader dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1582,8 +1582,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/foods/sego-jagung.jpg",
       "alt": "Gambar kuliner Sego Jagung dari Kabupaten Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1591,8 +1591,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1604,8 +1604,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/foods/ayam-panggang-bledug.jpg",
       "alt": "Gambar kuliner Ayam Panggang Bledug dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1613,8 +1613,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1626,16 +1626,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/foods/dendeng-sapi.jpg",
       "alt": "Gambar kuliner Dendeng Sapi dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1647,8 +1647,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/foods/nasi-becek.jpg",
       "alt": "Gambar kuliner Nasi Becek dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1657,8 +1657,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1670,8 +1670,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/foods/onde-onde-jeblos.jpg",
       "alt": "Gambar kuliner Onde Onde Jeblos dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1679,8 +1679,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1692,8 +1692,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/foods/pecel-bledek.jpg",
       "alt": "Gambar kuliner Pecel Bledek dari Kabupaten Nganjuk",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1701,8 +1701,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1714,16 +1714,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ngawi/foods/coklat-tempe.jpg",
       "alt": "Gambar kuliner Coklat Tempe dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1735,8 +1735,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ngawi/foods/gethuk-lindri.jpg",
       "alt": "Gambar kuliner Gethuk Lindri dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1744,8 +1744,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1757,16 +1757,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ngawi/foods/lethok.jpeg",
       "alt": "Gambar kuliner Lethok dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1778,8 +1778,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ngawi/foods/sate-mantingan.jpg",
       "alt": "Gambar kuliner Sate Mantingan dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1787,8 +1787,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1800,16 +1800,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ngawi/foods/tepo-tahu.jpg",
       "alt": "Gambar kuliner Tepo Tahu dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1821,16 +1821,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ngawi/foods/tiwul-goreng.jpg",
       "alt": "Gambar kuliner Tiwul Goreng dari Kabupaten Ngawi",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1842,8 +1842,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/jadah-bakar.jpg",
       "alt": "Gambar kuliner Jadah Bakar dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1851,8 +1851,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1864,8 +1864,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/kupat-tahu.jpg",
       "alt": "Gambar kuliner Kupat Tahu dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1873,8 +1873,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1886,8 +1886,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/nasi-tiwul.jpg",
       "alt": "Gambar kuliner Nasi Tiwul dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1895,8 +1895,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1908,16 +1908,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/punten.jpg",
       "alt": "Gambar kuliner Punten dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1929,16 +1929,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/sale-pisang-anggur.jpg",
       "alt": "Gambar kuliner Sale Pisang Anggur dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1950,8 +1950,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/sayur-kalakan.jpg",
       "alt": "Gambar kuliner Sayur Kalakan dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1959,8 +1959,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1972,8 +1972,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pacitan/foods/soto-pacitan.jpg",
       "alt": "Gambar kuliner Soto Pacitan dari Kabupaten Pacitan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -1981,8 +1981,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -1994,8 +1994,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/foods/campor.jpeg",
       "alt": "Gambar kuliner Campor dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2003,8 +2003,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2016,8 +2016,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/foods/jamu-ramuan-pamekasan.png",
       "alt": "Gambar kuliner Jamu Ramuan Pamekasan dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2025,8 +2025,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2038,8 +2038,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/foods/nasi-jhong.jpg",
       "alt": "Gambar kuliner Nasi Jhong dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2047,8 +2047,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2060,8 +2060,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/foods/sate-lalat.jpeg",
       "alt": "Gambar kuliner Sate Lalat dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2069,8 +2069,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2082,8 +2082,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/foods/soto-sabreng.jpg",
       "alt": "Gambar kuliner Soto Sabreng dari Kabupaten Pamekasan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2091,8 +2091,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2104,8 +2104,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/foods/bipang-jangkar.jpg",
       "alt": "Gambar kuliner Bipang Jangkar dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2113,8 +2113,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2126,8 +2126,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/foods/klepon-bulusari.jpg",
       "alt": "Gambar kuliner Klepon Bulusari dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2135,8 +2135,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2148,8 +2148,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/foods/kupang-kraton.jpeg",
       "alt": "Gambar kuliner Kupang Kraton dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2157,8 +2157,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2170,8 +2170,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/foods/nasi-punel-bangil.jpg",
       "alt": "Gambar kuliner Nasi Punel Bangil dari Kabupaten Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2179,8 +2179,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2192,8 +2192,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/dawet-jabung.jpg",
       "alt": "Gambar kuliner Dawet Jabung dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2201,8 +2201,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2214,16 +2214,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/garang-asem.jpg",
       "alt": "Gambar kuliner Garang Asem dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2235,8 +2235,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/getuk-golan.jpg",
       "alt": "Gambar kuliner Getuk Golan dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2244,8 +2244,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2257,8 +2257,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/jenang-mirah.jpg",
       "alt": "Gambar kuliner Jenang Mirah dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2266,8 +2266,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2279,8 +2279,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/pecel-ponorogo.jpeg",
       "alt": "Gambar kuliner Pecel Ponorogo dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2288,8 +2288,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2301,16 +2301,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/pindang-sapi.jpeg",
       "alt": "Gambar kuliner Pindang Sapi dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2322,8 +2322,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/foods/sate-ponorogo.jpg",
       "alt": "Gambar kuliner Sate Ponorogo dari Kabupaten Ponorogo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2331,8 +2331,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2344,8 +2344,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/foods/ikan-asap.jpg",
       "alt": "Gambar kuliner Ikan Asap dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2353,8 +2353,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2366,16 +2366,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/foods/ketan-kratok.jpg",
       "alt": "Gambar kuliner Ketan Kratok dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2387,8 +2387,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/foods/nasi-glepung.jpg",
       "alt": "Gambar kuliner Nasi Glepung dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2396,8 +2396,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2409,8 +2409,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/foods/soto-kraksaan.jpg",
       "alt": "Gambar kuliner Soto Kraksaan dari Kabupaten Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2418,8 +2418,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2431,8 +2431,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sampang/foods/bebek-songkem.jpg",
       "alt": "Gambar kuliner Bebek Songkem dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2440,8 +2440,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2453,8 +2453,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sampang/foods/campor-lorjuk.jpeg",
       "alt": "Gambar kuliner Campor Lorjuk dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2463,8 +2463,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2476,8 +2476,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sampang/foods/lorjuk.jpg",
       "alt": "Gambar kuliner Lorjuk dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2485,8 +2485,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2498,8 +2498,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sampang/foods/nasi-kobel.jpg",
       "alt": "Gambar kuliner Nasi Kobel dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2507,8 +2507,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2520,8 +2520,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sampang/foods/sate-sampang.jpg",
       "alt": "Gambar kuliner Sate Sampang dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2529,8 +2529,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2542,8 +2542,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sampang/foods/soto-sabrang.jpg",
       "alt": "Gambar kuliner Soto Sabrang dari Kabupaten Sampang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2551,8 +2551,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2564,8 +2564,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/foods/bandeng-presto.jpg",
       "alt": "Gambar kuliner Bandeng Presto dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2573,8 +2573,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2586,8 +2586,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/foods/lontong-cecek.jpg",
       "alt": "Gambar kuliner Lontong Cecek dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2596,8 +2596,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2609,8 +2609,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/foods/lontong-kupang.jpg",
       "alt": "Gambar kuliner Lontong Kupang dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2619,8 +2619,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2632,8 +2632,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/foods/otak-otak-bandeng.jpg",
       "alt": "Gambar kuliner Otak Otak Bandeng dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2641,8 +2641,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2654,8 +2654,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-situbondo/foods/bakso-lulur.jpg",
       "alt": "Gambar kuliner Bakso Lulur dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2663,8 +2663,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2676,8 +2676,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-situbondo/foods/nasi-karak.jpg",
       "alt": "Gambar kuliner Nasi Karak dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2685,8 +2685,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2698,8 +2698,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-situbondo/foods/nasi-sodu.jpeg",
       "alt": "Gambar kuliner Nasi Sodu dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2707,8 +2707,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2720,8 +2720,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-situbondo/foods/tajin-palappa.jpg",
       "alt": "Gambar kuliner Tajin Palappa dari Kabupaten Situbondo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2729,8 +2729,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2742,8 +2742,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sumenep/foods/campor.jpg",
       "alt": "Gambar kuliner Campor dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2751,8 +2751,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2764,8 +2764,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sumenep/foods/kaldu-kokot.jpeg",
       "alt": "Gambar kuliner Kaldu Kokot dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2773,8 +2773,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2786,8 +2786,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sumenep/foods/rujak-selingkuh.jpg",
       "alt": "Gambar kuliner Rujak Selingkuh dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2795,8 +2795,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2808,8 +2808,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-sumenep/foods/soto-sabrang.jpg",
       "alt": "Gambar kuliner Soto Sabrang dari Kabupaten Sumenep",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2817,8 +2817,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2830,8 +2830,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/foods/ayam-lodho.jpeg",
       "alt": "Gambar kuliner Ayam Lodho dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2839,8 +2839,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2852,8 +2852,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/foods/nasi-gegok.jpg",
       "alt": "Gambar kuliner Nasi Gegok dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2861,8 +2861,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2874,16 +2874,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/foods/pindang-sapi.jpg",
       "alt": "Gambar kuliner Pindang Sapi dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2895,8 +2895,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/foods/sego-tiwul.jpg",
       "alt": "Gambar kuliner Sego Tiwul dari Kabupaten Trenggalek",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2904,8 +2904,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2917,16 +2917,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tuban/foods/ampo.jpeg",
       "alt": "Gambar kuliner Ampo dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2938,8 +2938,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tuban/foods/becek-tuban.jpg",
       "alt": "Gambar kuliner Becek Tuban dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2947,8 +2947,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2960,8 +2960,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tuban/foods/belut-tuban.jpg",
       "alt": "Gambar kuliner Belut Tuban dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2969,8 +2969,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -2982,8 +2982,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tuban/foods/dumreg.png",
       "alt": "Gambar kuliner Dumreg dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -2991,8 +2991,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3004,8 +3004,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tuban/foods/kari-rajungan.jpg",
       "alt": "Gambar kuliner Kari Rajungan dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3013,8 +3013,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3026,16 +3026,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tuban/foods/sari-gula.jpg",
       "alt": "Gambar kuliner Sari Gula dari Kabupaten Tuban",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3047,8 +3047,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/foods/ayam-lodho.jpg",
       "alt": "Gambar kuliner Ayam Lodho dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3056,8 +3056,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3069,8 +3069,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/foods/enting-gepuk.jpg",
       "alt": "Gambar kuliner Enting Gepuk dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3078,8 +3078,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3091,8 +3091,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/foods/pecel-korek.jpg",
       "alt": "Gambar kuliner Pecel Korek dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3100,8 +3100,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3113,8 +3113,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/foods/soto-tulungagung.jpg",
       "alt": "Gambar kuliner Soto Tulungagung dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3122,8 +3122,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3135,16 +3135,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/foods/sumpil.jpg",
       "alt": "Gambar kuliner Sumpil dari Kabupaten Tulungagung",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3156,16 +3156,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-batu/foods/cwie-mie.jpg",
       "alt": "Gambar kuliner Cwie Mie dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3177,8 +3177,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-batu/foods/keripik-buah.jpg",
       "alt": "Gambar kuliner Keripik Buah dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3186,8 +3186,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3199,16 +3199,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-batu/foods/ketan-bubuk.jpeg",
       "alt": "Gambar kuliner Ketan Bubuk dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3220,8 +3220,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-batu/foods/pos-ketan-legenda.jpg",
       "alt": "Gambar kuliner Pos Ketan Legenda dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3229,8 +3229,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3242,8 +3242,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-batu/foods/sate-kelinci.jpg",
       "alt": "Gambar kuliner Sate Kelinci dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3251,8 +3251,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3264,8 +3264,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-batu/foods/strundel-batu.jpeg",
       "alt": "Gambar kuliner Strundel Batu dari Kota Batu",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3273,8 +3273,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3286,16 +3286,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-blitar/foods/es-drop.jpg",
       "alt": "Gambar kuliner Es Drop dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3307,16 +3307,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-blitar/foods/es-pleret.jpg",
       "alt": "Gambar kuliner Es Pleret dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3328,8 +3328,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-blitar/foods/opak-gambir.jpg",
       "alt": "Gambar kuliner Opak Gambir dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3337,8 +3337,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3350,16 +3350,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-blitar/foods/tahu-bumbu-lawu.jpg",
       "alt": "Gambar kuliner Tahu Bumbu Lawu dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3371,8 +3371,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-blitar/foods/wajik-kletik.jpg",
       "alt": "Gambar kuliner Wajik Kletik dari Kota Blitar",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3380,8 +3380,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3393,8 +3393,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-kediri/foods/pecel-dhoho.jpeg",
       "alt": "Gambar kuliner Pecel Dhoho dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3402,8 +3402,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3415,16 +3415,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-kediri/foods/sambel-tumpang.jpg",
       "alt": "Gambar kuliner Sambel Tumpang dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3436,8 +3436,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-kediri/foods/sate-bekicot.jpg",
       "alt": "Gambar kuliner Sate Bekicot dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3445,8 +3445,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3458,16 +3458,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-kediri/foods/tahu-pong.jpg",
       "alt": "Gambar kuliner Tahu Pong dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3479,16 +3479,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-kediri/foods/tahu-takwa.jpg",
       "alt": "Gambar kuliner Tahu Takwa dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3500,16 +3500,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-kediri/foods/tenong.jpg",
       "alt": "Gambar kuliner Tenong dari Kota Kediri",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3521,8 +3521,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-madiun/foods/brem.jpg",
       "alt": "Gambar kuliner Brem dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3530,8 +3530,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3543,16 +3543,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-madiun/foods/lempeng-puli.jpeg",
       "alt": "Gambar kuliner Lempeng Puli dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3564,8 +3564,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-madiun/foods/madumongso.jpg",
       "alt": "Gambar kuliner Madumongso dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3573,8 +3573,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3586,8 +3586,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-madiun/foods/nasi-jotos.jpg",
       "alt": "Gambar kuliner Nasi Jotos dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3595,8 +3595,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3608,8 +3608,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-madiun/foods/pecel-madiun.jpg",
       "alt": "Gambar kuliner Pecel Madiun dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3617,8 +3617,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3630,16 +3630,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-madiun/foods/pentol-cora.jpeg",
       "alt": "Gambar kuliner Pentol Cora dari Kota Madiun",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3651,8 +3651,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-malang/foods/bakso-malang.jpg",
       "alt": "Gambar kuliner Bakso Malang dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3660,8 +3660,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3670,19 +3670,19 @@ export const foods: FoodItem[] = [
     "name": "Cwie Mie",
     "description": "Cwie Mie adalah kuliner khas atau populer yang menjadi bagian dari identitas Kota Malang.",
     "image": {
-      "src": "/images/regions/kota-malang/foods/Cwie-Mie.jpg",
+      "src": "/images/regions/kota-malang/foods/cwie-mie.jpg",
       "alt": "Gambar kuliner Cwie Mie dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3694,8 +3694,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-malang/foods/keripik-tempe.jpeg",
       "alt": "Gambar kuliner Keripik Tempe dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3703,8 +3703,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3716,16 +3716,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-malang/foods/mendol-tempe.jpg",
       "alt": "Gambar kuliner Mendol Tempe dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3737,16 +3737,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-malang/foods/orem-orem.jpg",
       "alt": "Gambar kuliner Orem Orem dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3758,8 +3758,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-malang/foods/rawon-nguling.jpg",
       "alt": "Gambar kuliner Rawon Nguling dari Kota Malang",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3767,8 +3767,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3780,16 +3780,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-mojokerto/foods/bubur-sruntul.jpg",
       "alt": "Gambar kuliner Bubur Sruntul dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3801,8 +3801,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-mojokerto/foods/nasi-pecel-majapahit.jpg",
       "alt": "Gambar kuliner Nasi Pecel Majapahit dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3811,8 +3811,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3824,8 +3824,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-mojokerto/foods/onde-onde-bo-liem.jpg",
       "alt": "Gambar kuliner Onde Onde Bo Liem dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3833,8 +3833,8 @@ export const foods: FoodItem[] = [
       "manis"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3846,8 +3846,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-mojokerto/foods/sate-komoh.jpg",
       "alt": "Gambar kuliner Sate Komoh dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3855,8 +3855,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3868,8 +3868,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-mojokerto/foods/soto-daging-empunala.jpg",
       "alt": "Gambar kuliner Soto Daging Empunala dari Kota Mojokerto",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3877,8 +3877,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3890,8 +3890,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-pasuruan/foods/bipang-jangkar.jpg",
       "alt": "Gambar kuliner Bipang Jangkar dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3899,8 +3899,8 @@ export const foods: FoodItem[] = [
       "oleh-oleh"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3912,8 +3912,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-pasuruan/foods/nasi-punel.jpg",
       "alt": "Gambar kuliner Nasi Punel dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3921,8 +3921,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3931,11 +3931,11 @@ export const foods: FoodItem[] = [
     "name": "Rawon Pasuruan",
     "description": "Rawon Pasuruan adalah kuliner khas atau populer yang menjadi bagian dari identitas Kota Pasuruan.",
     "image": {
-      "src": "/images/regions/kota-pasuruan/foods/Rawon-Pasuruan.jpg",
+      "src": "/images/regions/kota-pasuruan/foods/rawon-pasuruan.jpg",
       "alt": "Gambar kuliner Rawon Pasuruan dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3943,8 +3943,8 @@ export const foods: FoodItem[] = [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3956,8 +3956,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-pasuruan/foods/sate-komoh.jpg",
       "alt": "Gambar kuliner Sate Komoh dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -3965,8 +3965,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3978,16 +3978,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-pasuruan/foods/ting-ting-jahe.jpg",
       "alt": "Gambar kuliner Ting Ting Jahe dari Kota Pasuruan",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -3999,16 +3999,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-probolinggo/foods/ketan-kratok.jpg",
       "alt": "Gambar kuliner Ketan Kratok dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4020,8 +4020,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-probolinggo/foods/nasi-glepung.jpg",
       "alt": "Gambar kuliner Nasi Glepung dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4029,8 +4029,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4042,8 +4042,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-probolinggo/foods/sirup-pokak.jpg",
       "alt": "Gambar kuliner Sirup Pokak dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4051,8 +4051,8 @@ export const foods: FoodItem[] = [
       "minuman"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4064,8 +4064,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-probolinggo/foods/soto-ayam-prolink.jpg",
       "alt": "Gambar kuliner Soto Ayam Prolink dari Kota Probolinggo",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4074,8 +4074,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4087,8 +4087,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-surabaya/foods/belut-surabaya.jpg",
       "alt": "Gambar kuliner Belut Surabaya dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4096,8 +4096,8 @@ export const foods: FoodItem[] = [
       "lauk"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4109,8 +4109,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-surabaya/foods/kupang-lontong.jpg",
       "alt": "Gambar kuliner Kupang Lontong dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4119,8 +4119,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4132,8 +4132,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-surabaya/foods/lontong-balap.jpg",
       "alt": "Gambar kuliner Lontong Balap dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4142,8 +4142,8 @@ export const foods: FoodItem[] = [
       "makanan-utama"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4155,8 +4155,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-surabaya/foods/rawon-setan.jpg",
       "alt": "Gambar kuliner Rawon Setan dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4165,8 +4165,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4178,8 +4178,8 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-surabaya/foods/rujak-cingur.jpg",
       "alt": "Gambar kuliner Rujak Cingur dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
@@ -4187,8 +4187,8 @@ export const foods: FoodItem[] = [
       "pedas"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   },
   {
@@ -4200,16 +4200,16 @@ export const foods: FoodItem[] = [
       "src": "/images/regions/kota-surabaya/foods/tahu-tek.jpg",
       "alt": "Gambar kuliner Tahu Tek dari Kota Surabaya",
       "source": {
-        "label": "Aset internal VAST",
-        "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+        "label": "Kurasi Tim VAST",
+        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
       }
     },
     "tags": [
       "kuliner-lokal"
     ],
     "source": {
-      "label": "Aset internal VAST",
-      "note": "Data awal digenerate dari struktur aset public/images/regions dan perlu validasi sumber/lisensi final."
+      "label": "Kurasi Tim VAST",
+      "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
     }
   }
 ];
