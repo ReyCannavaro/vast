@@ -56,8 +56,45 @@ const matchingGameItems = parseJsonArrayFromDataFile(
 );
 const quizQuestions = parseJsonArrayFromDataFile("quizQuestions.ts", "quizQuestions");
 const puzzleItems = parseJsonArrayFromDataFile("puzzleItems.ts", "puzzleItems");
+const heritageItems = parseJsonArrayFromDataFile("heritageItems.ts", "heritageItems");
+const foods = parseJsonArrayFromDataFile("foods.ts", "foods");
+const destinations = parseJsonArrayFromDataFile("destinations.ts", "destinations");
+const batikPatterns = parseJsonArrayFromDataFile("batikPatterns.ts", "batikPatterns");
 const validCategories = new Set(["food", "batik", "destination", "culture"]);
 const validDifficulties = new Set(["easy", "medium", "hard"]);
+const regionNameBySlug = new Map([
+  ...parseNamesArray(regionsContent, "kabupatenNames").map((name) => [
+    slugify("kabupaten", name),
+    `Kabupaten ${name}`,
+  ]),
+  ...parseNamesArray(regionsContent, "kotaNames").map((name) => [
+    slugify("kota", name),
+    `Kota ${name}`,
+  ]),
+]);
+const validRegionNames = new Set(regionNameBySlug.values());
+const sourceItemsByCategory = {
+  culture: heritageItems,
+  food: foods,
+  destination: destinations,
+  batik: batikPatterns,
+};
+const sourceLabelsByCategoryAndRegion = Object.fromEntries(
+  Object.entries(sourceItemsByCategory).map(([category, items]) => [
+    category,
+    items.reduce((groups, item) => {
+      const labels = groups.get(item.regionSlug) ?? new Set();
+      labels.add(item.name);
+      groups.set(item.regionSlug, labels);
+      return groups;
+    }, new Map()),
+  ]),
+);
+const sourceImageSrcs = new Set(
+  [...heritageItems, ...destinations, ...batikPatterns]
+    .map((item) => item.image?.src)
+    .filter(Boolean),
+);
 const ids = new Set();
 const pairs = new Set();
 const quizIds = new Set();
@@ -85,6 +122,21 @@ for (const item of matchingGameItems) {
 
   if (!validCategories.has(item.category)) {
     errors.push(`Kategori matching tidak valid: ${item.category}`);
+  }
+
+  const validSourceLabels =
+    sourceLabelsByCategoryAndRegion[item.category]?.get(item.regionSlug) ?? new Set();
+
+  if (!validSourceLabels.has(item.rightLabel)) {
+    errors.push(
+      `Pasangan matching tidak ada di data sumber: ${item.regionSlug} ${item.category} ${item.rightLabel}`,
+    );
+  }
+
+  if (item.leftLabel !== regionNameBySlug.get(item.regionSlug)) {
+    errors.push(
+      `leftLabel matching tidak cocok dengan regionSlug ${item.regionSlug}: ${item.leftLabel}`,
+    );
   }
 
   const pairKey = `${item.regionSlug}|${item.category}|${item.rightLabel}`;
@@ -122,6 +174,18 @@ for (const question of quizQuestions) {
 
   if (question.regionSlug && !expectedSlugSet.has(question.regionSlug)) {
     errors.push(`regionSlug quiz tidak valid: ${question.regionSlug}`);
+  }
+
+  if (question.regionSlug && question.correctAnswer !== regionNameBySlug.get(question.regionSlug)) {
+    errors.push(
+      `correctAnswer quiz tidak cocok dengan regionSlug ${question.regionSlug}: ${question.correctAnswer}`,
+    );
+  }
+
+  for (const option of question.options) {
+    if (!validRegionNames.has(option)) {
+      errors.push(`Opsi quiz bukan nama region valid di ${question.id}: ${option}`);
+    }
   }
 
   if (!validDifficulties.has(question.difficulty)) {
@@ -176,6 +240,10 @@ for (const puzzle of puzzleItems) {
 
   if (puzzle.image?.src && !existsSync(toDiskPath(puzzle.image.src))) {
     errors.push(`Gambar puzzle belum ada untuk ${puzzle.id}: ${puzzle.image.src}`);
+  }
+
+  if (puzzle.image?.src && !sourceImageSrcs.has(puzzle.image.src)) {
+    errors.push(`Gambar puzzle tidak berasal dari data budaya/destinasi/batik: ${puzzle.id}`);
   }
 
   puzzleCoverage.set(puzzle.regionSlug, (puzzleCoverage.get(puzzle.regionSlug) ?? 0) + 1);
