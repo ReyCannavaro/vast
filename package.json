@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate:data": "node scripts/validate-static-data.mjs",
+    "validate:game": "node scripts/validate-game-data.mjs"
   },
   "dependencies": {
     "next": "16.2.9",
