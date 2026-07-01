@@ -1,3 +1,7 @@
+import { batikPatterns } from "@/data/batikPatterns";
+import { destinations as destinationItems } from "@/data/destinations";
+import { foods as foodItems } from "@/data/foods";
+import { heritageItems } from "@/data/heritageItems";
 import type { Region, RegionType } from "@/types/region";
 
 const kabupatenNames = [
@@ -150,40 +154,147 @@ function slugify(type: RegionType, name: string) {
   return `${type}-${name.toLowerCase().replaceAll(" ", "-")}`;
 }
 
+function getNames<T extends { name: string }>(items: T[]) {
+  return items.map((item) => item.name);
+}
+
+function getIds<T extends { id: string }>(items: T[]) {
+  return items.map((item) => item.id);
+}
+
+function createCategories(
+  isFeatured: boolean,
+  relatedDestinations: typeof destinationItems,
+  relatedBatikPatterns: typeof batikPatterns,
+) {
+  const categories = new Set<Region["categories"][number]>([
+    "budaya",
+    "kuliner",
+    "destinasi",
+  ]);
+  const destinationText = relatedDestinations
+    .map((destination) => `${destination.name} ${destination.type}`)
+    .join(" ")
+    .toLowerCase();
+
+  if (relatedBatikPatterns.length > 0) {
+    categories.add("batik");
+  }
+
+  if (/(pantai|pulau|dermaga|mercusuar|pesisir|laut|gili)/.test(destinationText)) {
+    categories.add("pesisir");
+  }
+
+  if (/(gunung|bukit|kawah|air terjun|coban|telaga|ranu|hutan|puncak|pegunungan)/.test(destinationText)) {
+    categories.add("pegunungan");
+  }
+
+  if (isFeatured) {
+    categories.add("showcase");
+  }
+
+  return [...categories];
+}
+
+function createGeneratedTagline(displayName: string) {
+  return `${displayName} dalam kurasi budaya, kuliner, dan destinasi Jawa Timur.`;
+}
+
+function createGeneratedSummary(
+  displayName: string,
+  relatedHeritageItems: typeof heritageItems,
+  relatedFoods: typeof foodItems,
+  relatedDestinations: typeof destinationItems,
+) {
+  const highlights = [
+    ...getNames(relatedHeritageItems).slice(0, 2),
+    ...getNames(relatedFoods).slice(0, 2),
+    ...getNames(relatedDestinations).slice(0, 2),
+  ];
+
+  return `${displayName} memiliki ${relatedHeritageItems.length} data budaya, ${relatedFoods.length} data kuliner, dan ${relatedDestinations.length} data destinasi dalam kurasi awal VAST${highlights.length > 0 ? `, termasuk ${highlights.join(", ")}.` : "."}`;
+}
+
+function createGeneratedFacts(
+  displayName: string,
+  relatedHeritageItems: typeof heritageItems,
+  relatedFoods: typeof foodItems,
+  relatedDestinations: typeof destinationItems,
+  relatedBatikPatterns: typeof batikPatterns,
+) {
+  const facts = [
+    `Kurasi awal ${displayName} memuat ${relatedHeritageItems.length} budaya, ${relatedFoods.length} kuliner, dan ${relatedDestinations.length} destinasi lokal.`,
+  ];
+
+  if (relatedBatikPatterns.length > 0) {
+    facts.push(
+      `${displayName} memiliki ${relatedBatikPatterns.length} data motif batik atau identitas visual yang siap ditampilkan di galeri.`,
+    );
+  }
+
+  return facts;
+}
+
 function createRegion(type: RegionType, name: string): Region {
   const slug = slugify(type, name);
   const isFeatured = featuredSlugs.has(slug);
   const showcase = regionShowcase[slug];
   const displayName = `${type === "kota" ? "Kota" : "Kabupaten"} ${name}`;
+  const relatedFoods = foodItems.filter((food) => food.regionSlug === slug);
+  const relatedDestinations = destinationItems.filter(
+    (destination) => destination.regionSlug === slug,
+  );
+  const relatedHeritageItems = heritageItems.filter(
+    (heritageItem) => heritageItem.regionSlug === slug,
+  );
+  const relatedBatikPatterns = batikPatterns.filter(
+    (batikPattern) => batikPattern.regionSlug === slug,
+  );
 
   return {
     id: slug,
     name: displayName,
     slug,
     type,
-    categories: isFeatured
-      ? ["budaya", "kuliner", "destinasi", "showcase"]
-      : ["budaya", "kuliner", "destinasi"],
-    tagline: showcase?.tagline ?? "Data budaya sedang dikurasi untuk showcase VAST.",
+    categories: createCategories(isFeatured, relatedDestinations, relatedBatikPatterns),
+    tagline: showcase?.tagline ?? createGeneratedTagline(displayName),
     summary:
       showcase?.summary ??
-      "Ringkasan budaya, kuliner, destinasi, dan fakta unik daerah ini akan diisi dari data statis lokal.",
+      createGeneratedSummary(
+        displayName,
+        relatedHeritageItems,
+        relatedFoods,
+        relatedDestinations,
+      ),
     nickname: showcase?.nickname,
     dialect: showcase?.dialect,
-    cultureHighlights: showcase?.cultureHighlights ?? ["Data budaya sedang dikurasi"],
-    foods: showcase?.foods ?? ["Data kuliner sedang dikurasi"],
-    destinations: showcase?.destinations ?? ["Data destinasi sedang dikurasi"],
-    uniqueFacts: showcase?.uniqueFacts ?? ["Fakta unik daerah sedang dikurasi"],
+    cultureHighlights: showcase?.cultureHighlights ?? getNames(relatedHeritageItems),
+    foods: showcase?.foods ?? getNames(relatedFoods),
+    destinations: showcase?.destinations ?? getNames(relatedDestinations),
+    uniqueFacts:
+      showcase?.uniqueFacts ??
+      createGeneratedFacts(
+        displayName,
+        relatedHeritageItems,
+        relatedFoods,
+        relatedDestinations,
+        relatedBatikPatterns,
+      ),
     heroImage: {
       src: `/images/regions/${slug}/hero/hero.${heroImageExtensions[slug] ?? "jpg"}`,
       alt: `Foto hero ${displayName}`,
     },
-    foodIds: [],
-    destinationIds: [],
-    batikPatternIds: [],
-    heritageItemIds: [],
+    foodIds: getIds(relatedFoods),
+    destinationIds: getIds(relatedDestinations),
+    batikPatternIds: getIds(relatedBatikPatterns),
+    heritageItemIds: getIds(relatedHeritageItems),
     isFeatured,
-    sourceNotes: [],
+    sourceNotes: [
+      {
+        label: "Aset internal VAST",
+        note: "Relasi data region dibuat dari foods, destinations, heritageItems, dan batikPatterns yang digenerate dari public/images/regions.",
+      },
+    ],
   };
 }
 
