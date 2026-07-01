@@ -1,1 +1,3 @@
-export const batikPatterns = [];
+import type { BatikPattern } from "@/types/region";
+
+export const batikPatterns: BatikPattern[] = [];

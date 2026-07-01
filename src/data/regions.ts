@@ -1,4 +1,4 @@
-import type { Region } from "@/types/region";
+import type { Region, RegionType } from "@/types/region";
 
 const kabupatenNames = [
   "Bangkalan",
@@ -52,6 +52,13 @@ const featuredSlugs = new Set([
   "kabupaten-sidoarjo",
   "kota-batu",
 ]);
+
+const heroImageExtensions: Record<string, string> = {
+  "kabupaten-lamongan": "webp",
+  "kabupaten-malang": "jpeg",
+  "kabupaten-mojokerto": "jpeg",
+  "kota-madiun": "jpeg",
+};
 
 const regionShowcase: Record<
   string,
@@ -139,18 +146,19 @@ const regionShowcase: Record<
   },
 };
 
-function slugify(type: "kota" | "kabupaten", name: string) {
+function slugify(type: RegionType, name: string) {
   return `${type}-${name.toLowerCase().replaceAll(" ", "-")}`;
 }
 
-function createRegion(type: "kota" | "kabupaten", name: string): Region {
+function createRegion(type: RegionType, name: string): Region {
   const slug = slugify(type, name);
   const isFeatured = featuredSlugs.has(slug);
   const showcase = regionShowcase[slug];
+  const displayName = `${type === "kota" ? "Kota" : "Kabupaten"} ${name}`;
 
   return {
     id: slug,
-    name: `${type === "kota" ? "Kota" : "Kabupaten"} ${name}`,
+    name: displayName,
     slug,
     type,
     categories: isFeatured
@@ -166,7 +174,16 @@ function createRegion(type: "kota" | "kabupaten", name: string): Region {
     foods: showcase?.foods ?? ["Data kuliner sedang dikurasi"],
     destinations: showcase?.destinations ?? ["Data destinasi sedang dikurasi"],
     uniqueFacts: showcase?.uniqueFacts ?? ["Fakta unik daerah sedang dikurasi"],
+    heroImage: {
+      src: `/images/regions/${slug}/hero/hero.${heroImageExtensions[slug] ?? "jpg"}`,
+      alt: `Foto hero ${displayName}`,
+    },
+    foodIds: [],
+    destinationIds: [],
+    batikPatternIds: [],
+    heritageItemIds: [],
     isFeatured,
+    sourceNotes: [],
   };
 }
 
