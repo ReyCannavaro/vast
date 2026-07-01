@@ -1,23 +1,20 @@
-import { SiteFooter } from "@/components/layout/SiteFooter";
-import { SiteHeader } from "@/components/layout/SiteHeader";
+import { GameTodoPage } from "@/components/game";
+import { getGameSummary } from "@/lib/gameService";
 
 export default function QuizPage() {
+  const summary = getGameSummary();
+
   return (
-    <div className="min-h-screen bg-background">
-      <SiteHeader />
-      <main className="mx-auto max-w-4xl px-5 py-14">
-        <p className="text-sm font-semibold uppercase text-secondary">
-          Culture Quiz
-        </p>
-        <h1 className="mt-2 text-4xl font-bold text-foreground">
-          Quiz budaya Jawa Timur
-        </h1>
-        <p className="mt-4 text-muted">
-          Halaman ini sudah disiapkan untuk logic quiz client-side berbasis
-          React state tanpa storage permanen.
-        </p>
-      </main>
-      <SiteFooter />
-    </div>
+    <GameTodoPage
+      eyebrow="Culture Quiz"
+      title="Quiz budaya Jawa Timur"
+      description="Halaman quiz sudah terhubung dengan ringkasan data, namun interaction state belum dislicing."
+      todo="TODO: Buat komponen client quiz untuk pilih jawaban, next question, dan hasil skor."
+      stats={[
+        { label: "Pertanyaan", value: summary.quiz.totalQuestions },
+        { label: "Region", value: summary.quiz.coveredRegions },
+        { label: "Hard", value: summary.quiz.difficulties.hard },
+      ]}
+    />
   );
 }

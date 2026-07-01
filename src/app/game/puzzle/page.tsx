@@ -1,23 +1,20 @@
-import { SiteFooter } from "@/components/layout/SiteFooter";
-import { SiteHeader } from "@/components/layout/SiteHeader";
+import { GameTodoPage } from "@/components/game";
+import { getGameSummary } from "@/lib/gameService";
 
 export default function PuzzlePage() {
+  const summary = getGameSummary();
+
   return (
-    <div className="min-h-screen bg-background">
-      <SiteHeader />
-      <main className="mx-auto max-w-4xl px-5 py-14">
-        <p className="text-sm font-semibold uppercase text-secondary">
-          Sliding Puzzle
-        </p>
-        <h1 className="mt-2 text-4xl font-bold text-foreground">
-          Puzzle budaya
-        </h1>
-        <p className="mt-4 text-muted">
-          Route puzzle sudah tersedia sebagai fitur lanjutan jika waktu MVP
-          mencukupi.
-        </p>
-      </main>
-      <SiteFooter />
-    </div>
+    <GameTodoPage
+      eyebrow="Sliding Puzzle"
+      title="Puzzle budaya"
+      description="Halaman puzzle sudah siap memakai board tile dari puzzle service."
+      todo="TODO: Buat komponen puzzle client untuk swap tile, progress, dan state selesai."
+      stats={[
+        { label: "Puzzle", value: summary.puzzle.totalPuzzles },
+        { label: "Region", value: summary.puzzle.coveredRegions },
+        { label: "Medium", value: summary.puzzle.difficulties.medium },
+      ]}
+    />
   );
 }
