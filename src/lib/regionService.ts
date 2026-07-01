@@ -32,6 +32,10 @@ export function searchRegions(keyword: string) {
       region.tagline,
       region.summary,
       ...region.categories,
+      ...region.cultureHighlights,
+      ...region.foods,
+      ...region.destinations,
+      ...region.uniqueFacts,
     ]
       .join(" ")
       .toLowerCase();

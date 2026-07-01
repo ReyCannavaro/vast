@@ -1,1 +1,3 @@
-export const matchingGameItems = [];
+import type { MatchingGameItem } from "@/types/region";
+
+export const matchingGameItems: MatchingGameItem[] = [];

@@ -117,7 +117,7 @@ Catatan:
 - Responsive layout
 - Dokumentasi project
 
-### Mini Games
+### Mini game
 
 Project VAST memiliki 3 mini game edukatif:
 
@@ -134,56 +134,119 @@ Project VAST memiliki 3 mini game edukatif:
 
 ## 8. Folder Structure
 
-Struktur utama project:
+Struktur utama project saat ini:
 
 ```txt
 vast/
 ├── docs/
+│   ├── DG.md
 │   ├── PRD.md
 │   └── SRS.md
 ├── public/
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   ├── window.svg
 │   ├── images/
-│   │   ├── hero/
 │   │   └── regions/
 │   │       └── [regionSlug]/
 │   │           ├── hero/
 │   │           ├── budaya/
 │   │           ├── foods/
 │   │           ├── destinations/
-│   │           └── games/
+│   │           └── game/
 │   │               ├── quiz/
 │   │               ├── matching/
 │   │               └── puzzle/
 │   └── svg/
 ├── src/
 │   ├── app/
-│   │   ├── page.tsx
-│   │   ├── layout.tsx
-│   │   ├── globals.css
+│   │   ├── about/
+│   │   │   └── page.tsx
+│   │   ├── gallery/
+│   │   │   └── page.tsx
+│   │   ├── game/
+│   │   │   ├── page.tsx
+│   │   │   ├── matching/
+│   │   │   │   └── page.tsx
+│   │   │   ├── puzzle/
+│   │   │   │   └── page.tsx
+│   │   │   └── quiz/
+│   │   │       └── page.tsx
 │   │   ├── regions/
+│   │   │   ├── page.tsx
 │   │   │   └── [slug]/
 │   │   │       └── page.tsx
-│   │   └── games/
-│   │       ├── quiz/
-│   │       │   └── page.tsx
-│   │       ├── matching/
-│   │       │   └── page.tsx
-│   │       └── puzzle/
-│   │           └── page.tsx
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
 │   ├── components/
 │   │   ├── layout/
+│   │   │   ├── SiteHeader.tsx
+│   │   │   └── SiteFooter.tsx
 │   │   ├── sections/
 │   │   ├── regions/
-│   │   ├── games/
+│   │   ├── game/
 │   │   └── ui/
 │   ├── data/
+│   │   ├── batikPatterns.ts
+│   │   ├── destinations.ts
+│   │   ├── foods.ts
+│   │   ├── heritageItems.ts
+│   │   ├── matchingGameItems.ts
+│   │   ├── puzzleItems.ts
+│   │   ├── quizQuestions.ts
+│   │   └── regions.ts
 │   ├── lib/
+│   │   └── regionService.ts
 │   ├── types/
+│   │   └── region.ts
 │   ├── constants/
 │   └── utils/
-├── README.md
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
 ├── package.json
-└── next.config.ts
+├── postcss.config.mjs
+├── README.md
+└── tsconfig.json
+```
+
+Catatan:
+
+- Folder `sections`, `regions`, `game`, `ui`, `constants`, dan `utils` sudah disiapkan sebagai tempat pengembangan berikutnya.
+- Project memakai Next.js App Router.
+- `next.config.ts` sudah diarahkan ke static export dengan `output: "export"`.
+
+---
+
+## 8.1 Current Routes
+
+Route yang tersedia saat ini:
+
+| Route | Status | Keterangan |
+|---|---|---|
+| `/` | Ready | Homepage dengan placeholder hero, explorer, culture, game, dan about. |
+| `/regions` | Ready | List 38 kabupaten/kota dari data statis. |
+| `/regions/[slug]` | Ready | Dynamic route detail region dari `src/data/regions.ts`. |
+| `/game` | Ready | Placeholder halaman daftar mini game. |
+| `/game/quiz` | Ready | Placeholder Culture Quiz. |
+| `/game/matching` | Ready | Placeholder Match the Heritage. |
+| `/game/puzzle` | Ready | Placeholder Sliding Puzzle. |
+| `/gallery` | Ready | Placeholder galeri budaya/pattern. |
+| `/about` | Ready | Placeholder penjelasan VAST dan SDG 11. |
+
+Homepage juga memiliki section anchor:
+
+```txt
+#home
+#explore
+#culture
+#game
+#about
 ```
 
 ---
@@ -200,7 +263,7 @@ public/images/regions/[regionSlug]/
 ├── budaya/
 ├── foods/
 ├── destinations/
-└── games/
+└── game/
     ├── quiz/
     ├── matching/
     └── puzzle/
@@ -222,7 +285,7 @@ public/images/regions/kabupaten-sidoarjo/
 ├── destinations/
 │   ├── candi-pari.jpg
 │   └── kampung-batik-jetis.jpg
-└── games/
+└── game/
     ├── quiz/
     ├── matching/
     └── puzzle/
@@ -235,7 +298,7 @@ Contoh path di data:
 "/images/regions/kabupaten-sidoarjo/budaya/batik-jetis.jpg"
 "/images/regions/kabupaten-sidoarjo/foods/bandeng-asap.jpg"
 "/images/regions/kabupaten-sidoarjo/destinations/candi-pari.jpg"
-"/images/regions/kabupaten-sidoarjo/games/puzzle/candi-pari.jpg"
+"/images/regions/kabupaten-sidoarjo/game/puzzle/candi-pari.jpg"
 ```
 
 ---
@@ -286,16 +349,18 @@ Contoh file data:
 
 ```txt
 src/data/
-├── regions.ts
-├── heritageItems.ts
-├── foods.ts
+├── batikPatterns.ts
 ├── destinations.ts
-├── cultureItems.ts
-├── quizQuestions.ts
+├── foods.ts
+├── heritageItems.ts
 ├── matchingGameItems.ts
-└── puzzleItems.ts
+├── puzzleItems.ts
+├── quizQuestions.ts
+└── regions.ts
 ```
 
+File `regions.ts` saat ini sudah aktif dipakai oleh route `/regions` dan `/regions/[slug]`.
+File data lain sudah disiapkan sebagai placeholder untuk konten budaya dan mini game berikutnya.
 Tidak ada data yang diambil dari database atau backend.
 
 ---
@@ -310,39 +375,25 @@ export type RegionCategory =
   | "pegunungan"
   | "budaya"
   | "kuliner"
-  | "destinasi";
-
-export type RegionAsset = {
-  heroImage: string;
-  thumbnailImage: string;
-  cultureImages: string[];
-  foodImages: string[];
-  destinationImages: string[];
-  gameAssets?: {
-    quiz?: string[];
-    matching?: string[];
-    puzzle?: string[];
-  };
-};
+  | "batik"
+  | "destinasi"
+  | "showcase";
 
 export type Region = {
-  id: number;
+  id: string;
   name: string;
   slug: string;
   type: "kota" | "kabupaten";
   categories: RegionCategory[];
   tagline: string;
-  shortDescription: string;
-  population?: string;
-  area?: string;
-  dialect?: string;
+  summary: string;
   nickname?: string;
-  culturalHeritage: string[];
+  dialect?: string;
+  cultureHighlights: string[];
   foods: string[];
   destinations: string[];
   uniqueFacts: string[];
-  assets: RegionAsset;
-  isShowcase: boolean;
+  isFeatured: boolean;
 };
 ```
 
@@ -353,42 +404,21 @@ export type Region = {
 ```ts
 export const regions = [
   {
-    id: 1,
-    name: "Sidoarjo",
+    id: "kabupaten-sidoarjo",
+    name: "Kabupaten Sidoarjo",
     slug: "kabupaten-sidoarjo",
     type: "kabupaten",
-    categories: ["budaya", "kuliner", "destinasi"],
+    categories: ["budaya", "kuliner", "destinasi", "showcase"],
     tagline: "Kota Delta dengan kekayaan kuliner dan budaya pesisir.",
-    shortDescription:
-      "Sidoarjo dikenal dengan kuliner bandeng, petis, kampung batik, dan berbagai peninggalan sejarah.",
-    population: "±2 juta jiwa",
-    area: "±714 km²",
-    dialect: "Jawa Suroboyoan",
+    summary:
+      "Sidoarjo memiliki identitas kuat melalui olahan bandeng, petis, kampung batik, dan peninggalan sejarah di kawasan delta.",
     nickname: "Kota Delta",
-    culturalHeritage: ["Batik Jetis", "Nyadran", "Tari Banjar Kemuning"],
+    dialect: "Jawa Suroboyoan",
+    cultureHighlights: ["Batik Jetis", "Nyadran", "Tari Banjar Kemuning"],
     foods: ["Bandeng Asap", "Lontong Kupang", "Petis"],
-    destinations: ["Candi Pari", "Kampung Batik Jetis", "Lumpur Lapindo"],
+    destinations: ["Kampung Batik Jetis", "Candi Pari", "Lumpur Lapindo"],
     uniqueFacts: ["Sidoarjo dikenal sebagai salah satu pusat olahan bandeng di Jawa Timur."],
-    assets: {
-      heroImage: "/images/regions/kabupaten-sidoarjo/hero/hero.jpg",
-      thumbnailImage: "/images/regions/kabupaten-sidoarjo/hero/thumbnail.jpg",
-      cultureImages: [
-        "/images/regions/kabupaten-sidoarjo/budaya/batik-jetis.jpg",
-        "/images/regions/kabupaten-sidoarjo/budaya/nyadran.jpg"
-      ],
-      foodImages: [
-        "/images/regions/kabupaten-sidoarjo/foods/bandeng-asap.jpg"
-      ],
-      destinationImages: [
-        "/images/regions/kabupaten-sidoarjo/destinations/candi-pari.jpg"
-      ],
-      gameAssets: {
-        puzzle: [
-          "/images/regions/kabupaten-sidoarjo/games/puzzle/candi-pari.jpg"
-        ]
-      }
-    },
-    isShowcase: true
+    isFeatured: true
   }
 ];
 ```
@@ -495,19 +525,19 @@ Prefix yang disarankan:
 
 Prioritas pengerjaan:
 
-1. Setup project Next.js + Tailwind.
-2. Setup struktur folder.
-3. Masukkan PRD dan SRS ke folder `docs`.
-4. Buat data dummy 2–5 daerah.
-5. Buat layout dasar homepage.
-6. Implement hero section.
-7. Implement featured region.
-8. Implement region detail page.
+1. Setup project Next.js + Tailwind. **Done**
+2. Setup struktur folder awal. **Done**
+3. Masukkan PRD, SRS, dan DG ke folder `docs`. **Done**
+4. Buat route homepage + section anchors. **Done**
+5. Buat route list region dan dynamic detail `/regions/[slug]`. **Done**
+6. Buat data dummy 38 daerah + showcase awal. **Done**
+7. Implement layout final homepage dari Figma.
+8. Implement featured region dan region detail final.
 9. Implement search/filter.
 10. Implement interactive map atau fallback region list.
 11. Implement Culture Quiz.
 12. Implement Match the Heritage.
-13. Implement Sliding Puzzle.
+13. Implement Sliding Puzzle jika masih masuk scope.
 14. Responsive testing.
 15. Deploy.
 16. Dokumentasi submission.
@@ -601,6 +631,7 @@ Checklist sebelum submit lomba:
 - [ ] README.md lengkap.
 - [ ] PRD.md tersedia di folder `docs`.
 - [ ] SRS.md tersedia di folder `docs`.
+- [ ] DG.md tersedia di folder `docs`.
 - [ ] Dokumentasi pembuatan PDF siap.
 - [ ] Surat orisinalitas siap.
 - [ ] Website responsive di desktop.
@@ -671,7 +702,7 @@ Jika lisensi aset tidak jelas, jangan gunakan aset tersebut.
 Current phase:
 
 ```txt
-Development Preparation
+Routing & Static Data Foundation
 ```
 
 Target:
@@ -690,6 +721,7 @@ Dokumen pendukung project:
 ```txt
 docs/PRD.md
 docs/SRS.md
+docs/DG.md
 README.md
 ```
 
