@@ -117,7 +117,7 @@ Catatan:
 - Responsive layout
 - Dokumentasi project
 
-### Mini Games
+### Mini game
 
 Project VAST memiliki 3 mini game edukatif:
 
@@ -155,7 +155,7 @@ vast/
 │   │           ├── budaya/
 │   │           ├── foods/
 │   │           ├── destinations/
-│   │           └── games/
+│   │           └── game/
 │   │               ├── quiz/
 │   │               ├── matching/
 │   │               └── puzzle/
@@ -166,7 +166,7 @@ vast/
 │   │   │   └── page.tsx
 │   │   ├── gallery/
 │   │   │   └── page.tsx
-│   │   ├── games/
+│   │   ├── game/
 │   │   │   ├── page.tsx
 │   │   │   ├── matching/
 │   │   │   │   └── page.tsx
@@ -188,7 +188,7 @@ vast/
 │   │   │   └── SiteFooter.tsx
 │   │   ├── sections/
 │   │   ├── regions/
-│   │   ├── games/
+│   │   ├── game/
 │   │   └── ui/
 │   ├── data/
 │   │   ├── batikPatterns.ts
@@ -217,7 +217,7 @@ vast/
 
 Catatan:
 
-- Folder `sections`, `regions`, `games`, `ui`, `constants`, dan `utils` sudah disiapkan sebagai tempat pengembangan berikutnya.
+- Folder `sections`, `regions`, `game`, `ui`, `constants`, dan `utils` sudah disiapkan sebagai tempat pengembangan berikutnya.
 - Project memakai Next.js App Router.
 - `next.config.ts` sudah diarahkan ke static export dengan `output: "export"`.
 
@@ -229,13 +229,13 @@ Route yang tersedia saat ini:
 
 | Route | Status | Keterangan |
 |---|---|---|
-| `/` | Ready | Homepage dengan placeholder hero, explorer, culture, games, dan about. |
+| `/` | Ready | Homepage dengan placeholder hero, explorer, culture, game, dan about. |
 | `/regions` | Ready | List 38 kabupaten/kota dari data statis. |
 | `/regions/[slug]` | Ready | Dynamic route detail region dari `src/data/regions.ts`. |
-| `/games` | Ready | Placeholder halaman daftar mini game. |
-| `/games/quiz` | Ready | Placeholder Culture Quiz. |
-| `/games/matching` | Ready | Placeholder Match the Heritage. |
-| `/games/puzzle` | Ready | Placeholder Sliding Puzzle. |
+| `/game` | Ready | Placeholder halaman daftar mini game. |
+| `/game/quiz` | Ready | Placeholder Culture Quiz. |
+| `/game/matching` | Ready | Placeholder Match the Heritage. |
+| `/game/puzzle` | Ready | Placeholder Sliding Puzzle. |
 | `/gallery` | Ready | Placeholder galeri budaya/pattern. |
 | `/about` | Ready | Placeholder penjelasan VAST dan SDG 11. |
 
@@ -245,7 +245,7 @@ Homepage juga memiliki section anchor:
 #home
 #explore
 #culture
-#games
+#game
 #about
 ```
 
@@ -263,7 +263,7 @@ public/images/regions/[regionSlug]/
 ├── budaya/
 ├── foods/
 ├── destinations/
-└── games/
+└── game/
     ├── quiz/
     ├── matching/
     └── puzzle/
@@ -285,7 +285,7 @@ public/images/regions/kabupaten-sidoarjo/
 ├── destinations/
 │   ├── candi-pari.jpg
 │   └── kampung-batik-jetis.jpg
-└── games/
+└── game/
     ├── quiz/
     ├── matching/
     └── puzzle/
@@ -298,7 +298,7 @@ Contoh path di data:
 "/images/regions/kabupaten-sidoarjo/budaya/batik-jetis.jpg"
 "/images/regions/kabupaten-sidoarjo/foods/bandeng-asap.jpg"
 "/images/regions/kabupaten-sidoarjo/destinations/candi-pari.jpg"
-"/images/regions/kabupaten-sidoarjo/games/puzzle/candi-pari.jpg"
+"/images/regions/kabupaten-sidoarjo/game/puzzle/candi-pari.jpg"
 ```
 
 ---

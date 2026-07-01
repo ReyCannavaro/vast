@@ -328,7 +328,7 @@ Acceptance Criteria:
 |---|---|---|
 | UI-001 | UI harus menggunakan identitas visual VAST yang konsisten: logo, typography, warna, pattern, dan visual budaya. | Must |
 | UI-002 | UI harus memiliki layout responsif untuk desktop, tablet, dan mobile. | Must |
-| UI-003 | Navigasi utama harus sederhana dan mengarah ke section penting: Explore, Regions, Games, Gallery, About. | Should |
+| UI-003 | Navigasi utama harus sederhana dan mengarah ke section penting: Explore, Regions, Game, Gallery, About. | Should |
 | UI-004 | Elemen interaktif harus memiliki feedback visual saat hover/click/active. | Must |
 | UI-005 | Teks harus menggunakan bahasa Indonesia yang jelas dan mudah dipahami siswa SMK. | Must |
 | UI-006 | Peta SVG harus memiliki fallback list view. | Must |
@@ -496,7 +496,7 @@ public/
     foods/
     batik/
     destinations/
-    games/
+    game/
 ```
 
 Penamaan file disarankan lowercase, tanpa spasi, dan memakai hyphen, misalnya `tari-gandrung-banyuwangi.webp`.
@@ -601,9 +601,9 @@ Tidak ada API endpoint pada MVP v1. Semua fungsi berikut berjalan di sisi client
 /
 /regions
 /regions/[slug]
-/games
-/games/quiz
-/games/matching
+/game
+/game/quiz
+/game/matching
 /gallery
 /about
 ```
@@ -622,7 +622,7 @@ vast/
       foods/
       batik/
       destinations/
-      games/
+      game/
   src/
     app/
       page.tsx
@@ -630,7 +630,7 @@ vast/
         page.tsx
         [slug]/
           page.tsx
-      games/
+      game/
         page.tsx
         quiz/
           page.tsx
@@ -645,7 +645,7 @@ vast/
       layout/
       sections/
       regions/
-      games/
+      game/
     data/
       regions.ts
       heritageItems.ts

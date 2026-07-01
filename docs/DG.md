@@ -45,9 +45,9 @@ Untuk MVP lomba, jumlah halaman disarankan **6 halaman utama**.
 |---|---|---|---|---|
 | 1 | Home / Landing Page | `/` | Must | Halaman utama untuk mengenalkan VAST, CTA, peta/region explorer, featured regions, journey, gallery, dan preview game. |
 | 2 | Region Detail Page | `/regions/[slug]` | Must | Menampilkan detail satu kota/kabupaten: hero, cultural identity card, budaya, makanan, destinasi, fakta unik, dan related game. |
-| 3 | Culture Quiz Page | `/games/quiz` | Must | Mini game kuis pilihan ganda tentang budaya Jawa Timur. |
-| 4 | Match the Heritage Page | `/games/matching` | Must | Mini game mencocokkan daerah dengan budaya/makanan/destinasi khas. |
-| 5 | Sliding Puzzle Page | `/games/puzzle` | Should/Must jika sempat | Mini game puzzle geser berbasis gambar budaya/destinasi daerah. |
+| 3 | Culture Quiz Page | `/game/quiz` | Must | Mini game kuis pilihan ganda tentang budaya Jawa Timur. |
+| 4 | Match the Heritage Page | `/game/matching` | Must | Mini game mencocokkan daerah dengan budaya/makanan/destinasi khas. |
+| 5 | Sliding Puzzle Page | `/game/puzzle` | Should/Must jika sempat | Mini game puzzle geser berbasis gambar budaya/destinasi daerah. |
 | 6 | About / Documentation Section atau Page | `/about` atau section di Home | Should | Menjelaskan tujuan VAST, relevansi SDG 11, dan cara kerja website. |
 
 ### Page Priority Notes
@@ -65,7 +65,7 @@ Home page harus menjadi landing page utama yang kuat secara branding dan mudah d
 
 | Order | Section | Priority | Description |
 |---|---|---|---|
-| 1 | Navbar | Must | Navigasi utama: Home, Explore, Culture, Games, About. |
+| 1 | Navbar | Must | Navigasi utama: Home, Explore, Culture, Game, About. |
 | 2 | Hero Section | Must | Headline, tagline, deskripsi singkat, CTA “Mulai Jelajah”, visual utama Jawa Timur. |
 | 3 | Problem / Why VAST | Should | Menjelaskan masalah: budaya tersebar, kurang interaktif, generasi muda kurang mengenal daerah. |
 | 4 | Value Proposition | Must | Menjelaskan kenapa VAST berbeda dari website budaya/pariwisata biasa. |
@@ -75,7 +75,7 @@ Home page harus menjadi landing page utama yang kuat secara branding dan mudah d
 | 8 | Cultural Journey | Should | Alur eksplorasi: pilih daerah → baca cerita → lihat budaya → main game. |
 | 9 | Budaya Gallery | Should | Galeri visual budaya seperti batik, tari, kesenian, festival, ikon lokal. |
 | 10 | Foods & Destinations Preview | Should | Preview makanan khas dan destinasi unggulan. |
-| 11 | Games Preview | Must | Preview 3 mini game: Quiz, Matching, Puzzle. |
+| 11 | Game Preview | Must | Preview 3 mini game: Quiz, Matching, Puzzle. |
 | 12 | SDG / Impact Section | Should | Menjelaskan hubungan VAST dengan SDG 11 dan pelestarian budaya. |
 | 13 | Final CTA | Must | CTA terakhir: “Mulai Jelajah Jawa Timur”. |
 | 14 | Footer | Must | Nama project, navigasi, credit tim, link repo/deploy jika dibutuhkan. |
@@ -258,7 +258,7 @@ public/images/regions/[regionSlug]/
 ├── budaya/
 ├── foods/
 ├── destinations/
-└── games/
+└── game/
     ├── quiz/
     ├── matching/
     └── puzzle/
@@ -272,9 +272,9 @@ public/images/regions/[regionSlug]/
 | `budaya/` | Batik, tari, adat, festival, kesenian, ikon budaya. |
 | `foods/` | Makanan/minuman khas. |
 | `destinations/` | Tempat wisata, heritage, landmark. |
-| `games/quiz/` | Gambar pendukung quiz jika dibutuhkan. |
-| `games/matching/` | Gambar/kartu untuk matching game. |
-| `games/puzzle/` | Gambar untuk sliding puzzle. |
+| `game/quiz/` | Gambar pendukung quiz jika dibutuhkan. |
+| `game/matching/` | Gambar/kartu untuk matching game. |
+| `game/puzzle/` | Gambar untuk sliding puzzle. |
 
 ### Naming Rules
 
