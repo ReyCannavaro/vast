@@ -1,6 +1,7 @@
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
+const root = process.cwd();
 const dataRoot = join(process.cwd(), "src", "data");
 
 function parseJsonArrayFromDataFile(filename, exportName) {
@@ -37,6 +38,10 @@ function slugify(type, name) {
   return `${type}-${name.toLowerCase().replaceAll(" ", "-")}`;
 }
 
+function toDiskPath(publicSrc) {
+  return join(root, "public", ...publicSrc.replace(/^\/+/, "").split("/"));
+}
+
 const regionsContent = readFileSync(join(dataRoot, "regions.ts"), "utf8");
 const expectedSlugs = [
   ...parseNamesArray(regionsContent, "kabupatenNames").map((name) =>
@@ -50,15 +55,18 @@ const matchingGameItems = parseJsonArrayFromDataFile(
   "matchingGameItems",
 );
 const quizQuestions = parseJsonArrayFromDataFile("quizQuestions.ts", "quizQuestions");
+const puzzleItems = parseJsonArrayFromDataFile("puzzleItems.ts", "puzzleItems");
 const validCategories = new Set(["food", "batik", "destination", "culture"]);
 const validDifficulties = new Set(["easy", "medium", "hard"]);
 const ids = new Set();
 const pairs = new Set();
 const quizIds = new Set();
+const puzzleIds = new Set();
 const errors = [];
 const warnings = [];
 const coverage = new Map(expectedSlugs.map((slug) => [slug, 0]));
 const quizCoverage = new Map(expectedSlugs.map((slug) => [slug, 0]));
+const puzzleCoverage = new Map(expectedSlugs.map((slug) => [slug, 0]));
 
 for (const item of matchingGameItems) {
   if (!item.id || !item.regionSlug || !item.leftLabel || !item.rightLabel) {
@@ -143,12 +151,52 @@ for (const [regionSlug, count] of quizCoverage) {
   }
 }
 
+for (const puzzle of puzzleItems) {
+  if (!puzzle.id || !puzzle.regionSlug || !puzzle.title || !puzzle.image?.src) {
+    errors.push(`Puzzle tidak lengkap: ${JSON.stringify(puzzle)}`);
+  }
+
+  if (puzzleIds.has(puzzle.id)) {
+    errors.push(`Duplikasi id puzzle: ${puzzle.id}`);
+  }
+
+  puzzleIds.add(puzzle.id);
+
+  if (!expectedSlugSet.has(puzzle.regionSlug)) {
+    errors.push(`regionSlug puzzle tidak valid: ${puzzle.regionSlug}`);
+  }
+
+  if (!validDifficulties.has(puzzle.difficulty)) {
+    errors.push(`Difficulty puzzle tidak valid: ${puzzle.difficulty}`);
+  }
+
+  if (!Number.isInteger(puzzle.gridSize) || puzzle.gridSize < 3 || puzzle.gridSize > 4) {
+    errors.push(`Grid puzzle tidak valid untuk ${puzzle.id}: ${puzzle.gridSize}`);
+  }
+
+  if (puzzle.image?.src && !existsSync(toDiskPath(puzzle.image.src))) {
+    errors.push(`Gambar puzzle belum ada untuk ${puzzle.id}: ${puzzle.image.src}`);
+  }
+
+  puzzleCoverage.set(puzzle.regionSlug, (puzzleCoverage.get(puzzle.regionSlug) ?? 0) + 1);
+}
+
+for (const [regionSlug, count] of puzzleCoverage) {
+  if (count === 0) {
+    warnings.push(`${regionSlug}: belum punya item puzzle`);
+  }
+}
+
 const categoryCounts = matchingGameItems.reduce((counts, item) => {
   counts[item.category] = (counts[item.category] ?? 0) + 1;
   return counts;
 }, {});
 const difficultyCounts = quizQuestions.reduce((counts, question) => {
   counts[question.difficulty] = (counts[question.difficulty] ?? 0) + 1;
+  return counts;
+}, {});
+const puzzleDifficultyCounts = puzzleItems.reduce((counts, puzzle) => {
+  counts[puzzle.difficulty] = (counts[puzzle.difficulty] ?? 0) + 1;
   return counts;
 }, {});
 
@@ -160,6 +208,9 @@ const result = {
     quizQuestions: quizQuestions.length,
     quizCoveredRegions: [...quizCoverage.values()].filter((count) => count > 0).length,
     quizDifficulties: difficultyCounts,
+    puzzleItems: puzzleItems.length,
+    puzzleCoveredRegions: [...puzzleCoverage.values()].filter((count) => count > 0).length,
+    puzzleDifficulties: puzzleDifficultyCounts,
   },
   passed: errors.length === 0,
   errors,
