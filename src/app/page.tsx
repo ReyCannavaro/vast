@@ -1,74 +1,177 @@
 import Image from "next/image";
 import Link from "next/link";
 import { SiteFooter, SiteHeader } from "@/components/layout";
-import { batikPatterns } from "@/data/batikPatterns";
-import { destinations } from "@/data/destinations";
-import { foods } from "@/data/foods";
 import { heritageItems } from "@/data/heritageItems";
-import { getGameCatalog } from "@/lib/gameService";
 import { getEastJavaMapData } from "@/lib/mapService";
-import { getAllRegions, getFeaturedRegions } from "@/lib/regionService";
+import { getAllRegions } from "@/lib/regionService";
 
-const categoryCards = [
+const featureCards = [
   {
     title: "Galeri Warisan Budaya",
     description:
-      "Jelajahi koleksi pertunjukan, tradisi, ritual, dan ikon budaya daerah Jawa Timur.",
-    total: heritageItems.length,
+      "Jelajahi koleksi pertunjukan seni tradisional, situs bersejarah, kerajinan lokal, dan perayaan budaya dari berbagai daerah di Jawa Timur.",
+    icon: "heritage",
   },
   {
     title: "Kuliner Khas",
     description:
-      "Temukan cita rasa autentik dari hidangan khas yang mencerminkan karakter daerah.",
-    total: foods.length,
+      "Temukan cita rasa autentik dan hidangan khas yang mencerminkan kekayaan kuliner dari setiap kota dan kabupaten di Jawa Timur.",
+    icon: "culinary",
   },
   {
     title: "Destinasi Budaya",
     description:
-      "Telusuri tempat bersejarah, lanskap alam, dan landmark yang menyimpan cerita lokal.",
-    total: destinations.length,
-  },
-  {
-    title: "Batik Khas Daerah",
-    description:
-      "Kenali motif batik lokal yang membawa simbol, warna, dan inspirasi khas tiap daerah.",
-    total: batikPatterns.length,
+      "Temukan berbagai destinasi bersejarah, wisata budaya, dan tempat ikonik yang mencerminkan kekayaan warisan Jawa Timur.",
+    icon: "destination",
   },
 ];
 
-function MiniMapPreview() {
-  const mapData = getEastJavaMapData();
-  const selectedRegion = mapData.regions.find(
-    (item) => item.region.slug === "kabupaten-banyuwangi",
-  );
+const cultureHighlights = [
+  {
+    title: "Identitas Budaya",
+    description:
+      "Kenali ciri khas setiap kota dan kabupaten melalui tradisi, pakaian adat, bahasa daerah, kesenian, serta warisan budaya yang masih lestari.",
+    icon: "heritage",
+  },
+  {
+    title: "Peta Budaya Interaktif",
+    description:
+      "Jelajahi setiap daerah melalui peta interaktif dan temukan kisah unik di balik kekayaan budaya yang dimiliki setiap kota dan kabupaten di Jawa Timur.",
+    icon: "pin",
+  },
+  {
+    title: "Galeri Warisan Budaya",
+    description:
+      "Jelajahi koleksi foto dan dokumentasi yang menampilkan seni tradisional, festival budaya, situs bersejarah, serta keindahan berbagai daerah di Jawa Timur.",
+    icon: "gallery",
+  },
+];
+
+const regionFilters = ["Semua Daerah", "Tapal Kuda", "Mataraman", "Areman", "Madura"];
+
+function FeatureIcon({ type }: { type: string }) {
+  if (type === "culinary") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true" className="h-7 w-7">
+        <path
+          d="M6.5 11.5c0-4 3-7 5.5-7s5.5 3 5.5 7m-13 0h15l-1.4 5.7a2 2 0 0 1-1.9 1.5H7.3a2 2 0 0 1-1.9-1.5L4 11.5Z"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.7"
+        />
+        <path
+          d="M8 9.5c.8-.9 2-1.5 4-1.5s3.2.6 4 1.5"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeWidth="1.7"
+        />
+      </svg>
+    );
+  }
+
+  if (type === "destination") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true" className="h-7 w-7">
+        <path
+          d="M4.5 6.5h6v7h-6v-7Zm9 0h6v7h-6v-7ZM7.5 16.5c1 1.2 2.5 2 4.5 2s3.5-.8 4.5-2"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.7"
+        />
+        <path
+          d="M7 10h1m8 0h1"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeWidth="1.7"
+        />
+      </svg>
+    );
+  }
+
+  if (type === "pin") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true" className="h-7 w-7">
+        <path
+          d="M12 20s6-5.3 6-10a6 6 0 0 0-12 0c0 4.7 6 10 6 10Z"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.7"
+        />
+        <circle cx="12" cy="10" r="2" fill="none" stroke="currentColor" strokeWidth="1.7" />
+      </svg>
+    );
+  }
+
+  if (type === "gallery") {
+    return (
+      <svg viewBox="0 0 24 24" aria-hidden="true" className="h-7 w-7">
+        <path
+          d="M5 6h14v12H5V6Zm3 8 2.5-2.5 2 2 1.5-1.5L17 15"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="1.7"
+        />
+      </svg>
+    );
+  }
 
   return (
-    <div className="rounded-[18px] border border-border bg-surface p-5 shadow-[0_18px_50px_rgb(38_35_31_/_0.06)]">
-      <div className="mb-4 flex items-center justify-between text-xs font-semibold text-muted">
-        <span>Interactive Region Map</span>
-        <span>{mapData.mappedRegions} regions</span>
+    <svg viewBox="0 0 24 24" aria-hidden="true" className="h-7 w-7">
+      <path
+        d="M5 19h14M7 19V8l5-3 5 3v11M10 19v-5h4v5M9 10h1m4 0h1"
+        fill="none"
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.7"
+      />
+    </svg>
+  );
+}
+
+function MiniMapPreview() {
+  const mapData = getEastJavaMapData();
+  const selectedRegion =
+    mapData.regions.find((item) => item.region.slug === "kabupaten-malang") ??
+    mapData.regions[0];
+
+  return (
+    <div className="rounded-[10px] border border-[#d9c8b8] bg-white p-6">
+      <h2 className="text-xl font-medium text-[#332f2a]">Interactive Region Map</h2>
+      <div className="mt-6 grid min-h-[310px] place-items-center rounded-[8px] bg-[#e8e4df] px-8 py-6">
+        <div className="grid h-full w-full max-w-[430px] place-items-center bg-[#5c97a1] px-7 py-5">
+          <svg
+            viewBox={mapData.viewBox}
+            role="img"
+            aria-label="Preview peta wilayah Jawa Timur"
+            className="h-auto w-full max-w-[290px]"
+          >
+            <path d={mapData.path} fill="#e9dfc8" stroke="#f8f3e7" strokeWidth="0.42" />
+            {mapData.regions.map((item) => (
+              <circle
+                key={item.region.slug}
+                cx={item.x}
+                cy={item.y}
+                r={item.region.slug === selectedRegion.region.slug ? 3 : 1.2}
+                fill={item.region.slug === selectedRegion.region.slug ? "#d76b36" : "#e9dfc8"}
+                stroke="#f8f3e7"
+                strokeWidth="0.32"
+              />
+            ))}
+          </svg>
+        </div>
       </div>
-      <div className="grid min-h-[250px] place-items-center rounded-[10px] bg-[#5b97a0] p-5">
-        <svg
-          viewBox={mapData.viewBox}
-          role="img"
-          aria-label="Preview peta Jawa Timur"
-          className="h-auto w-full max-w-[360px]"
-        >
-          <path d={mapData.path} fill="#e8dfcb" stroke="#f8f4ea" strokeWidth="0.55" />
-          {selectedRegion ? (
-            <circle
-              cx={selectedRegion.x}
-              cy={selectedRegion.y}
-              r="2.4"
-              fill="#d86435"
-              stroke="#f8f4ea"
-              strokeWidth="0.55"
-            />
-          ) : null}
-        </svg>
-      </div>
-      <p className="mt-4 text-center text-xs text-muted">
+      <p className="mt-6 text-center text-sm text-[#4f4942]">
         Click on a region to explore its unique identity.
       </p>
     </div>
@@ -77,296 +180,266 @@ function MiniMapPreview() {
 
 export default function Home() {
   const regions = getAllRegions();
-  const featuredRegions = getFeaturedRegions();
-  const gameCatalog = getGameCatalog();
-  const spotlightRegion = featuredRegions.find(
-    (region) => region.slug === "kabupaten-banyuwangi",
-  ) ?? featuredRegions[0];
-  const featuredDestinations = destinations
-    .filter((destination) => destination.image)
-    .slice(0, 3);
 
   return (
-    <div className="vast-shell">
+    <div className="min-h-screen bg-white text-[#111111]">
       <SiteHeader />
       <main>
-        <section id="home" className="relative min-h-[760px] overflow-hidden bg-ink text-white">
+        <section id="home" className="relative min-h-[820px] overflow-visible bg-[#1b1714] text-white">
           <Image
-            src="/images/regions/kabupaten-banyuwangi/hero/hero.jpg"
-            alt="Lanskap budaya Banyuwangi sebagai pembuka VAST"
+            src="/images/regions/kota-surabaya/hero/hero.jpg"
+            alt="Surabaya sebagai pembuka eksplorasi budaya Jawa Timur"
             fill
             priority
-            className="object-cover opacity-60"
+            className="object-cover"
             sizes="100vw"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/36 to-black/24" />
-          <div className="relative mx-auto flex min-h-[760px] max-w-7xl flex-col justify-center px-6 pb-24 pt-32 lg:px-10">
-            <div className="max-w-2xl">
-              <h1 className="text-5xl font-bold leading-[1.08] tracking-[-0.04em] md:text-7xl">
+          <div className="absolute inset-0 bg-[linear-gradient(90deg,rgb(0_0_0_/_0.34),rgb(0_0_0_/_0.18)_46%,rgb(0_0_0_/_0.10)),linear-gradient(180deg,rgb(0_0_0_/_0.22),rgb(0_0_0_/_0.08)_48%,rgb(0_0_0_/_0.30))]" />
+
+          <div className="relative mx-auto max-w-[1340px] px-6 pb-48 pt-[178px] sm:px-10 lg:px-20">
+            <div className="max-w-[610px]">
+              <h1 className="text-[52px] font-semibold leading-[1.24] tracking-[-0.02em] sm:text-[66px] lg:text-[78px]">
                 Satu Peta, 38 Daerah, Tak Terbatas Cerita.
               </h1>
-              <p className="mt-8 max-w-xl text-sm leading-7 text-white/78 md:text-base">
-                Jelajahi kekayaan budaya Jawa Timur melalui pengalaman interaktif:
-                temukan tradisi lokal, destinasi ikonik, kuliner khas, dan kisah unik
+              <p className="mt-12 max-w-[730px] text-[15px] font-medium leading-6 text-white/72">
+                Jelajahi kekayaan budaya Jawa Timur melalui satu pengalaman interaktif.
+                Temukan tradisi lokal, destinasi ikonik, kuliner khas, dan kisah unik
                 dari setiap kota dan kabupaten.
               </p>
             </div>
           </div>
-          <div className="absolute bottom-[-82px] left-1/2 hidden w-[680px] -translate-x-1/2 rounded-[18px] bg-surface p-7 text-foreground shadow-[0_26px_80px_rgb(0_0_0_/_0.16)] lg:grid lg:grid-cols-[260px_1fr] lg:gap-9">
-            <div className="relative overflow-hidden rounded-[12px] bg-sand">
-              <Image
-                src={spotlightRegion.heroImage?.src ?? "/images/regions/kota-surabaya/hero/hero.jpg"}
-                alt={spotlightRegion.heroImage?.alt ?? spotlightRegion.name}
-                fill
-                className="object-cover"
-                sizes="260px"
-              />
-            </div>
-            <div className="py-3">
-              <h2 className="text-2xl font-bold">Jelajahi Pesona Budaya Jawa Timur</h2>
-              <p className="mt-4 text-sm leading-6 text-muted">
-                Temukan kekayaan budaya, destinasi, dan kuliner khas dari halaman
-                daerah yang saling terhubung dengan data lokal.
-              </p>
-              <div className="mt-6 flex gap-3">
-                <Link
-                  href="/regions"
-                  className="inline-flex h-10 items-center rounded-full bg-primary px-5 text-xs font-bold text-white transition hover:bg-secondary"
-                >
-                  Mulai Menjelajah
-                </Link>
-                <Link
-                  href="/gallery"
-                  className="inline-flex h-10 items-center rounded-full bg-ink px-5 text-xs font-bold text-white transition hover:bg-primary"
-                >
-                  Lihat Galeri
-                </Link>
+
+          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] bg-white/95 px-7 py-7 text-[#111111] shadow-[0_22px_42px_rgb(0_0_0_/_0.085)] backdrop-blur-sm sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
+            <div className="grid gap-7 md:grid-cols-[285px_1fr] md:items-center">
+              <div className="relative min-h-[192px] overflow-hidden rounded-[14px] bg-[#c8c8c8]">
+                <Image
+                  src="/images/regions/kabupaten-banyuwangi/budaya/gandrung-banyuwangi.jpg"
+                  alt="Tari Gandrung Banyuwangi"
+                  fill
+                  className="object-cover opacity-35 grayscale"
+                  sizes="285px"
+                />
+              </div>
+              <div className="md:pl-6">
+                <h2 className="max-w-[300px] text-[26px] font-bold leading-[1.28] tracking-[-0.03em]">
+                  Jelajahi Pesona Budaya Jawa Timur
+                </h2>
+                <p className="mt-5 max-w-[320px] text-[12px] leading-6 text-[#7a746e]">
+                  Temukan kekayaan budaya, destinasi, dan kuliner khas dari setiap
+                  daerah melalui pengalaman digital yang interaktif dan mudah dijelajahi.
+                </p>
+                <div className="mt-7 flex flex-wrap gap-4">
+                  <Link
+                    href="/regions"
+                    className="inline-flex h-10 items-center justify-center rounded-full bg-[#8c531f] px-5 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
+                  >
+                    Mulai Menjelajah
+                  </Link>
+                  <Link
+                    href="/regions"
+                    className="inline-flex h-10 items-center justify-center rounded-full bg-black px-5 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
+                  >
+                    Lihat Daerah
+                  </Link>
+                </div>
               </div>
             </div>
           </div>
         </section>
 
-        <section className="mx-auto grid max-w-7xl gap-16 px-6 pb-24 pt-36 lg:grid-cols-[1fr_0.86fr] lg:px-10">
-          <div className="relative min-h-[660px] overflow-hidden rounded-[4px] bg-sand">
+        <section className="mx-auto grid max-w-[1350px] gap-20 px-6 pb-36 pt-[142px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
+          <div className="relative min-h-[610px] overflow-hidden bg-[#c9c9c9] lg:min-h-[750px]">
             <Image
               src="/images/regions/kota-surabaya/destinations/tugu-pahlawan.jpg"
               alt="Tugu Pahlawan Surabaya"
               fill
-              className="object-cover opacity-80"
-              sizes="(min-width: 1024px) 50vw, 100vw"
+              className="object-cover opacity-20 grayscale"
+              sizes="(min-width: 1024px) 48vw, 100vw"
             />
-            <div className="absolute bottom-0 left-0 h-1/2 w-1/2 bg-gradient-to-t from-background to-transparent" />
           </div>
-          <div className="flex flex-col justify-center">
-            <h2 className="max-w-md text-4xl font-bold leading-tight tracking-[-0.03em] text-foreground">
+
+          <div className="flex flex-col justify-center pb-6 lg:pl-10">
+            <h2 className="max-w-[520px] text-[42px] font-semibold leading-[1.18] tracking-[-0.03em] text-[#252b35] sm:text-[52px]">
               Temukan Kisah di Balik Setiap Daerah
             </h2>
-            <p className="mt-7 max-w-md text-sm leading-7 text-muted">
+            <p className="mt-10 max-w-[520px] text-[18px] leading-[1.18] tracking-[-0.02em] text-[#5f5a56]">
               Jelajahi keberagaman budaya Jawa Timur melalui tradisi, destinasi
               ikonik, kuliner khas, dan warisan budaya yang tersaji dalam satu
               platform interaktif.
             </p>
-            <div className="mt-12 grid gap-5 sm:grid-cols-2">
-              <div>
-                <p className="text-4xl font-semibold text-foreground">{heritageItems.length}+</p>
-                <p className="mt-2 text-sm text-muted">Warisan Budaya</p>
-              </div>
-              <div>
-                <p className="text-4xl font-semibold text-foreground">{regions.length}+</p>
-                <p className="mt-2 text-sm text-muted">Kota dan Kabupaten</p>
+
+            <div className="mt-24 grid gap-10 lg:grid-cols-[1fr_0.9fr] lg:items-start">
+              <p className="max-w-[275px] text-[22px] leading-[1.55] tracking-[-0.02em] text-[#262b35]">
+                Menjelajahi Warisan Budaya, Satu Daerah dalam Setiap Perjalanan.
+              </p>
+              <div className="rounded-[8px] bg-[#8c531f] px-9 py-7 text-white">
+                <h3 className="text-[15px] font-semibold leading-[1.3]">
+                  Menjelajahi Warisan Budaya Jawa Timur
+                </h3>
+                <p className="mt-5 text-[14px] leading-[1.12] text-white/78">
+                  Discover authentic traditions, regional specialties, breathtaking
+                  destinations, and inspiring stories from all 38 cities and regencies.
+                </p>
               </div>
             </div>
-            <div className="mt-10 max-w-sm rounded-[10px] bg-primary p-5 text-white">
-              <p className="text-sm font-bold">Menjelajahi Warisan Budaya Jawa Timur</p>
-              <p className="mt-3 text-xs leading-6 text-white/75">
-                Discover authentic traditions, regional specialties, breathtaking
-                destinations, and inspiring stories from all 38 cities and regencies.
-              </p>
+
+            <div className="mt-28 grid grid-cols-2 gap-10">
+              <div>
+                <p className="text-[56px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
+                  {heritageItems.length}+
+                </p>
+                <p className="mt-7 text-[15px] text-[#252b35]">Warisan Budaya</p>
+              </div>
+              <div>
+                <p className="text-[56px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
+                  {regions.length}+
+                </p>
+                <p className="mt-7 text-[15px] text-[#252b35]">Kota & Kabupaten</p>
+              </div>
             </div>
           </div>
         </section>
 
-        <section id="culture" className="mx-auto max-w-7xl px-6 py-20 lg:px-10">
-          <div className="relative min-h-[380px]">
-            <div className="absolute right-0 top-0 hidden h-[300px] w-[58%] overflow-hidden rounded-[18px] bg-sand lg:block">
+        <section id="culture" className="mx-auto max-w-[1350px] px-6 py-20 sm:px-10 lg:px-20">
+          <div className="relative min-h-[440px] lg:min-h-[520px]">
+            <div className="absolute right-0 top-0 hidden h-[410px] w-[58%] overflow-hidden rounded-[26px] bg-[#c9c9c9] lg:block">
               <Image
                 src="/images/regions/kabupaten-ponorogo/budaya/reog-ponorogo.jpeg"
                 alt="Reog Ponorogo"
                 fill
-                className="object-cover opacity-80"
+                className="object-cover opacity-20 grayscale"
                 sizes="50vw"
               />
             </div>
-            <div className="relative max-w-xl rounded-[18px] bg-white p-12 shadow-[0_20px_70px_rgb(38_35_31_/_0.08)]">
-              <h2 className="text-4xl font-bold leading-tight tracking-[-0.03em]">
+            <div className="relative top-20 max-w-[630px] rounded-[18px] bg-white px-14 py-14 shadow-[0_18px_42px_rgb(0_0_0_/_0.06)] sm:px-16 sm:py-16">
+              <h2 className="text-[46px] font-semibold leading-[1.24] tracking-[-0.04em] sm:text-[60px]">
                 Jelajahi Warisan Budaya Jawa Timur
               </h2>
-              <p className="mt-6 text-sm leading-7 text-muted">
+              <p className="mt-12 max-w-[520px] text-[15px] leading-[1.6] text-[#6f6a64]">
                 Temukan kekayaan budaya Jawa Timur melalui peta interaktif yang
-                menghadirkan tradisi, kuliner khas, destinasi ikonik, dan kisah
-                daerah dari 38 kota dan kabupaten.
+                menghadirkan tradisi, kuliner khas, destinasi ikonik, dan kisah dari
+                38 kota dan kabupaten.
               </p>
             </div>
           </div>
 
-          <div className="mt-10 grid gap-8 md:grid-cols-4">
-            {categoryCards.map((item) => (
+          <div className="mt-28 grid gap-12 md:grid-cols-3">
+            {featureCards.map((item) => (
               <article
                 key={item.title}
-                className="rounded-[18px] bg-white p-9 text-center shadow-[0_18px_55px_rgb(38_35_31_/_0.05)]"
+                className="min-h-[330px] rounded-[10px] bg-white px-12 py-14 text-center shadow-[0_16px_42px_rgb(0_0_0_/_0.045)]"
               >
-                <div className="mx-auto grid h-12 w-12 place-items-center rounded-[8px] bg-primary text-sm font-black text-white">
-                  {item.total}
+                <div className="mx-auto grid h-[58px] w-[58px] place-items-center rounded-[6px] bg-[#8c531f] text-white">
+                  <FeatureIcon type={item.icon} />
                 </div>
-                <h3 className="mt-8 text-lg font-bold text-foreground">{item.title}</h3>
-                <p className="mt-5 text-sm leading-7 text-muted">{item.description}</p>
+                <h3 className="mt-14 text-[24px] font-semibold tracking-[-0.03em]">
+                  {item.title}
+                </h3>
+                <p className="mx-auto mt-10 max-w-[280px] text-[15px] leading-[1.65] text-[#807a73]">
+                  {item.description}
+                </p>
               </article>
             ))}
           </div>
         </section>
 
-        <section id="explore" className="mx-auto grid max-w-7xl gap-10 px-6 py-20 lg:grid-cols-[1fr_0.9fr] lg:px-10">
+        <section id="explore" className="mx-auto grid max-w-[1210px] gap-12 px-6 pb-32 pt-40 sm:px-10 lg:grid-cols-[1.08fr_0.75fr] lg:px-0">
           <MiniMapPreview />
-          <div className="flex flex-col justify-center">
-            <h2 className="text-4xl font-bold tracking-[-0.03em]">
+
+          <div className="pt-5">
+            <h2 className="text-[42px] font-semibold leading-tight tracking-[-0.04em]">
               Temukan Daerah Tujuan
             </h2>
-            <div className="mt-7 rounded-[10px] border border-border bg-surface px-5 py-4 text-sm text-muted">
-              Cari kota, budaya, atau kuliner...
+            <div className="mt-8 flex h-[60px] items-center gap-4 rounded-[10px] border border-[#d9c8b8] bg-[#fffdf9] px-5 text-[#7b7480]">
+              <svg viewBox="0 0 24 24" aria-hidden="true" className="h-7 w-7 text-[#332f2a]">
+                <path
+                  d="m20 20-4.8-4.8m2-5.2a7.2 7.2 0 1 1-14.4 0 7.2 7.2 0 0 1 14.4 0Z"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeLinecap="round"
+                  strokeWidth="2"
+                />
+              </svg>
+              <span className="text-[18px]">Cari kota, budaya, atau kuliner...</span>
             </div>
-            <div className="mt-5 flex flex-wrap gap-3">
-              {["Semua Daerah", "Tapal Kuda", "Mataraman", "Arek", "Madura"].map((item, index) => (
-                <span
+            <div className="mt-7 flex flex-wrap gap-3">
+              {regionFilters.map((item, index) => (
+                <Link
                   key={item}
-                  className={`rounded-full px-4 py-2 text-xs font-bold ${
-                    index === 0 ? "bg-primary text-white" : "bg-sand text-muted"
+                  href="/regions"
+                  className={`inline-flex h-11 items-center rounded-full border px-5 text-[15px] font-medium transition ${
+                    index === 0
+                      ? "border-[#8c531f] bg-[#8c531f] text-white hover:bg-[#a2632c]"
+                      : "border-[#d9c8b8] bg-white text-[#594d43] hover:border-[#8c531f] hover:text-[#8c531f]"
                   }`}
                 >
                   {item}
-                </span>
+                </Link>
               ))}
             </div>
-            <Link
-              href="/regions"
-              className="mt-9 inline-flex h-12 w-fit items-center rounded-full bg-primary px-6 text-sm font-bold text-white transition hover:bg-secondary"
-            >
-              Buka Explore Map
-            </Link>
           </div>
         </section>
 
-        <section className="mx-auto max-w-7xl px-6 py-20 text-center lg:px-10">
-          <h2 className="text-4xl font-bold tracking-[-0.03em]">
+        <section className="mx-auto max-w-[1210px] px-6 pb-28 pt-10 text-center sm:px-10 lg:px-0">
+          <h2 className="text-[44px] font-semibold leading-tight tracking-[-0.04em] sm:text-[58px]">
             Rasakan Kekayaan Budaya Jawa Timur
           </h2>
-          <p className="mx-auto mt-6 max-w-3xl text-sm leading-7 text-muted">
-            Jelajahi tradisi, kuliner khas, destinasi ikonik, dan warisan budaya
-            dari 38 kota dan kabupaten dalam satu pengalaman digital interaktif.
+          <p className="mx-auto mt-8 max-w-[860px] text-[17px] font-semibold leading-[1.55] tracking-[-0.02em]">
+            Jelajahi tradisi, kuliner khas, destinasi ikonik, dan warisan budaya dari
+            38 kota dan kabupaten dalam satu pengalaman digital yang interaktif.
           </p>
-          <div className="mt-16 grid gap-10 text-left lg:grid-cols-[0.95fr_1fr]">
-            <div className="relative min-h-[540px] overflow-hidden rounded-[18px] bg-sand">
+
+          <div className="mt-36 grid gap-24 text-left lg:grid-cols-[0.95fr_0.85fr] lg:items-start">
+            <div className="relative min-h-[540px] rounded-[22px] bg-[#c9c9c9]">
               <Image
-                src="/images/regions/kabupaten-probolinggo/hero/hero.jpg"
-                alt="Bentang alam Probolinggo"
+                src="/images/regions/kabupaten-banyuwangi/destinations/kawah-ijen.jpg"
+                alt="Kawah Ijen Banyuwangi"
                 fill
-                className="object-cover opacity-80"
-                sizes="(min-width: 1024px) 50vw, 100vw"
+                className="rounded-[22px] object-cover opacity-20 grayscale"
+                sizes="(min-width: 1024px) 48vw, 100vw"
               />
-              <div className="absolute bottom-8 left-8 right-8 rounded-[16px] bg-white p-8 shadow-[0_18px_55px_rgb(38_35_31_/_0.12)]">
-                <h3 className="text-xl font-bold">Learn While You Play</h3>
-                <p className="mt-4 text-sm leading-7 text-muted">
+              <div className="absolute bottom-[-44px] left-1/2 w-[88%] -translate-x-1/2 rounded-[20px] bg-white px-12 py-12 shadow-[0_18px_42px_rgb(0_0_0_/_0.055)]">
+                <h3 className="text-[28px] font-semibold tracking-[-0.04em]">
+                  Learn While You Play
+                </h3>
+                <p className="mt-10 max-w-[420px] text-[13px] leading-[1.55] text-[#7c766f]">
                   Challenge yourself with educational mini games designed to make
-                  exploring East Java&apos;s culture engaging and memorable.
+                  exploring East Java&apos;s culture engaging and memorable for everyone.
                 </p>
-                <div className="mt-6 flex gap-3">
+                <div className="mt-8 flex flex-wrap gap-4">
                   <Link
-                    href="/game"
-                    className="rounded-full bg-primary px-5 py-3 text-xs font-bold text-white"
+                    href="/regions"
+                    className="inline-flex h-11 items-center rounded-full bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
                   >
                     Explore the Map
                   </Link>
                   <Link
                     href="/game"
-                    className="rounded-full bg-ink px-5 py-3 text-xs font-bold text-white"
+                    className="inline-flex h-11 items-center rounded-full bg-black px-6 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
                   >
                     Play Mini Game
                   </Link>
                 </div>
               </div>
             </div>
-            <div className="grid content-center gap-10">
-              {[
-                [
-                  "Identitas Budaya",
-                  "Kenali ciri khas setiap kota dan kabupaten melalui tradisi, pakaian adat, bahasa daerah, kesenian, serta warisan budaya yang masih lestari.",
-                ],
-                [
-                  "Peta Budaya Interaktif",
-                  "Jelajahi spot budaya melalui peta interaktif dan temukan kisah unik di balik kabupaten dan kota Jawa Timur.",
-                ],
-                [
-                  "Galeri Warisan Budaya",
-                  "Jelajahi koleksi foto dan dokumentasi yang menampilkan seni tradisional, festival budaya, situs bersejarah, serta kekayaan kerajinan daerah.",
-                ],
-              ].map(([title, description]) => (
-                <article key={title} className="grid gap-5 sm:grid-cols-[54px_1fr]">
-                  <div className="grid h-12 w-12 place-items-center rounded-[8px] bg-primary text-sm font-black text-white">
-                    {title.slice(0, 1)}
+
+            <div className="grid gap-24 pb-12 lg:pt-8">
+              {cultureHighlights.map((item) => (
+                <article key={item.title} className="grid gap-8 sm:grid-cols-[58px_1fr]">
+                  <div className="grid h-[58px] w-[58px] place-items-center rounded-[6px] bg-[#8c531f] text-white">
+                    <FeatureIcon type={item.icon} />
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold">{title}</h3>
-                    <p className="mt-3 text-sm leading-7 text-muted">{description}</p>
+                    <h3 className="text-[24px] font-semibold tracking-[-0.03em]">
+                      {item.title}
+                    </h3>
+                    <p className="mt-8 max-w-[490px] text-[13px] leading-[1.9] text-[#807a73]">
+                      {item.description}
+                    </p>
                   </div>
                 </article>
               ))}
             </div>
-          </div>
-        </section>
-
-        <section id="game" className="mx-auto max-w-7xl px-6 py-20 lg:px-10">
-          <div className="grid gap-6 md:grid-cols-3">
-            {gameCatalog.map((game) => (
-              <Link
-                key={game.mode}
-                href={game.href}
-                className="rounded-[18px] border border-border bg-white p-7 transition hover:-translate-y-1 hover:shadow-[0_20px_70px_rgb(38_35_31_/_0.08)]"
-              >
-                <p className="text-xs font-bold uppercase tracking-[0.12em] text-primary">
-                  {game.totalItems} data
-                </p>
-                <h3 className="mt-6 text-2xl font-bold">{game.title}</h3>
-                <p className="mt-4 text-sm leading-7 text-muted">{game.description}</p>
-              </Link>
-            ))}
-          </div>
-        </section>
-
-        <section className="mx-auto max-w-7xl px-6 py-20 lg:px-10">
-          <div className="grid gap-6 md:grid-cols-3">
-            {featuredDestinations.map((destination) => (
-              <article
-                key={destination.id}
-                className="overflow-hidden rounded-[18px] bg-white shadow-[0_18px_55px_rgb(38_35_31_/_0.05)]"
-              >
-                <div className="relative aspect-[4/3] bg-sand">
-                  {destination.image ? (
-                    <Image
-                      src={destination.image.src}
-                      alt={destination.image.alt}
-                      fill
-                      className="object-cover"
-                      sizes="(min-width: 768px) 33vw, 100vw"
-                    />
-                  ) : null}
-                </div>
-                <div className="p-6">
-                  <p className="text-xs font-bold uppercase text-primary">
-                    {destination.regionSlug.replaceAll("-", " ")}
-                  </p>
-                  <h3 className="mt-3 text-xl font-bold">{destination.name}</h3>
-                </div>
-              </article>
-            ))}
           </div>
         </section>
       </main>
