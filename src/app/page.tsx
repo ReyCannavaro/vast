@@ -142,8 +142,11 @@ function FeatureIcon({ type }: { type: string }) {
 function MiniMapPreview() {
   const mapData = getEastJavaMapData();
   const selectedRegion =
-    mapData.regions.find((item) => item.region.slug === "kabupaten-malang") ??
+    mapData.regions.find((item) => item.region.slug === "kabupaten-banyuwangi") ??
     mapData.regions[0];
+  const selectedArea = mapData.highlightAreas.find(
+    (item) => item.regionSlug === selectedRegion.region.slug,
+  );
 
   return (
     <div className="rounded-[10px] border border-[#d9c8b8] bg-white p-6">
@@ -156,18 +159,41 @@ function MiniMapPreview() {
             aria-label="Preview peta wilayah Jawa Timur"
             className="h-auto w-full max-w-[290px]"
           >
-            <path d={mapData.path} fill="#e9dfc8" stroke="#f8f3e7" strokeWidth="0.42" />
-            {mapData.regions.map((item) => (
-              <circle
-                key={item.region.slug}
-                cx={item.x}
-                cy={item.y}
-                r={item.region.slug === selectedRegion.region.slug ? 3 : 1.2}
-                fill={item.region.slug === selectedRegion.region.slug ? "#d76b36" : "#e9dfc8"}
+            <defs>
+              <clipPath id="home-east-java-map-clip">
+                <path d={mapData.path} />
+              </clipPath>
+            </defs>
+            <path d={mapData.path} fill="#e9dfc8" stroke="#f8f3e7" strokeWidth="0.48" />
+            {selectedArea ? (
+              <path
+                d={selectedArea.path}
+                clipPath="url(#home-east-java-map-clip)"
+                fill="#d76b36"
                 stroke="#f8f3e7"
-                strokeWidth="0.32"
+                strokeWidth="0.34"
               />
-            ))}
+            ) : null}
+            <g clipPath="url(#home-east-java-map-clip)">
+              {mapData.internalBoundaryPaths.map((path) => (
+                <path
+                  key={path}
+                  d={path}
+                  fill="none"
+                  stroke="#fbf6ed"
+                  strokeLinecap="round"
+                  strokeWidth="0.3"
+                />
+              ))}
+            </g>
+            <circle
+              cx={selectedRegion.x}
+              cy={selectedRegion.y}
+              r="1.8"
+              fill="#8c531f"
+              stroke="#f8f3e7"
+              strokeWidth="0.32"
+            />
           </svg>
         </div>
       </div>
