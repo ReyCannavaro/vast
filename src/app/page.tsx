@@ -216,7 +216,7 @@ export default function Home() {
                   src="/images/regions/kabupaten-banyuwangi/budaya/gandrung-banyuwangi.jpg"
                   alt="Tari Gandrung Banyuwangi"
                   fill
-                  className="object-cover opacity-35 grayscale"
+                  className="object-cover"
                   sizes="285px"
                 />
               </div>
@@ -247,54 +247,54 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto grid max-w-[1350px] gap-20 px-6 pb-36 pt-[142px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
-          <div className="relative min-h-[610px] overflow-hidden bg-[#c9c9c9] lg:min-h-[750px]">
+        <section className="mx-auto grid max-w-[1350px] gap-16 px-6 pb-24 pt-[158px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
+          <div className="relative min-h-[480px] overflow-hidden bg-[#c9c9c9] lg:min-h-[590px]">
             <Image
               src="/images/regions/kota-surabaya/destinations/tugu-pahlawan.jpg"
               alt="Tugu Pahlawan Surabaya"
               fill
-              className="object-cover opacity-20 grayscale"
+              className="object-cover"
               sizes="(min-width: 1024px) 48vw, 100vw"
             />
           </div>
 
-          <div className="flex flex-col justify-center pb-6 lg:pl-10">
-            <h2 className="max-w-[520px] text-[42px] font-semibold leading-[1.18] tracking-[-0.03em] text-[#252b35] sm:text-[52px]">
+          <div className="flex flex-col justify-center pb-2 lg:pl-10">
+            <h2 className="max-w-[520px] text-[40px] font-semibold leading-[1.12] tracking-[-0.03em] text-[#252b35] sm:text-[50px]">
               Temukan Kisah di Balik Setiap Daerah
             </h2>
-            <p className="mt-10 max-w-[520px] text-[18px] leading-[1.18] tracking-[-0.02em] text-[#5f5a56]">
+            <p className="mt-7 max-w-[520px] text-[17px] leading-[1.25] tracking-[-0.02em] text-[#5f5a56]">
               Jelajahi keberagaman budaya Jawa Timur melalui tradisi, destinasi
               ikonik, kuliner khas, dan warisan budaya yang tersaji dalam satu
               platform interaktif.
             </p>
 
-            <div className="mt-24 grid gap-10 lg:grid-cols-[1fr_0.9fr] lg:items-start">
-              <p className="max-w-[275px] text-[22px] leading-[1.55] tracking-[-0.02em] text-[#262b35]">
+            <div className="mt-16 grid gap-8 lg:grid-cols-[1fr_0.82fr] lg:items-start">
+              <p className="max-w-[275px] text-[22px] leading-[1.45] tracking-[-0.02em] text-[#262b35]">
                 Menjelajahi Warisan Budaya, Satu Daerah dalam Setiap Perjalanan.
               </p>
-              <div className="rounded-[8px] bg-[#8c531f] px-9 py-7 text-white">
+              <div className="rounded-[8px] bg-[#8c531f] px-8 py-6 text-white">
                 <h3 className="text-[15px] font-semibold leading-[1.3]">
                   Menjelajahi Warisan Budaya Jawa Timur
                 </h3>
-                <p className="mt-5 text-[14px] leading-[1.12] text-white/78">
+                <p className="mt-4 text-[13px] leading-[1.18] text-white/78">
                   Discover authentic traditions, regional specialties, breathtaking
                   destinations, and inspiring stories from all 38 cities and regencies.
                 </p>
               </div>
             </div>
 
-            <div className="mt-28 grid grid-cols-2 gap-10">
+            <div className="mt-[72px] grid grid-cols-2 gap-10">
               <div>
-                <p className="text-[56px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
+                <p className="text-[50px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
                   {heritageItems.length}+
                 </p>
-                <p className="mt-7 text-[15px] text-[#252b35]">Warisan Budaya</p>
+                <p className="mt-5 text-[15px] text-[#252b35]">Warisan Budaya</p>
               </div>
               <div>
-                <p className="text-[56px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
+                <p className="text-[50px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
                   {regions.length}+
                 </p>
-                <p className="mt-7 text-[15px] text-[#252b35]">Kota & Kabupaten</p>
+                <p className="mt-5 text-[15px] text-[#252b35]">Kota & Kabupaten</p>
               </div>
             </div>
           </div>
@@ -307,7 +307,7 @@ export default function Home() {
                 src="/images/regions/kabupaten-ponorogo/budaya/reog-ponorogo.jpeg"
                 alt="Reog Ponorogo"
                 fill
-                className="object-cover opacity-20 grayscale"
+                className="object-cover"
                 sizes="50vw"
               />
             </div>
@@ -389,13 +389,13 @@ export default function Home() {
             38 kota dan kabupaten dalam satu pengalaman digital yang interaktif.
           </p>
 
-          <div className="mt-36 grid gap-24 text-left lg:grid-cols-[0.95fr_0.85fr] lg:items-start">
+          <div className="mt-28 grid gap-16 text-left lg:grid-cols-[0.95fr_0.85fr] lg:items-start">
             <div className="relative min-h-[540px] rounded-[22px] bg-[#c9c9c9]">
               <Image
                 src="/images/regions/kabupaten-banyuwangi/destinations/kawah-ijen.jpg"
                 alt="Kawah Ijen Banyuwangi"
                 fill
-                className="rounded-[22px] object-cover opacity-20 grayscale"
+                className="rounded-[22px] object-cover"
                 sizes="(min-width: 1024px) 48vw, 100vw"
               />
               <div className="absolute bottom-[-44px] left-1/2 w-[88%] -translate-x-1/2 rounded-[20px] bg-white px-12 py-12 shadow-[0_18px_42px_rgb(0_0_0_/_0.055)]">
@@ -423,17 +423,17 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="grid gap-24 pb-12 lg:pt-8">
+            <div className="grid gap-12 pb-10 lg:pt-6">
               {cultureHighlights.map((item) => (
-                <article key={item.title} className="grid gap-8 sm:grid-cols-[58px_1fr]">
-                  <div className="grid h-[58px] w-[58px] place-items-center rounded-[6px] bg-[#8c531f] text-white">
+                <article key={item.title} className="grid gap-6 sm:grid-cols-[50px_1fr]">
+                  <div className="grid h-[50px] w-[50px] place-items-center rounded-[6px] bg-[#8c531f] text-white">
                     <FeatureIcon type={item.icon} />
                   </div>
                   <div>
-                    <h3 className="text-[24px] font-semibold tracking-[-0.03em]">
+                    <h3 className="text-[23px] font-semibold leading-tight tracking-[-0.03em]">
                       {item.title}
                     </h3>
-                    <p className="mt-8 max-w-[490px] text-[13px] leading-[1.9] text-[#807a73]">
+                    <p className="mt-5 max-w-[500px] text-[13px] leading-[1.65] text-[#807a73]">
                       {item.description}
                     </p>
                   </div>
