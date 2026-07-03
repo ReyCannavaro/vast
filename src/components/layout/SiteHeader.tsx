@@ -15,13 +15,13 @@ export function SiteHeader() {
       <nav className="relative isolate mx-auto flex h-[58px] max-w-[860px] items-center justify-between overflow-hidden rounded-full border border-primary/35 bg-[#2d2b29]/42 px-5 shadow-[0_16px_48px_rgb(0_0_0_/_0.16)] backdrop-blur-2xl backdrop-saturate-150 sm:h-[68px] sm:px-8">
         <div className="pointer-events-none absolute inset-0 -z-10 rounded-full bg-[linear-gradient(110deg,rgb(255_255_255_/_0.16),rgb(255_255_255_/_0.055)_34%,rgb(18_16_14_/_0.34)_100%)]" />
         <div className="pointer-events-none absolute inset-px -z-10 rounded-full border border-white/10" />
-        <Link href="/" className="relative h-11 w-[118px] shrink-0 sm:h-[52px] sm:w-[148px]">
+        <Link href="/" className="relative h-12 w-[142px] shrink-0 sm:h-[58px] sm:w-[178px]">
           <Image
             src="/logo.png"
             alt="VAST"
             fill
             priority
-            sizes="148px"
+            sizes="178px"
             className="object-contain object-left"
           />
         </Link>
