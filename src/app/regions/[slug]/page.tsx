@@ -58,6 +58,10 @@ function formatCategories(region: Region) {
     .join(" & ");
 }
 
+function formatRegionCharacter(region: Region) {
+  return region.culturalArea ?? formatCategories(region);
+}
+
 function clampText(text: string, maxLength = 112) {
   if (text.length <= maxLength) {
     return text;
@@ -92,8 +96,8 @@ function buildFactItems(region: Region): FactItem[] {
       icon: "spark",
     },
     {
-      title: region.nickname ?? formatCategories(region),
-      body: `${region.nickname ?? formatCategories(region)} menjadi salah satu penanda yang membuat ${getShortName(region)} mudah dikenali dalam peta budaya Jawa Timur.`,
+      title: region.nickname ?? formatRegionCharacter(region),
+      body: `${region.nickname ?? formatRegionCharacter(region)} menjadi salah satu penanda yang membuat ${getShortName(region)} mudah dikenali dalam peta budaya Jawa Timur.`,
       icon: "mountain",
     },
   ];
@@ -309,7 +313,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
                 <h1 className="mt-6 text-6xl font-semibold leading-none tracking-[-0.03em] text-white md:text-7xl">
                   {shortName}
                 </h1>
-                <p className="mt-4 text-base text-white/82">{region.nickname ?? region.tagline}</p>
+                <p className="mt-4 text-base text-white/82">{region.tagline}</p>
               </div>
 
               <Link
@@ -324,10 +328,10 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
 
         <section className="mx-auto max-w-7xl px-6 py-20 lg:px-10">
           <div className="grid gap-6 md:grid-cols-4">
-            <StatCard label="Populasi" value={region.population ?? "Data dikurasi"} />
-            <StatCard label="Luas Wilayah" value={region.area ?? "Data dikurasi"} />
-            <StatCard label="Kategori" value={formatCategories(region)} />
-            <StatCard label="Nickname" value={region.nickname ?? region.tagline} />
+            <StatCard label="Populasi" value={region.population ?? "Belum tersedia"} />
+            <StatCard label="Luas Wilayah" value={region.area ?? "Belum tersedia"} />
+            <StatCard label="Karakter Wilayah" value={formatRegionCharacter(region)} />
+            <StatCard label="Julukan/Identitas" value={region.nickname ?? formatRegionCharacter(region)} />
           </div>
         </section>
 
