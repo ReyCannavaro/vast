@@ -72,7 +72,7 @@ export function SiteHeader() {
           .elementsFromPoint(sampleX, sampleY)
           .find((element) => !header.contains(element));
 
-        let current = target;
+        let current: Element | null | undefined = target;
 
         while (current && current !== document.documentElement) {
           const styles = window.getComputedStyle(current);
