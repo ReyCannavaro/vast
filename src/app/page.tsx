@@ -144,61 +144,124 @@ function MiniMapPreview() {
   const selectedRegion =
     mapData.regions.find((item) => item.region.slug === "kabupaten-banyuwangi") ??
     mapData.regions[0];
-  const selectedArea = mapData.highlightAreas.find(
-    (item) => item.regionSlug === selectedRegion.region.slug,
-  );
+  const labeledRegions = [
+    "kota-surabaya",
+    "kota-malang",
+    "kabupaten-banyuwangi",
+    "kabupaten-sumenep",
+  ].flatMap((slug) => {
+    const item = mapData.regions.find((region) => region.region.slug === slug);
+
+    return item ? [item] : [];
+  });
 
   return (
-    <div className="rounded-[10px] border border-[#d9c8b8] bg-white p-6">
-      <h2 className="text-xl font-medium text-[#332f2a]">Interactive Region Map</h2>
-      <div className="mt-6 grid min-h-[310px] place-items-center rounded-[8px] bg-[#e8e4df] px-8 py-6">
-        <div className="grid h-full w-full max-w-[430px] place-items-center bg-[#5c97a1] px-7 py-5">
+    <div className="rounded-[10px] border border-[#d9c8b8] bg-white p-6 shadow-[0_18px_42px_rgb(56_45_34_/_0.045)]">
+      <div className="flex flex-wrap items-start justify-between gap-4">
+        <div>
+          <p className="text-[11px] font-black uppercase tracking-[0.14em] text-[#8c531f]">
+            Peta Budaya Interaktif
+          </p>
+          <h2 className="mt-2 text-[24px] font-semibold tracking-[-0.04em] text-[#332f2a]">
+            38 Daerah Jawa Timur
+          </h2>
+        </div>
+        <Link
+          href="/regions"
+          className="rounded-full border border-[#d9c8b8] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] transition hover:border-[#8c531f] hover:text-[#8c531f]"
+        >
+          Buka Peta
+        </Link>
+      </div>
+
+      <div className="mt-6 overflow-hidden rounded-[10px] bg-[#5f9fab] p-5 shadow-inner">
+        <div className="relative grid min-h-[300px] place-items-center rounded-[8px] bg-[#5f9fab]">
           <svg
-            viewBox={mapData.viewBox}
+            viewBox={mapData.regencyViewBox}
             role="img"
-            aria-label="Preview peta wilayah Jawa Timur"
-            className="h-auto w-full max-w-[290px]"
+            aria-label="Preview peta kabupaten dan kota Jawa Timur"
+            className="h-auto w-full max-w-[620px]"
           >
             <defs>
-              <clipPath id="home-east-java-map-clip">
-                <path d={mapData.path} />
-              </clipPath>
-            </defs>
-            <path d={mapData.path} fill="#e9dfc8" stroke="#f8f3e7" strokeWidth="0.48" />
-            {selectedArea ? (
-              <path
-                d={selectedArea.path}
-                clipPath="url(#home-east-java-map-clip)"
-                fill="#d76b36"
-                stroke="#f8f3e7"
-                strokeWidth="0.34"
-              />
-            ) : null}
-            <g clipPath="url(#home-east-java-map-clip)">
-              {mapData.internalBoundaryPaths.map((path) => (
-                <path
-                  key={path}
-                  d={path}
-                  fill="none"
-                  stroke="#fbf6ed"
-                  strokeLinecap="round"
-                  strokeWidth="0.3"
+              <filter id="home-map-shadow" x="-20%" y="-20%" width="140%" height="140%">
+                <feDropShadow
+                  dx="0"
+                  dy="7"
+                  floodColor="#243e45"
+                  floodOpacity="0.22"
+                  stdDeviation="8"
                 />
-              ))}
+              </filter>
+            </defs>
+
+            <g filter="url(#home-map-shadow)">
+              {mapData.regions.map((item) => {
+                const isSelected = item.region.slug === selectedRegion.region.slug;
+
+                return (
+                  <a key={item.region.slug} href={item.href} aria-label={`Buka ${item.region.name}`}>
+                    <path
+                      d={item.areaPath}
+                      fill={isSelected ? "#8c531f" : "#eadfc6"}
+                      fillRule="evenodd"
+                      stroke="#fff8ed"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={isSelected ? 1.3 : 0.7}
+                      vectorEffect="non-scaling-stroke"
+                      className="transition duration-150 hover:fill-[#c99f66]"
+                    />
+                  </a>
+                );
+              })}
             </g>
-            <circle
-              cx={selectedRegion.x}
-              cy={selectedRegion.y}
-              r="1.8"
-              fill="#8c531f"
-              stroke="#f8f3e7"
-              strokeWidth="0.32"
-            />
+
+            {labeledRegions.map((item) => (
+              <g key={item.region.slug} className="pointer-events-none">
+                <circle
+                  cx={item.areaCenter.x}
+                  cy={item.areaCenter.y}
+                  r={item.region.slug === selectedRegion.region.slug ? 9 : 6}
+                  fill={item.region.slug === selectedRegion.region.slug ? "#8c531f" : "#ffffff"}
+                  stroke="#8c531f"
+                  strokeWidth="2"
+                  vectorEffect="non-scaling-stroke"
+                />
+              </g>
+            ))}
           </svg>
+
+          <div className="absolute bottom-4 left-4 max-w-[250px] rounded-[10px] border border-white/60 bg-white/88 px-4 py-3 text-[#332f2a] shadow-[0_14px_30px_rgb(36_42_36_/_0.16)] backdrop-blur-md">
+            <p className="text-[11px] font-black uppercase tracking-[0.12em] text-[#8c531f]">
+              Highlight
+            </p>
+            <h3 className="mt-1 text-[17px] font-bold tracking-[-0.03em]">
+              {selectedRegion.region.name}
+            </h3>
+            <p className="mt-2 line-clamp-2 text-[12px] leading-5 text-[#62584e]">
+              {selectedRegion.region.tagline}
+            </p>
+          </div>
         </div>
       </div>
-      <p className="mt-6 text-center text-sm text-[#4f4942]">
-        Click on a region to explore its unique identity.
+
+      <div className="mt-5 grid gap-3 sm:grid-cols-3">
+        <div className="rounded-[8px] bg-[#f7f2ec] px-4 py-4">
+          <p className="text-[24px] font-semibold leading-none text-[#332f2a]">38</p>
+          <p className="mt-2 text-[12px] font-medium text-[#756b62]">Kota & Kabupaten</p>
+        </div>
+        <div className="rounded-[8px] bg-[#f7f2ec] px-4 py-4">
+          <p className="text-[24px] font-semibold leading-none text-[#332f2a]">4</p>
+          <p className="mt-2 text-[12px] font-medium text-[#756b62]">Kawasan Budaya</p>
+        </div>
+        <div className="rounded-[8px] bg-[#f7f2ec] px-4 py-4">
+          <p className="text-[24px] font-semibold leading-none text-[#332f2a]">1</p>
+          <p className="mt-2 text-[12px] font-medium text-[#756b62]">Peta Terhubung</p>
+        </div>
+      </div>
+
+      <p className="mt-5 text-center text-sm text-[#4f4942]">
+        Klik wilayah pada peta untuk membuka detail budaya, kuliner, dan destinasi.
       </p>
     </div>
   );
