@@ -9,8 +9,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-bangkalan/destinations/bukit-jaddih.jpg",
       "alt": "Gambar puzzle Bukit Jaddih dari Kabupaten Bangkalan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Bukit Jaddih dari Kabupaten Bangkalan"
     },
@@ -25,8 +25,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-banyuwangi/destinations/kawah-ijen.jpg",
       "alt": "Gambar puzzle Kawah Ijen dari Kabupaten Banyuwangi",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Kawah Ijen dari Kabupaten Banyuwangi"
     },
@@ -41,8 +41,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-blitar/destinations/pantai-tambakrejo.jpg",
       "alt": "Gambar puzzle Pantai Tambakrejo dari Kabupaten Blitar",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Pantai Tambakrejo dari Kabupaten Blitar"
     },
@@ -57,8 +57,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-bojonegoro/destinations/kayangan-api.jpg",
       "alt": "Gambar puzzle Kayangan Api dari Kabupaten Bojonegoro",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Kayangan Api dari Kabupaten Bojonegoro"
     },
@@ -73,8 +73,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-bondowoso/destinations/air-terjun-blawan.jpg",
       "alt": "Gambar puzzle Air Terjun Blawan dari Kabupaten Bondowoso",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Blawan dari Kabupaten Bondowoso"
     },
@@ -89,8 +89,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-gresik/destinations/bukit-jamur.jpg",
       "alt": "Gambar puzzle Bukit Jamur dari Kabupaten Gresik",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Bukit Jamur dari Kabupaten Gresik"
     },
@@ -105,8 +105,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-jember/destinations/air-terjun-tancak.jpg",
       "alt": "Gambar puzzle Air Terjun Tancak dari Kabupaten Jember",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Tancak dari Kabupaten Jember"
     },
@@ -121,8 +121,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-jombang/destinations/candi-arimbi.jpg",
       "alt": "Gambar puzzle Candi Arimbi dari Kabupaten Jombang",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Candi Arimbi dari Kabupaten Jombang"
     },
@@ -137,8 +137,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-kediri/destinations/air-terjun-besuki.jpg",
       "alt": "Gambar puzzle Air Terjun Besuki dari Kabupaten Kediri",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Besuki dari Kabupaten Kediri"
     },
@@ -153,8 +153,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-lamongan/destinations/pantai-kutang.webp",
       "alt": "Gambar puzzle Pantai Kutang dari Kabupaten Lamongan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Pantai Kutang dari Kabupaten Lamongan"
     },
@@ -169,8 +169,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-lumajang/destinations/air-terjun-kapas-biru.jpg",
       "alt": "Gambar puzzle Air Terjun Kapas Biru dari Kabupaten Lumajang",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Kapas Biru dari Kabupaten Lumajang"
     },
@@ -185,8 +185,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-madiun/destinations/air-terjun-seweru.jpg",
       "alt": "Gambar puzzle Air Terjun Seweru dari Kabupaten Madiun",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Seweru dari Kabupaten Madiun"
     },
@@ -201,8 +201,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-magetan/destinations/air-terjun-tirtosari.jpg",
       "alt": "Gambar puzzle Air Terjun Tirtosari dari Kabupaten Magetan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Tirtosari dari Kabupaten Magetan"
     },
@@ -217,8 +217,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-malang/destinations/coban-rondo.jpg",
       "alt": "Gambar puzzle Coban Rondo dari Kabupaten Malang",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Coban Rondo dari Kabupaten Malang"
     },
@@ -233,8 +233,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-mojokerto/destinations/air-terjun-dlundung.jpg",
       "alt": "Gambar puzzle Air Terjun Dlundung dari Kabupaten Mojokerto",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Dlundung dari Kabupaten Mojokerto"
     },
@@ -249,8 +249,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-nganjuk/destinations/bukit-salju.jpg",
       "alt": "Gambar puzzle Bukit Salju dari Kabupaten Nganjuk",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Bukit Salju dari Kabupaten Nganjuk"
     },
@@ -265,8 +265,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-ngawi/destinations/air-terjun-pengantin.jpg",
       "alt": "Gambar puzzle Air Terjun Pengantin dari Kabupaten Ngawi",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Pengantin dari Kabupaten Ngawi"
     },
@@ -281,8 +281,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-pacitan/destinations/goa-tabuhan.jpg",
       "alt": "Gambar puzzle Goa Tabuhan dari Kabupaten Pacitan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Goa Tabuhan dari Kabupaten Pacitan"
     },
@@ -297,8 +297,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-pamekasan/destinations/bukit-brukoh.jpg",
       "alt": "Gambar puzzle Bukit Brukoh dari Kabupaten Pamekasan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Bukit Brukoh dari Kabupaten Pamekasan"
     },
@@ -313,8 +313,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-pasuruan/destinations/air-terjun-madakaripura.jpg",
       "alt": "Gambar puzzle Air Terjun Madakaripura dari Kabupaten Pasuruan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Madakaripura dari Kabupaten Pasuruan"
     },
@@ -329,8 +329,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-ponorogo/destinations/air-terjun-sunggah.jpg",
       "alt": "Gambar puzzle Air Terjun Sunggah dari Kabupaten Ponorogo",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Sunggah dari Kabupaten Ponorogo"
     },
@@ -345,8 +345,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-probolinggo/destinations/danau-ranu-agung.jpg",
       "alt": "Gambar puzzle Danau Ranu Agung dari Kabupaten Probolinggo",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Danau Ranu Agung dari Kabupaten Probolinggo"
     },
@@ -361,8 +361,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-sampang/destinations/gua-lebar.jpg",
       "alt": "Gambar puzzle Gua Lebar dari Kabupaten Sampang",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Gua Lebar dari Kabupaten Sampang"
     },
@@ -377,8 +377,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-sidoarjo/destinations/pulau-lusi.jpg",
       "alt": "Gambar puzzle Pulau Lusi dari Kabupaten Sidoarjo",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Pulau Lusi dari Kabupaten Sidoarjo"
     },
@@ -393,8 +393,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-situbondo/destinations/pantai-pathek.jpg",
       "alt": "Gambar puzzle Pantai Pathek dari Kabupaten Situbondo",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Pantai Pathek dari Kabupaten Situbondo"
     },
@@ -409,8 +409,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-sumenep/destinations/pantai-lombang.jpg",
       "alt": "Gambar puzzle Pantai Lombang dari Kabupaten Sumenep",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Pantai Lombang dari Kabupaten Sumenep"
     },
@@ -425,8 +425,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-trenggalek/destinations/goa-lowo.jpg",
       "alt": "Gambar puzzle Goa Lowo dari Kabupaten Trenggalek",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Goa Lowo dari Kabupaten Trenggalek"
     },
@@ -441,8 +441,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-tuban/destinations/air-terjun-nglirip.jpg",
       "alt": "Gambar puzzle Air Terjun Nglirip dari Kabupaten Tuban",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Air Terjun Nglirip dari Kabupaten Tuban"
     },
@@ -457,8 +457,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kabupaten-tulungagung/destinations/gua-lowo.jpeg",
       "alt": "Gambar puzzle Gua Lowo dari Kabupaten Tulungagung",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Gua Lowo dari Kabupaten Tulungagung"
     },
@@ -473,8 +473,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-batu/destinations/coban-rondo.png",
       "alt": "Gambar puzzle Coban Rondo dari Kota Batu",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Coban Rondo dari Kota Batu"
     },
@@ -489,8 +489,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-blitar/destinations/waterpark-sumber-udel.jpg",
       "alt": "Gambar puzzle Waterpark Sumber Udel dari Kota Blitar",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Waterpark Sumber Udel dari Kota Blitar"
     },
@@ -505,8 +505,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-kediri/destinations/goa-selomangleng.jpg",
       "alt": "Gambar puzzle Goa Selomangleng dari Kota Kediri",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Goa Selomangleng dari Kota Kediri"
     },
@@ -521,8 +521,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-madiun/destinations/taman-sumber-wangi.jpg",
       "alt": "Gambar puzzle Taman Sumber Wangi dari Kota Madiun",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Taman Sumber Wangi dari Kota Madiun"
     },
@@ -537,8 +537,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-malang/destinations/museum-bentoel.jpg",
       "alt": "Gambar puzzle Museum Bentoel dari Kota Malang",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Museum Bentoel dari Kota Malang"
     },
@@ -553,8 +553,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-mojokerto/destinations/situs-sejarah-sekolah-bung-karno.jpeg",
       "alt": "Gambar puzzle Situs Sejarah Sekolah Bung Karno dari Kota Mojokerto",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Situs Sejarah Sekolah Bung Karno dari Kota Mojokerto"
     },
@@ -569,8 +569,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-pasuruan/destinations/kampung-mebel-bukir.jpg",
       "alt": "Gambar puzzle Kampung Mebel Bukir dari Kota Pasuruan",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Kampung Mebel Bukir dari Kota Pasuruan"
     },
@@ -585,8 +585,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-probolinggo/destinations/pantai-permata-pilang.jpg",
       "alt": "Gambar puzzle Pantai Permata Pilang dari Kota Probolinggo",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Pantai Permata Pilang dari Kota Probolinggo"
     },
@@ -601,8 +601,8 @@ export const puzzleItems: PuzzleItem[] = [
       "src": "/images/regions/kota-surabaya/destinations/monumen-kapal-selam.jpg",
       "alt": "Gambar puzzle Monumen Kapal Selam dari Kota Surabaya",
       "source": {
-        "label": "Kurasi Tim VAST",
-        "note": "Dikurasi oleh Tim VAST dari aset visual daerah Jawa Timur dan referensi publik budaya/pariwisata; lisensi aset final tetap dicatat pada dokumentasi submit."
+        "label": "Riset Data Publik",
+        "note": "Diringkas dari referensi publik pariwisata, warisan budaya, dan dokumentasi aset lokal; tautan dan lisensi aset tetap dicatat pada dokumentasi submit."
       },
       "caption": "Monumen Kapal Selam dari Kota Surabaya"
     },

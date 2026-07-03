@@ -197,7 +197,7 @@ function createCategories(
 }
 
 function createGeneratedTagline(displayName: string) {
-  return `${displayName} dalam kurasi budaya, kuliner, dan destinasi Jawa Timur.`;
+  return `${displayName} dengan ragam tradisi, kuliner lokal, dan tujuan perjalanan Jawa Timur.`;
 }
 
 function createGeneratedSummary(
@@ -212,7 +212,11 @@ function createGeneratedSummary(
     ...getNames(relatedDestinations).slice(0, 2),
   ];
 
-  return `${displayName} memiliki ${relatedHeritageItems.length} data budaya, ${relatedFoods.length} data kuliner, dan ${relatedDestinations.length} data destinasi dalam kurasi awal VAST${highlights.length > 0 ? `, termasuk ${highlights.join(", ")}.` : "."}`;
+  if (highlights.length === 0) {
+    return `${displayName} memperlihatkan wajah Jawa Timur melalui tradisi warga, kuliner lokal, dan ruang perjalanan yang membentuk identitas daerahnya.`;
+  }
+
+  return `${displayName} memperlihatkan wajah Jawa Timur melalui ${highlights.join(", ")}. Daerah ini menyatukan tradisi warga, citarasa lokal, dan ruang perjalanan yang membentuk identitasnya.`;
 }
 
 function createGeneratedFacts(
@@ -223,12 +227,12 @@ function createGeneratedFacts(
   relatedBatikPatterns: typeof batikPatterns,
 ) {
   const facts = [
-    `Kurasi awal ${displayName} memuat ${relatedHeritageItems.length} budaya, ${relatedFoods.length} kuliner, dan ${relatedDestinations.length} destinasi lokal.`,
+    `${displayName} memiliki jejak budaya, kuliner, dan destinasi yang saling terhubung dalam keseharian masyarakat setempat.`,
   ];
 
   if (relatedBatikPatterns.length > 0) {
     facts.push(
-      `${displayName} memiliki ${relatedBatikPatterns.length} data motif batik atau identitas visual yang siap ditampilkan di galeri.`,
+      `${displayName} juga memiliki motif batik atau identitas visual lokal yang memperkaya cerita daerahnya.`,
     );
   }
 
@@ -291,8 +295,8 @@ function createRegion(type: RegionType, name: string): Region {
     isFeatured,
     sourceNotes: [
       {
-        label: "Kurasi Tim VAST",
-        note: "Relasi data region dikurasi dari konten budaya, kuliner, destinasi, dan batik/pattern yang tersedia di data statis VAST.",
+        label: "Riset Data Publik",
+        note: "Relasi daerah disusun dari referensi publik pariwisata, warisan budaya, kuliner lokal, dan aset visual yang tersedia di proyek.",
       },
     ],
   };
