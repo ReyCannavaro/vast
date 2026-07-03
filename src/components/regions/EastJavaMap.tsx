@@ -4,15 +4,16 @@ type EastJavaMapProps = {
   mapData: EastJavaMapData;
 };
 
-function formatContentSummary(region: EastJavaMapData["regions"][number]) {
+function getRegionMarkerLabel(region: EastJavaMapData["regions"][number]) {
   const counts = region.contentCounts;
-
-  return [
+  const summary = [
     `${counts.heritageItems} budaya`,
     `${counts.foods} kuliner`,
     `${counts.destinations} destinasi`,
     `${counts.batikPatterns} batik`,
   ].join(", ");
+
+  return `Buka detail ${region.region.name}. Konten tersedia: ${summary}.`;
 }
 
 export function EastJavaMap({ mapData }: EastJavaMapProps) {
@@ -61,11 +62,8 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
             <a
               key={item.region.slug}
               href={item.href}
-              aria-label={`Buka detail ${item.region.name}`}
+              aria-label={getRegionMarkerLabel(item)}
             >
-              <title>
-                {item.region.name} - {formatContentSummary(item)}
-              </title>
               <circle
                 cx={item.x}
                 cy={item.y}
