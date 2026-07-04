@@ -12,7 +12,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Kerapan Sapi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Kerapan Sapi termasuk warisan budaya Kabupaten Bangkalan. Kerapan Sapi berasal dari tradisi Madura yang menempatkan sapi sebagai bagian dari kebanggaan, ketangkasan, dan perayaan masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -26,7 +26,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Sandur Bangkalan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Sandur Bangkalan termasuk warisan budaya Kabupaten Bangkalan. Sandur Bangkalan adalah tradisi tutur atau pertunjukan rakyat yang membawa cerita, musik, dan pesan moral dalam ruang budaya Bangkalan.",
     "difficulty": "medium"
   },
   {
@@ -40,7 +40,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bebek Sinjay termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Bebek Sinjay termasuk kuliner Kabupaten Bangkalan. Bebek Sinjay menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
     "difficulty": "easy"
   },
   {
@@ -54,7 +54,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bebek Songkem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Bebek Songkem termasuk kuliner Kabupaten Bangkalan. Bebek Songkem menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
     "difficulty": "easy"
   },
   {
@@ -68,7 +68,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bukit Jaddih termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Bukit Jaddih termasuk destinasi Kabupaten Bangkalan. Bukit Jaddih menampilkan lanskap alam Kabupaten Bangkalan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bangkalan.",
     "difficulty": "easy"
   },
   {
@@ -82,7 +82,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bukit Kapur termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Bukit Kapur termasuk destinasi Kabupaten Bangkalan. Bukit Kapur menampilkan lanskap alam Kabupaten Bangkalan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bangkalan.",
     "difficulty": "easy"
   },
   {
@@ -96,7 +96,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Batik Gentongan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan.",
+    "explanation": "Batik Gentongan termasuk motif batik Kabupaten Bangkalan. Batik Gentongan dikenal dari tradisi batik Madura di Bangkalan, dengan warna kuat dan proses pewarnaan yang memberi karakter mendalam pada kain.",
     "difficulty": "hard"
   },
   {
@@ -110,7 +110,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Gandrung Banyuwangi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "Gandrung Banyuwangi termasuk warisan budaya Kabupaten Banyuwangi. Gandrung Banyuwangi merupakan tari penyambutan masyarakat Osing Banyuwangi, identik dengan busana mencolok, gerak lincah, dan iringan musik khas.",
     "difficulty": "medium"
   },
   {
@@ -124,7 +124,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Banyuwangi"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Janger termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "Janger termasuk warisan budaya Kabupaten Banyuwangi. Janger hidup dalam lanskap budaya Kabupaten Banyuwangi, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -138,7 +138,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Ayam Kesrut termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "Ayam Kesrut termasuk kuliner Kabupaten Banyuwangi. Ayam Kesrut memperlihatkan olahan rumahan dan warung tradisional Banyuwangi, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -152,7 +152,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Pecel Rawon termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "Pecel Rawon termasuk kuliner Kabupaten Banyuwangi. Pecel Rawon menggabungkan pecel berbumbu kacang dengan kuah rawon berkluwek, menghasilkan hidangan Banyuwangi yang kontras antara segar, gurih, dan rempah gelap.",
     "difficulty": "easy"
   },
   {
@@ -166,7 +166,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "De Djawatan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "De Djawatan termasuk destinasi Kabupaten Banyuwangi. De Djawatan adalah tujuan kunjungan di Kabupaten Banyuwangi, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -180,7 +180,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Kawah Ijen termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "Kawah Ijen termasuk destinasi Kabupaten Banyuwangi. Kawah Ijen terkenal dengan lanskap kawah belerang dan fenomena api biru, menjadikannya salah satu daya tarik alam paling kuat di ujung timur Jawa.",
     "difficulty": "easy"
   },
   {
@@ -194,7 +194,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Batik Gajaholing termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi.",
+    "explanation": "Batik Gajaholing termasuk motif batik Kabupaten Banyuwangi. Batik Gajaholing mengangkat ikon visual Banyuwangi yang dekat dengan identitas Osing, sering dibaca sebagai simbol kekuatan dan keberuntungan.",
     "difficulty": "hard"
   },
   {
@@ -208,7 +208,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Siraman Gong Kyai Pradah termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Siraman Gong Kyai Pradah termasuk warisan budaya Kabupaten Blitar. Siraman Gong Kyai Pradah hidup dalam lanskap budaya Kabupaten Blitar, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -222,7 +222,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Jaranan Tril termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Jaranan Tril termasuk warisan budaya Kabupaten Blitar. Jaranan Tril adalah seni kuda kepang yang berkembang di Blitar, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -236,7 +236,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Ayam Lodho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Ayam Lodho termasuk kuliner Kabupaten Blitar. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Blitar, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -250,7 +250,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Gresik"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Nasi Ampok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Nasi Ampok termasuk kuliner Kabupaten Blitar. Nasi Ampok adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Blitar.",
     "difficulty": "easy"
   },
   {
@@ -264,7 +264,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Candi Penataran termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Candi Penataran termasuk destinasi Kabupaten Blitar. Candi Penataran menyimpan jejak sejarah Kabupaten Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -278,7 +278,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Probolinggo"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Candi Sawentar termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Candi Sawentar termasuk destinasi Kabupaten Blitar. Candi Sawentar menyimpan jejak sejarah Kabupaten Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -292,7 +292,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Blitar"
     ],
     "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Batik Koi termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Blitar.",
+    "explanation": "Batik Koi termasuk motif batik Kabupaten Blitar. Batik Koi memperkenalkan bahasa visual batik Kabupaten Blitar, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Blitar.",
     "difficulty": "hard"
   },
   {
@@ -306,7 +306,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Upacara Adat Mangir termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Upacara Adat Mangir termasuk warisan budaya Kabupaten Bojonegoro. Upacara Adat Mangir hidup dalam lanskap budaya Kabupaten Bojonegoro, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -320,7 +320,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Tari Thengul termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Tari Thengul termasuk warisan budaya Kabupaten Bojonegoro. Tari Thengul adalah seni tari Kabupaten Bojonegoro yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
     "difficulty": "medium"
   },
   {
@@ -334,7 +334,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Balung Kuwuk termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Balung Kuwuk termasuk kuliner Kabupaten Bojonegoro. Balung Kuwuk adalah bagian dari kuliner lokal Bojonegoro, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -348,7 +348,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pasuruan"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Kue Ledre termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Kue Ledre termasuk kuliner Kabupaten Bojonegoro. Kue Ledre adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Bojonegoro.",
     "difficulty": "easy"
   },
   {
@@ -362,7 +362,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Dander Waterpark termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Dander Waterpark termasuk destinasi Kabupaten Bojonegoro. Dander Waterpark menjadi ruang kunjungan populer di Kabupaten Bojonegoro, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Bojonegoro.",
     "difficulty": "easy"
   },
   {
@@ -376,7 +376,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bojonegoro"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Kayangan Api termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Kayangan Api termasuk destinasi Kabupaten Bojonegoro. Kayangan Api adalah tujuan kunjungan di Kabupaten Bojonegoro, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -390,7 +390,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Batik Sekarjati termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro.",
+    "explanation": "Batik Sekarjati termasuk motif batik Kabupaten Bojonegoro. Batik Sekarjati memperkenalkan bahasa visual batik Kabupaten Bojonegoro, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Bojonegoro.",
     "difficulty": "hard"
   },
   {
@@ -404,7 +404,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Kesenian Daul termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Kesenian Daul termasuk warisan budaya Kabupaten Bondowoso. Kesenian Daul memperlihatkan tradisi musik rakyat Kabupaten Bondowoso, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
     "difficulty": "medium"
   },
   {
@@ -418,7 +418,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Pertunjukan Ojung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Pertunjukan Ojung termasuk warisan budaya Kabupaten Bondowoso. Pertunjukan Ojung hidup dalam lanskap budaya Kabupaten Bondowoso, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -432,7 +432,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bondowoso"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Bakso Gulung termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Bakso Gulung termasuk kuliner Kabupaten Bondowoso. Bakso Gulung memperlihatkan olahan rumahan dan warung tradisional Bondowoso, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -446,7 +446,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Nasi Macan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Nasi Macan termasuk kuliner Kabupaten Bondowoso. Nasi Macan adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Bondowoso.",
     "difficulty": "easy"
   },
   {
@@ -460,7 +460,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Air Terjun Blawan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Air Terjun Blawan termasuk destinasi Kabupaten Bondowoso. Air Terjun Blawan menampilkan lanskap alam Kabupaten Bondowoso, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bondowoso.",
     "difficulty": "easy"
   },
   {
@@ -474,7 +474,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Kawah Wurung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Kawah Wurung termasuk destinasi Kabupaten Bondowoso. Kawah Wurung menampilkan lanskap alam Kabupaten Bondowoso, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bondowoso.",
     "difficulty": "easy"
   },
   {
@@ -488,7 +488,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Blitar"
     ],
     "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Batik Singoulung termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso.",
+    "explanation": "Batik Singoulung termasuk motif batik Kabupaten Bondowoso. Batik Singoulung memperkenalkan bahasa visual batik Kabupaten Bondowoso, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Bondowoso.",
     "difficulty": "hard"
   },
   {
@@ -502,7 +502,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Pencak Macan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Pencak Macan termasuk warisan budaya Kabupaten Gresik. Pencak Macan hidup dalam lanskap budaya Kabupaten Gresik, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -516,7 +516,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Reog Cemandi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Reog Cemandi termasuk warisan budaya Kabupaten Gresik. Reog Cemandi adalah seni pertunjukan ikonik Ponorogo dengan dadak merak, warok, jathil, dan iringan gamelan yang menjadi simbol kuat budaya Jawa Timur.",
     "difficulty": "medium"
   },
   {
@@ -530,7 +530,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Bonggolan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Bonggolan termasuk kuliner Kabupaten Gresik. Bonggolan adalah bagian dari kuliner lokal Gresik, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -544,7 +544,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Legen Siwalan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Legen Siwalan termasuk kuliner Kabupaten Gresik. Legen Siwalan adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Gresik.",
     "difficulty": "easy"
   },
   {
@@ -558,7 +558,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Bukit Jamur termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Bukit Jamur termasuk destinasi Kabupaten Gresik. Bukit Jamur menampilkan lanskap alam Kabupaten Gresik, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Gresik.",
     "difficulty": "easy"
   },
   {
@@ -572,7 +572,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Probolinggo"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Lontar Sewu termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Lontar Sewu termasuk destinasi Kabupaten Gresik. Lontar Sewu adalah tujuan kunjungan di Kabupaten Gresik, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -586,7 +586,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Banyuwangi"
     ],
     "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Batik Damar Kurung termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Gresik.",
+    "explanation": "Batik Damar Kurung termasuk motif batik Kabupaten Gresik. Batik Damar Kurung memperkenalkan bahasa visual batik Kabupaten Gresik, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Gresik.",
     "difficulty": "hard"
   },
   {
@@ -600,7 +600,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Can Macanan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Can Macanan termasuk warisan budaya Kabupaten Jember. Can Macanan hidup dalam lanskap budaya Kabupaten Jember, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -614,7 +614,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Musik Patrol termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Musik Patrol termasuk warisan budaya Kabupaten Jember. Musik Patrol memperlihatkan tradisi musik rakyat Kabupaten Jember, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
     "difficulty": "medium"
   },
   {
@@ -628,7 +628,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Nasi Langgi termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Nasi Langgi termasuk kuliner Kabupaten Jember. Nasi Langgi adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Jember.",
     "difficulty": "easy"
   },
   {
@@ -642,7 +642,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Pecel Walisongo termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Pecel Walisongo termasuk kuliner Kabupaten Jember. Pecel Walisongo mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Jember memberi warna tersendiri pada tradisi pecel Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -656,7 +656,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jember"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Air Terjun Tancak termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Air Terjun Tancak termasuk destinasi Kabupaten Jember. Air Terjun Tancak menampilkan lanskap alam Kabupaten Jember, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Jember.",
     "difficulty": "easy"
   },
   {
@@ -670,7 +670,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jember"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Jember Mini Zoo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Jember Mini Zoo termasuk destinasi Kabupaten Jember. Jember Mini Zoo adalah tujuan kunjungan di Kabupaten Jember, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -684,7 +684,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Jember",
-    "explanation": "Batik Kakao termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Jember.",
+    "explanation": "Batik Kakao termasuk motif batik Kabupaten Jember. Batik Kakao memperkenalkan bahasa visual batik Kabupaten Jember, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Jember.",
     "difficulty": "hard"
   },
   {
@@ -698,7 +698,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jombang"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Grebeg Suro termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Grebeg Suro termasuk warisan budaya Kabupaten Jombang. Grebeg Suro adalah tradisi komunal Kabupaten Jombang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -712,7 +712,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Jaranan Dor termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Jaranan Dor termasuk warisan budaya Kabupaten Jombang. Jaranan Dor adalah seni kuda kepang yang berkembang di Jombang, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -726,7 +726,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Gresik"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Jenang Kelapa Muda termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Jenang Kelapa Muda termasuk kuliner Kabupaten Jombang. Jenang Kelapa Muda adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Jombang.",
     "difficulty": "easy"
   },
   {
@@ -740,7 +740,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jombang"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Ketan Merdeka termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Ketan Merdeka termasuk kuliner Kabupaten Jombang. Ketan Merdeka adalah bagian dari kuliner lokal Jombang, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -754,7 +754,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Bale Tani termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Bale Tani termasuk destinasi Kabupaten Jombang. Bale Tani adalah tujuan kunjungan di Kabupaten Jombang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -768,7 +768,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Banyu Mili termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Banyu Mili termasuk destinasi Kabupaten Jombang. Banyu Mili adalah tujuan kunjungan di Kabupaten Jombang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -782,7 +782,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ponorogo"
     ],
     "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Batik Jombang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Jombang.",
+    "explanation": "Batik Jombang termasuk motif batik Kabupaten Jombang. Batik Jombang memperkenalkan bahasa visual batik Kabupaten Jombang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Jombang.",
     "difficulty": "hard"
   },
   {
@@ -796,7 +796,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Tradisi Tibak termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Tradisi Tibak termasuk warisan budaya Kabupaten Kediri. Tradisi Tibak hidup dalam lanskap budaya Kabupaten Kediri, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -810,7 +810,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Jaranan Kediri termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Jaranan Kediri termasuk warisan budaya Kabupaten Kediri. Jaranan Kediri adalah seni kuda kepang yang berkembang di Kediri, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -824,7 +824,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Lupis Cenil termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Lupis Cenil termasuk kuliner Kabupaten Kediri. Lupis Cenil adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Kediri.",
     "difficulty": "easy"
   },
   {
@@ -838,7 +838,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jombang"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Nasi Goreng Arang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Nasi Goreng Arang termasuk kuliner Kabupaten Kediri. Nasi Goreng Arang adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Kediri.",
     "difficulty": "easy"
   },
   {
@@ -852,7 +852,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Air Terjun Besuki termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Air Terjun Besuki termasuk destinasi Kabupaten Kediri. Air Terjun Besuki menampilkan lanskap alam Kabupaten Kediri, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Kediri.",
     "difficulty": "easy"
   },
   {
@@ -866,7 +866,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Candi Surowono termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Candi Surowono termasuk destinasi Kabupaten Kediri. Candi Surowono menyimpan jejak sejarah Kabupaten Kediri, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -880,7 +880,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Batik Kediri termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Kediri.",
+    "explanation": "Batik Kediri termasuk motif batik Kabupaten Kediri. Batik Kediri memperkenalkan bahasa visual batik Kabupaten Kediri, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Kediri.",
     "difficulty": "hard"
   },
   {
@@ -894,7 +894,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jember"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Mendhak Sanggring termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Mendhak Sanggring termasuk warisan budaya Kabupaten Lamongan. Mendhak Sanggring hidup dalam lanskap budaya Kabupaten Lamongan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -908,7 +908,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Nganjuk"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Jaranan Mayangkara termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Jaranan Mayangkara termasuk warisan budaya Kabupaten Lamongan. Jaranan Mayangkara adalah seni kuda kepang yang berkembang di Lamongan, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -922,7 +922,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Nganjuk"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Dawet Siwalan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Dawet Siwalan termasuk kuliner Kabupaten Lamongan. Dawet Siwalan adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Lamongan.",
     "difficulty": "easy"
   },
   {
@@ -936,7 +936,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Jumbrek termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Jumbrek termasuk kuliner Kabupaten Lamongan. Jumbrek adalah bagian dari kuliner lokal Lamongan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -950,7 +950,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pasuruan"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Akar Langit termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Akar Langit termasuk destinasi Kabupaten Lamongan. Akar Langit adalah tujuan kunjungan di Kabupaten Lamongan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -964,7 +964,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Maharani Zoo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Maharani Zoo termasuk destinasi Kabupaten Lamongan. Maharani Zoo adalah tujuan kunjungan di Kabupaten Lamongan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -978,7 +978,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Batik Lamongan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan.",
+    "explanation": "Batik Lamongan termasuk motif batik Kabupaten Lamongan. Batik Lamongan memperkenalkan bahasa visual batik Kabupaten Lamongan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Lamongan.",
     "difficulty": "hard"
   },
   {
@@ -992,7 +992,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Upacara Kasada termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang.",
+    "explanation": "Upacara Kasada termasuk warisan budaya Kabupaten Lumajang. Upacara Kasada berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
     "difficulty": "medium"
   },
   {
@@ -1006,7 +1006,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Jaran Kencak termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang.",
+    "explanation": "Jaran Kencak termasuk warisan budaya Kabupaten Lumajang. Jaran Kencak hidup dalam lanskap budaya Kabupaten Lumajang, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1020,7 +1020,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Kripik Talas termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang.",
+    "explanation": "Kripik Talas termasuk kuliner Kabupaten Lumajang. Kripik Talas mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Lumajang.",
     "difficulty": "easy"
   },
   {
@@ -1034,7 +1034,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Kue Ladu termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang.",
+    "explanation": "Kue Ladu termasuk kuliner Kabupaten Lumajang. Kue Ladu adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Lumajang.",
     "difficulty": "easy"
   },
   {
@@ -1048,7 +1048,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Air Terjun Kapas Biru termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang.",
+    "explanation": "Air Terjun Kapas Biru termasuk destinasi Kabupaten Lumajang. Air Terjun Kapas Biru menampilkan lanskap alam Kabupaten Lumajang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Lumajang.",
     "difficulty": "easy"
   },
   {
@@ -1062,7 +1062,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Puncak B29 termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang.",
+    "explanation": "Puncak B29 termasuk destinasi Kabupaten Lumajang. Puncak B29 menampilkan lanskap alam Kabupaten Lumajang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Lumajang.",
     "difficulty": "easy"
   },
   {
@@ -1076,7 +1076,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Bregada Surakarsa termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Bregada Surakarsa termasuk warisan budaya Kabupaten Madiun. Bregada Surakarsa hidup dalam lanskap budaya Kabupaten Madiun, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1090,7 +1090,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Jaranan Senterewe termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Jaranan Senterewe termasuk warisan budaya Kabupaten Madiun. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Madiun, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -1104,7 +1104,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Brem Madiun termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Brem Madiun termasuk kuliner Kabupaten Madiun. Brem Madiun berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
     "difficulty": "easy"
   },
   {
@@ -1118,7 +1118,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Madu Mongso termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Madu Mongso termasuk kuliner Kabupaten Madiun. Madu Mongso berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
     "difficulty": "easy"
   },
   {
@@ -1132,7 +1132,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Air Terjun Seweru termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Air Terjun Seweru termasuk destinasi Kabupaten Madiun. Air Terjun Seweru menampilkan lanskap alam Kabupaten Madiun, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Madiun.",
     "difficulty": "easy"
   },
   {
@@ -1146,7 +1146,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bojonegoro"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Hutan Pinus Nongko Ijo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Hutan Pinus Nongko Ijo termasuk destinasi Kabupaten Madiun. Hutan Pinus Nongko Ijo menampilkan lanskap alam Kabupaten Madiun, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Madiun.",
     "difficulty": "easy"
   },
   {
@@ -1160,7 +1160,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Batik Madiun termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Madiun.",
+    "explanation": "Batik Madiun termasuk motif batik Kabupaten Madiun. Batik Madiun memperkenalkan bahasa visual batik Kabupaten Madiun, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Madiun.",
     "difficulty": "hard"
   },
   {
@@ -1174,7 +1174,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Labuhan Sarangan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Labuhan Sarangan termasuk warisan budaya Kabupaten Magetan. Labuhan Sarangan hidup dalam lanskap budaya Kabupaten Magetan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1188,7 +1188,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Lampah Hastungkara termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Lampah Hastungkara termasuk warisan budaya Kabupaten Magetan. Lampah Hastungkara hidup dalam lanskap budaya Kabupaten Magetan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1202,7 +1202,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Ayam Panggang Gandu termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Ayam Panggang Gandu termasuk kuliner Kabupaten Magetan. Ayam Panggang Gandu memperlihatkan olahan rumahan dan warung tradisional Magetan, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1216,7 +1216,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Jerangking termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Jerangking termasuk kuliner Kabupaten Magetan. Jerangking adalah bagian dari kuliner lokal Magetan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -1230,7 +1230,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Air Terjun Tirtosari termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Air Terjun Tirtosari termasuk destinasi Kabupaten Magetan. Air Terjun Tirtosari menampilkan lanskap alam Kabupaten Magetan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Magetan.",
     "difficulty": "easy"
   },
   {
@@ -1244,7 +1244,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Mojokerto"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Genilangit termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Genilangit termasuk destinasi Kabupaten Magetan. Genilangit adalah tujuan kunjungan di Kabupaten Magetan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1258,7 +1258,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Batik Magetan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Magetan.",
+    "explanation": "Batik Magetan termasuk motif batik Kabupaten Magetan. Batik Magetan memperkenalkan bahasa visual batik Kabupaten Magetan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Magetan.",
     "difficulty": "hard"
   },
   {
@@ -1272,7 +1272,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Mojokerto"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Larung Sesaji Ngliyep termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Larung Sesaji Ngliyep termasuk warisan budaya Kabupaten Malang. Larung Sesaji Ngliyep adalah tradisi komunal Kabupaten Malang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1286,7 +1286,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Kesenian Bantengan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Kesenian Bantengan termasuk warisan budaya Kabupaten Malang. Kesenian Bantengan adalah seni pertunjukan rakyat Kabupaten Malang yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
     "difficulty": "medium"
   },
   {
@@ -1300,7 +1300,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Banyuwangi"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Bakso Malang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Bakso Malang termasuk kuliner Kabupaten Malang. Bakso Malang memperlihatkan olahan rumahan dan warung tradisional Malang, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1314,7 +1314,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Cenil Lupis termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Cenil Lupis termasuk kuliner Kabupaten Malang. Cenil Lupis adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Malang.",
     "difficulty": "easy"
   },
   {
@@ -1328,7 +1328,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Coban Rondo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Coban Rondo termasuk destinasi Kabupaten Malang. Coban Rondo menampilkan lanskap alam Kabupaten Malang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Malang.",
     "difficulty": "easy"
   },
   {
@@ -1342,7 +1342,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Goa Cina termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Goa Cina termasuk destinasi Kabupaten Malang. Goa Cina menampilkan lanskap alam Kabupaten Malang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Malang.",
     "difficulty": "easy"
   },
   {
@@ -1356,7 +1356,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Malang",
-    "explanation": "Batik Malang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Malang.",
+    "explanation": "Batik Malang termasuk motif batik Kabupaten Malang. Batik Malang memperkenalkan bahasa visual batik Kabupaten Malang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Malang.",
     "difficulty": "hard"
   },
   {
@@ -1370,7 +1370,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Grebeg Suro termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Grebeg Suro termasuk warisan budaya Kabupaten Mojokerto. Grebeg Suro adalah tradisi komunal Kabupaten Mojokerto yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1384,7 +1384,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Ruwat Agung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Ruwat Agung termasuk warisan budaya Kabupaten Mojokerto. Ruwat Agung adalah tradisi komunal Kabupaten Mojokerto yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1398,7 +1398,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Botok Tempe termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Botok Tempe termasuk kuliner Kabupaten Mojokerto. Botok Tempe memperlihatkan olahan rumahan dan warung tradisional Mojokerto, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1412,7 +1412,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Onde Onde Mojokerto termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Onde Onde Mojokerto termasuk kuliner Kabupaten Mojokerto. Onde Onde Mojokerto adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Mojokerto.",
     "difficulty": "easy"
   },
   {
@@ -1426,7 +1426,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Air Terjun Dlundung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Air Terjun Dlundung termasuk destinasi Kabupaten Mojokerto. Air Terjun Dlundung menampilkan lanskap alam Kabupaten Mojokerto, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Mojokerto.",
     "difficulty": "easy"
   },
   {
@@ -1440,7 +1440,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Bernah De Vallei termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Bernah De Vallei termasuk destinasi Kabupaten Mojokerto. Bernah De Vallei adalah tujuan kunjungan di Kabupaten Mojokerto, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1454,7 +1454,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Batik Mojokerto termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto.",
+    "explanation": "Batik Mojokerto termasuk motif batik Kabupaten Mojokerto. Batik Mojokerto memperkenalkan bahasa visual batik Kabupaten Mojokerto, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Mojokerto.",
     "difficulty": "hard"
   },
   {
@@ -1468,7 +1468,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Siraman Sedudo termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Siraman Sedudo termasuk warisan budaya Kabupaten Nganjuk. Siraman Sedudo hidup dalam lanskap budaya Kabupaten Nganjuk, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1482,7 +1482,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Nyandran Jaranan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Nyandran Jaranan termasuk warisan budaya Kabupaten Nganjuk. Nyandran Jaranan adalah seni kuda kepang yang berkembang di Nganjuk, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -1496,7 +1496,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Ayam Panggang Bledug termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Ayam Panggang Bledug termasuk kuliner Kabupaten Nganjuk. Ayam Panggang Bledug memperlihatkan olahan rumahan dan warung tradisional Nganjuk, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1510,7 +1510,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Dendeng Sapi termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Dendeng Sapi termasuk kuliner Kabupaten Nganjuk. Dendeng Sapi memperlihatkan olahan rumahan dan warung tradisional Nganjuk, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1524,7 +1524,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Bukit Salju termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Bukit Salju termasuk destinasi Kabupaten Nganjuk. Bukit Salju menampilkan lanskap alam Kabupaten Nganjuk, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Nganjuk.",
     "difficulty": "easy"
   },
   {
@@ -1538,7 +1538,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Candi Lor termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Candi Lor termasuk destinasi Kabupaten Nganjuk. Candi Lor menyimpan jejak sejarah Kabupaten Nganjuk, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -1552,7 +1552,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Batik Nganjuk termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk.",
+    "explanation": "Batik Nganjuk termasuk motif batik Kabupaten Nganjuk. Batik Nganjuk memperkenalkan bahasa visual batik Kabupaten Nganjuk, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Nganjuk.",
     "difficulty": "hard"
   },
   {
@@ -1566,7 +1566,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Ketoprak termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Ketoprak termasuk warisan budaya Kabupaten Ngawi. Ketoprak hidup dalam lanskap budaya Kabupaten Ngawi, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1580,7 +1580,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Tari Orek Orek termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Tari Orek Orek termasuk warisan budaya Kabupaten Ngawi. Tari Orek Orek adalah seni tari Kabupaten Ngawi yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
     "difficulty": "medium"
   },
   {
@@ -1594,7 +1594,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Coklat Tempe termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Coklat Tempe termasuk kuliner Kabupaten Ngawi. Coklat Tempe mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Ngawi.",
     "difficulty": "easy"
   },
   {
@@ -1608,7 +1608,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Gethuk Lindri termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Gethuk Lindri termasuk kuliner Kabupaten Ngawi. Gethuk Lindri adalah bagian dari kuliner lokal Ngawi, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -1622,7 +1622,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bondowoso"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Air Terjun Pengantin termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Air Terjun Pengantin termasuk destinasi Kabupaten Ngawi. Air Terjun Pengantin menampilkan lanskap alam Kabupaten Ngawi, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ngawi.",
     "difficulty": "easy"
   },
   {
@@ -1636,7 +1636,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jember"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Air Terjun Suwono termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Air Terjun Suwono termasuk destinasi Kabupaten Ngawi. Air Terjun Suwono menampilkan lanskap alam Kabupaten Ngawi, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ngawi.",
     "difficulty": "easy"
   },
   {
@@ -1650,7 +1650,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Batik Ngawi termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi.",
+    "explanation": "Batik Ngawi termasuk motif batik Kabupaten Ngawi. Batik Ngawi memperkenalkan bahasa visual batik Kabupaten Ngawi, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Ngawi.",
     "difficulty": "hard"
   },
   {
@@ -1664,7 +1664,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Rokat Tase termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Rokat Tase termasuk warisan budaya Kabupaten Pacitan. Rokat Tase adalah tradisi komunal Kabupaten Pacitan yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1678,7 +1678,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Upacara Adat Tetaken termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Upacara Adat Tetaken termasuk warisan budaya Kabupaten Pacitan. Upacara Adat Tetaken hidup dalam lanskap budaya Kabupaten Pacitan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1692,7 +1692,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Jadah Bakar termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Jadah Bakar termasuk kuliner Kabupaten Pacitan. Jadah Bakar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pacitan.",
     "difficulty": "easy"
   },
   {
@@ -1706,7 +1706,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Kupat Tahu termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Kupat Tahu termasuk kuliner Kabupaten Pacitan. Kupat Tahu adalah bagian dari kuliner lokal Pacitan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -1720,7 +1720,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Banyu Tibo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Banyu Tibo termasuk destinasi Kabupaten Pacitan. Banyu Tibo adalah tujuan kunjungan di Kabupaten Pacitan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1734,7 +1734,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pacitan"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Goa Tabuhan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Goa Tabuhan termasuk destinasi Kabupaten Pacitan. Goa Tabuhan menampilkan lanskap alam Kabupaten Pacitan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pacitan.",
     "difficulty": "easy"
   },
   {
@@ -1748,7 +1748,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pacitan"
     ],
     "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Batik Pace termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan.",
+    "explanation": "Batik Pace termasuk motif batik Kabupaten Pacitan. Batik Pace memperkenalkan bahasa visual batik Kabupaten Pacitan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pacitan.",
     "difficulty": "hard"
   },
   {
@@ -1762,7 +1762,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bondowoso"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Karapan Sapi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Karapan Sapi termasuk warisan budaya Kabupaten Pamekasan. Karapan Sapi berasal dari tradisi Madura yang menempatkan sapi sebagai bagian dari kebanggaan, ketangkasan, dan perayaan masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1776,7 +1776,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Rokat Tase termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Rokat Tase termasuk warisan budaya Kabupaten Pamekasan. Rokat Tase adalah tradisi komunal Kabupaten Pamekasan yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1790,7 +1790,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pamekasan"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Campor termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Campor termasuk kuliner Kabupaten Pamekasan. Campor adalah bagian dari kuliner lokal Pamekasan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -1804,7 +1804,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Jamu Ramuan Pamekasan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Jamu Ramuan Pamekasan termasuk kuliner Kabupaten Pamekasan. Jamu Ramuan Pamekasan adalah bagian dari kuliner lokal Pamekasan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -1818,7 +1818,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pamekasan"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Api Tak Kunjung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Api Tak Kunjung termasuk destinasi Kabupaten Pamekasan. Api Tak Kunjung adalah tujuan kunjungan di Kabupaten Pamekasan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -1832,7 +1832,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Bukit Brukoh termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Bukit Brukoh termasuk destinasi Kabupaten Pamekasan. Bukit Brukoh menampilkan lanskap alam Kabupaten Pamekasan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pamekasan.",
     "difficulty": "easy"
   },
   {
@@ -1846,7 +1846,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Batu"
     ],
     "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Batik Podhek termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan.",
+    "explanation": "Batik Podhek termasuk motif batik Kabupaten Pamekasan. Batik Podhek memperkenalkan bahasa visual batik Kabupaten Pamekasan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pamekasan.",
     "difficulty": "hard"
   },
   {
@@ -1860,7 +1860,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pasuruan"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Tradisi Praon termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Tradisi Praon termasuk warisan budaya Kabupaten Pasuruan. Tradisi Praon hidup dalam lanskap budaya Kabupaten Pasuruan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1874,7 +1874,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Upacara Adat Karo termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Upacara Adat Karo termasuk warisan budaya Kabupaten Pasuruan. Upacara Adat Karo berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
     "difficulty": "medium"
   },
   {
@@ -1888,7 +1888,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pasuruan"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Bipang Jangkar termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Bipang Jangkar termasuk kuliner Kabupaten Pasuruan. Bipang Jangkar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
     "difficulty": "easy"
   },
   {
@@ -1902,7 +1902,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Klepon Bulusari termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Klepon Bulusari termasuk kuliner Kabupaten Pasuruan. Klepon Bulusari adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
     "difficulty": "easy"
   },
   {
@@ -1916,7 +1916,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pasuruan"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Air Terjun Madakaripura termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Air Terjun Madakaripura termasuk destinasi Kabupaten Pasuruan. Air Terjun Madakaripura menampilkan lanskap alam Kabupaten Pasuruan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pasuruan.",
     "difficulty": "easy"
   },
   {
@@ -1930,7 +1930,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Candi Jawi termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Candi Jawi termasuk destinasi Kabupaten Pasuruan. Candi Jawi menyimpan jejak sejarah Kabupaten Pasuruan, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -1944,7 +1944,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Blitar"
     ],
     "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Batik Pasuruan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan.",
+    "explanation": "Batik Pasuruan termasuk motif batik Kabupaten Pasuruan. Batik Pasuruan memperkenalkan bahasa visual batik Kabupaten Pasuruan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pasuruan.",
     "difficulty": "hard"
   },
   {
@@ -1958,7 +1958,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Blitar"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Grebeg Suro termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Grebeg Suro termasuk warisan budaya Kabupaten Ponorogo. Grebeg Suro adalah tradisi komunal Kabupaten Ponorogo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -1972,7 +1972,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Gajah Gajahan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Gajah Gajahan termasuk warisan budaya Kabupaten Ponorogo. Gajah Gajahan hidup dalam lanskap budaya Kabupaten Ponorogo, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -1986,7 +1986,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pamekasan"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Dawet Jabung termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Dawet Jabung termasuk kuliner Kabupaten Ponorogo. Dawet Jabung adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Ponorogo.",
     "difficulty": "easy"
   },
   {
@@ -2000,7 +2000,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Garang Asem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Garang Asem termasuk kuliner Kabupaten Ponorogo. Garang Asem memperlihatkan olahan rumahan dan warung tradisional Ponorogo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2014,7 +2014,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Air Terjun Sunggah termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Air Terjun Sunggah termasuk destinasi Kabupaten Ponorogo. Air Terjun Sunggah menampilkan lanskap alam Kabupaten Ponorogo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ponorogo.",
     "difficulty": "easy"
   },
   {
@@ -2028,7 +2028,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ponorogo"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Bukit Cumbri termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Bukit Cumbri termasuk destinasi Kabupaten Ponorogo. Bukit Cumbri menampilkan lanskap alam Kabupaten Ponorogo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ponorogo.",
     "difficulty": "easy"
   },
   {
@@ -2042,7 +2042,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Batik Merak termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo.",
+    "explanation": "Batik Merak termasuk motif batik Kabupaten Ponorogo. Batik Merak memperkenalkan bahasa visual batik Kabupaten Ponorogo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Ponorogo.",
     "difficulty": "hard"
   },
   {
@@ -2056,7 +2056,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jombang"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Kasada termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Kasada termasuk warisan budaya Kabupaten Probolinggo. Kasada berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
     "difficulty": "medium"
   },
   {
@@ -2070,7 +2070,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Mojokerto"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Petik Laut termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Petik Laut termasuk warisan budaya Kabupaten Probolinggo. Petik Laut adalah tradisi komunal Kabupaten Probolinggo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2084,7 +2084,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Ikan Asap termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Ikan Asap termasuk kuliner Kabupaten Probolinggo. Ikan Asap memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Probolinggo.",
     "difficulty": "easy"
   },
   {
@@ -2098,7 +2098,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Nganjuk"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Ketan Kratok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Ketan Kratok termasuk kuliner Kabupaten Probolinggo. Ketan Kratok adalah bagian dari kuliner lokal Probolinggo, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -2112,7 +2112,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Bermi Echo Park termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Bermi Echo Park termasuk destinasi Kabupaten Probolinggo. Bermi Echo Park adalah tujuan kunjungan di Kabupaten Probolinggo, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2126,7 +2126,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Danau Ranu Agung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Danau Ranu Agung termasuk destinasi Kabupaten Probolinggo. Danau Ranu Agung menampilkan lanskap alam Kabupaten Probolinggo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Probolinggo.",
     "difficulty": "easy"
   },
   {
@@ -2140,7 +2140,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Batik Manggur termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo.",
+    "explanation": "Batik Manggur termasuk motif batik Kabupaten Probolinggo. Batik Manggur memperkenalkan bahasa visual batik Kabupaten Probolinggo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Probolinggo.",
     "difficulty": "hard"
   },
   {
@@ -2154,7 +2154,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Rokat Tase termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Rokat Tase termasuk warisan budaya Kabupaten Sampang. Rokat Tase adalah tradisi komunal Kabupaten Sampang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2168,7 +2168,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Daul Dug Dug termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Daul Dug Dug termasuk warisan budaya Kabupaten Sampang. Daul Dug Dug memperlihatkan tradisi musik rakyat Kabupaten Sampang, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
     "difficulty": "medium"
   },
   {
@@ -2182,7 +2182,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Banyuwangi"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Bebek Songkem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Bebek Songkem termasuk kuliner Kabupaten Sampang. Bebek Songkem menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
     "difficulty": "easy"
   },
   {
@@ -2196,7 +2196,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Campor Lorjuk termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Campor Lorjuk termasuk kuliner Kabupaten Sampang. Campor Lorjuk memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Sampang.",
     "difficulty": "easy"
   },
   {
@@ -2210,7 +2210,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Aire Terjun Toroan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Aire Terjun Toroan termasuk destinasi Kabupaten Sampang. Aire Terjun Toroan adalah tujuan kunjungan di Kabupaten Sampang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2224,7 +2224,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Gua Lebar termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Gua Lebar termasuk destinasi Kabupaten Sampang. Gua Lebar menampilkan lanskap alam Kabupaten Sampang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sampang.",
     "difficulty": "easy"
   },
   {
@@ -2238,7 +2238,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Batik Sampang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Sampang.",
+    "explanation": "Batik Sampang termasuk motif batik Kabupaten Sampang. Batik Sampang memperkenalkan bahasa visual batik Kabupaten Sampang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Sampang.",
     "difficulty": "hard"
   },
   {
@@ -2252,7 +2252,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Mojokerto"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Nyadran termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Nyadran termasuk warisan budaya Kabupaten Sidoarjo. Nyadran adalah tradisi komunal Kabupaten Sidoarjo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2266,7 +2266,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Ruwat termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Ruwat termasuk warisan budaya Kabupaten Sidoarjo. Ruwat adalah tradisi komunal Kabupaten Sidoarjo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2280,7 +2280,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Bandeng Presto termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Bandeng Presto termasuk kuliner Kabupaten Sidoarjo. Bandeng Presto memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Sidoarjo.",
     "difficulty": "easy"
   },
   {
@@ -2294,7 +2294,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Lontong Cecek termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Lontong Cecek termasuk kuliner Kabupaten Sidoarjo. Lontong Cecek memperlihatkan olahan rumahan dan warung tradisional Sidoarjo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2308,7 +2308,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pacitan"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Candi Pari termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Candi Pari termasuk destinasi Kabupaten Sidoarjo. Candi Pari menyimpan jejak sejarah Kabupaten Sidoarjo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -2322,7 +2322,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Blitar"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Candi Sumur termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Candi Sumur termasuk destinasi Kabupaten Sidoarjo. Candi Sumur menyimpan jejak sejarah Kabupaten Sidoarjo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -2336,7 +2336,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Batik Jetis termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo.",
+    "explanation": "Batik Jetis termasuk motif batik Kabupaten Sidoarjo. Batik Jetis terkait dengan Kampung Batik Jetis Sidoarjo, salah satu pusat batik lokal yang berkembang di kawasan delta.",
     "difficulty": "hard"
   },
   {
@@ -2350,7 +2350,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Ojhung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Ojhung termasuk warisan budaya Kabupaten Situbondo. Ojhung adalah seni pertunjukan rakyat Kabupaten Situbondo yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
     "difficulty": "medium"
   },
   {
@@ -2364,7 +2364,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Tari Landhung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Tari Landhung termasuk warisan budaya Kabupaten Situbondo. Tari Landhung adalah seni tari Kabupaten Situbondo yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
     "difficulty": "medium"
   },
   {
@@ -2378,7 +2378,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Bakso Lulur termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Bakso Lulur termasuk kuliner Kabupaten Situbondo. Bakso Lulur memperlihatkan olahan rumahan dan warung tradisional Situbondo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2392,7 +2392,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Nasi Karak termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Nasi Karak termasuk kuliner Kabupaten Situbondo. Nasi Karak adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Situbondo.",
     "difficulty": "easy"
   },
   {
@@ -2406,7 +2406,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Baluran termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Baluran termasuk destinasi Kabupaten Situbondo. Baluran adalah tujuan kunjungan di Kabupaten Situbondo, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2420,7 +2420,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Kampung Kerapu termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Kampung Kerapu termasuk destinasi Kabupaten Situbondo. Kampung Kerapu memberi pengalaman budaya di Kabupaten Situbondo, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
     "difficulty": "easy"
   },
   {
@@ -2434,7 +2434,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Batik Situbondo termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo.",
+    "explanation": "Batik Situbondo termasuk motif batik Kabupaten Situbondo. Batik Situbondo memperkenalkan bahasa visual batik Kabupaten Situbondo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Situbondo.",
     "difficulty": "hard"
   },
   {
@@ -2448,7 +2448,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sumenep"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Tari Muang Sangkal termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Tari Muang Sangkal termasuk warisan budaya Kabupaten Sumenep. Tari Muang Sangkal adalah seni tari Kabupaten Sumenep yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
     "difficulty": "medium"
   },
   {
@@ -2462,7 +2462,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Topeng Dalang termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Topeng Dalang termasuk warisan budaya Kabupaten Sumenep. Topeng Dalang menampilkan tradisi topeng dan kisah Panji, dengan karakter, gerak tari, dan musik yang hidup dalam budaya Sumenep.",
     "difficulty": "medium"
   },
   {
@@ -2476,7 +2476,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Banyuwangi"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Campor termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Campor termasuk kuliner Kabupaten Sumenep. Campor adalah bagian dari kuliner lokal Sumenep, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -2490,7 +2490,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sumenep"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Kaldu Kokot termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Kaldu Kokot termasuk kuliner Kabupaten Sumenep. Kaldu Kokot adalah sup kaki sapi khas Madura dengan kuah gurih pekat, kacang hijau, dan rempah yang membuatnya mengenyangkan.",
     "difficulty": "easy"
   },
   {
@@ -2504,7 +2504,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sumenep"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Gili Iyang termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Gili Iyang termasuk destinasi Kabupaten Sumenep. Gili Iyang menampilkan lanskap alam Kabupaten Sumenep, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sumenep.",
     "difficulty": "easy"
   },
   {
@@ -2518,7 +2518,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Magetan"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Gili Labak termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Gili Labak termasuk destinasi Kabupaten Sumenep. Gili Labak menampilkan lanskap alam Kabupaten Sumenep, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sumenep.",
     "difficulty": "easy"
   },
   {
@@ -2532,7 +2532,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Batik Sumenep termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep.",
+    "explanation": "Batik Sumenep termasuk motif batik Kabupaten Sumenep. Batik Sumenep memperkenalkan bahasa visual batik Kabupaten Sumenep, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Sumenep.",
     "difficulty": "hard"
   },
   {
@@ -2546,7 +2546,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sidoarjo"
     ],
     "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Dam Bagong termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek.",
+    "explanation": "Dam Bagong termasuk warisan budaya Kabupaten Trenggalek. Dam Bagong hidup dalam lanskap budaya Kabupaten Trenggalek, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -2560,7 +2560,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Jaranan Senterewe termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek.",
+    "explanation": "Jaranan Senterewe termasuk warisan budaya Kabupaten Trenggalek. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Trenggalek, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -2574,7 +2574,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Ayam Lodho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek.",
+    "explanation": "Ayam Lodho termasuk kuliner Kabupaten Trenggalek. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Trenggalek, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2588,7 +2588,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Gresik"
     ],
     "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Nasi Gegok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek.",
+    "explanation": "Nasi Gegok termasuk kuliner Kabupaten Trenggalek. Nasi Gegok adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Trenggalek.",
     "difficulty": "easy"
   },
   {
@@ -2602,7 +2602,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Goa Lowo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek.",
+    "explanation": "Goa Lowo termasuk destinasi Kabupaten Trenggalek. Goa Lowo menampilkan lanskap alam Kabupaten Trenggalek, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Trenggalek.",
     "difficulty": "easy"
   },
   {
@@ -2616,7 +2616,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Pantai Kuyon termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek.",
+    "explanation": "Pantai Kuyon termasuk destinasi Kabupaten Trenggalek. Pantai Kuyon menampilkan lanskap alam Kabupaten Trenggalek, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Trenggalek.",
     "difficulty": "easy"
   },
   {
@@ -2630,7 +2630,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Grebeg Tape termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Grebeg Tape termasuk warisan budaya Kabupaten Tuban. Grebeg Tape adalah tradisi komunal Kabupaten Tuban yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2644,7 +2644,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Sandur termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Sandur termasuk warisan budaya Kabupaten Tuban. Sandur adalah tradisi tutur atau pertunjukan rakyat yang membawa cerita, musik, dan pesan moral dalam ruang budaya Tuban.",
     "difficulty": "medium"
   },
   {
@@ -2658,7 +2658,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Ampo termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Ampo termasuk kuliner Kabupaten Tuban. Ampo adalah bagian dari kuliner lokal Tuban, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -2672,7 +2672,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Nganjuk"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Becek Tuban termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Becek Tuban termasuk kuliner Kabupaten Tuban. Becek Tuban adalah bagian dari kuliner lokal Tuban, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -2686,7 +2686,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Air Terjun Nglirip termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Air Terjun Nglirip termasuk destinasi Kabupaten Tuban. Air Terjun Nglirip menampilkan lanskap alam Kabupaten Tuban, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Tuban.",
     "difficulty": "easy"
   },
   {
@@ -2700,7 +2700,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bangkalan"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Bektiharjo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Bektiharjo termasuk destinasi Kabupaten Tuban. Bektiharjo adalah tujuan kunjungan di Kabupaten Tuban, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2714,7 +2714,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Batik Tuban termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Tuban.",
+    "explanation": "Batik Tuban termasuk motif batik Kabupaten Tuban. Batik Tuban dekat dengan tradisi batik pesisir Tuban yang dikenal lewat warna bumi, motif flora-fauna, dan napas budaya pantura.",
     "difficulty": "hard"
   },
   {
@@ -2728,7 +2728,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Batu"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Ulur Ulur termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Ulur Ulur termasuk warisan budaya Kabupaten Tulungagung. Ulur Ulur hidup dalam lanskap budaya Kabupaten Tulungagung, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -2742,7 +2742,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Jaranan Senterewe termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Jaranan Senterewe termasuk warisan budaya Kabupaten Tulungagung. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Tulungagung, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -2756,7 +2756,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Ayam Lodho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Ayam Lodho termasuk kuliner Kabupaten Tulungagung. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Tulungagung, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2770,7 +2770,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Batu"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Enting Gepuk termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Enting Gepuk termasuk kuliner Kabupaten Tulungagung. Enting Gepuk adalah bagian dari kuliner lokal Tulungagung, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -2784,7 +2784,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Agro Wilis termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Agro Wilis termasuk destinasi Kabupaten Tulungagung. Agro Wilis adalah tujuan kunjungan di Kabupaten Tulungagung, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2798,7 +2798,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Alas Kandung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Alas Kandung termasuk destinasi Kabupaten Tulungagung. Alas Kandung adalah tujuan kunjungan di Kabupaten Tulungagung, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2812,7 +2812,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Batik Gajah Mada termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung.",
+    "explanation": "Batik Gajah Mada termasuk motif batik Kabupaten Tulungagung. Batik Gajah Mada memperkenalkan bahasa visual batik Kabupaten Tulungagung, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Tulungagung.",
     "difficulty": "hard"
   },
   {
@@ -2826,7 +2826,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "Upacara Bersih Desa termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "Upacara Bersih Desa termasuk warisan budaya Kota Batu. Upacara Bersih Desa adalah tradisi komunal Kota Batu yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2840,7 +2840,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "Bantengan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "Bantengan termasuk warisan budaya Kota Batu. Bantengan adalah seni pertunjukan rakyat Kota Batu yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
     "difficulty": "medium"
   },
   {
@@ -2854,7 +2854,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "Cwie Mie termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "Cwie Mie termasuk kuliner Kota Batu. Cwie Mie adalah bagian dari kuliner lokal Batu, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -2868,7 +2868,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Gresik"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "Keripik Buah termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "Keripik Buah termasuk kuliner Kota Batu. Keripik Buah mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Batu.",
     "difficulty": "easy"
   },
   {
@@ -2882,7 +2882,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "BNS termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "BNS termasuk destinasi Kota Batu. BNS adalah tujuan kunjungan di Kota Batu, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2896,7 +2896,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pamekasan"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "Cangar termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "Cangar termasuk destinasi Kota Batu. Cangar adalah tujuan kunjungan di Kota Batu, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2910,7 +2910,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kota Batu",
-    "explanation": "Batik Batu termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Batu.",
+    "explanation": "Batik Batu termasuk motif batik Kota Batu. Batik Batu memperkenalkan bahasa visual batik Kota Batu, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Batu.",
     "difficulty": "hard"
   },
   {
@@ -2924,7 +2924,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Kirab Grebeg Pancasila termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Kirab Grebeg Pancasila termasuk warisan budaya Kota Blitar. Kirab Grebeg Pancasila adalah tradisi komunal Kota Blitar yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -2938,7 +2938,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Gresik"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Jaranan Eklek termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Jaranan Eklek termasuk warisan budaya Kota Blitar. Jaranan Eklek adalah seni kuda kepang yang berkembang di Blitar, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -2952,7 +2952,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Es Drop termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Es Drop termasuk kuliner Kota Blitar. Es Drop adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Blitar.",
     "difficulty": "easy"
   },
   {
@@ -2966,7 +2966,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Es Pleret termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Es Pleret termasuk kuliner Kota Blitar. Es Pleret adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Blitar.",
     "difficulty": "easy"
   },
   {
@@ -2980,7 +2980,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Kebon Rojo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Kebon Rojo termasuk destinasi Kota Blitar. Kebon Rojo adalah tujuan kunjungan di Kota Blitar, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -2994,7 +2994,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Makam Bung Karno termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Makam Bung Karno termasuk destinasi Kota Blitar. Makam Bung Karno menyimpan jejak sejarah Kota Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -3008,7 +3008,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kota Blitar",
-    "explanation": "Batik Blitar termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Blitar.",
+    "explanation": "Batik Blitar termasuk motif batik Kota Blitar. Batik Blitar memperkenalkan bahasa visual batik Kota Blitar, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Blitar.",
     "difficulty": "hard"
   },
   {
@@ -3022,7 +3022,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jember"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Larung Sesaji termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Larung Sesaji termasuk warisan budaya Kota Kediri. Larung Sesaji adalah tradisi komunal Kota Kediri yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -3036,7 +3036,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Jaranan Kediri termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Jaranan Kediri termasuk warisan budaya Kota Kediri. Jaranan Kediri adalah seni kuda kepang yang berkembang di Kediri, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -3050,7 +3050,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Pecel Dhoho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Pecel Dhoho termasuk kuliner Kota Kediri. Pecel Dhoho mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Kediri memberi warna tersendiri pada tradisi pecel Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3064,7 +3064,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Sambel Tumpang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Sambel Tumpang termasuk kuliner Kota Kediri. Sambel Tumpang adalah bagian dari kuliner lokal Kediri, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -3078,7 +3078,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Goa Selomangleng termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Goa Selomangleng termasuk destinasi Kota Kediri. Goa Selomangleng menampilkan lanskap alam Kota Kediri, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Kediri.",
     "difficulty": "easy"
   },
   {
@@ -3092,7 +3092,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Bondowoso"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Kediri Waterpark termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Kediri Waterpark termasuk destinasi Kota Kediri. Kediri Waterpark menjadi ruang kunjungan populer di Kota Kediri, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Kediri.",
     "difficulty": "easy"
   },
   {
@@ -3106,7 +3106,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kota Kediri",
-    "explanation": "Batik Kediri termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Kediri.",
+    "explanation": "Batik Kediri termasuk motif batik Kota Kediri. Batik Kediri memperkenalkan bahasa visual batik Kota Kediri, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Kediri.",
     "difficulty": "hard"
   },
   {
@@ -3120,7 +3120,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Dongkrek Madiun termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Dongkrek Madiun termasuk warisan budaya Kota Madiun. Dongkrek Madiun adalah kesenian Madiun yang memakai topeng, bunyi kentongan, dan narasi tolak bala dalam pertunjukan rakyat.",
     "difficulty": "medium"
   },
   {
@@ -3134,7 +3134,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tulungagung"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Gajah Gajah termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Gajah Gajah termasuk warisan budaya Kota Madiun. Gajah Gajah hidup dalam lanskap budaya Kota Madiun, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -3148,7 +3148,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Blitar"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Brem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Brem termasuk kuliner Kota Madiun. Brem berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
     "difficulty": "easy"
   },
   {
@@ -3162,7 +3162,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Madiun"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Lempeng Puli termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Lempeng Puli termasuk kuliner Kota Madiun. Lempeng Puli adalah bagian dari kuliner lokal Madiun, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -3176,7 +3176,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Alun Alun termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Alun Alun termasuk destinasi Kota Madiun. Alun Alun menjadi ruang kunjungan populer di Kota Madiun, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Madiun.",
     "difficulty": "easy"
   },
   {
@@ -3190,7 +3190,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Batu"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Bantaran Brantas Park termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Bantaran Brantas Park termasuk destinasi Kota Madiun. Bantaran Brantas Park adalah tujuan kunjungan di Kota Madiun, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3204,7 +3204,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kota Madiun",
-    "explanation": "Batik Madiun termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Madiun.",
+    "explanation": "Batik Madiun termasuk motif batik Kota Madiun. Batik Madiun memperkenalkan bahasa visual batik Kota Madiun, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Madiun.",
     "difficulty": "hard"
   },
   {
@@ -3218,7 +3218,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Madiun"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Kesenian Bantengan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Kesenian Bantengan termasuk warisan budaya Kota Malang. Kesenian Bantengan adalah seni pertunjukan rakyat Kota Malang yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
     "difficulty": "medium"
   },
   {
@@ -3232,7 +3232,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Malang"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Tari Topeng Malangan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Tari Topeng Malangan termasuk warisan budaya Kota Malang. Tari Topeng Malangan menampilkan tradisi topeng dan kisah Panji, dengan karakter, gerak tari, dan musik yang hidup dalam budaya Malang.",
     "difficulty": "medium"
   },
   {
@@ -3246,7 +3246,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Jombang"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Bakso Malang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Bakso Malang termasuk kuliner Kota Malang. Bakso Malang memperlihatkan olahan rumahan dan warung tradisional Malang, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3260,7 +3260,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Cwie Mie termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Cwie Mie termasuk kuliner Kota Malang. Cwie Mie adalah bagian dari kuliner lokal Malang, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -3274,7 +3274,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lumajang"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Kajoetangan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Kajoetangan termasuk destinasi Kota Malang. Kajoetangan adalah tujuan kunjungan di Kota Malang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3288,7 +3288,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Blitar"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Kampung Warna Warni termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Kampung Warna Warni termasuk destinasi Kota Malang. Kampung Warna Warni memberi pengalaman budaya di Kota Malang, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
     "difficulty": "easy"
   },
   {
@@ -3302,7 +3302,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kota Malang",
-    "explanation": "Batik Malang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Malang.",
+    "explanation": "Batik Malang termasuk motif batik Kota Malang. Batik Malang memperkenalkan bahasa visual batik Kota Malang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Malang.",
     "difficulty": "hard"
   },
   {
@@ -3316,7 +3316,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Mojotirto termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Mojotirto termasuk warisan budaya Kota Mojokerto. Mojotirto hidup dalam lanskap budaya Kota Mojokerto, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -3330,7 +3330,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Lamongan"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Bantengan Urban termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Bantengan Urban termasuk warisan budaya Kota Mojokerto. Bantengan Urban adalah seni pertunjukan rakyat Kota Mojokerto yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
     "difficulty": "medium"
   },
   {
@@ -3344,7 +3344,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Situbondo"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Bubur Sruntul termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Bubur Sruntul termasuk kuliner Kota Mojokerto. Bubur Sruntul adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Mojokerto.",
     "difficulty": "easy"
   },
   {
@@ -3358,7 +3358,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Banyuwangi"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Nasi Pecel Majapahit termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Nasi Pecel Majapahit termasuk kuliner Kota Mojokerto. Nasi Pecel Majapahit mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Mojokerto memberi warna tersendiri pada tradisi pecel Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3372,7 +3372,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ponorogo"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Alun Alun termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Alun Alun termasuk destinasi Kota Mojokerto. Alun Alun menjadi ruang kunjungan populer di Kota Mojokerto, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Mojokerto.",
     "difficulty": "easy"
   },
   {
@@ -3386,7 +3386,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sumenep"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Pemandian Sekarsari termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Pemandian Sekarsari termasuk destinasi Kota Mojokerto. Pemandian Sekarsari adalah tujuan kunjungan di Kota Mojokerto, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3400,7 +3400,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Trenggalek"
     ],
     "correctAnswer": "Kota Mojokerto",
-    "explanation": "Batik Mojokerto termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Mojokerto.",
+    "explanation": "Batik Mojokerto termasuk motif batik Kota Mojokerto. Batik Mojokerto memperkenalkan bahasa visual batik Kota Mojokerto, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Mojokerto.",
     "difficulty": "hard"
   },
   {
@@ -3414,7 +3414,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Peraon termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Peraon termasuk warisan budaya Kota Pasuruan. Peraon hidup dalam lanskap budaya Kota Pasuruan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
     "difficulty": "medium"
   },
   {
@@ -3428,7 +3428,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Probolinggo"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Terbang Bandung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Terbang Bandung termasuk warisan budaya Kota Pasuruan. Terbang Bandung memperlihatkan tradisi musik rakyat Kota Pasuruan, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
     "difficulty": "medium"
   },
   {
@@ -3442,7 +3442,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Bipang Jangkar termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Bipang Jangkar termasuk kuliner Kota Pasuruan. Bipang Jangkar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
     "difficulty": "easy"
   },
   {
@@ -3456,7 +3456,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Nasi Punel termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Nasi Punel termasuk kuliner Kota Pasuruan. Nasi Punel adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Pasuruan.",
     "difficulty": "easy"
   },
   {
@@ -3470,7 +3470,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Pasuruan"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Kampung Mebel Bukir termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Kampung Mebel Bukir termasuk destinasi Kota Pasuruan. Kampung Mebel Bukir memberi pengalaman budaya di Kota Pasuruan, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
     "difficulty": "easy"
   },
   {
@@ -3484,7 +3484,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Pasuruan"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Taman Sekargadung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Taman Sekargadung termasuk destinasi Kota Pasuruan. Taman Sekargadung menjadi ruang kunjungan populer di Kota Pasuruan, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Pasuruan.",
     "difficulty": "easy"
   },
   {
@@ -3498,7 +3498,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kota Pasuruan",
-    "explanation": "Batik Pasuruan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Pasuruan.",
+    "explanation": "Batik Pasuruan termasuk motif batik Kota Pasuruan. Batik Pasuruan memperkenalkan bahasa visual batik Kota Pasuruan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pasuruan.",
     "difficulty": "hard"
   },
   {
@@ -3512,7 +3512,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Kediri"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Petik Laut termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Petik Laut termasuk warisan budaya Kota Probolinggo. Petik Laut adalah tradisi komunal Kota Probolinggo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -3526,7 +3526,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Mojokerto"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Jaran Bodhag termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Jaran Bodhag termasuk warisan budaya Kota Probolinggo. Jaran Bodhag adalah seni pertunjukan rakyat Kota Probolinggo yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
     "difficulty": "medium"
   },
   {
@@ -3540,7 +3540,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Malang"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Ketan Kratok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Ketan Kratok termasuk kuliner Kota Probolinggo. Ketan Kratok adalah bagian dari kuliner lokal Probolinggo, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
     "difficulty": "easy"
   },
   {
@@ -3554,7 +3554,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Nganjuk"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Nasi Glepung termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Nasi Glepung termasuk kuliner Kota Probolinggo. Nasi Glepung adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Probolinggo.",
     "difficulty": "easy"
   },
   {
@@ -3568,7 +3568,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sampang"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Batik Probolinggo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Batik Probolinggo termasuk destinasi Kota Probolinggo. Batik Probolinggo memberi pengalaman budaya di Kota Probolinggo, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
     "difficulty": "easy"
   },
   {
@@ -3582,7 +3582,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Gereja Merah termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Gereja Merah termasuk destinasi Kota Probolinggo. Gereja Merah menyimpan jejak sejarah Kota Probolinggo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
     "difficulty": "easy"
   },
   {
@@ -3596,7 +3596,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sumenep"
     ],
     "correctAnswer": "Kota Probolinggo",
-    "explanation": "Batik Manggur termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Probolinggo.",
+    "explanation": "Batik Manggur termasuk motif batik Kota Probolinggo. Batik Manggur memperkenalkan bahasa visual batik Kota Probolinggo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Probolinggo.",
     "difficulty": "hard"
   },
   {
@@ -3610,7 +3610,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Probolinggo"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Ludruk Suroboyoan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Ludruk Suroboyoan termasuk warisan budaya Kota Surabaya. Ludruk Suroboyoan adalah teater rakyat Jawa Timur yang memadukan dialog, humor, musik, dan kritik sosial dalam bahasa keseharian masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -3624,7 +3624,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Kediri"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Festival Rujak Uleg termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Festival Rujak Uleg termasuk warisan budaya Kota Surabaya. Festival Rujak Uleg adalah tradisi komunal Kota Surabaya yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
     "difficulty": "medium"
   },
   {
@@ -3638,7 +3638,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Ngawi"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Belut Surabaya termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Belut Surabaya termasuk kuliner Kota Surabaya. Belut Surabaya memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Surabaya.",
     "difficulty": "easy"
   },
   {
@@ -3652,7 +3652,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Sumenep"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Kupang Lontong termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Kupang Lontong termasuk kuliner Kota Surabaya. Kupang Lontong memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Surabaya.",
     "difficulty": "easy"
   },
   {
@@ -3666,7 +3666,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kabupaten Tuban"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Jalan Tunjungan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Jalan Tunjungan termasuk destinasi Kota Surabaya. Jalan Tunjungan menjadi ruang kunjungan populer di Kota Surabaya, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Surabaya.",
     "difficulty": "easy"
   },
   {
@@ -3680,7 +3680,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Probolinggo"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Jembatan Suramadu termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Jembatan Suramadu termasuk destinasi Kota Surabaya. Jembatan Suramadu adalah tujuan kunjungan di Kota Surabaya, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
     "difficulty": "easy"
   },
   {
@@ -3694,7 +3694,7 @@ export const quizQuestions: QuizQuestion[] = [
       "Kota Surabaya"
     ],
     "correctAnswer": "Kota Surabaya",
-    "explanation": "Batik Kintir Kintir termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Surabaya.",
+    "explanation": "Batik Kintir Kintir termasuk motif batik Kota Surabaya. Batik Kintir Kintir memperkenalkan bahasa visual batik Kota Surabaya, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Surabaya.",
     "difficulty": "hard"
   }
 ];

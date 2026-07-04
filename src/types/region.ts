@@ -32,6 +32,7 @@ export type Region = {
   summary: string;
   nickname?: string;
   dialect?: string;
+  culturalArea?: string;
   population?: string;
   area?: string;
   heroImage?: ImageAsset;

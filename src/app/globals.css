@@ -1,14 +1,17 @@
 @import "tailwindcss";
 
 :root {
-  --background: #fbf8ef;
-  --foreground: #17211d;
-  --surface: #fffdf6;
-  --muted: #617068;
-  --border: #ded6c1;
-  --primary: #245f4f;
-  --secondary: #b6432b;
-  --accent: #d89a2b;
+  --background: #f7f4ee;
+  --foreground: #26231f;
+  --surface: #fffaf2;
+  --muted: #756c61;
+  --border: #ded5c8;
+  --primary: #8a4f1d;
+  --secondary: #a4622d;
+  --accent: #d6c9ad;
+  --ink: #060504;
+  --sand: #ece8df;
+  --leaf: #617452;
 }
 
 @theme inline {
@@ -20,6 +23,9 @@
   --color-primary: var(--primary);
   --color-secondary: var(--secondary);
   --color-accent: var(--accent);
+  --color-ink: var(--ink);
+  --color-sand: var(--sand);
+  --color-leaf: var(--leaf);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -37,4 +43,13 @@ html {
 a,
 button {
   outline-color: var(--secondary);
+}
+
+::selection {
+  background: rgb(138 79 29 / 0.24);
+}
+
+.vast-shell {
+  min-height: 100dvh;
+  background: var(--background);
 }

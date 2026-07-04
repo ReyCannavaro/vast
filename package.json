@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "validate:data": "node scripts/validate-static-data.mjs",
-    "validate:game": "node scripts/validate-game-data.mjs"
+    "validate:game": "node scripts/validate-game-data.mjs",
+    "validate:map": "node scripts/validate-map-data.mjs",
+    "generate:map": "node scripts/generate-east-java-regency-map.mjs"
   },
   "dependencies": {
     "next": "16.2.9",
