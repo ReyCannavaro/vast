@@ -168,8 +168,18 @@ export function GalleryRandomSections({ items }: GalleryRandomSectionsProps) {
 
   return (
     <>
-      <section className="bg-[#3c3a38] px-6 pb-28 pt-44 text-center text-white lg:px-10">
-        <div className="mx-auto flex min-h-[520px] max-w-5xl flex-col items-center justify-center">
+      <section className="relative overflow-hidden bg-[#3c3a38] px-6 pb-28 pt-44 text-center text-white lg:px-10">
+        <Image
+          src="/images/regions/kabupaten-jombang/budaya/jaranan-dor.jpg"
+          alt="Pertunjukan Jaranan Dor dari Kabupaten Jombang"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover"
+        />
+        <div className="absolute inset-0 bg-[#2d2925]/62" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/32 via-black/18 to-[#3c3a38]/78" />
+        <div className="relative mx-auto flex min-h-[520px] max-w-5xl flex-col items-center justify-center">
           <p className="rounded-full border border-white/42 px-4 py-2 text-xs font-bold uppercase tracking-[0.12em] text-white/80">
             Eksplorasi Warisan Nusantara
           </p>
