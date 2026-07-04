@@ -8,8 +8,9 @@ import { foods } from "@/data/foods";
 import { heritageItems } from "@/data/heritageItems";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SiteHeader } from "@/components/layout/SiteHeader";
+import { RegionDetailShowcase } from "@/components/regions";
 import { getAllRegions, getRegionBySlug } from "@/lib/regionService";
-import type { DestinationItem, FoodItem, HeritageItem, Region } from "@/types/region";
+import type { HeritageItem, Region } from "@/types/region";
 
 type RegionDetailPageProps = {
   params: Promise<{
@@ -180,54 +181,6 @@ function CultureCard({ item }: { item: HeritageItem }) {
         <p className="mt-4 text-sm leading-6 text-[#675b53]">
           {clampText(item.description, 94)}
         </p>
-      </div>
-    </article>
-  );
-}
-
-function FoodCard({ item }: { item: FoodItem }) {
-  const image = item.image;
-
-  return (
-    <article className="relative min-h-[300px] overflow-hidden rounded-[10px] border border-[#eadfd6] bg-[#e7e2dc]">
-      {image ? (
-        <Image
-          src={image.src}
-          alt={image.alt}
-          fill
-          sizes="(min-width: 1024px) 384px, 100vw"
-          className="object-cover"
-        />
-      ) : null}
-      <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/18 to-transparent" />
-      <div className="absolute inset-x-0 bottom-0 p-6 text-white">
-        <h3 className="text-lg font-bold">{item.name}</h3>
-        <p className="mt-3 text-sm leading-6 text-white/82">
-          {clampText(item.description, 104)}
-        </p>
-      </div>
-    </article>
-  );
-}
-
-function DestinationCard({ item }: { item: DestinationItem }) {
-  const image = item.image;
-
-  return (
-    <article className="relative min-h-[304px] overflow-hidden rounded-[12px] bg-[#bebcba]">
-      {image ? (
-        <Image
-          src={image.src}
-          alt={image.alt}
-          fill
-          sizes="(min-width: 1024px) 360px, 100vw"
-          className="object-cover"
-        />
-      ) : null}
-      <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-black/10 to-transparent" />
-      <div className="absolute inset-x-0 bottom-0 p-6 text-white">
-        <h3 className="text-lg font-medium">{item.name}</h3>
-        <p className="mt-1 text-sm text-white/78">{clampText(item.description, 54)}</p>
       </div>
     </article>
   );
@@ -408,32 +361,12 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
           </div>
         </section>
 
-        <section className="mx-auto max-w-7xl px-6 pb-28 lg:px-10">
-          <h2 className="text-4xl font-medium tracking-[-0.03em]">
-            Cita Rasa {region.dialect ?? shortName}
-          </h2>
-          <p className="mt-3 text-base text-[#5f554e]">
-            Kuliner khas yang menyimpan karakter rasa lokal {shortName}.
-          </p>
-
-          <div className="mt-10 grid gap-6 lg:grid-cols-3">
-            {foodItems.map((item) => (
-              <FoodCard key={item.id} item={item} />
-            ))}
-          </div>
-        </section>
-
-        <section className="mx-auto max-w-7xl px-6 pb-28 lg:px-10">
-          <h2 className="text-center text-4xl font-medium tracking-[-0.03em]">
-            Destinasi Pilihan
-          </h2>
-
-          <div className="mt-10 grid gap-6 lg:grid-cols-3">
-            {destinationItems.map((item) => (
-              <DestinationCard key={item.id} item={item} />
-            ))}
-          </div>
-        </section>
+        <RegionDetailShowcase
+          destinations={destinationItems}
+          foods={foodItems}
+          regionName={shortName}
+          tasteLabel={region.dialect ?? shortName}
+        />
 
         <section className="mx-auto max-w-7xl px-6 pb-24 lg:px-10">
           <div className="flex flex-col gap-8 rounded-[18px] bg-primary px-8 py-10 text-white md:flex-row md:items-center md:justify-between md:px-12">
