@@ -81,10 +81,10 @@ function CultureModal({
       onMouseDown={onClose}
     >
       <div
-        className="relative grid max-h-[90vh] w-full max-w-5xl overflow-hidden rounded-[18px] border border-white/18 bg-[#f8f5ef] text-[#211f1d] shadow-[0_34px_120px_rgb(0_0_0/0.42)] md:grid-cols-[minmax(0,1fr)_minmax(360px,0.82fr)]"
+        className="relative grid max-h-[calc(100dvh-48px)] min-h-0 w-full max-w-5xl overflow-hidden rounded-[18px] border border-white/18 bg-[#f8f5ef] text-[#211f1d] shadow-[0_34px_120px_rgb(0_0_0/0.42)] md:grid-cols-[minmax(0,1fr)_minmax(360px,0.82fr)]"
         onMouseDown={(event) => event.stopPropagation()}
       >
-        <div className="relative min-h-[300px] bg-[#e2ddd5] md:min-h-[610px]">
+        <div className="relative min-h-[300px] bg-[#e2ddd5] md:min-h-[min(610px,calc(100dvh-48px))]">
           {item.image ? (
             <Image
               src={item.image.src}
@@ -105,7 +105,7 @@ function CultureModal({
           </div>
         </div>
 
-        <div className="relative overflow-y-auto px-7 py-8 md:px-10 md:py-11">
+        <div className="relative min-h-0 overflow-y-auto overscroll-contain px-7 py-8 md:max-h-[calc(100dvh-48px)] md:px-10 md:py-11">
           <button
             type="button"
             aria-label="Tutup detail budaya"
