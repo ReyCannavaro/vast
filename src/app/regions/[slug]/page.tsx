@@ -8,9 +8,9 @@ import { foods } from "@/data/foods";
 import { heritageItems } from "@/data/heritageItems";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SiteHeader } from "@/components/layout/SiteHeader";
-import { RegionDetailShowcase } from "@/components/regions";
+import { RegionCultureShowcase, RegionDetailShowcase } from "@/components/regions";
 import { getAllRegions, getRegionBySlug } from "@/lib/regionService";
-import type { HeritageItem, Region } from "@/types/region";
+import type { Region } from "@/types/region";
 
 type RegionDetailPageProps = {
   params: Promise<{
@@ -34,17 +34,6 @@ const categoryLabels: Record<string, string> = {
   showcase: "Showcase",
 };
 
-const heritageLabels: Record<string, string> = {
-  batik: "Tradisi",
-  budaya: "Budaya",
-  festival: "Festival",
-  ikon: "Ikon",
-  lainnya: "Budaya",
-  sejarah: "Sejarah",
-  seni: "Seni Tari",
-  tradisi: "Ritual",
-};
-
 function formatType(region: Region) {
   return region.type === "kota" ? "KOTA" : "KABUPATEN";
 }
@@ -61,14 +50,6 @@ function formatCategories(region: Region) {
 
 function formatRegionCharacter(region: Region) {
   return region.culturalArea ?? formatCategories(region);
-}
-
-function clampText(text: string, maxLength = 112) {
-  if (text.length <= maxLength) {
-    return text;
-  }
-
-  return `${text.slice(0, maxLength).trim()}...`;
 }
 
 function getRegionCollections(region: Region) {
@@ -167,22 +148,6 @@ function StatCard({ label, value }: { label: string; value: string }) {
       <p className="text-[15px] text-[#74675e]">{label}</p>
       <p className="mt-3 text-[15px] font-medium text-primary">{value}</p>
     </div>
-  );
-}
-
-function CultureCard({ item }: { item: HeritageItem }) {
-  return (
-    <article className="flex min-h-[224px] flex-col justify-between rounded-[10px] border border-[#eadfd6] bg-white p-6">
-      <p className="text-xs font-bold uppercase text-primary">
-        {heritageLabels[item.category] ?? item.category}
-      </p>
-      <div>
-        <h3 className="text-xl font-medium text-[#1f1f1f]">{item.name}</h3>
-        <p className="mt-4 text-sm leading-6 text-[#675b53]">
-          {clampText(item.description, 94)}
-        </p>
-      </div>
-    </article>
   );
 }
 
@@ -335,31 +300,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
           </aside>
         </section>
 
-        <section className="mx-auto max-w-7xl px-6 pb-24 lg:px-10">
-          <div className="flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
-            <div>
-              <h2 className="text-4xl font-medium tracking-[-0.03em]">
-                Kekayaan Budaya
-              </h2>
-              <p className="mt-3 text-base text-[#5f554e]">
-                Menelusuri jejak tradisi yang masih hidup di {shortName}.
-              </p>
-            </div>
-            <Link
-              href="/gallery"
-              className="inline-flex items-center gap-2 text-base font-bold text-primary transition hover:text-secondary"
-            >
-              Lihat Semua Budaya
-              <InlineIcon type="arrow" />
-            </Link>
-          </div>
-
-          <div className="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-            {cultureItems.map((item) => (
-              <CultureCard key={item.id} item={item} />
-            ))}
-          </div>
-        </section>
+        <RegionCultureShowcase items={cultureItems} regionName={shortName} />
 
         <RegionDetailShowcase
           destinations={destinationItems}
