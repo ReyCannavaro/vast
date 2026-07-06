@@ -1,21 +1,18 @@
 import Image from "next/image";
 import Link from "next/link";
 
+import { GameRegionSelectorClient } from "@/components/game";
 import { SiteFooter, SiteHeader } from "@/components/layout";
 import { getAllRegions } from "@/lib/regionService";
 import { getQuizQuestionsByRegion } from "@/lib/quizService";
 
-function formatRegionType(type: string) {
-  return type === "kota" ? "Kota" : "Kabupaten";
-}
-
 export default function QuizPage() {
   const regions = getAllRegions().map((region) => ({
     ...region,
-    quizCount: getQuizQuestionsByRegion(region.slug).length,
+    itemCount: getQuizQuestionsByRegion(region.slug).length,
   }));
 
-  const totalQuestions = regions.reduce((total, region) => total + region.quizCount, 0);
+  const totalQuestions = regions.reduce((total, region) => total + region.itemCount, 0);
 
   return (
     <div className="min-h-screen bg-white text-[#241f1b]">
@@ -73,53 +70,13 @@ export default function QuizPage() {
             </h2>
           </div>
 
-          <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {regions.map((region) => (
-              <Link
-                key={region.slug}
-                href={`/game/quiz/${region.slug}`}
-                className="group overflow-hidden rounded-[16px] border border-[#dfd0c2] bg-white transition duration-500 ease-[cubic-bezier(0.32,0.72,0,1)] hover:-translate-y-1 hover:shadow-[0_24px_70px_rgb(92_61_39/0.13)] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
-              >
-                <div className="relative h-44 bg-[#d9d1ca]">
-                  {region.heroImage ? (
-                    <Image
-                      src={region.heroImage.src}
-                      alt={region.heroImage.alt}
-                      fill
-                      sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-                      className="object-cover transition duration-700 ease-[cubic-bezier(0.32,0.72,0,1)] group-hover:scale-[1.04]"
-                    />
-                  ) : null}
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/54 via-black/8 to-transparent" />
-                  <span className="absolute bottom-4 left-4 rounded-full bg-white/88 px-4 py-2 text-xs font-bold uppercase tracking-[0.08em] text-primary">
-                    {formatRegionType(region.type)}
-                  </span>
-                </div>
-
-                <div className="px-6 py-6">
-                  <div className="flex items-start justify-between gap-4">
-                    <div>
-                      <h3 className="text-2xl font-bold tracking-[-0.02em] text-[#2a2521]">
-                        {region.name.replace(/^Kabupaten\s|^Kota\s/, "")}
-                      </h3>
-                      <p className="mt-2 text-sm text-[#8a7e75]">
-                        {region.culturalArea ?? "Jawa Timur"}
-                      </p>
-                    </div>
-                    <span className="rounded-full bg-[#f0e3d8] px-4 py-2 text-sm font-bold text-primary">
-                      {region.quizCount} soal
-                    </span>
-                  </div>
-                  <p className="mt-5 line-clamp-2 text-sm leading-6 text-[#625850]">
-                    {region.summary}
-                  </p>
-                  <span className="mt-6 inline-flex h-11 w-full items-center justify-center rounded-[10px] bg-primary text-sm font-bold text-white transition group-hover:bg-secondary">
-                    Mulai Quiz
-                  </span>
-                </div>
-              </Link>
-            ))}
-          </div>
+          <GameRegionSelectorClient
+            regions={regions}
+            baseHref="/game/quiz"
+            itemLabel="soal"
+            actionLabel="Mulai Quiz"
+            tone="quiz"
+          />
         </section>
       </main>
 

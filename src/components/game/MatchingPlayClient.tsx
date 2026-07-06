@@ -284,21 +284,25 @@ export function MatchingPlayClient({ round, region }: MatchingPlayClientProps) {
             {attemptCount} percobaan, {score} poin
           </div>
           {isComplete ? (
-            <button
-              type="button"
-              onClick={handleRestart}
-              className="inline-flex h-[50px] items-center justify-center rounded-[16px] bg-primary px-7 text-xl font-medium text-white transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:bg-secondary active:scale-[0.98] sm:justify-self-end"
-            >
-              Ulangi
-            </button>
+            <div className="flex flex-col gap-3 sm:justify-self-end">
+              <button
+                type="button"
+                onClick={handleRestart}
+                className="inline-flex h-[50px] items-center justify-center rounded-[16px] bg-primary px-7 text-xl font-medium text-white transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:bg-secondary active:scale-[0.98]"
+              >
+                Ulangi
+              </button>
+              <Link
+                href="/game/matching"
+                className="inline-flex h-[46px] items-center justify-center rounded-[14px] border border-[#b6aba3] px-6 text-sm font-bold text-[#5f5751] transition hover:border-primary hover:text-primary"
+              >
+                Pilih Wilayah
+              </Link>
+            </div>
           ) : (
-            <button
-              type="button"
-              disabled
-              className="inline-flex h-[50px] items-center justify-center rounded-[16px] bg-primary/80 px-7 text-xl font-medium text-white sm:justify-self-end"
-            >
-              Lanjut
-            </button>
+            <div className="rounded-[16px] border border-[#c9c0ba] bg-[#efebe7] px-5 py-4 text-center text-sm font-bold text-[#675f59] sm:justify-self-end">
+              Selesaikan semua pasangan
+            </div>
           )}
         </div>
 

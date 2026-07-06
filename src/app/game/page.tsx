@@ -5,18 +5,6 @@ import { GameModeCard } from "@/components/game";
 import { SiteFooter, SiteHeader } from "@/components/layout";
 import { getGameCatalog, getGameSummary } from "@/lib/gameService";
 
-const leaderboard = [
-  { name: "Aries Pratama", score: "12,450 pt" },
-  { name: "Dewi Lestari", score: "11,200 pt" },
-  { name: "Budi Santoso", score: "10,890 pt" },
-];
-
-const badgeItems = [
-  { label: "Penjelajah Budaya", icon: "*" },
-  { label: "Pengingat Warisan", icon: "v" },
-  { label: "Juara Puzzle", icon: "!" },
-];
-
 const cardToneByHref = {
   "/game/quiz": "quiz",
   "/game/matching": "matching",
@@ -90,6 +78,37 @@ function HeroPillIcon({ type }: { type: "game" | "region" | "score" }) {
 export default function GamePage() {
   const gameItems = getGameCatalog();
   const summary = getGameSummary();
+  const progressItems = [
+    {
+      label: "Quiz",
+      value: summary.quiz.totalQuestions,
+      meta: `${summary.quiz.coveredRegions} wilayah`,
+    },
+    {
+      label: "Matching",
+      value: summary.matching.totalPairs,
+      meta: `${summary.matching.coveredRegions} wilayah`,
+    },
+    {
+      label: "Puzzle",
+      value: summary.puzzle.totalPuzzles,
+      meta: `${summary.puzzle.coveredRegions} wilayah`,
+    },
+  ];
+  const badgeItems = [
+    {
+      label: "Pilih wilayah",
+      text: `${summary.playableRegions}/${summary.totalRegions}`,
+    },
+    {
+      label: "Mode aktif",
+      text: `${gameItems.length}`,
+    },
+    {
+      label: "Data game",
+      text: `${summary.quiz.totalQuestions + summary.matching.totalPairs + summary.puzzle.totalPuzzles}`,
+    },
+  ];
 
   return (
     <div className="min-h-screen bg-white text-[#241f1b]">
@@ -149,11 +168,15 @@ export default function GamePage() {
           <div className="mt-32 border-t border-[#d8c8bb] pt-16">
             <div className="grid gap-8 lg:grid-cols-[380px_1fr] lg:items-center">
               <aside className="rounded-[14px] border border-[#d9c6b8] bg-[#e9e5df] p-6">
-                <h2 className="text-2xl font-bold text-[#78471f]">Papan Peringkat</h2>
+                <h2 className="text-2xl font-bold text-[#78471f]">Kesiapan Game</h2>
+                <p className="mt-2 text-sm leading-6 text-[#6c625b]">
+                  Semua angka diambil dari data statis game, tanpa menampilkan ranking
+                  simulasi.
+                </p>
                 <div className="mt-5 grid gap-4">
-                  {leaderboard.map((player, index) => (
+                  {progressItems.map((item, index) => (
                     <div
-                      key={player.name}
+                      key={item.label}
                       className="grid grid-cols-[44px_1fr_auto] items-center gap-3 rounded-[10px] border border-[#dfd3c8] bg-[#f9f6f1] px-4 py-4 text-[#332d28]"
                     >
                       <span
@@ -163,8 +186,11 @@ export default function GamePage() {
                       >
                         {index + 1}
                       </span>
-                      <span className="font-bold">{player.name}</span>
-                      <span className="font-bold text-[#7a4d22]">{player.score}</span>
+                      <span>
+                        <span className="block font-bold">{item.label}</span>
+                        <span className="text-xs font-semibold text-[#8a8179]">{item.meta}</span>
+                      </span>
+                      <span className="font-bold text-[#7a4d22]">{item.value}</span>
                     </div>
                   ))}
                 </div>
@@ -172,27 +198,31 @@ export default function GamePage() {
 
               <div>
                 <h2 className="text-4xl font-bold tracking-[-0.03em] text-[#78471f]">
-                  Koleksi Badge Budaya
+                  Mulai dari Wilayah yang Kamu Kenal
                 </h2>
                 <p className="mt-5 max-w-3xl text-lg leading-8 text-[#b3aaa3]">
-                  Dapatkan lencana eksklusif untuk setiap pencapaian dalam permainan.
-                  Semakin banyak kamu bermain, semakin dalam pengetahuanmu tentang Jawa Timur.
+                  Mode game sekarang memakai alur yang sama: pilih kota atau kabupaten,
+                  lalu masuk ke ronde yang spesifik untuk wilayah tersebut.
                 </p>
 
                 <div className="mt-8 flex flex-wrap gap-5">
                   {badgeItems.map((badge, index) => (
                     <div
                       key={badge.label}
-                      className={`flex h-20 w-20 items-center justify-center rounded-full border-2 border-dashed text-xl font-bold ${
+                      className={`grid h-24 w-24 place-items-center rounded-[18px] border text-center ${
                         index === 0
                           ? "border-[#cba98e] bg-[#fbf5ef] text-primary"
                           : index === 1
                             ? "border-[#b6c6aa] bg-[#f3f8ec] text-[#617554]"
                             : "border-[#d7b5a5] bg-[#fbf1ec] text-[#a65939]"
                       }`}
-                      title={badge.label}
                     >
-                      {badge.icon}
+                      <span>
+                        <span className="block text-2xl font-bold">{badge.text}</span>
+                        <span className="mt-1 block text-[10px] font-bold uppercase tracking-[0.1em]">
+                          {badge.label}
+                        </span>
+                      </span>
                     </div>
                   ))}
                 </div>

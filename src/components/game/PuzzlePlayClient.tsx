@@ -259,6 +259,30 @@ function PuzzleGameSurface({ puzzle, region }: PuzzleGameSurfaceProps) {
                 Pilih Gambar Lain
               </Link>
             </div>
+
+            {isComplete ? (
+              <div className="mt-6 rounded-[24px] border border-white/40 bg-[#f7f2ed] px-6 py-6 shadow-[0_24px_70px_rgb(49_39_33/0.13)]">
+                <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#8f5a23]">
+                  Puzzle Selesai
+                </p>
+                <div className="mt-4 grid gap-4 md:grid-cols-[1fr_auto] md:items-center">
+                  <div>
+                    <h2 className="text-3xl font-bold tracking-[-0.03em] text-[#251f1a]">
+                      Gambar sudah kembali utuh.
+                    </h2>
+                    <p className="mt-2 text-sm leading-6 text-[#756a61]">
+                      Kamu menyelesaikan {puzzleName} dari {region.name} dalam {moves} langkah.
+                    </p>
+                  </div>
+                  <Link
+                    href="/game/puzzle"
+                    className="inline-flex h-12 items-center justify-center rounded-[14px] bg-[#8f5a23] px-6 text-sm font-bold text-white transition hover:bg-primary active:scale-[0.98]"
+                  >
+                    Pilih Wilayah
+                  </Link>
+                </div>
+              </div>
+            ) : null}
           </section>
 
           <aside className="grid gap-5">
