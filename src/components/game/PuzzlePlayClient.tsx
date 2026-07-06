@@ -1,5 +1,6 @@
 "use client";
 
+import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 import { useMemo, useState } from "react";
@@ -188,192 +189,216 @@ function PuzzleGameSurface({ puzzle, region }: PuzzleGameSurfaceProps) {
   };
 
   return (
-    <main className="min-h-[100dvh] bg-[#8c8783] px-6 pb-8 pt-9 text-[#221b16]">
-      <section className="mx-auto flex min-h-[calc(100dvh-2.25rem)] max-w-7xl flex-col">
-        <header className="grid gap-5 md:grid-cols-3 md:items-center">
-          <Link
-            href="/game/puzzle"
-            className="inline-flex justify-self-start text-sm font-bold text-white/86 transition hover:text-white"
-          >
-            <span aria-hidden="true">&lt;-</span>&nbsp;Kembali ke Mini Game
-          </Link>
-          <h1 className="text-center text-5xl font-bold leading-none tracking-[-0.04em] text-[#7f4b20] md:text-7xl">
-            Sliding Puzzle
-          </h1>
-          <div className="justify-self-start rounded-full bg-[#7f4b20] px-7 py-3 text-sm font-bold uppercase tracking-[0.14em] text-white shadow-[0_18px_45px_rgb(77_44_22/0.20)] md:justify-self-end">
-            Moves {moves}
+    <main className="flex min-h-[100dvh] w-full flex-col items-center justify-center bg-sand p-4 sm:p-8 md:p-12 selection:bg-primary/20 selection:text-primary">
+      {/* Top navigation overlay */}
+      <div className="absolute top-0 left-0 w-full p-6 lg:p-8 z-10 flex justify-between items-center">
+         <Link href="/game/puzzle" className="inline-flex items-center gap-2 text-sm font-semibold tracking-tight text-muted transition-colors hover:text-ink">
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+            Kembali ke Peta
+         </Link>
+         <div className="text-sm font-semibold text-muted">
+            VAST // {region?.name || 'Puzzle'}
+         </div>
+      </div>
+
+      <div className="relative mx-auto flex w-full max-w-6xl flex-col overflow-hidden rounded-[2rem] sm:rounded-[2.5rem] bg-surface shadow-2xl ring-1 ring-border mt-16 lg:mt-12 p-6 sm:p-10 lg:p-12">
+        
+        {/* Header - Unified Stats Dashboard */}
+        <div className="relative z-10 flex flex-col xl:flex-row xl:items-end justify-between gap-8 border-b border-border pb-8">
+          <div>
+            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
+              <div className="h-1.5 w-1.5 rounded-full bg-primary" />
+              Sliding Puzzle
+            </div>
+            <h1 className="text-2xl font-semibold tracking-tight text-ink md:text-3xl lg:text-4xl leading-[1.25]">
+              Susun Kembali Visual
+            </h1>
           </div>
-        </header>
-
-        <div className="mt-12 grid flex-1 gap-8 lg:grid-cols-[minmax(0,1fr)_390px] lg:items-start">
-          <section>
-            <div className="rounded-[30px] bg-[#e9e2dc] p-5 shadow-[0_30px_90px_rgb(44_35_29/0.16)] md:p-7">
-              <div
-                className="grid aspect-square gap-3 rounded-[24px] bg-[#d7d1cc] p-4"
-                style={{ gridTemplateColumns: `repeat(${gridSize}, minmax(0, 1fr))` }}
-              >
-                {board.map((tile, index) =>
-                  tile === null ? (
-                    <div
-                      key="empty"
-                      className="flex items-center justify-center rounded-[16px] border-2 border-dashed border-[#a9a29d] bg-[#d9d3cf]/58"
-                      aria-label="Slot kosong puzzle"
-                    >
-                      <span className="grid h-9 w-9 grid-cols-2 gap-1.5" aria-hidden="true">
-                        <span className="rounded-[4px] bg-[#b8b0aa]" />
-                        <span className="rounded-[4px] bg-[#b8b0aa]" />
-                        <span className="rounded-[4px] bg-[#b8b0aa]" />
-                        <span className="rounded-[4px] bg-[#b8b0aa]" />
-                      </span>
-                    </div>
-                  ) : (
-                    <button
-                      key={`${puzzle.id}-${tile}`}
-                      type="button"
-                      onClick={() => handleTileClick(index)}
-                      className="rounded-[16px] border border-white/34 bg-cover bg-no-repeat shadow-[inset_0_0_0_1px_rgb(255_255_255/0.25),0_10px_24px_rgb(64_50_41/0.16)] transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:scale-[1.015] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#7f4b20] active:scale-[0.985]"
-                      style={getTileStyle({
-                        tile,
-                        gridSize,
-                        imageSrc: puzzle.image.src,
-                      })}
-                      aria-label={`Pindahkan tile ${tile + 1}`}
-                    />
-                  ),
-                )}
-              </div>
-            </div>
-
-            <div className="mt-8 grid gap-4 sm:grid-cols-2">
-              <button
-                type="button"
-                onClick={handleShuffle}
-                className="inline-flex h-[58px] items-center justify-center rounded-[18px] bg-[#8f5a23] px-7 text-lg font-bold text-white shadow-[0_18px_45px_rgb(77_44_22/0.18)] transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:bg-primary active:scale-[0.98]"
-              >
-                Acak Gambar
-              </button>
-              <Link
-                href="/game/puzzle"
-                className="inline-flex h-[58px] items-center justify-center rounded-[18px] border border-[#ded2c7] bg-[#f5f0eb] px-7 text-lg font-bold text-[#2d2620] transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:border-primary hover:text-primary active:scale-[0.98]"
-              >
-                Pilih Gambar Lain
-              </Link>
-            </div>
-
-            {isComplete ? (
-              <div className="mt-6 rounded-[24px] border border-white/40 bg-[#f7f2ed] px-6 py-6 shadow-[0_24px_70px_rgb(49_39_33/0.13)]">
-                <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#8f5a23]">
-                  Puzzle Selesai
-                </p>
-                <div className="mt-4 grid gap-4 md:grid-cols-[1fr_auto] md:items-center">
-                  <div>
-                    <h2 className="text-3xl font-bold tracking-[-0.03em] text-[#251f1a]">
-                      Gambar sudah kembali utuh.
-                    </h2>
-                    <p className="mt-2 text-sm leading-6 text-[#756a61]">
-                      Kamu menyelesaikan {puzzleName} dari {region.name} dalam {moves} langkah.
-                    </p>
-                  </div>
-                  <Link
-                    href="/game/puzzle"
-                    className="inline-flex h-12 items-center justify-center rounded-[14px] bg-[#8f5a23] px-6 text-sm font-bold text-white transition hover:bg-primary active:scale-[0.98]"
-                  >
-                    Pilih Wilayah
-                  </Link>
-                </div>
-              </div>
-            ) : null}
-          </section>
-
-          <aside className="grid gap-5">
-            <section className="rounded-[28px] bg-[#f7f2ed] p-6 shadow-[0_24px_70px_rgb(49_39_33/0.15)]">
-              <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#8f5a23]">
-                Gambar Referensi
-              </p>
-              <div className="relative mt-5 aspect-[4/3] overflow-hidden rounded-[22px] bg-[#d9d1ca]">
-                <Image
-                  src={puzzle.image.src}
-                  alt={puzzle.image.alt}
-                  fill
-                  sizes="(min-width: 1024px) 390px, 100vw"
-                  className="object-cover"
-                  priority
-                />
-              </div>
-              <h2 className="mt-5 text-2xl font-bold tracking-[-0.03em] text-[#251f1a]">
-                {puzzleName}
-              </h2>
-              <p className="mt-2 text-sm leading-6 text-[#756a61]">
-                {region.name} - tingkat {formatDifficulty(puzzle.difficulty)} - {gridSize}x
-                {gridSize} board.
-              </p>
-              <div className="mt-5 h-3 overflow-hidden rounded-full bg-[#e3d9d0]">
-                <div
-                  className="h-full rounded-full bg-[#8f5a23] transition-all duration-500"
-                  style={{ width: `${progress}%` }}
-                />
-              </div>
-              <p className="mt-2 text-xs font-bold uppercase tracking-[0.16em] text-[#8c8178]">
-                {progress}% tersusun
-              </p>
-            </section>
-
-            <section className="rounded-[28px] bg-[#8f5a23] p-7 text-white shadow-[0_24px_70px_rgb(77_44_22/0.22)]">
-              <p className="text-xs font-bold uppercase tracking-[0.22em] text-white/62">
-                Tahukah Kamu?
-              </p>
-              <h3 className="mt-5 text-3xl font-bold tracking-[-0.03em]">
-                {region.name.replace(/^Kabupaten\s|^Kota\s/, "")}
-              </h3>
-              <p className="mt-5 text-sm leading-7 text-white/78">
-                {region.summary} Puzzle ini memakai visual {puzzleName} sebagai cara cepat
-                mengenali destinasi unggulan wilayah tersebut.
-              </p>
-              {isComplete ? (
-                <div className="mt-6 rounded-[18px] bg-white px-5 py-4 text-sm font-bold text-[#8f5a23]">
-                  Selesai dalam {moves} langkah. Mantap, gambar sudah kembali utuh.
-                </div>
-              ) : null}
-            </section>
-
-            <section className="rounded-[28px] border border-[#ded2c7] bg-[#f7f2ed] p-7">
-              <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#8f5a23]">
-                Tips Bermain
-              </p>
-              <div className="mt-6 grid gap-5">
-                {[
-                  "Selesaikan baris pertama lebih dulu agar pola gambar mulai terbaca.",
-                  "Jaga slot kosong tetap dekat dengan tile yang ingin dipindahkan.",
-                  "Bandingkan warna dan garis utama dengan gambar referensi di kanan.",
-                ].map((tip, index) => (
-                  <div key={tip} className="grid grid-cols-[42px_1fr] gap-4">
-                    <span className="text-sm font-bold text-[#8f5a23]">
-                      {String(index + 1).padStart(2, "0")}
-                    </span>
-                    <p className="text-sm leading-6 text-[#625850]">{tip}</p>
-                  </div>
-                ))}
-              </div>
-            </section>
-          </aside>
+          
+          {/* Neat Stats Dashboard */}
+          <div className="flex items-center gap-4 sm:gap-8 rounded-2xl bg-background px-6 py-4 ring-1 ring-border shadow-sm">
+             <div className="flex flex-col items-center">
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-muted">Progress</span>
+                 <span className="text-lg font-bold text-ink">{progress}<span className="text-sm text-muted">%</span></span>
+             </div>
+             <div className="h-8 w-px bg-border"></div>
+             <div className="flex flex-col items-center">
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-muted">Tersusun</span>
+                 <span className="text-lg font-bold text-ink">{placedTiles} <span className="text-sm text-muted">/ {gridSize * gridSize - 1}</span></span>
+             </div>
+             <div className="h-8 w-px bg-border"></div>
+             <div className="flex flex-col items-center">
+                 <span className="text-[10px] font-bold uppercase tracking-widest text-primary">Langkah</span>
+                 <span className="text-lg font-bold text-primary">{moves}</span>
+             </div>
+          </div>
         </div>
 
-        <footer className="mt-10 grid gap-5 border-t border-white/22 py-7 text-sm text-white/72 md:grid-cols-[1fr_auto_auto] md:items-center">
-          <div>
-            <p className="font-bold text-white">VAST</p>
-            <p className="mt-1">
-              &copy; 2026 VAST, Java East Cultural Explorer. Celebrating the Culture of East
-              Java, One Region at a Time.
-            </p>
+        {/* Museum Placard Fact Banner */}
+        <div className="relative z-10 mt-8 animate-in fade-in duration-500">
+          <div className="flex flex-col sm:flex-row gap-5 border-l-[6px] border-primary bg-background p-6 ring-1 ring-border shadow-sm rounded-r-2xl">
+             <div className="flex shrink-0 items-center justify-center">
+               <span className="text-[10px] font-black uppercase tracking-widest text-primary bg-primary/10 px-3 py-1.5 rounded-md">
+                 Tahukah Anda?
+               </span>
+             </div>
+             <p className="text-sm font-medium leading-relaxed text-ink/80 italic">
+               &quot;{region.summary} Puzzle ini memakai visual {puzzleName} sebagai cara untuk mengamati detail kebudayaan secara perlahan.&quot;
+             </p>
           </div>
-          <Link href="/privacy" className="font-bold hover:text-white">
-            Privacy Policy
-          </Link>
-          <Link href="/terms" className="font-bold hover:text-white">
-            Terms of Service
-          </Link>
-        </footer>
-      </section>
+        </div>
+
+        {/* Main Game Area Split */}
+        <div className="mt-12 flex flex-col lg:flex-row gap-8 lg:gap-12 relative z-10">
+           
+           {/* Left Column: Game Board & Controls */}
+           <div className="flex-1 flex flex-col gap-6">
+              <div className="rounded-[2rem] bg-background p-6 sm:p-10 ring-1 ring-border shadow-inner relative overflow-hidden">
+                {/* Flash effect when complete */}
+                {isComplete && (
+                  <motion.div 
+                    initial={{ opacity: 1 }} 
+                    animate={{ opacity: 0 }} 
+                    transition={{ duration: 1, delay: 0.5 }}
+                    className="absolute inset-0 bg-white z-20 pointer-events-none" 
+                  />
+                )}
+                
+                <div
+                  className={`mx-auto grid aspect-square w-full max-w-2xl overflow-hidden transition-all duration-1000 ease-in-out ${isComplete ? 'gap-0 p-0 rounded-2xl bg-transparent' : 'gap-2 sm:gap-3 rounded-2xl bg-border/50 p-2 sm:p-3'}`}
+                  style={{ gridTemplateColumns: `repeat(${gridSize}, minmax(0, 1fr))` }}
+                >
+                  {board.map((tile, index) =>
+                    tile === null ? (
+                      isComplete ? (
+                        <motion.div
+                          layout
+                          initial={{ opacity: 0, scale: 0.5 }}
+                          animate={{ opacity: 1, scale: 1 }}
+                          transition={{ type: "spring", stiffness: 200, damping: 20, delay: 0.2 }}
+                          key="final-piece"
+                          className="bg-cover bg-no-repeat z-10"
+                          style={getTileStyle({
+                            tile: gridSize * gridSize - 1,
+                            gridSize,
+                            imageSrc: puzzle.image.src,
+                          })}
+                        />
+                      ) : (
+                        <motion.div
+                          layout
+                          transition={{ type: "spring", stiffness: 400, damping: 30 }}
+                          key="empty"
+                          className="flex items-center justify-center rounded-xl sm:rounded-2xl border-2 border-dashed border-border bg-background/50"
+                          aria-label="Slot kosong puzzle"
+                        />
+                      )
+                    ) : (
+                      <motion.button
+                        layout
+                        transition={{ type: "spring", stiffness: 400, damping: 30 }}
+                        key={`${puzzle.id}-${tile}`}
+                        type="button"
+                        disabled={isComplete}
+                        onClick={() => handleTileClick(index)}
+                        className={`bg-cover bg-no-repeat transition-all duration-1000 focus:outline-none ${isComplete ? 'rounded-none border-none ring-0 shadow-none cursor-default' : 'rounded-xl sm:rounded-2xl shadow-sm hover:shadow-md hover:ring-2 hover:ring-primary focus-visible:ring-2 focus-visible:ring-primary active:scale-[0.98] cursor-pointer ring-1 ring-black/10 inset-0'}`}
+                        style={getTileStyle({
+                          tile,
+                          gridSize,
+                          imageSrc: puzzle.image.src,
+                        })}
+                        aria-label={`Pindahkan tile ${tile + 1}`}
+                      />
+                    ),
+                  )}
+                </div>
+              </div>
+
+              {/* Game Controls */}
+              {!isComplete && (
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <button
+                    type="button"
+                    onClick={handleShuffle}
+                    className="flex flex-1 h-14 items-center justify-center rounded-xl bg-primary px-8 text-sm font-bold tracking-widest uppercase text-white shadow-md transition-colors hover:bg-secondary active:scale-[0.98]"
+                  >
+                    Acak Gambar
+                  </button>
+                  <Link
+                    href="/game/puzzle"
+                    className="flex flex-1 h-14 items-center justify-center rounded-xl border border-primary bg-surface px-8 text-sm font-bold tracking-widest uppercase text-primary transition-colors hover:bg-primary/10 active:scale-[0.98]"
+                  >
+                    Gambar Lain
+                  </Link>
+                </div>
+              )}
+           </div>
+
+           {/* Right Column: Reference & Tips */}
+           <div className="w-full lg:w-[340px] shrink-0 flex flex-col gap-6">
+              
+              {/* Reference Image Card */}
+              <div className="rounded-2xl bg-background p-5 ring-1 ring-border shadow-sm">
+                 <div className="mb-4 flex items-center justify-between">
+                   <span className="text-[11px] font-bold uppercase tracking-widest text-primary">Referensi</span>
+                   <span className="rounded bg-border/60 px-2 py-0.5 text-[10px] font-bold text-ink">{gridSize}x{gridSize}</span>
+                 </div>
+                 <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl ring-1 ring-border shadow-inner">
+                   <Image
+                     src={puzzle.image.src}
+                     alt={puzzle.image.alt}
+                     fill
+                     sizes="(min-width: 1024px) 340px, 100vw"
+                     className="object-cover opacity-90 transition-opacity hover:opacity-100"
+                     priority
+                   />
+                 </div>
+                 <h4 className="mt-4 text-sm font-bold text-ink leading-snug">{puzzleName}</h4>
+                 <p className="text-xs text-muted mt-1.5 font-medium">{region.name} — Tingkat {formatDifficulty(puzzle.difficulty)}</p>
+              </div>
+
+              {/* Tips Card */}
+              <div className="rounded-2xl bg-surface p-6 ring-1 ring-border shadow-sm">
+                 <span className="text-[11px] font-bold uppercase tracking-widest text-primary mb-5 block">Tips Bermain</span>
+                 <div className="flex flex-col gap-4">
+                   {[
+                     "Selesaikan baris pertama lebih dulu agar pola gambar mulai terbaca.",
+                     "Jaga slot kosong tetap dekat dengan tile yang ingin dipindahkan.",
+                     "Bandingkan warna dan garis utama dengan gambar referensi di atas.",
+                   ].map((tip, index) => (
+                     <div key={tip} className="flex gap-4 items-start">
+                       <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded bg-primary/10 text-[10px] font-black text-primary">
+                         {index + 1}
+                       </span>
+                       <p className="text-xs font-medium leading-relaxed text-ink/80">{tip}</p>
+                     </div>
+                   ))}
+                 </div>
+              </div>
+           </div>
+
+        </div>
+
+        {/* Completion State */}
+        {isComplete && (
+          <div className="relative z-20 mt-12 flex flex-col items-center justify-center rounded-2xl bg-primary text-white p-10 shadow-xl animate-in slide-in-from-bottom-8 duration-700">
+             <h3 className="text-3xl font-semibold tracking-tight mb-3">
+                Gambar Kembali Utuh!
+             </h3>
+             <p className="text-base text-white/80 font-medium mb-10 text-center max-w-lg">
+                Kamu berhasil menyelesaikan visual {puzzleName} dari {region.name} hanya dalam {moves} langkah. Sangat mengesankan!
+             </p>
+             <div className="flex w-full max-w-md flex-col sm:flex-row gap-4">
+                <button onClick={handleShuffle} className="flex flex-1 items-center justify-center rounded-xl bg-white py-4 text-sm font-bold text-primary transition-all hover:scale-105 shadow-md">
+                  Acak & Main Lagi
+                </button>
+                <Link href="/game/puzzle" className="flex flex-1 items-center justify-center rounded-xl border-2 border-white/30 bg-primary py-4 text-sm font-bold text-white transition-all hover:bg-white/10">
+                  Pilih Puzzle Lain
+                </Link>
+             </div>
+          </div>
+        )}
+      </div>
     </main>
   );
 }
@@ -381,16 +406,11 @@ function PuzzleGameSurface({ puzzle, region }: PuzzleGameSurfaceProps) {
 export function PuzzlePlayClient({ puzzle, region }: PuzzlePlayClientProps) {
   if (!puzzle) {
     return (
-      <main className="flex min-h-[100dvh] items-center justify-center bg-[#8c8783] px-6 text-center">
-        <div className="max-w-lg rounded-[28px] bg-[#f7f2ed] px-8 py-10 shadow-[0_24px_70px_rgb(49_39_33/0.16)]">
-          <h1 className="text-3xl font-bold text-primary">Belum ada puzzle</h1>
-          <p className="mt-4 text-[#6f625a]">
-            Wilayah ini belum memiliki paket puzzle yang bisa dimainkan.
-          </p>
-          <Link
-            href="/game/puzzle"
-            className="mt-8 inline-flex h-12 items-center justify-center rounded-[10px] bg-primary px-6 font-bold text-white"
-          >
+      <main className="flex min-h-[100dvh] w-full flex-col items-center justify-center bg-sand p-6">
+        <div className="flex w-full max-w-md flex-col items-center rounded-[2rem] bg-surface p-12 text-center shadow-xl ring-1 ring-border">
+          <h1 className="text-3xl font-semibold tracking-tight text-ink">Belum ada puzzle</h1>
+          <p className="mt-4 text-base text-muted">Wilayah ini belum memiliki paket puzzle yang bisa dimainkan.</p>
+          <Link href="/game/puzzle" className="mt-8 rounded-xl bg-primary px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-secondary">
             Pilih wilayah lain
           </Link>
         </div>

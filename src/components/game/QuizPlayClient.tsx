@@ -88,17 +88,12 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
 
   if (!activeQuestion) {
     return (
-      <main className="flex min-h-[100dvh] items-center justify-center bg-[#b5afad] px-6 text-center">
-        <div className="max-w-lg rounded-[28px] bg-[#f6f1ec] px-8 py-10">
-          <h1 className="text-3xl font-bold text-primary">Belum ada soal</h1>
-          <p className="mt-4 text-[#6f625a]">
-            Wilayah ini belum memiliki paket quiz yang bisa dimainkan.
-          </p>
-          <Link
-            href="/game/quiz"
-            className="mt-8 inline-flex h-12 items-center justify-center rounded-[10px] bg-primary px-6 font-bold text-white"
-          >
-            Pilih wilayah lain
+      <main className="flex min-h-[100dvh] w-full flex-col items-center justify-center bg-sand p-6">
+        <div className="flex w-full max-w-md flex-col items-center rounded-[2rem] bg-surface p-12 text-center shadow-xl ring-1 ring-border">
+          <h1 className="text-3xl font-semibold tracking-tight text-ink">Tidak ada soal</h1>
+          <p className="mt-4 text-base text-muted">Belum ada paket soal untuk {region?.name || 'wilayah ini'}.</p>
+          <Link href="/game/quiz" className="mt-8 rounded-xl bg-primary px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-secondary">
+            Kembali ke Peta
           </Link>
         </div>
       </main>
@@ -106,158 +101,152 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
   }
 
   return (
-    <main className="min-h-[100dvh] bg-[#b8b2b0] px-6 pb-10 pt-10 text-[#201c19]">
-      <section className="mx-auto flex min-h-[calc(100dvh-2.5rem)] max-w-7xl flex-col">
-        <h1 className="text-center text-5xl font-bold leading-none tracking-[-0.04em] text-primary md:text-7xl">
-          Quiz
-        </h1>
+    <main className="flex min-h-[100dvh] w-full flex-col items-center justify-center bg-sand p-4 sm:p-8 md:p-12 selection:bg-primary/20 selection:text-primary">
+      {/* Top navigation overlay */}
+      <div className="absolute top-0 left-0 w-full p-6 lg:p-8 z-10 flex justify-between items-center">
+         <Link href="/game/quiz" className="inline-flex items-center gap-2 text-sm font-semibold tracking-tight text-muted transition-colors hover:text-ink">
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
+            Kembali ke Peta
+         </Link>
+         <div className="text-sm font-semibold text-muted">
+            VAST // {region?.name || 'Kuis Budaya'}
+         </div>
+      </div>
 
-        <div className="mt-16 grid items-center gap-5 md:grid-cols-3">
-          <Link
-            href="/game/quiz"
-            className="justify-self-start text-sm font-bold text-primary transition hover:text-secondary"
-          >
-            <span aria-hidden="true">&lt;-</span> Kembali ke Pilih Wilayah
-          </Link>
-          <div className="justify-self-center rounded-full bg-[#f5f2ed] px-5 py-2 text-sm font-bold text-[#5d5650]">
-            Soal {activeIndex + 1} dari {questions.length}
-          </div>
-          <div className="justify-self-start text-sm font-bold text-primary md:justify-self-end">
-            <span aria-hidden="true">◎</span> {score} Poin
-          </div>
-        </div>
-
-        <div className="mx-auto mt-10 w-full max-w-[670px] rounded-[28px] bg-[#f7f2ed] px-7 py-10 shadow-[0_18px_70px_rgb(70_55_47/0.10)] md:px-12 md:py-12">
-          {isComplete ? (
-            <div className="py-10 text-center">
-              <p className="mx-auto inline-flex rounded-full bg-[#f0e3d8] px-5 py-2 text-xs font-bold uppercase tracking-[0.14em] text-primary">
-                Selesai
-              </p>
-              <h2 className="mt-8 text-4xl font-bold tracking-[-0.03em] md:text-5xl">
-                {correctCount} dari {questions.length} benar
-              </h2>
-              <p className="mx-auto mt-5 max-w-md text-base leading-7 text-[#655b54]">
-                Kamu menyelesaikan quiz {region.name} dengan {score} poin. Coba wilayah
-                lain untuk membuka wawasan budaya Jawa Timur yang berbeda.
-              </p>
-              <div className="mt-10 flex flex-col justify-center gap-3 sm:flex-row">
-                <button
-                  type="button"
-                  onClick={handleRestart}
-                  className="inline-flex h-[52px] items-center justify-center rounded-[10px] bg-primary px-7 font-bold text-white transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:bg-secondary active:scale-[0.98]"
-                >
-                  Main Lagi
-                </button>
-                <Link
-                  href="/game/quiz"
-                  className="inline-flex h-[52px] items-center justify-center rounded-[10px] border border-[#d7c8bd] px-7 font-bold text-[#5f5048] transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:border-primary hover:text-primary active:scale-[0.98]"
-                >
-                  Pilih Wilayah
-                </Link>
-              </div>
-            </div>
-          ) : (
-            <>
-              <div className="text-center">
-                <p className="mx-auto inline-flex rounded-full bg-[#f0e3d8] px-4 py-2 text-xs font-bold uppercase tracking-[0.14em] text-primary">
+      <div className="relative mx-auto flex w-full max-w-5xl flex-col overflow-hidden rounded-[2rem] sm:rounded-[2.5rem] bg-surface shadow-2xl ring-1 ring-border lg:flex-row mt-12 lg:mt-0">
+        {/* Left Side - Question */}
+        <section className="flex w-full flex-col justify-between bg-surface p-8 lg:w-1/2 lg:p-12 xl:p-14 border-b lg:border-b-0 lg:border-r border-border">
+          <div>
+            {!isComplete ? (
+              <div className="animate-in fade-in duration-500">
+                <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
+                  <div className="h-1.5 w-1.5 rounded-full bg-primary" />
                   {getQuestionCategory(activeQuestion.id)}
-                </p>
-                <h2 className="mx-auto mt-7 max-w-[540px] text-[24px] font-bold leading-[1.22] tracking-[-0.02em] md:text-[28px]">
+                </div>
+                <h2 className="text-2xl font-semibold tracking-tight text-ink md:text-3xl lg:text-4xl leading-[1.25]">
                   {activeQuestion.question}
                 </h2>
               </div>
-
-              <div className="mt-10 grid gap-4">
-                {activeQuestion.options.map((option, index) => {
-                  const isSelected = selectedAnswer === option;
-                  const isCorrect =
-                    normalizeAnswer(option) === normalizeAnswer(activeQuestion.correctAnswer);
-                  const shouldReveal = isAnswered && (isSelected || isCorrect);
-
-                  return (
-                    <button
-                      key={option}
-                      type="button"
-                      disabled={isAnswered}
-                      onClick={() => handleSelectAnswer(option)}
-                      className={`grid min-h-[74px] grid-cols-[40px_1fr_32px] items-center gap-4 rounded-[11px] border px-5 text-left transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] ${
-                        shouldReveal && isCorrect
-                          ? "border-[#556d4d] bg-[#efefe9] text-[#1e211b]"
-                          : shouldReveal && isSelected
-                            ? "border-[#a65939] bg-[#f5e7df] text-[#1e211b]"
-                            : "border-[#ede7e1] bg-white/52 text-[#968d86] hover:border-[#d8c9bf] hover:bg-white/78"
-                      } ${isAnswered ? "cursor-default" : "active:scale-[0.992]"}`}
-                    >
-                      <span
-                        className={`flex h-8 w-8 items-center justify-center rounded-full text-sm font-bold ${
-                          shouldReveal && isCorrect
-                            ? "bg-[#556d4d] text-white"
-                            : "bg-[#f3efe9] text-[#9b9189]"
-                        }`}
-                      >
-                        {optionLetters[index]}
-                      </span>
-                      <span className="font-bold">{option}</span>
-                      {shouldReveal && isCorrect ? (
-                        <span className="flex h-6 w-6 items-center justify-center rounded-full border-2 border-[#556d4d] text-[#556d4d]">
-                          V
-                        </span>
-                      ) : shouldReveal && isSelected ? (
-                        <span className="flex h-6 w-6 items-center justify-center rounded-full border-2 border-[#a65939] text-[#a65939]">
-                          X
-                        </span>
-                      ) : (
-                        <span aria-hidden="true" />
-                      )}
-                    </button>
-                  );
-                })}
-              </div>
-
-              {isAnswered ? (
-                <div className="mt-8 rounded-[11px] border border-[#ede7e1] bg-white/56 px-6 py-5">
-                  <p className="text-sm leading-7 text-[#5f554e]">
-                    <span className="mr-3 text-xl text-primary" aria-hidden="true">
-                      *
-                    </span>
-                    {activeQuestion.explanation}
-                  </p>
+            ) : (
+              <div className="animate-in fade-in duration-500">
+                <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
+                  Kuis Selesai
                 </div>
-              ) : null}
-
-              <div className="mt-10 flex justify-center">
-                <button
-                  type="button"
-                  disabled={!isAnswered}
-                  onClick={handleNextQuestion}
-                  className="inline-flex h-14 min-w-[214px] items-center justify-center rounded-[10px] bg-primary px-7 font-bold text-white transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] hover:bg-secondary disabled:cursor-not-allowed disabled:bg-[#c8bcb2] active:scale-[0.98]"
-                >
-                  {isLastQuestion ? "Lihat Hasil" : "Soal Berikutnya"}
-                  <span className="ml-4 text-xl leading-none" aria-hidden="true">
-                    -&gt;
-                  </span>
-                </button>
+                <h2 className="text-4xl font-semibold tracking-tight text-ink md:text-5xl lg:text-5xl leading-[1.1]">
+                  Pencapaian<br/>Luar Biasa
+                </h2>
+                <p className="mt-6 text-base text-muted max-w-sm font-medium">
+                  Terima kasih telah mengeksplorasi dan memperdalam wawasan budaya Jawa Timur bersama VAST.
+                </p>
               </div>
-            </>
-          )}
-        </div>
-
-        <footer className="mt-auto grid gap-5 border-t border-[#d7d0ca] py-7 text-sm text-[#756c66] md:grid-cols-[1fr_auto_auto] md:items-center">
-          <div>
-            <p className="font-bold text-[#74481f]">VAST</p>
-            <p className="mt-1">
-              &copy; 2026 VAST, Java East Cultural Explorer. Celebrating the Culture of East
-              Java, One Region at a Time.
-            </p>
+            )}
           </div>
-          <Link href="/privacy" className="font-bold hover:text-primary">
-            Privacy Policy
-          </Link>
-          <Link href="/terms" className="font-bold hover:text-primary">
-            Terms of Service
-          </Link>
-        </footer>
-      </section>
+
+          <div className="mt-16 flex items-center justify-between text-sm font-medium text-muted">
+            <div>
+              Soal <span className="text-ink font-semibold">{activeIndex + (isComplete ? 0 : 1)}</span> dari {questions.length}
+            </div>
+            <div className="flex items-center gap-3">
+              <span className="h-px w-8 bg-border"></span>
+              Skor: <span className="text-ink font-semibold">{score}</span>
+            </div>
+          </div>
+        </section>
+
+        {/* Right Side - Options */}
+        <section className="flex w-full flex-col justify-center bg-background p-8 lg:w-1/2 lg:p-12 xl:p-14">
+          {isComplete ? (
+            <div className="flex flex-col items-start justify-center animate-in fade-in zoom-in-95 duration-500">
+               <h3 className="text-[80px] sm:text-[100px] font-semibold tracking-tighter text-primary leading-none">
+                  {Math.round((correctCount/questions.length)*100)}<span className="text-4xl text-muted">%</span>
+               </h3>
+               <p className="mt-6 text-lg text-ink/80 leading-relaxed font-medium">
+                  Kamu berhasil menjawab <span className="font-semibold text-primary">{correctCount}</span> dari {questions.length} soal dengan benar. Total poin akhirmu adalah <span className="font-semibold text-primary">{score}</span>.
+               </p>
+               <div className="mt-10 flex w-full flex-col gap-3">
+                  <button onClick={handleRestart} className="flex w-full items-center justify-center rounded-xl bg-primary py-4 text-sm font-semibold text-white transition-all hover:bg-secondary shadow-md hover:shadow-lg">
+                    Main Lagi
+                  </button>
+                  <Link href="/game/quiz" className="flex w-full items-center justify-center rounded-xl border border-primary bg-surface py-4 text-sm font-semibold text-primary transition-all hover:bg-primary/10">
+                    Pilih Wilayah Lain
+                  </Link>
+               </div>
+            </div>
+          ) : (
+            <div className="flex flex-col gap-3">
+              {activeQuestion.options.map((option, index) => {
+                const isSelected = selectedAnswer === option;
+                const isCorrect =
+                  normalizeAnswer(option) === normalizeAnswer(activeQuestion.correctAnswer);
+                const shouldReveal = isAnswered && (isSelected || isCorrect);
+
+                return (
+                  <button
+                    key={option}
+                    type="button"
+                    disabled={isAnswered}
+                    onClick={() => handleSelectAnswer(option)}
+                    className={`group flex w-full items-center justify-between rounded-2xl border p-4 text-left transition-all duration-200 ${
+                      shouldReveal && isCorrect
+                        ? "border-leaf bg-leaf/10 text-leaf ring-1 ring-leaf/20"
+                        : shouldReveal && isSelected
+                          ? "border-secondary bg-secondary/10 text-secondary ring-1 ring-secondary/20"
+                          : "border-border bg-surface hover:border-primary/40 hover:bg-surface hover:shadow-sm"
+                    } ${isAnswered ? "cursor-default" : "cursor-pointer"}`}
+                  >
+                    <div className="flex items-center gap-4">
+                      <div className={`flex h-8 w-8 items-center justify-center rounded-lg text-sm font-semibold transition-colors ${
+                        shouldReveal && isCorrect
+                          ? "bg-leaf text-white"
+                          : shouldReveal && isSelected
+                            ? "bg-secondary text-white"
+                            : "bg-background text-muted group-hover:bg-primary group-hover:text-white"
+                      }`}>
+                        {optionLetters[index]}
+                      </div>
+                      <span className={`text-base font-medium ${shouldReveal && (isCorrect || isSelected) ? "" : "text-ink"}`}>
+                        {option}
+                      </span>
+                    </div>
+
+                    {shouldReveal && isCorrect && (
+                      <div className="text-leaf animate-in zoom-in duration-300">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clipRule="evenodd" /></svg>
+                      </div>
+                    )}
+                    
+                    {shouldReveal && isSelected && !isCorrect && (
+                      <div className="text-secondary animate-in zoom-in duration-300">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
+                      </div>
+                    )}
+                  </button>
+                );
+              })}
+
+              {isAnswered && (
+                <div className="mt-6 animate-in slide-in-from-bottom-4 fade-in duration-500">
+                   <div className="rounded-2xl bg-surface p-5 ring-1 ring-border">
+                     <h3 className="text-[11px] font-bold uppercase tracking-widest text-primary mb-2">
+                       Penjelasan Singkat
+                     </h3>
+                     <p className="text-sm font-medium leading-relaxed text-muted">
+                       {activeQuestion.explanation}
+                     </p>
+                   </div>
+                   <button
+                     onClick={handleNextQuestion}
+                     className="mt-4 flex w-full items-center justify-center gap-2 rounded-2xl bg-primary py-4 text-sm font-semibold text-white transition-all hover:bg-secondary shadow-md hover:shadow-lg"
+                   >
+                     {isLastQuestion ? "Lihat Hasil Akhir" : "Lanjut ke Soal Berikutnya"}
+                     <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
+                   </button>
+                </div>
+              )}
+            </div>
+          )}
+        </section>
+      </div>
     </main>
   );
 }
