@@ -71,7 +71,7 @@ export default function RegionsPage() {
   return (
     <div className="min-h-screen bg-[#ffffff] text-[#111111]">
       <SiteHeader />
-      <main className="pb-24 pt-[128px]">
+      <main className="pb-24 pt-[168px]">
         <section className="mx-auto grid max-w-[1460px] gap-10 px-5 sm:px-8 lg:grid-cols-[0.88fr_0.62fr] lg:px-10">
           <div>
             <p className="text-[12px] font-black uppercase tracking-[0.14em] text-[#8c531f]">

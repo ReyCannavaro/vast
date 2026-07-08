@@ -480,7 +480,7 @@ export default function Home() {
           </p>
 
           <div className="mt-28 grid gap-16 text-left lg:grid-cols-[0.95fr_0.85fr] lg:items-start">
-            <div className="relative min-h-[540px] rounded-[22px] bg-[#c9c9c9]">
+            <div className="relative min-h-[500px] rounded-[22px] border border-[#d9c8b8] bg-[#c9c9c9] shadow-[0_18px_48px_rgb(92_61_39_/_0.08)] lg:min-h-[520px]">
               <Image
                 src="/images/regions/kabupaten-banyuwangi/destinations/kawah-ijen.jpg"
                 alt="Kawah Ijen Banyuwangi"
@@ -488,15 +488,15 @@ export default function Home() {
                 className="rounded-[22px] object-cover"
                 sizes="(min-width: 1024px) 48vw, 100vw"
               />
-              <div className="absolute bottom-[-44px] left-1/2 w-[88%] -translate-x-1/2 rounded-[20px] bg-white px-12 py-12 shadow-[0_18px_42px_rgb(0_0_0_/_0.055)]">
-                <h3 className="text-[28px] font-semibold tracking-[-0.04em]">
+              <div className="absolute bottom-[-34px] left-1/2 w-[82%] -translate-x-1/2 rounded-[18px] border border-[#d8c6b7] bg-[#f1ebe4] px-9 py-9 shadow-[0_18px_42px_rgb(92_61_39_/_0.10)]">
+                <h3 className="text-[26px] font-semibold tracking-[-0.04em]">
                   Learn While You Play
                 </h3>
-                <p className="mt-10 max-w-[420px] text-[13px] leading-[1.55] text-[#7c766f]">
+                <p className="mt-7 max-w-[400px] text-[13px] leading-[1.55] text-[#7c766f]">
                   Challenge yourself with educational mini games designed to make
                   exploring East Java&apos;s culture engaging and memorable for everyone.
                 </p>
-                <div className="mt-8 flex flex-wrap gap-4">
+                <div className="mt-7 flex flex-wrap gap-4">
                   <Link
                     href="/regions"
                     className="inline-flex h-11 items-center rounded-full bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
