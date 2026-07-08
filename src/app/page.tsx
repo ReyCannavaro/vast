@@ -400,7 +400,7 @@ export default function Home() {
                 sizes="50vw"
               />
             </div>
-            <div className="relative top-20 max-w-[630px] rounded-[18px] bg-white px-14 py-14 shadow-[0_18px_42px_rgb(0_0_0_/_0.06)] sm:px-16 sm:py-16">
+            <div className="relative top-20 max-w-[630px] rounded-[18px] bg-white px-14 py-14 shadow-[0_18px_42px_rgb(0_0_0_/_0.06)] sm:px-16 sm:py-16 lg:-ml-8 xl:-ml-12">
               <h2 className="text-[46px] font-semibold leading-[1.24] tracking-[-0.04em] sm:text-[60px]">
                 Jelajahi Warisan Budaya Jawa Timur
               </h2>
