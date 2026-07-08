@@ -357,15 +357,15 @@ export default function Home() {
               platform interaktif.
             </p>
 
-            <div className="mt-16 grid gap-8 lg:grid-cols-[1fr_0.82fr] lg:items-start">
-              <p className="max-w-[275px] text-[22px] leading-[1.45] tracking-[-0.02em] text-[#262b35]">
+            <div className="mt-16 grid gap-4 rounded-[8px] bg-[#e8dfd8] px-4 py-2 shadow-[0_12px_34px_rgb(63_48_37/0.06)] sm:px-5 sm:py-2 lg:grid-cols-[0.82fr_1.18fr] lg:items-center">
+              <p className="max-w-[285px] text-[18px] leading-[1.8] tracking-[-0.02em] text-[#262b35] sm:text-[19px]">
                 Menjelajahi Warisan Budaya, Satu Daerah dalam Setiap Perjalanan.
               </p>
-              <div className="rounded-[8px] bg-[#8c531f] px-8 py-6 text-white">
-                <h3 className="text-[15px] font-semibold leading-[1.3]">
+              <div className="rounded-[8px] bg-[#8c531f] px-9 py-5 text-white shadow-[0_10px_28px_rgb(82_46_21/0.14)]">
+                <h3 className="max-w-[280px] text-[16px] font-semibold leading-[1.25]">
                   Menjelajahi Warisan Budaya Jawa Timur
                 </h3>
-                <p className="mt-4 text-[13px] leading-[1.18] text-white/78">
+                <p className="mt-4 max-w-[300px] text-[14px] leading-[1.12] text-white/78">
                   Discover authentic traditions, regional specialties, breathtaking
                   destinations, and inspiring stories from all 38 cities and regencies.
                 </p>
