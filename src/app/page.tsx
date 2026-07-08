@@ -417,7 +417,7 @@ export default function Home() {
             {featureCards.map((item) => (
               <article
                 key={item.title}
-                className="min-h-[330px] rounded-[10px] bg-white px-12 py-14 text-center shadow-[0_16px_42px_rgb(0_0_0_/_0.045)]"
+                className="min-h-[330px] rounded-[10px] border border-[#d9c8b8] bg-[#f5efe8] px-12 py-14 text-center shadow-[0_16px_42px_rgb(92_61_39_/_0.07)]"
               >
                 <div className="mx-auto grid h-[58px] w-[58px] place-items-center rounded-[6px] bg-[#8c531f] text-white">
                   <FeatureIcon type={item.icon} />
