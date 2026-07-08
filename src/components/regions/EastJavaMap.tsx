@@ -78,6 +78,9 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
 
     return region ? [region] : [];
   });
+  const sortedRegions = [...mapData.regions].sort((firstItem, secondItem) =>
+    firstItem.region.name.localeCompare(secondItem.region.name),
+  );
 
   return (
     <section className="overflow-hidden rounded-[18px] border border-[#e7ddd3] bg-white shadow-[0_28px_90px_rgb(33_30_27_/_0.08)]">
@@ -158,6 +161,25 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
 
         <div className="relative min-h-[580px] overflow-hidden bg-[#a9dbe8] lg:min-h-[680px]">
           <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(255_255_255_/_0.24),transparent_34%),radial-gradient(circle_at_28%_20%,rgb(255_255_255_/_0.24),transparent_24%),radial-gradient(circle_at_74%_70%,rgb(15_89_111_/_0.12),transparent_30%)]" />
+          <div className="absolute inset-0 opacity-[0.16] [background-image:linear-gradient(rgb(255_255_255_/_0.55)_1px,transparent_1px),linear-gradient(90deg,rgb(255_255_255_/_0.45)_1px,transparent_1px)] [background-size:72px_72px]" />
+          <div className="absolute left-5 top-5 z-10 w-[calc(100%-2.5rem)] max-w-[340px] rounded-[16px] border border-white/66 bg-white/82 p-3 shadow-[0_16px_38px_rgb(56_45_34_/_0.14)] backdrop-blur-xl">
+            <label className="block text-[10px] font-black uppercase tracking-[0.16em] text-[#8c531f]">
+              Pilih Wilayah
+            </label>
+            <select
+              value={activeRegion.region.slug}
+              onChange={(event) =>
+                setSelectedItem({ kind: "region", slug: event.currentTarget.value })
+              }
+              className="mt-2 h-11 w-full rounded-[10px] border border-[#d6c7ba] bg-[#fffaf5] px-3 text-[13px] font-bold text-[#302a25] outline-none transition focus:border-[#8c531f] focus:ring-4 focus:ring-[#8c531f]/10"
+            >
+              {sortedRegions.map((item) => (
+                <option key={item.region.slug} value={item.region.slug}>
+                  {item.region.name}
+                </option>
+              ))}
+            </select>
+          </div>
           <svg
             viewBox={displayMapViewBox}
             aria-label="Peta interaktif kabupaten dan kota Jawa Timur"

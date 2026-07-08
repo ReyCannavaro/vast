@@ -215,7 +215,6 @@ export function GalleryRandomSections({ items }: GalleryRandomSectionsProps) {
 
       <section className="mx-auto max-w-7xl px-6 pb-24 lg:px-10">
         <SectionTitle
-          align="right"
           title="Makanan Khas Jawa Timur"
           description="Cita rasa otentik yang kaya rempah dan menggugah selera dari ujung barat ke ujung timur."
         />
