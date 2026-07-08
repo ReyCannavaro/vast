@@ -4,3697 +4,3697 @@ export const quizQuestions: QuizQuestion[] = [
   {
     "id": "quiz-culture-kabupaten-bangkalan-heritage-kerapan-sapi",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Kerapan Sapi merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan"
+      "Kerapan Sapi",
+      "Upacara Kasada",
+      "Bantengan Mojokerto",
+      "Batik Gentongan"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Kerapan Sapi termasuk warisan budaya Kabupaten Bangkalan. Kerapan Sapi berasal dari tradisi Madura yang menempatkan sapi sebagai bagian dari kebanggaan, ketangkasan, dan perayaan masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Kerapan Sapi",
+    "explanation": "Kerapan Sapi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Kerapan Sapi berasal dari tradisi Madura yang menempatkan sapi sebagai bagian dari kebanggaan, ketangkasan, dan perayaan masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-bangkalan-heritage-sandur-bangkalan",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Sandur Bangkalan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan?",
     "options": [
-      "Kabupaten Madiun",
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kabupaten Bangkalan"
+      "Batik Tuban",
+      "Damar Kurung",
+      "Gandrung Banyuwangi",
+      "Sandur Bangkalan"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Sandur Bangkalan termasuk warisan budaya Kabupaten Bangkalan. Sandur Bangkalan adalah tradisi tutur atau pertunjukan rakyat yang membawa cerita, musik, dan pesan moral dalam ruang budaya Bangkalan.",
-    "difficulty": "medium"
+    "correctAnswer": "Sandur Bangkalan",
+    "explanation": "Sandur Bangkalan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Sandur Bangkalan adalah tradisi tutur atau pertunjukan rakyat yang membawa cerita, musik, dan pesan moral dalam ruang budaya Bangkalan.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-bangkalan-food-bebek-sinjay",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Bebek Sinjay dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Bangkalan?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kabupaten Bangkalan"
+      "Ayam Panggang Gandu",
+      "Bebek Songkem",
+      "Bonggolan",
+      "Bebek Sinjay"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bebek Sinjay termasuk kuliner Kabupaten Bangkalan. Bebek Sinjay menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
-    "difficulty": "easy"
+    "correctAnswer": "Bebek Sinjay",
+    "explanation": "Bebek Sinjay termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Bebek Sinjay menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-bangkalan-food-bebek-songkem",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Bebek Songkem dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Bangkalan?",
     "options": [
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Bondowoso",
-      "Kabupaten Bangkalan"
+      "Nasi Ampok",
+      "Nasi Goreng Arang",
+      "Nasi Langgi",
+      "Bebek Songkem"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bebek Songkem termasuk kuliner Kabupaten Bangkalan. Bebek Songkem menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
-    "difficulty": "easy"
+    "correctAnswer": "Bebek Songkem",
+    "explanation": "Bebek Songkem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Bebek Songkem menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-bangkalan-destination-bukit-jaddih",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Bukit Jaddih berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Bangkalan?",
     "options": [
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Jombang",
-      "Kabupaten Bangkalan"
+      "Lontar Sewu",
+      "Mercusuar Sembilangan",
+      "Museum Probolinggo",
+      "Bukit Jaddih"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bukit Jaddih termasuk destinasi Kabupaten Bangkalan. Bukit Jaddih menampilkan lanskap alam Kabupaten Bangkalan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bangkalan.",
-    "difficulty": "easy"
+    "correctAnswer": "Bukit Jaddih",
+    "explanation": "Bukit Jaddih termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Bukit Jaddih menampilkan lanskap alam Kabupaten Bangkalan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bangkalan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-bangkalan-destination-bukit-kapur",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Bukit Kapur berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Bangkalan?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kota Surabaya",
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto"
+      "Bukit Kapur",
+      "Pulau Mandangin",
+      "Roro Kuning Waterfall",
+      "Setigi Giri"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Bukit Kapur termasuk destinasi Kabupaten Bangkalan. Bukit Kapur menampilkan lanskap alam Kabupaten Bangkalan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bangkalan.",
-    "difficulty": "easy"
+    "correctAnswer": "Bukit Kapur",
+    "explanation": "Bukit Kapur termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Bukit Kapur menampilkan lanskap alam Kabupaten Bangkalan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bangkalan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-bangkalan-batik-batik-gentongan",
     "regionSlug": "kabupaten-bangkalan",
-    "question": "Batik Gentongan merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Bangkalan?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kota Probolinggo",
-      "Kabupaten Jember",
-      "Kabupaten Malang"
+      "Batik Gentongan",
+      "Batik Sampang",
+      "Batik Blitar",
+      "Batik Kediri"
     ],
-    "correctAnswer": "Kabupaten Bangkalan",
-    "explanation": "Batik Gentongan termasuk motif batik Kabupaten Bangkalan. Batik Gentongan dikenal dari tradisi batik Madura di Bangkalan, dengan warna kuat dan proses pewarnaan yang memberi karakter mendalam pada kain.",
+    "correctAnswer": "Batik Gentongan",
+    "explanation": "Batik Gentongan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Bangkalan. Batik Gentongan dikenal dari tradisi batik Madura di Bangkalan, dengan warna kuat dan proses pewarnaan yang memberi karakter mendalam pada kain.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-banyuwangi-heritage-gandrung-banyuwangi",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "Gandrung Banyuwangi merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Lumajang",
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo"
+      "Gandrung Banyuwangi",
+      "Bantengan Mojokerto",
+      "Batik Gentongan",
+      "Batik Koi"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Gandrung Banyuwangi termasuk warisan budaya Kabupaten Banyuwangi. Gandrung Banyuwangi merupakan tari penyambutan masyarakat Osing Banyuwangi, identik dengan busana mencolok, gerak lincah, dan iringan musik khas.",
-    "difficulty": "medium"
+    "correctAnswer": "Gandrung Banyuwangi",
+    "explanation": "Gandrung Banyuwangi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. Gandrung Banyuwangi merupakan tari penyambutan masyarakat Osing Banyuwangi, identik dengan busana mencolok, gerak lincah, dan iringan musik khas.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-banyuwangi-heritage-janger",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "Janger merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi?",
     "options": [
-      "Kabupaten Sumenep",
-      "Kota Madiun",
-      "Kabupaten Blitar",
-      "Kabupaten Banyuwangi"
+      "Sorong Kasereng",
+      "Tari Mojoputri",
+      "Tari Topeng Kaliwungu",
+      "Janger"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Janger termasuk warisan budaya Kabupaten Banyuwangi. Janger hidup dalam lanskap budaya Kabupaten Banyuwangi, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Janger",
+    "explanation": "Janger termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. Janger hidup dalam lanskap budaya Kabupaten Banyuwangi, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-banyuwangi-food-ayam-kesrut",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "Ayam Kesrut dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Banyuwangi?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kota Malang",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang"
+      "Ayam Kesrut",
+      "Sambel Tumpang",
+      "Sate Kelopo",
+      "Sayur Kalakan"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Ayam Kesrut termasuk kuliner Kabupaten Banyuwangi. Ayam Kesrut memperlihatkan olahan rumahan dan warung tradisional Banyuwangi, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Ayam Kesrut",
+    "explanation": "Ayam Kesrut termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. Ayam Kesrut memperlihatkan olahan rumahan dan warung tradisional Banyuwangi, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-banyuwangi-food-pecel-rawon",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "Pecel Rawon dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Banyuwangi?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Malang"
+      "Cwie Mie",
+      "Es Pleret",
+      "Pecel Rawon",
+      "Bubur Sruntul"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Pecel Rawon termasuk kuliner Kabupaten Banyuwangi. Pecel Rawon menggabungkan pecel berbumbu kacang dengan kuah rawon berkluwek, menghasilkan hidangan Banyuwangi yang kontras antara segar, gurih, dan rempah gelap.",
-    "difficulty": "easy"
+    "correctAnswer": "Pecel Rawon",
+    "explanation": "Pecel Rawon termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. Pecel Rawon menggabungkan pecel berbumbu kacang dengan kuah rawon berkluwek, menghasilkan hidangan Banyuwangi yang kontras antara segar, gurih, dan rempah gelap.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-banyuwangi-destination-de-djawatan",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "De Djawatan berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Banyuwangi?",
     "options": [
-      "Kota Pasuruan",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung"
+      "Baluran",
+      "De Djawatan",
+      "Air Terjun Nglirip",
+      "Aire Terjun Toroan"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "De Djawatan termasuk destinasi Kabupaten Banyuwangi. De Djawatan adalah tujuan kunjungan di Kabupaten Banyuwangi, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "De Djawatan",
+    "explanation": "De Djawatan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. De Djawatan adalah tujuan kunjungan di Kabupaten Banyuwangi, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-banyuwangi-destination-kawah-ijen",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "Kawah Ijen berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Banyuwangi?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Malang",
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban"
+      "Kawah Ijen",
+      "Wisata Bukit Kehi",
+      "Air Terjun Blawan",
+      "Air Terjun Sunggah"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Kawah Ijen termasuk destinasi Kabupaten Banyuwangi. Kawah Ijen terkenal dengan lanskap kawah belerang dan fenomena api biru, menjadikannya salah satu daya tarik alam paling kuat di ujung timur Jawa.",
-    "difficulty": "easy"
+    "correctAnswer": "Kawah Ijen",
+    "explanation": "Kawah Ijen termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. Kawah Ijen terkenal dengan lanskap kawah belerang dan fenomena api biru, menjadikannya salah satu daya tarik alam paling kuat di ujung timur Jawa.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-banyuwangi-batik-batik-gajaholing",
     "regionSlug": "kabupaten-banyuwangi",
-    "question": "Batik Gajaholing merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Banyuwangi?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Banyuwangi",
-      "Kota Blitar",
-      "Kota Surabaya"
+      "Batik Sampang",
+      "Batik Gajaholing",
+      "Batik Magetan",
+      "Batik Mojokerto"
     ],
-    "correctAnswer": "Kabupaten Banyuwangi",
-    "explanation": "Batik Gajaholing termasuk motif batik Kabupaten Banyuwangi. Batik Gajaholing mengangkat ikon visual Banyuwangi yang dekat dengan identitas Osing, sering dibaca sebagai simbol kekuatan dan keberuntungan.",
+    "correctAnswer": "Batik Gajaholing",
+    "explanation": "Batik Gajaholing termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Banyuwangi. Batik Gajaholing mengangkat ikon visual Banyuwangi yang dekat dengan identitas Osing, sering dibaca sebagai simbol kekuatan dan keberuntungan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-blitar-heritage-siraman-gong-kyai-pradah",
     "regionSlug": "kabupaten-blitar",
-    "question": "Siraman Gong Kyai Pradah merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Blitar?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kabupaten Sidoarjo"
+      "Siraman Gong Kyai Pradah",
+      "Damar Kurung",
+      "Gandrung Banyuwangi",
+      "Jaran Bodhag"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Siraman Gong Kyai Pradah termasuk warisan budaya Kabupaten Blitar. Siraman Gong Kyai Pradah hidup dalam lanskap budaya Kabupaten Blitar, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Siraman Gong Kyai Pradah",
+    "explanation": "Siraman Gong Kyai Pradah termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Siraman Gong Kyai Pradah hidup dalam lanskap budaya Kabupaten Blitar, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-blitar-heritage-jaranan-tril",
     "regionSlug": "kabupaten-blitar",
-    "question": "Jaranan Tril merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Blitar?",
     "options": [
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kabupaten Blitar",
-      "Kabupaten Mojokerto"
+      "Tari Sego Boran",
+      "Thak Thakan",
+      "Jaranan Tril",
+      "Tari Godril"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Jaranan Tril termasuk warisan budaya Kabupaten Blitar. Jaranan Tril adalah seni kuda kepang yang berkembang di Blitar, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Tril",
+    "explanation": "Jaranan Tril termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Jaranan Tril adalah seni kuda kepang yang berkembang di Blitar, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-blitar-food-ayam-lodho",
     "regionSlug": "kabupaten-blitar",
-    "question": "Ayam Lodho dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Blitar?",
     "options": [
-      "Kabupaten Tulungagung",
-      "Kabupaten Blitar",
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo"
+      "Sate Mantingan",
+      "Ayam Lodho",
+      "Salak Wedi",
+      "Sate Bekicot"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Ayam Lodho termasuk kuliner Kabupaten Blitar. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Blitar, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Ayam Lodho",
+    "explanation": "Ayam Lodho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Blitar, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-blitar-food-nasi-ampok",
     "regionSlug": "kabupaten-blitar",
-    "question": "Nasi Ampok dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Blitar?",
     "options": [
-      "Kabupaten Magetan",
-      "Kabupaten Pasuruan",
-      "Kabupaten Blitar",
-      "Kabupaten Gresik"
+      "Dumreg",
+      "Ikan Asap",
+      "Nasi Ampok",
+      "Cenil Lupis"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Nasi Ampok termasuk kuliner Kabupaten Blitar. Nasi Ampok adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Blitar.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Ampok",
+    "explanation": "Nasi Ampok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Nasi Ampok adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Blitar.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-blitar-destination-candi-penataran",
     "regionSlug": "kabupaten-blitar",
-    "question": "Candi Penataran berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Blitar?",
     "options": [
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Blitar",
-      "Kabupaten Sidoarjo"
+      "Pulau Bawean",
+      "Ranu Gumbolo",
+      "Candi Penataran",
+      "Pantai Tiga Warna"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Candi Penataran termasuk destinasi Kabupaten Blitar. Candi Penataran menyimpan jejak sejarah Kabupaten Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Penataran",
+    "explanation": "Candi Penataran termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Candi Penataran menyimpan jejak sejarah Kabupaten Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-blitar-destination-candi-sawentar",
     "regionSlug": "kabupaten-blitar",
-    "question": "Candi Sawentar berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Blitar?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Blitar",
-      "Kota Batu",
-      "Kota Probolinggo"
+      "Padusan",
+      "Candi Sawentar",
+      "Makam Ratu Ibu",
+      "Museum Airlangga"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Candi Sawentar termasuk destinasi Kabupaten Blitar. Candi Sawentar menyimpan jejak sejarah Kabupaten Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Sawentar",
+    "explanation": "Candi Sawentar termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Candi Sawentar menyimpan jejak sejarah Kabupaten Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-blitar-batik-batik-koi",
     "regionSlug": "kabupaten-blitar",
-    "question": "Batik Koi merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Blitar?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Bangkalan",
-      "Kabupaten Blitar"
+      "Batik Sampang",
+      "Batik Blitar",
+      "Batik Kakao",
+      "Batik Koi"
     ],
-    "correctAnswer": "Kabupaten Blitar",
-    "explanation": "Batik Koi termasuk motif batik Kabupaten Blitar. Batik Koi memperkenalkan bahasa visual batik Kabupaten Blitar, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Blitar.",
+    "correctAnswer": "Batik Koi",
+    "explanation": "Batik Koi termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Blitar. Batik Koi memperkenalkan bahasa visual batik Kabupaten Blitar, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Blitar.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-bojonegoro-heritage-upacara-adat-mangir",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Upacara Adat Mangir merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kota Kediri",
-      "Kabupaten Bangkalan",
-      "Kabupaten Kediri"
+      "Upacara Adat Mangir",
+      "Kethek Ogleng",
+      "Larung Sesaji",
+      "Musik Patrol"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Upacara Adat Mangir termasuk warisan budaya Kabupaten Bojonegoro. Upacara Adat Mangir hidup dalam lanskap budaya Kabupaten Bojonegoro, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Upacara Adat Mangir",
+    "explanation": "Upacara Adat Mangir termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Upacara Adat Mangir hidup dalam lanskap budaya Kabupaten Bojonegoro, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-bojonegoro-heritage-tari-thengul",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Tari Thengul merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro?",
     "options": [
-      "Kota Kediri",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo"
+      "Tradisi Praon",
+      "Tari Thengul",
+      "Tari Sandur Manduro",
+      "Thak Thakan"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Tari Thengul termasuk warisan budaya Kabupaten Bojonegoro. Tari Thengul adalah seni tari Kabupaten Bojonegoro yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
-    "difficulty": "medium"
+    "correctAnswer": "Tari Thengul",
+    "explanation": "Tari Thengul termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Tari Thengul adalah seni tari Kabupaten Bojonegoro yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-bojonegoro-food-balung-kuwuk",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Balung Kuwuk dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Bojonegoro?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Trenggalek",
-      "Kota Malang"
+      "Jenang Mirah",
+      "Balung Kuwuk",
+      "Dawet Jabung",
+      "Garang Asem"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Balung Kuwuk termasuk kuliner Kabupaten Bojonegoro. Balung Kuwuk adalah bagian dari kuliner lokal Bojonegoro, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Balung Kuwuk",
+    "explanation": "Balung Kuwuk termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Balung Kuwuk adalah bagian dari kuliner lokal Bojonegoro, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-bojonegoro-food-kue-ledre",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Kue Ledre dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Bojonegoro?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Gresik",
-      "Kabupaten Magetan",
-      "Kabupaten Pasuruan"
+      "Kue Ledre",
+      "Ayam Lodho",
+      "Bakso Malang",
+      "Belut Surabaya"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Kue Ledre termasuk kuliner Kabupaten Bojonegoro. Kue Ledre adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Bojonegoro.",
-    "difficulty": "easy"
+    "correctAnswer": "Kue Ledre",
+    "explanation": "Kue Ledre termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Kue Ledre adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Bojonegoro.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-bojonegoro-destination-dander-waterpark",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Dander Waterpark berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Bojonegoro?",
     "options": [
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Kediri"
+      "Candi Lor",
+      "Candi Tawangalun",
+      "Dander Waterpark",
+      "Bukit Cumbri"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Dander Waterpark termasuk destinasi Kabupaten Bojonegoro. Dander Waterpark menjadi ruang kunjungan populer di Kabupaten Bojonegoro, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Bojonegoro.",
-    "difficulty": "easy"
+    "correctAnswer": "Dander Waterpark",
+    "explanation": "Dander Waterpark termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Dander Waterpark menjadi ruang kunjungan populer di Kabupaten Bojonegoro, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Bojonegoro.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-bojonegoro-destination-kayangan-api",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Kayangan Api berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Bojonegoro?",
     "options": [
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Bondowoso",
-      "Kabupaten Bojonegoro"
+      "Goa Asmara",
+      "Gua Lowo",
+      "Jembatan Suramadu",
+      "Kayangan Api"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Kayangan Api termasuk destinasi Kabupaten Bojonegoro. Kayangan Api adalah tujuan kunjungan di Kabupaten Bojonegoro, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Kayangan Api",
+    "explanation": "Kayangan Api termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Kayangan Api adalah tujuan kunjungan di Kabupaten Bojonegoro, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-bojonegoro-batik-batik-sekarjati",
     "regionSlug": "kabupaten-bojonegoro",
-    "question": "Batik Sekarjati merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Bojonegoro?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung"
+      "Batik Sekarjati",
+      "Batik Blitar",
+      "Batik Kakao",
+      "Batik Madiun"
     ],
-    "correctAnswer": "Kabupaten Bojonegoro",
-    "explanation": "Batik Sekarjati termasuk motif batik Kabupaten Bojonegoro. Batik Sekarjati memperkenalkan bahasa visual batik Kabupaten Bojonegoro, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Bojonegoro.",
+    "correctAnswer": "Batik Sekarjati",
+    "explanation": "Batik Sekarjati termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Bojonegoro. Batik Sekarjati memperkenalkan bahasa visual batik Kabupaten Bojonegoro, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Bojonegoro.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-bondowoso-heritage-kesenian-daul",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Kesenian Daul merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo",
-      "Kabupaten Bondowoso",
-      "Kabupaten Lumajang"
+      "Jaranan Senterewe",
+      "Kebo Keboan",
+      "Kesenian Daul",
+      "Jaran Kencak"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Kesenian Daul termasuk warisan budaya Kabupaten Bondowoso. Kesenian Daul memperlihatkan tradisi musik rakyat Kabupaten Bondowoso, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
-    "difficulty": "medium"
+    "correctAnswer": "Kesenian Daul",
+    "explanation": "Kesenian Daul termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Kesenian Daul memperlihatkan tradisi musik rakyat Kabupaten Bondowoso, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-bondowoso-heritage-pertunjukan-ojung",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Pertunjukan Ojung merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kota Surabaya",
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto"
+      "Pertunjukan Ojung",
+      "Reog Cemandi",
+      "Ruwat",
+      "Singo Ulung"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Pertunjukan Ojung termasuk warisan budaya Kabupaten Bondowoso. Pertunjukan Ojung hidup dalam lanskap budaya Kabupaten Bondowoso, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Pertunjukan Ojung",
+    "explanation": "Pertunjukan Ojung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Pertunjukan Ojung hidup dalam lanskap budaya Kabupaten Bondowoso, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-bondowoso-food-bakso-gulung",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Bakso Gulung dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Bondowoso?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto",
-      "Kabupaten Bondowoso"
+      "Kue Ledre",
+      "Lontong Balap",
+      "Mendol",
+      "Bakso Gulung"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Bakso Gulung termasuk kuliner Kabupaten Bondowoso. Bakso Gulung memperlihatkan olahan rumahan dan warung tradisional Bondowoso, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bakso Gulung",
+    "explanation": "Bakso Gulung termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Bakso Gulung memperlihatkan olahan rumahan dan warung tradisional Bondowoso, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-bondowoso-food-nasi-macan",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Nasi Macan dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Bondowoso?",
     "options": [
-      "Kota Kediri",
-      "Kabupaten Bangkalan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Situbondo"
+      "Lontong Kupang",
+      "Nasi Ampok",
+      "Nasi Macan",
+      "Kupang Lontong"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Nasi Macan termasuk kuliner Kabupaten Bondowoso. Nasi Macan adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Bondowoso.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Macan",
+    "explanation": "Nasi Macan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Nasi Macan adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Bondowoso.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-bondowoso-destination-air-terjun-blawan",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Air Terjun Blawan berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Bondowoso?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kabupaten Bondowoso",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Lamongan"
+      "Telaga Ngebel",
+      "Air Terjun Blawan",
+      "Sumber Sirah",
+      "Taman Safari"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Air Terjun Blawan termasuk destinasi Kabupaten Bondowoso. Air Terjun Blawan menampilkan lanskap alam Kabupaten Bondowoso, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bondowoso.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Blawan",
+    "explanation": "Air Terjun Blawan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Air Terjun Blawan menampilkan lanskap alam Kabupaten Bondowoso, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bondowoso.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-bondowoso-destination-kawah-wurung",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Kawah Wurung berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Bondowoso?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Blitar",
-      "Kabupaten Lumajang"
+      "Pantai Tambakrejo",
+      "Kawah Wurung",
+      "Pantai Kelapa",
+      "Pantai Pathek"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Kawah Wurung termasuk destinasi Kabupaten Bondowoso. Kawah Wurung menampilkan lanskap alam Kabupaten Bondowoso, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bondowoso.",
-    "difficulty": "easy"
+    "correctAnswer": "Kawah Wurung",
+    "explanation": "Kawah Wurung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Kawah Wurung menampilkan lanskap alam Kabupaten Bondowoso, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Bondowoso.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-bondowoso-batik-batik-singoulung",
     "regionSlug": "kabupaten-bondowoso",
-    "question": "Batik Singoulung merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Bondowoso?",
     "options": [
-      "Kabupaten Lumajang",
-      "Kabupaten Bondowoso",
-      "Kota Malang",
-      "Kabupaten Blitar"
+      "Batik Pasuruan",
+      "Batik Singoulung",
+      "Batik Lamongan",
+      "Batik Manggur"
     ],
-    "correctAnswer": "Kabupaten Bondowoso",
-    "explanation": "Batik Singoulung termasuk motif batik Kabupaten Bondowoso. Batik Singoulung memperkenalkan bahasa visual batik Kabupaten Bondowoso, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Bondowoso.",
+    "correctAnswer": "Batik Singoulung",
+    "explanation": "Batik Singoulung termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Bondowoso. Batik Singoulung memperkenalkan bahasa visual batik Kabupaten Bondowoso, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Bondowoso.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-gresik-heritage-pencak-macan",
     "regionSlug": "kabupaten-gresik",
-    "question": "Pencak Macan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Gresik?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Gresik",
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek"
+      "Terbang Japi",
+      "Pencak Macan",
+      "Tari Glipang",
+      "Tari Sandur Manduro"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Pencak Macan termasuk warisan budaya Kabupaten Gresik. Pencak Macan hidup dalam lanskap budaya Kabupaten Gresik, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Pencak Macan",
+    "explanation": "Pencak Macan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Pencak Macan hidup dalam lanskap budaya Kabupaten Gresik, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-gresik-heritage-reog-cemandi",
     "regionSlug": "kabupaten-gresik",
-    "question": "Reog Cemandi merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Gresik?",
     "options": [
-      "Kabupaten Kediri",
-      "Kabupaten Gresik",
-      "Kota Kediri",
-      "Kabupaten Bangkalan"
+      "Batik Mojokerto",
+      "Reog Cemandi",
+      "Batik Kediri",
+      "Batik Magetan"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Reog Cemandi termasuk warisan budaya Kabupaten Gresik. Reog Cemandi adalah seni pertunjukan ikonik Ponorogo dengan dadak merak, warok, jathil, dan iringan gamelan yang menjadi simbol kuat budaya Jawa Timur.",
-    "difficulty": "medium"
+    "correctAnswer": "Reog Cemandi",
+    "explanation": "Reog Cemandi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Reog Cemandi adalah seni pertunjukan ikonik Ponorogo dengan dadak merak, warok, jathil, dan iringan gamelan yang menjadi simbol kuat budaya Jawa Timur.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-gresik-food-bonggolan",
     "regionSlug": "kabupaten-gresik",
-    "question": "Bonggolan dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Gresik?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kabupaten Kediri",
-      "Kabupaten Gresik",
-      "Kota Kediri"
+      "Cenil Lupis",
+      "Dumreg",
+      "Bonggolan",
+      "Botok Tempe"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Bonggolan termasuk kuliner Kabupaten Gresik. Bonggolan adalah bagian dari kuliner lokal Gresik, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Bonggolan",
+    "explanation": "Bonggolan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Bonggolan adalah bagian dari kuliner lokal Gresik, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-gresik-food-legen-siwalan",
     "regionSlug": "kabupaten-gresik",
-    "question": "Legen Siwalan dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Gresik?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Gresik",
-      "Kabupaten Trenggalek"
+      "Nasi Glepung",
+      "Nasi Krawu",
+      "Legen Siwalan",
+      "Mendol Tempe"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Legen Siwalan termasuk kuliner Kabupaten Gresik. Legen Siwalan adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Gresik.",
-    "difficulty": "easy"
+    "correctAnswer": "Legen Siwalan",
+    "explanation": "Legen Siwalan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Legen Siwalan adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Gresik.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-gresik-destination-bukit-jamur",
     "regionSlug": "kabupaten-gresik",
-    "question": "Bukit Jamur berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Gresik?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Gresik",
-      "Kabupaten Lamongan"
+      "Baluran",
+      "Bermi Echo Park",
+      "Bukit Jamur",
+      "Aire Terjun Toroan"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Bukit Jamur termasuk destinasi Kabupaten Gresik. Bukit Jamur menampilkan lanskap alam Kabupaten Gresik, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Gresik.",
-    "difficulty": "easy"
+    "correctAnswer": "Bukit Jamur",
+    "explanation": "Bukit Jamur termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Bukit Jamur menampilkan lanskap alam Kabupaten Gresik, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Gresik.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-gresik-destination-lontar-sewu",
     "regionSlug": "kabupaten-gresik",
-    "question": "Lontar Sewu berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Gresik?",
     "options": [
-      "Kabupaten Gresik",
-      "Kabupaten Sampang",
-      "Kota Batu",
-      "Kota Probolinggo"
+      "Lontar Sewu",
+      "Situs Megalitikum",
+      "Sumber Sirah",
+      "Taman Safari"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Lontar Sewu termasuk destinasi Kabupaten Gresik. Lontar Sewu adalah tujuan kunjungan di Kabupaten Gresik, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Lontar Sewu",
+    "explanation": "Lontar Sewu termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Lontar Sewu adalah tujuan kunjungan di Kabupaten Gresik, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-gresik-batik-batik-damar-kurung",
     "regionSlug": "kabupaten-gresik",
-    "question": "Batik Damar Kurung merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Gresik?",
     "options": [
-      "Kabupaten Lamongan",
-      "Kabupaten Gresik",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi"
+      "Batik Podhek",
+      "Batik Damar Kurung",
+      "Batik Madiun",
+      "Batik Mojokerto"
     ],
-    "correctAnswer": "Kabupaten Gresik",
-    "explanation": "Batik Damar Kurung termasuk motif batik Kabupaten Gresik. Batik Damar Kurung memperkenalkan bahasa visual batik Kabupaten Gresik, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Gresik.",
+    "correctAnswer": "Batik Damar Kurung",
+    "explanation": "Batik Damar Kurung termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Gresik. Batik Damar Kurung memperkenalkan bahasa visual batik Kabupaten Gresik, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Gresik.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-jember-heritage-can-macanan",
     "regionSlug": "kabupaten-jember",
-    "question": "Can Macanan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jember?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Blitar",
-      "Kabupaten Jember",
-      "Kabupaten Ngawi"
+      "Batik Pace",
+      "Batik Situbondo",
+      "Can Macanan",
+      "Batik Manggur"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Can Macanan termasuk warisan budaya Kabupaten Jember. Can Macanan hidup dalam lanskap budaya Kabupaten Jember, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Can Macanan",
+    "explanation": "Can Macanan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Can Macanan hidup dalam lanskap budaya Kabupaten Jember, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-jember-heritage-musik-patrol",
     "regionSlug": "kabupaten-jember",
-    "question": "Musik Patrol merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jember?",
     "options": [
-      "Kabupaten Jember",
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Malang"
+      "Musik Patrol",
+      "Budaya Ndaru",
+      "Dongkrek Madiun",
+      "Grebeg Suro"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Musik Patrol termasuk warisan budaya Kabupaten Jember. Musik Patrol memperlihatkan tradisi musik rakyat Kabupaten Jember, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
-    "difficulty": "medium"
+    "correctAnswer": "Musik Patrol",
+    "explanation": "Musik Patrol termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Musik Patrol memperlihatkan tradisi musik rakyat Kabupaten Jember, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-jember-food-nasi-langgi",
     "regionSlug": "kabupaten-jember",
-    "question": "Nasi Langgi dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Jember?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Jember",
-      "Kabupaten Trenggalek",
-      "Kota Malang"
+      "Sambal Tumpang",
+      "Nasi Langgi",
+      "Pindang Sapi",
+      "Rawon Pasuruan"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Nasi Langgi termasuk kuliner Kabupaten Jember. Nasi Langgi adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Jember.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Langgi",
+    "explanation": "Nasi Langgi termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Nasi Langgi adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Jember.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-jember-food-pecel-walisongo",
     "regionSlug": "kabupaten-jember",
-    "question": "Pecel Walisongo dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Jember?",
     "options": [
-      "Kabupaten Jember",
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Madiun"
+      "Pecel Walisongo",
+      "Nasi Serpang",
+      "Onde Onde Mojokerto",
+      "Pecel Lele"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Pecel Walisongo termasuk kuliner Kabupaten Jember. Pecel Walisongo mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Jember memberi warna tersendiri pada tradisi pecel Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Pecel Walisongo",
+    "explanation": "Pecel Walisongo termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Pecel Walisongo mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Jember memberi warna tersendiri pada tradisi pecel Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-jember-destination-air-terjun-tancak",
     "regionSlug": "kabupaten-jember",
-    "question": "Air Terjun Tancak berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Jember?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Madiun",
-      "Kabupaten Pamekasan",
-      "Kabupaten Jember"
+      "Pantai Tambakrejo",
+      "Pemandian Sekarsari",
+      "Rambut Monte",
+      "Air Terjun Tancak"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Air Terjun Tancak termasuk destinasi Kabupaten Jember. Air Terjun Tancak menampilkan lanskap alam Kabupaten Jember, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Jember.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Tancak",
+    "explanation": "Air Terjun Tancak termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Air Terjun Tancak menampilkan lanskap alam Kabupaten Jember, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Jember.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-jember-destination-jember-mini-zoo",
     "regionSlug": "kabupaten-jember",
-    "question": "Jember Mini Zoo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Jember?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Jember"
+      "Benteng Van De Bosch",
+      "Bukit Jamur",
+      "Candi Penampihan",
+      "Jember Mini Zoo"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Jember Mini Zoo termasuk destinasi Kabupaten Jember. Jember Mini Zoo adalah tujuan kunjungan di Kabupaten Jember, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Jember Mini Zoo",
+    "explanation": "Jember Mini Zoo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Jember Mini Zoo adalah tujuan kunjungan di Kabupaten Jember, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-jember-batik-batik-kakao",
     "regionSlug": "kabupaten-jember",
-    "question": "Batik Kakao merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Jember?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung"
+      "Batik Kakao",
+      "Batik Kediri",
+      "Batik Magetan",
+      "Batik Mojokerto"
     ],
-    "correctAnswer": "Kabupaten Jember",
-    "explanation": "Batik Kakao termasuk motif batik Kabupaten Jember. Batik Kakao memperkenalkan bahasa visual batik Kabupaten Jember, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Jember.",
+    "correctAnswer": "Batik Kakao",
+    "explanation": "Batik Kakao termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Jember. Batik Kakao memperkenalkan bahasa visual batik Kabupaten Jember, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Jember.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-jombang-heritage-grebeg-suro",
     "regionSlug": "kabupaten-jombang",
-    "question": "Grebeg Suro merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jombang?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Jombang"
+      "Batik Singoulung",
+      "Candi Penataran",
+      "Festival Rujak Uleg",
+      "Grebeg Suro"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Grebeg Suro termasuk warisan budaya Kabupaten Jombang. Grebeg Suro adalah tradisi komunal Kabupaten Jombang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Grebeg Suro",
+    "explanation": "Grebeg Suro termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Grebeg Suro adalah tradisi komunal Kabupaten Jombang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-jombang-heritage-jaranan-dor",
     "regionSlug": "kabupaten-jombang",
-    "question": "Jaranan Dor merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jombang?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Bangkalan"
+      "Jaranan Dor",
+      "Kethek Ogleng",
+      "Larung Sesaji",
+      "Musik Patrol"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Jaranan Dor termasuk warisan budaya Kabupaten Jombang. Jaranan Dor adalah seni kuda kepang yang berkembang di Jombang, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Dor",
+    "explanation": "Jaranan Dor termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Jaranan Dor adalah seni kuda kepang yang berkembang di Jombang, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-jombang-food-jenang-kelapa-muda",
     "regionSlug": "kabupaten-jombang",
-    "question": "Jenang Kelapa Muda dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Jombang?",
     "options": [
-      "Kabupaten Malang",
-      "Kabupaten Ponorogo",
-      "Kabupaten Jombang",
-      "Kabupaten Gresik"
+      "Pindang Sapi",
+      "Rawon Pasuruan",
+      "Jenang Kelapa Muda",
+      "Pecel Telo"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Jenang Kelapa Muda termasuk kuliner Kabupaten Jombang. Jenang Kelapa Muda adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Jombang.",
-    "difficulty": "easy"
+    "correctAnswer": "Jenang Kelapa Muda",
+    "explanation": "Jenang Kelapa Muda termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Jenang Kelapa Muda adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Jombang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-jombang-food-ketan-merdeka",
     "regionSlug": "kabupaten-jombang",
-    "question": "Ketan Merdeka dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Jombang?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Bangkalan",
-      "Kabupaten Jombang"
+      "Rawon Nguling",
+      "Sale Pisang Anggur",
+      "Sate Kelinci",
+      "Ketan Merdeka"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Ketan Merdeka termasuk kuliner Kabupaten Jombang. Ketan Merdeka adalah bagian dari kuliner lokal Jombang, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Ketan Merdeka",
+    "explanation": "Ketan Merdeka termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Ketan Merdeka adalah bagian dari kuliner lokal Jombang, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-jombang-destination-bale-tani",
     "regionSlug": "kabupaten-jombang",
-    "question": "Bale Tani berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Jombang?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Jombang",
-      "Kabupaten Blitar",
-      "Kabupaten Lumajang"
+      "Jalan Tunjungan",
+      "Bale Tani",
+      "Gereja Merah",
+      "Goa Lowo"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Bale Tani termasuk destinasi Kabupaten Jombang. Bale Tani adalah tujuan kunjungan di Kabupaten Jombang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bale Tani",
+    "explanation": "Bale Tani termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Bale Tani adalah tujuan kunjungan di Kabupaten Jombang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-jombang-destination-banyu-mili",
     "regionSlug": "kabupaten-jombang",
-    "question": "Banyu Mili berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Jombang?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Jombang",
-      "Kota Blitar",
-      "Kota Surabaya"
+      "Bermi Echo Park",
+      "Banyu Mili",
+      "Air Terjun Tirtosari",
+      "Bale Tani"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Banyu Mili termasuk destinasi Kabupaten Jombang. Banyu Mili adalah tujuan kunjungan di Kabupaten Jombang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Banyu Mili",
+    "explanation": "Banyu Mili termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Banyu Mili adalah tujuan kunjungan di Kabupaten Jombang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-jombang-batik-batik-jombang",
     "regionSlug": "kabupaten-jombang",
-    "question": "Batik Jombang merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Jombang?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Gresik",
-      "Kabupaten Malang",
-      "Kabupaten Ponorogo"
+      "Batik Jombang",
+      "Batik Lamongan",
+      "Batik Manggur",
+      "Batik Pasuruan"
     ],
-    "correctAnswer": "Kabupaten Jombang",
-    "explanation": "Batik Jombang termasuk motif batik Kabupaten Jombang. Batik Jombang memperkenalkan bahasa visual batik Kabupaten Jombang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Jombang.",
+    "correctAnswer": "Batik Jombang",
+    "explanation": "Batik Jombang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Jombang. Batik Jombang memperkenalkan bahasa visual batik Kabupaten Jombang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Jombang.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-kediri-heritage-tradisi-tibak",
     "regionSlug": "kabupaten-kediri",
-    "question": "Tradisi Tibak merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Kediri?",
     "options": [
-      "Kota Mojokerto",
-      "Kabupaten Kediri",
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban"
+      "Grebeg Tape",
+      "Tradisi Tibak",
+      "Candi Penataran",
+      "Festival Rujak Uleg"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Tradisi Tibak termasuk warisan budaya Kabupaten Kediri. Tradisi Tibak hidup dalam lanskap budaya Kabupaten Kediri, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Tradisi Tibak",
+    "explanation": "Tradisi Tibak termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Tradisi Tibak hidup dalam lanskap budaya Kabupaten Kediri, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-kediri-heritage-jaranan-kediri",
     "regionSlug": "kabupaten-kediri",
-    "question": "Jaranan Kediri merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Kediri?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kabupaten Mojokerto",
-      "Kabupaten Kediri"
+      "Batik Manggur",
+      "Batik Pace",
+      "Batik Situbondo",
+      "Jaranan Kediri"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Jaranan Kediri termasuk warisan budaya Kabupaten Kediri. Jaranan Kediri adalah seni kuda kepang yang berkembang di Kediri, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Kediri",
+    "explanation": "Jaranan Kediri termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Jaranan Kediri adalah seni kuda kepang yang berkembang di Kediri, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-kediri-food-lupis-cenil",
     "regionSlug": "kabupaten-kediri",
-    "question": "Lupis Cenil dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Kediri?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo",
-      "Kabupaten Kediri"
+      "Ayam Lodho",
+      "Bakso Malang",
+      "Becek Tuban",
+      "Lupis Cenil"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Lupis Cenil termasuk kuliner Kabupaten Kediri. Lupis Cenil adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Kediri.",
-    "difficulty": "easy"
+    "correctAnswer": "Lupis Cenil",
+    "explanation": "Lupis Cenil termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Lupis Cenil adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Kediri.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-kediri-food-nasi-goreng-arang",
     "regionSlug": "kabupaten-kediri",
-    "question": "Nasi Goreng Arang dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Kediri?",
     "options": [
-      "Kabupaten Kediri",
-      "Kota Kediri",
-      "Kabupaten Bangkalan",
-      "Kabupaten Jombang"
+      "Nasi Goreng Arang",
+      "Legen Siwalan",
+      "Lupis Cenil",
+      "Nasi Boran"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Nasi Goreng Arang termasuk kuliner Kabupaten Kediri. Nasi Goreng Arang adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Kediri.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Goreng Arang",
+    "explanation": "Nasi Goreng Arang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Nasi Goreng Arang adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Kediri.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-kediri-destination-air-terjun-besuki",
     "regionSlug": "kabupaten-kediri",
-    "question": "Air Terjun Besuki berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Kediri?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar",
-      "Kabupaten Kediri"
+      "Jatim Park 1",
+      "Kampung Batik Jetis",
+      "Kawasan Wisata Tretes",
+      "Air Terjun Besuki"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Air Terjun Besuki termasuk destinasi Kabupaten Kediri. Air Terjun Besuki menampilkan lanskap alam Kabupaten Kediri, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Kediri.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Besuki",
+    "explanation": "Air Terjun Besuki termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Air Terjun Besuki menampilkan lanskap alam Kabupaten Kediri, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Kediri.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-kediri-destination-candi-surowono",
     "regionSlug": "kabupaten-kediri",
-    "question": "Candi Surowono berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Kediri?",
     "options": [
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kabupaten Kediri",
-      "Kabupaten Madiun"
+      "Padusan",
+      "Pantai Kasap",
+      "Candi Surowono",
+      "Museum Airlangga"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Candi Surowono termasuk destinasi Kabupaten Kediri. Candi Surowono menyimpan jejak sejarah Kabupaten Kediri, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Surowono",
+    "explanation": "Candi Surowono termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Candi Surowono menyimpan jejak sejarah Kabupaten Kediri, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-kediri-batik-batik-kediri",
     "regionSlug": "kabupaten-kediri",
-    "question": "Batik Kediri merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Kediri?",
     "options": [
-      "Kota Batu",
-      "Kota Probolinggo",
-      "Kabupaten Kediri",
-      "Kabupaten Sampang"
+      "Batik Kakao",
+      "Batik Malang",
+      "Batik Kediri",
+      "Batik Blitar"
     ],
-    "correctAnswer": "Kabupaten Kediri",
-    "explanation": "Batik Kediri termasuk motif batik Kabupaten Kediri. Batik Kediri memperkenalkan bahasa visual batik Kabupaten Kediri, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Kediri.",
+    "correctAnswer": "Batik Kediri",
+    "explanation": "Batik Kediri termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Kediri. Batik Kediri memperkenalkan bahasa visual batik Kabupaten Kediri, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Kediri.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-lamongan-heritage-mendhak-sanggring",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Mendhak Sanggring merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kabupaten Lamongan",
-      "Kota Surabaya",
-      "Kabupaten Jember"
+      "Ruwat",
+      "Mendhak Sanggring",
+      "Petik Laut",
+      "Reog Cemandi"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Mendhak Sanggring termasuk warisan budaya Kabupaten Lamongan. Mendhak Sanggring hidup dalam lanskap budaya Kabupaten Lamongan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Mendhak Sanggring",
+    "explanation": "Mendhak Sanggring termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Mendhak Sanggring hidup dalam lanskap budaya Kabupaten Lamongan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-lamongan-heritage-jaranan-mayangkara",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Jaranan Mayangkara merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan?",
     "options": [
-      "Kabupaten Sampang",
-      "Kota Batu",
-      "Kabupaten Lamongan",
-      "Kabupaten Nganjuk"
+      "Ruwat",
+      "Singo Ulung",
+      "Jaranan Mayangkara",
+      "Reog Cemandi"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Jaranan Mayangkara termasuk warisan budaya Kabupaten Lamongan. Jaranan Mayangkara adalah seni kuda kepang yang berkembang di Lamongan, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Mayangkara",
+    "explanation": "Jaranan Mayangkara termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Jaranan Mayangkara adalah seni kuda kepang yang berkembang di Lamongan, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-lamongan-food-dawet-siwalan",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Dawet Siwalan dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Lamongan?",
     "options": [
-      "Kabupaten Sampang",
-      "Kota Batu",
-      "Kabupaten Lamongan",
-      "Kabupaten Nganjuk"
+      "Soto Daging Empunala",
+      "Soto Tulungagung",
+      "Dawet Siwalan",
+      "Sego Jagung"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Dawet Siwalan termasuk kuliner Kabupaten Lamongan. Dawet Siwalan adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Lamongan.",
-    "difficulty": "easy"
+    "correctAnswer": "Dawet Siwalan",
+    "explanation": "Dawet Siwalan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Dawet Siwalan adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Lamongan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-lamongan-food-jumbrek",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Jumbrek dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Lamongan?",
     "options": [
-      "Kota Pasuruan",
-      "Kabupaten Lamongan",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung"
+      "Pecel Dhoho",
+      "Jumbrek",
+      "Nasi Punel",
+      "Onde Onde Bo Liem"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Jumbrek termasuk kuliner Kabupaten Lamongan. Jumbrek adalah bagian dari kuliner lokal Lamongan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Jumbrek",
+    "explanation": "Jumbrek termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Jumbrek adalah bagian dari kuliner lokal Lamongan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-lamongan-destination-akar-langit",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Akar Langit berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Lamongan?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kota Malang",
-      "Kabupaten Lamongan",
-      "Kabupaten Pasuruan"
+      "Bukit Jamur",
+      "Candi Penampihan",
+      "Akar Langit",
+      "Benteng Van De Bosch"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Akar Langit termasuk destinasi Kabupaten Lamongan. Akar Langit adalah tujuan kunjungan di Kabupaten Lamongan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Akar Langit",
+    "explanation": "Akar Langit termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Akar Langit adalah tujuan kunjungan di Kabupaten Lamongan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-lamongan-destination-maharani-zoo",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Maharani Zoo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Lamongan?",
     "options": [
-      "Kabupaten Sumenep",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Lamongan"
+      "Sumber Podang",
+      "Taman Galuh",
+      "Tebing Pelangi",
+      "Maharani Zoo"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Maharani Zoo termasuk destinasi Kabupaten Lamongan. Maharani Zoo adalah tujuan kunjungan di Kabupaten Lamongan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Maharani Zoo",
+    "explanation": "Maharani Zoo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Maharani Zoo adalah tujuan kunjungan di Kabupaten Lamongan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-lamongan-batik-batik-lamongan",
     "regionSlug": "kabupaten-lamongan",
-    "question": "Batik Lamongan merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Lamongan?",
     "options": [
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek",
-      "Kabupaten Lamongan",
-      "Kabupaten Magetan"
+      "Batik Koi",
+      "Batik Manggur",
+      "Batik Lamongan",
+      "Batik Gentongan"
     ],
-    "correctAnswer": "Kabupaten Lamongan",
-    "explanation": "Batik Lamongan termasuk motif batik Kabupaten Lamongan. Batik Lamongan memperkenalkan bahasa visual batik Kabupaten Lamongan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Lamongan.",
+    "correctAnswer": "Batik Lamongan",
+    "explanation": "Batik Lamongan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Lamongan. Batik Lamongan memperkenalkan bahasa visual batik Kabupaten Lamongan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Lamongan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-lumajang-heritage-upacara-kasada",
     "regionSlug": "kabupaten-lumajang",
-    "question": "Upacara Kasada merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang",
-      "Kabupaten Lumajang"
+      "Wayang Timplong",
+      "Batik Gajah Mada",
+      "Batik Kediri",
+      "Upacara Kasada"
     ],
-    "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Upacara Kasada termasuk warisan budaya Kabupaten Lumajang. Upacara Kasada berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
-    "difficulty": "medium"
+    "correctAnswer": "Upacara Kasada",
+    "explanation": "Upacara Kasada termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang. Upacara Kasada berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-lumajang-heritage-jaran-kencak",
     "regionSlug": "kabupaten-lumajang",
-    "question": "Jaran Kencak merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang?",
     "options": [
-      "Kota Batu",
-      "Kota Probolinggo",
-      "Kabupaten Lumajang",
-      "Kabupaten Sampang"
+      "Batik Gajah Mada",
+      "Batik Kediri",
+      "Jaran Kencak",
+      "Wayang Timplong"
     ],
-    "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Jaran Kencak termasuk warisan budaya Kabupaten Lumajang. Jaran Kencak hidup dalam lanskap budaya Kabupaten Lumajang, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaran Kencak",
+    "explanation": "Jaran Kencak termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang. Jaran Kencak hidup dalam lanskap budaya Kabupaten Lumajang, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-lumajang-food-kripik-talas",
     "regionSlug": "kabupaten-lumajang",
-    "question": "Kripik Talas dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Lumajang?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Lumajang",
-      "Kabupaten Sumenep",
-      "Kota Madiun"
+      "Soto Sabreng",
+      "Kripik Talas",
+      "Sego Empok",
+      "Soto Ayam Prolink"
     ],
-    "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Kripik Talas termasuk kuliner Kabupaten Lumajang. Kripik Talas mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Lumajang.",
-    "difficulty": "easy"
+    "correctAnswer": "Kripik Talas",
+    "explanation": "Kripik Talas termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang. Kripik Talas mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Lumajang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-lumajang-food-kue-ladu",
     "regionSlug": "kabupaten-lumajang",
-    "question": "Kue Ladu dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Lumajang?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Lumajang",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar"
+      "Nasi Ampok",
+      "Kue Ladu",
+      "Kupang Lontong",
+      "Lontong Kupang"
     ],
-    "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Kue Ladu termasuk kuliner Kabupaten Lumajang. Kue Ladu adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Lumajang.",
-    "difficulty": "easy"
+    "correctAnswer": "Kue Ladu",
+    "explanation": "Kue Ladu termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang. Kue Ladu adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Lumajang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-lumajang-destination-air-terjun-kapas-biru",
     "regionSlug": "kabupaten-lumajang",
-    "question": "Air Terjun Kapas Biru berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Lumajang?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban",
-      "Kabupaten Lumajang",
-      "Kabupaten Malang"
+      "Bermi Echo Park",
+      "Bukit Kapur",
+      "Air Terjun Kapas Biru",
+      "Baluran"
     ],
-    "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Air Terjun Kapas Biru termasuk destinasi Kabupaten Lumajang. Air Terjun Kapas Biru menampilkan lanskap alam Kabupaten Lumajang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Lumajang.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Kapas Biru",
+    "explanation": "Air Terjun Kapas Biru termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang. Air Terjun Kapas Biru menampilkan lanskap alam Kabupaten Lumajang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Lumajang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-lumajang-destination-puncak-b29",
     "regionSlug": "kabupaten-lumajang",
-    "question": "Puncak B29 berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Lumajang?",
     "options": [
-      "Kota Batu",
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Lumajang"
+      "Lon Malang",
+      "Masjid Agung Jamik Sumenep",
+      "Museum Bentoel",
+      "Puncak B29"
     ],
-    "correctAnswer": "Kabupaten Lumajang",
-    "explanation": "Puncak B29 termasuk destinasi Kabupaten Lumajang. Puncak B29 menampilkan lanskap alam Kabupaten Lumajang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Lumajang.",
-    "difficulty": "easy"
+    "correctAnswer": "Puncak B29",
+    "explanation": "Puncak B29 termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Lumajang. Puncak B29 menampilkan lanskap alam Kabupaten Lumajang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Lumajang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-culture-kabupaten-madiun-heritage-bregada-surakarsa",
     "regionSlug": "kabupaten-madiun",
-    "question": "Bregada Surakarsa merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Madiun?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan"
+      "Mojotirto",
+      "Bregada Surakarsa",
+      "Kesenian Dongkrek",
+      "Lampah Hastungkara"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Bregada Surakarsa termasuk warisan budaya Kabupaten Madiun. Bregada Surakarsa hidup dalam lanskap budaya Kabupaten Madiun, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Bregada Surakarsa",
+    "explanation": "Bregada Surakarsa termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Bregada Surakarsa hidup dalam lanskap budaya Kabupaten Madiun, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-madiun-heritage-jaranan-senterewe",
     "regionSlug": "kabupaten-madiun",
-    "question": "Jaranan Senterewe merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Madiun?",
     "options": [
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Madiun"
+      "Sandur",
+      "Siraman Sedudo",
+      "Tari Landhung",
+      "Jaranan Senterewe"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Jaranan Senterewe termasuk warisan budaya Kabupaten Madiun. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Madiun, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Senterewe",
+    "explanation": "Jaranan Senterewe termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Madiun, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-madiun-food-brem-madiun",
     "regionSlug": "kabupaten-madiun",
-    "question": "Brem Madiun dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Madiun?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Madiun"
+      "Pindang Koyong",
+      "Punten",
+      "Salak Wedi",
+      "Brem Madiun"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Brem Madiun termasuk kuliner Kabupaten Madiun. Brem Madiun berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
-    "difficulty": "easy"
+    "correctAnswer": "Brem Madiun",
+    "explanation": "Brem Madiun termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Brem Madiun berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-madiun-food-madu-mongso",
     "regionSlug": "kabupaten-madiun",
-    "question": "Madu Mongso dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Madiun?",
     "options": [
-      "Kabupaten Magetan",
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek",
-      "Kabupaten Madiun"
+      "Pecel Madiun",
+      "Pia Tape",
+      "Pudak",
+      "Madu Mongso"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Madu Mongso termasuk kuliner Kabupaten Madiun. Madu Mongso berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
-    "difficulty": "easy"
+    "correctAnswer": "Madu Mongso",
+    "explanation": "Madu Mongso termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Madu Mongso berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-madiun-destination-air-terjun-seweru",
     "regionSlug": "kabupaten-madiun",
-    "question": "Air Terjun Seweru berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Madiun?",
     "options": [
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun"
+      "Telaga Ngebel",
+      "Umbul Square",
+      "Wisata Edukasi Gondang",
+      "Air Terjun Seweru"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Air Terjun Seweru termasuk destinasi Kabupaten Madiun. Air Terjun Seweru menampilkan lanskap alam Kabupaten Madiun, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Madiun.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Seweru",
+    "explanation": "Air Terjun Seweru termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Air Terjun Seweru menampilkan lanskap alam Kabupaten Madiun, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Madiun.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-madiun-destination-hutan-pinus-nongko-ijo",
     "regionSlug": "kabupaten-madiun",
-    "question": "Hutan Pinus Nongko Ijo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Madiun?",
     "options": [
-      "Kabupaten Madiun",
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro"
+      "Hutan Pinus Nongko Ijo",
+      "Sampoerna Museum",
+      "Simpang Lima Gumul",
+      "Snorkelling Peak"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Hutan Pinus Nongko Ijo termasuk destinasi Kabupaten Madiun. Hutan Pinus Nongko Ijo menampilkan lanskap alam Kabupaten Madiun, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Madiun.",
-    "difficulty": "easy"
+    "correctAnswer": "Hutan Pinus Nongko Ijo",
+    "explanation": "Hutan Pinus Nongko Ijo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Hutan Pinus Nongko Ijo menampilkan lanskap alam Kabupaten Madiun, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Madiun.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-madiun-batik-batik-madiun",
     "regionSlug": "kabupaten-madiun",
-    "question": "Batik Madiun merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Madiun?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kabupaten Madiun",
-      "Kota Blitar"
+      "Batik Pasuruan",
+      "Batik Tuban",
+      "Batik Madiun",
+      "Batik Merak"
     ],
-    "correctAnswer": "Kabupaten Madiun",
-    "explanation": "Batik Madiun termasuk motif batik Kabupaten Madiun. Batik Madiun memperkenalkan bahasa visual batik Kabupaten Madiun, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Madiun.",
+    "correctAnswer": "Batik Madiun",
+    "explanation": "Batik Madiun termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Madiun. Batik Madiun memperkenalkan bahasa visual batik Kabupaten Madiun, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Madiun.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-magetan-heritage-labuhan-sarangan",
     "regionSlug": "kabupaten-magetan",
-    "question": "Labuhan Sarangan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Magetan?",
     "options": [
-      "Kabupaten Sampang",
-      "Kota Batu",
-      "Kota Probolinggo",
-      "Kabupaten Magetan"
+      "Kirab Grebeg Pancasila",
+      "Malang Tempo Doeloe",
+      "Ojhung",
+      "Labuhan Sarangan"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Labuhan Sarangan termasuk warisan budaya Kabupaten Magetan. Labuhan Sarangan hidup dalam lanskap budaya Kabupaten Magetan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Labuhan Sarangan",
+    "explanation": "Labuhan Sarangan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Labuhan Sarangan hidup dalam lanskap budaya Kabupaten Magetan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-magetan-heritage-lampah-hastungkara",
     "regionSlug": "kabupaten-magetan",
-    "question": "Lampah Hastungkara merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Magetan?",
     "options": [
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kabupaten Magetan"
+      "Larung Sesaji",
+      "Musik Patrol",
+      "Parade Juang",
+      "Lampah Hastungkara"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Lampah Hastungkara termasuk warisan budaya Kabupaten Magetan. Lampah Hastungkara hidup dalam lanskap budaya Kabupaten Magetan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Lampah Hastungkara",
+    "explanation": "Lampah Hastungkara termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Lampah Hastungkara hidup dalam lanskap budaya Kabupaten Magetan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-magetan-food-ayam-panggang-gandu",
     "regionSlug": "kabupaten-magetan",
-    "question": "Ayam Panggang Gandu dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Magetan?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Magetan"
+      "Soto Lamongan",
+      "Sumpil",
+      "Tahu Tek",
+      "Ayam Panggang Gandu"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Ayam Panggang Gandu termasuk kuliner Kabupaten Magetan. Ayam Panggang Gandu memperlihatkan olahan rumahan dan warung tradisional Magetan, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Ayam Panggang Gandu",
+    "explanation": "Ayam Panggang Gandu termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Ayam Panggang Gandu memperlihatkan olahan rumahan dan warung tradisional Magetan, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-magetan-food-jerangking",
     "regionSlug": "kabupaten-magetan",
-    "question": "Jerangking dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Magetan?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kabupaten Mojokerto",
-      "Kabupaten Magetan"
+      "Kaldu Kokot",
+      "Ketan Kratok",
+      "Kupang Lontong",
+      "Jerangking"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Jerangking termasuk kuliner Kabupaten Magetan. Jerangking adalah bagian dari kuliner lokal Magetan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Jerangking",
+    "explanation": "Jerangking termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Jerangking adalah bagian dari kuliner lokal Magetan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-magetan-destination-air-terjun-tirtosari",
     "regionSlug": "kabupaten-magetan",
-    "question": "Air Terjun Tirtosari berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Magetan?",
     "options": [
-      "Kabupaten Magetan",
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek",
-      "Kota Malang"
+      "Air Terjun Tirtosari",
+      "Maha Vihara",
+      "Mojosemi Park",
+      "Museum SBY Ani"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Air Terjun Tirtosari termasuk destinasi Kabupaten Magetan. Air Terjun Tirtosari menampilkan lanskap alam Kabupaten Magetan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Magetan.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Tirtosari",
+    "explanation": "Air Terjun Tirtosari termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Air Terjun Tirtosari menampilkan lanskap alam Kabupaten Magetan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Magetan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-magetan-destination-genilangit",
     "regionSlug": "kabupaten-magetan",
-    "question": "Genilangit berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Magetan?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Magetan",
-      "Kabupaten Tuban",
-      "Kota Mojokerto"
+      "Kedung Tumpang",
+      "Genilangit",
+      "Jember Mini Zoo",
+      "Kawah Ijen"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Genilangit termasuk destinasi Kabupaten Magetan. Genilangit adalah tujuan kunjungan di Kabupaten Magetan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Genilangit",
+    "explanation": "Genilangit termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Genilangit adalah tujuan kunjungan di Kabupaten Magetan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-magetan-batik-batik-magetan",
     "regionSlug": "kabupaten-magetan",
-    "question": "Batik Magetan merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Magetan?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri",
-      "Kabupaten Magetan",
-      "Kota Madiun"
+      "Batik Malang",
+      "Batik Nganjuk",
+      "Batik Magetan",
+      "Batik Kediri"
     ],
-    "correctAnswer": "Kabupaten Magetan",
-    "explanation": "Batik Magetan termasuk motif batik Kabupaten Magetan. Batik Magetan memperkenalkan bahasa visual batik Kabupaten Magetan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Magetan.",
+    "correctAnswer": "Batik Magetan",
+    "explanation": "Batik Magetan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Magetan. Batik Magetan memperkenalkan bahasa visual batik Kabupaten Magetan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Magetan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-malang-heritage-larung-sesaji-ngliyep",
     "regionSlug": "kabupaten-malang",
-    "question": "Larung Sesaji Ngliyep merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Malang?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Malang",
-      "Kabupaten Tuban",
-      "Kota Mojokerto"
+      "Batik Manggur",
+      "Larung Sesaji Ngliyep",
+      "Batik Gentongan",
+      "Batik Koi"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Larung Sesaji Ngliyep termasuk warisan budaya Kabupaten Malang. Larung Sesaji Ngliyep adalah tradisi komunal Kabupaten Malang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Larung Sesaji Ngliyep",
+    "explanation": "Larung Sesaji Ngliyep termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Larung Sesaji Ngliyep adalah tradisi komunal Kabupaten Malang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-malang-heritage-kesenian-bantengan",
     "regionSlug": "kabupaten-malang",
-    "question": "Kesenian Bantengan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Malang?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kabupaten Malang",
-      "Kota Blitar"
+      "Topeng Kona",
+      "Ulur Ulur",
+      "Kesenian Bantengan",
+      "Tari Topeng Malangan"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Kesenian Bantengan termasuk warisan budaya Kabupaten Malang. Kesenian Bantengan adalah seni pertunjukan rakyat Kabupaten Malang yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
-    "difficulty": "medium"
+    "correctAnswer": "Kesenian Bantengan",
+    "explanation": "Kesenian Bantengan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Kesenian Bantengan adalah seni pertunjukan rakyat Kabupaten Malang yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-malang-food-bakso-malang",
     "regionSlug": "kabupaten-malang",
-    "question": "Bakso Malang dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Malang?",
     "options": [
-      "Kabupaten Kediri",
-      "Kabupaten Malang",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi"
+      "Soto Sabrang",
+      "Bakso Malang",
+      "Sego Buwuhan",
+      "Sego Tiwul"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Bakso Malang termasuk kuliner Kabupaten Malang. Bakso Malang memperlihatkan olahan rumahan dan warung tradisional Malang, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bakso Malang",
+    "explanation": "Bakso Malang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Bakso Malang memperlihatkan olahan rumahan dan warung tradisional Malang, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-malang-food-cenil-lupis",
     "regionSlug": "kabupaten-malang",
-    "question": "Cenil Lupis dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Malang?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Malang"
+      "Nasi Jhong",
+      "Nasi Macan",
+      "Nasi Tiwul",
+      "Cenil Lupis"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Cenil Lupis termasuk kuliner Kabupaten Malang. Cenil Lupis adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Malang.",
-    "difficulty": "easy"
+    "correctAnswer": "Cenil Lupis",
+    "explanation": "Cenil Lupis termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Cenil Lupis adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Malang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-malang-destination-coban-rondo",
     "regionSlug": "kabupaten-malang",
-    "question": "Coban Rondo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Malang?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri",
-      "Kabupaten Malang",
-      "Kota Madiun"
+      "Pemandian Sekarsari",
+      "Rambut Monte",
+      "Coban Rondo",
+      "Pantai Tambakrejo"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Coban Rondo termasuk destinasi Kabupaten Malang. Coban Rondo menampilkan lanskap alam Kabupaten Malang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Malang.",
-    "difficulty": "easy"
+    "correctAnswer": "Coban Rondo",
+    "explanation": "Coban Rondo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Coban Rondo menampilkan lanskap alam Kabupaten Malang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Malang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-malang-destination-goa-cina",
     "regionSlug": "kabupaten-malang",
-    "question": "Goa Cina berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Malang?",
     "options": [
-      "Kabupaten Lumajang",
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kabupaten Malang"
+      "Air Terjun Tirtosari",
+      "Bale Tani",
+      "Benteng Van De Bosch",
+      "Goa Cina"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Goa Cina termasuk destinasi Kabupaten Malang. Goa Cina menampilkan lanskap alam Kabupaten Malang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Malang.",
-    "difficulty": "easy"
+    "correctAnswer": "Goa Cina",
+    "explanation": "Goa Cina termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Goa Cina menampilkan lanskap alam Kabupaten Malang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Malang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-malang-batik-batik-malang",
     "regionSlug": "kabupaten-malang",
-    "question": "Batik Malang merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Malang?",
     "options": [
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek",
-      "Kabupaten Malang",
-      "Kabupaten Madiun"
+      "Batik Gajaholing",
+      "Batik Kintir Kintir",
+      "Batik Malang",
+      "Batik Situbondo"
     ],
-    "correctAnswer": "Kabupaten Malang",
-    "explanation": "Batik Malang termasuk motif batik Kabupaten Malang. Batik Malang memperkenalkan bahasa visual batik Kabupaten Malang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Malang.",
+    "correctAnswer": "Batik Malang",
+    "explanation": "Batik Malang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Malang. Batik Malang memperkenalkan bahasa visual batik Kabupaten Malang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Malang.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-mojokerto-heritage-grebeg-suro",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Grebeg Suro merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto?",
     "options": [
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Mojokerto"
+      "Batik Mojokerto",
+      "Batik Podhek",
+      "Bregada Surakarsa",
+      "Grebeg Suro"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Grebeg Suro termasuk warisan budaya Kabupaten Mojokerto. Grebeg Suro adalah tradisi komunal Kabupaten Mojokerto yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Grebeg Suro",
+    "explanation": "Grebeg Suro termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Grebeg Suro adalah tradisi komunal Kabupaten Mojokerto yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-mojokerto-heritage-ruwat-agung",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Ruwat Agung merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto?",
     "options": [
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kota Madiun",
-      "Kabupaten Mojokerto"
+      "Batik Singoulung",
+      "Candi Penataran",
+      "Festival Rujak Uleg",
+      "Ruwat Agung"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Ruwat Agung termasuk warisan budaya Kabupaten Mojokerto. Ruwat Agung adalah tradisi komunal Kabupaten Mojokerto yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Ruwat Agung",
+    "explanation": "Ruwat Agung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Ruwat Agung adalah tradisi komunal Kabupaten Mojokerto yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-mojokerto-food-botok-tempe",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Botok Tempe dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Mojokerto?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Mojokerto"
+      "Kaldu Kokot",
+      "Ketan Kratok",
+      "Kupang Lontong",
+      "Botok Tempe"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Botok Tempe termasuk kuliner Kabupaten Mojokerto. Botok Tempe memperlihatkan olahan rumahan dan warung tradisional Mojokerto, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Botok Tempe",
+    "explanation": "Botok Tempe termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Botok Tempe memperlihatkan olahan rumahan dan warung tradisional Mojokerto, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-mojokerto-food-onde-onde-mojokerto",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Onde Onde Mojokerto dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Mojokerto?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kabupaten Magetan",
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban"
+      "Onde Onde Mojokerto",
+      "Tape Bondowoso",
+      "Wedang Cor",
+      "Ayam Panggang Bledug"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Onde Onde Mojokerto termasuk kuliner Kabupaten Mojokerto. Onde Onde Mojokerto adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Mojokerto.",
-    "difficulty": "easy"
+    "correctAnswer": "Onde Onde Mojokerto",
+    "explanation": "Onde Onde Mojokerto termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Onde Onde Mojokerto adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Mojokerto.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-mojokerto-destination-air-terjun-dlundung",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Air Terjun Dlundung berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Mojokerto?",
     "options": [
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang",
-      "Kabupaten Mojokerto"
+      "Simpang Lima Gumul",
+      "Snorkelling Peak",
+      "Sungai Maron",
+      "Air Terjun Dlundung"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Air Terjun Dlundung termasuk destinasi Kabupaten Mojokerto. Air Terjun Dlundung menampilkan lanskap alam Kabupaten Mojokerto, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Mojokerto.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Dlundung",
+    "explanation": "Air Terjun Dlundung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Air Terjun Dlundung menampilkan lanskap alam Kabupaten Mojokerto, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Mojokerto.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-mojokerto-destination-bernah-de-vallei",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Bernah De Vallei berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Mojokerto?",
     "options": [
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kabupaten Mojokerto",
-      "Kabupaten Lumajang"
+      "Rambut Monte",
+      "Savana Sadengan",
+      "Bernah De Vallei",
+      "Pemandian Sekarsari"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Bernah De Vallei termasuk destinasi Kabupaten Mojokerto. Bernah De Vallei adalah tujuan kunjungan di Kabupaten Mojokerto, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bernah De Vallei",
+    "explanation": "Bernah De Vallei termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Bernah De Vallei adalah tujuan kunjungan di Kabupaten Mojokerto, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-mojokerto-batik-batik-mojokerto",
     "regionSlug": "kabupaten-mojokerto",
-    "question": "Batik Mojokerto merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Mojokerto?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kabupaten Jember",
-      "Kabupaten Malang",
-      "Kabupaten Probolinggo"
+      "Batik Mojokerto",
+      "Batik Podhek",
+      "Batik Batu",
+      "Batik Jombang"
     ],
-    "correctAnswer": "Kabupaten Mojokerto",
-    "explanation": "Batik Mojokerto termasuk motif batik Kabupaten Mojokerto. Batik Mojokerto memperkenalkan bahasa visual batik Kabupaten Mojokerto, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Mojokerto.",
+    "correctAnswer": "Batik Mojokerto",
+    "explanation": "Batik Mojokerto termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Mojokerto. Batik Mojokerto memperkenalkan bahasa visual batik Kabupaten Mojokerto, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Mojokerto.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-nganjuk-heritage-siraman-sedudo",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Siraman Sedudo merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Nganjuk",
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek"
+      "Parade Bregada",
+      "Siraman Sedudo",
+      "Labuhan Sarangan",
+      "Mendhak Sanggring"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Siraman Sedudo termasuk warisan budaya Kabupaten Nganjuk. Siraman Sedudo hidup dalam lanskap budaya Kabupaten Nganjuk, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Siraman Sedudo",
+    "explanation": "Siraman Sedudo termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Siraman Sedudo hidup dalam lanskap budaya Kabupaten Nganjuk, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-nganjuk-heritage-nyandran-jaranan",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Nyandran Jaranan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk?",
     "options": [
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kabupaten Nganjuk",
-      "Kabupaten Malang"
+      "Candi Penataran",
+      "Festival Rujak Uleg",
+      "Nyandran Jaranan",
+      "Batik Singoulung"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Nyandran Jaranan termasuk warisan budaya Kabupaten Nganjuk. Nyandran Jaranan adalah seni kuda kepang yang berkembang di Nganjuk, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Nyandran Jaranan",
+    "explanation": "Nyandran Jaranan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Nyandran Jaranan adalah seni kuda kepang yang berkembang di Nganjuk, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-nganjuk-food-ayam-panggang-bledug",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Ayam Panggang Bledug dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Nganjuk?",
     "options": [
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sidoarjo"
+      "Bebek Sinjay",
+      "Bipang Jangkar",
+      "Ayam Panggang Bledug",
+      "Ayam Panggang Gandu"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Ayam Panggang Bledug termasuk kuliner Kabupaten Nganjuk. Ayam Panggang Bledug memperlihatkan olahan rumahan dan warung tradisional Nganjuk, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Ayam Panggang Bledug",
+    "explanation": "Ayam Panggang Bledug termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Ayam Panggang Bledug memperlihatkan olahan rumahan dan warung tradisional Nganjuk, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-nganjuk-food-dendeng-sapi",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Dendeng Sapi dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Nganjuk?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Nganjuk",
-      "Kota Blitar",
-      "Kota Surabaya"
+      "Prol Tape",
+      "Dendeng Sapi",
+      "Pecel Lele",
+      "Pentol Cora"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Dendeng Sapi termasuk kuliner Kabupaten Nganjuk. Dendeng Sapi memperlihatkan olahan rumahan dan warung tradisional Nganjuk, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Dendeng Sapi",
+    "explanation": "Dendeng Sapi termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Dendeng Sapi memperlihatkan olahan rumahan dan warung tradisional Nganjuk, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-nganjuk-destination-bukit-salju",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Bukit Salju berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Nganjuk?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Nganjuk",
-      "Kabupaten Gresik",
-      "Kabupaten Magetan"
+      "Air Terjun Suwono",
+      "Bukit Salju",
+      "Wisata Edukasi Gondang",
+      "Air Terjun Dlundung"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Bukit Salju termasuk destinasi Kabupaten Nganjuk. Bukit Salju menampilkan lanskap alam Kabupaten Nganjuk, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Nganjuk.",
-    "difficulty": "easy"
+    "correctAnswer": "Bukit Salju",
+    "explanation": "Bukit Salju termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Bukit Salju menampilkan lanskap alam Kabupaten Nganjuk, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Nganjuk.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-nganjuk-destination-candi-lor",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Candi Lor berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Nganjuk?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kabupaten Nganjuk",
-      "Kabupaten Kediri",
-      "Kabupaten Ngawi"
+      "Rambut Monte",
+      "Candi Lor",
+      "Pantai Tambakrejo",
+      "Pemandian Sekarsari"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Candi Lor termasuk destinasi Kabupaten Nganjuk. Candi Lor menyimpan jejak sejarah Kabupaten Nganjuk, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Lor",
+    "explanation": "Candi Lor termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Candi Lor menyimpan jejak sejarah Kabupaten Nganjuk, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-nganjuk-batik-batik-nganjuk",
     "regionSlug": "kabupaten-nganjuk",
-    "question": "Batik Nganjuk merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Nganjuk?",
     "options": [
-      "Kabupaten Nganjuk",
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan"
+      "Batik Nganjuk",
+      "Batik Jetis",
+      "Batik Lamongan",
+      "Batik Manggur"
     ],
-    "correctAnswer": "Kabupaten Nganjuk",
-    "explanation": "Batik Nganjuk termasuk motif batik Kabupaten Nganjuk. Batik Nganjuk memperkenalkan bahasa visual batik Kabupaten Nganjuk, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Nganjuk.",
+    "correctAnswer": "Batik Nganjuk",
+    "explanation": "Batik Nganjuk termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Nganjuk. Batik Nganjuk memperkenalkan bahasa visual batik Kabupaten Nganjuk, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Nganjuk.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-ngawi-heritage-ketoprak",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Ketoprak merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Magetan"
+      "Ketoprak",
+      "Batik Jombang",
+      "Batik Madiun",
+      "Batik Merak"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Ketoprak termasuk warisan budaya Kabupaten Ngawi. Ketoprak hidup dalam lanskap budaya Kabupaten Ngawi, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Ketoprak",
+    "explanation": "Ketoprak termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Ketoprak hidup dalam lanskap budaya Kabupaten Ngawi, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-ngawi-heritage-tari-orek-orek",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Tari Orek Orek merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto",
-      "Kabupaten Sampang",
-      "Kabupaten Ngawi"
+      "Topeng Getak",
+      "Ujung Ujungan",
+      "Warok",
+      "Tari Orek Orek"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Tari Orek Orek termasuk warisan budaya Kabupaten Ngawi. Tari Orek Orek adalah seni tari Kabupaten Ngawi yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
-    "difficulty": "medium"
+    "correctAnswer": "Tari Orek Orek",
+    "explanation": "Tari Orek Orek termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Tari Orek Orek adalah seni tari Kabupaten Ngawi yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-ngawi-food-coklat-tempe",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Coklat Tempe dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Ngawi?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kabupaten Jember",
-      "Kabupaten Malang",
-      "Kabupaten Probolinggo"
+      "Coklat Tempe",
+      "Garang Asem",
+      "Jenang Mirah",
+      "Keripik Melinjo"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Coklat Tempe termasuk kuliner Kabupaten Ngawi. Coklat Tempe mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Ngawi.",
-    "difficulty": "easy"
+    "correctAnswer": "Coklat Tempe",
+    "explanation": "Coklat Tempe termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Coklat Tempe mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Ngawi.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-ngawi-food-gethuk-lindri",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Gethuk Lindri dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Ngawi?",
     "options": [
-      "Kota Pasuruan",
-      "Kabupaten Ngawi",
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung"
+      "Pindang Koyong",
+      "Gethuk Lindri",
+      "Otak Otak Bandeng",
+      "Pecel Ponorogo"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Gethuk Lindri termasuk kuliner Kabupaten Ngawi. Gethuk Lindri adalah bagian dari kuliner lokal Ngawi, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Gethuk Lindri",
+    "explanation": "Gethuk Lindri termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Gethuk Lindri adalah bagian dari kuliner lokal Ngawi, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-ngawi-destination-air-terjun-pengantin",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Air Terjun Pengantin berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Ngawi?",
     "options": [
-      "Kabupaten Madiun",
-      "Kabupaten Pasuruan",
-      "Kabupaten Ngawi",
-      "Kabupaten Bondowoso"
+      "Telaga Wahyu",
+      "Waterpark Sumber Udel",
+      "Air Terjun Pengantin",
+      "Taman Sumber Wangi"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Air Terjun Pengantin termasuk destinasi Kabupaten Ngawi. Air Terjun Pengantin menampilkan lanskap alam Kabupaten Ngawi, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ngawi.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Pengantin",
+    "explanation": "Air Terjun Pengantin termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Air Terjun Pengantin menampilkan lanskap alam Kabupaten Ngawi, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ngawi.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-ngawi-destination-air-terjun-suwono",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Air Terjun Suwono berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Ngawi?",
     "options": [
-      "Kabupaten Malang",
-      "Kabupaten Ngawi",
-      "Kota Surabaya",
-      "Kabupaten Jember"
+      "Kampung Warna Warni",
+      "Air Terjun Suwono",
+      "Gua Lowo",
+      "Jembatan Suramadu"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Air Terjun Suwono termasuk destinasi Kabupaten Ngawi. Air Terjun Suwono menampilkan lanskap alam Kabupaten Ngawi, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ngawi.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Suwono",
+    "explanation": "Air Terjun Suwono termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Air Terjun Suwono menampilkan lanskap alam Kabupaten Ngawi, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ngawi.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-ngawi-batik-batik-ngawi",
     "regionSlug": "kabupaten-ngawi",
-    "question": "Batik Ngawi merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Ngawi?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang"
+      "Batik Ngawi",
+      "Batik Blitar",
+      "Batik Kakao",
+      "Batik Madiun"
     ],
-    "correctAnswer": "Kabupaten Ngawi",
-    "explanation": "Batik Ngawi termasuk motif batik Kabupaten Ngawi. Batik Ngawi memperkenalkan bahasa visual batik Kabupaten Ngawi, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Ngawi.",
+    "correctAnswer": "Batik Ngawi",
+    "explanation": "Batik Ngawi termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Ngawi. Batik Ngawi memperkenalkan bahasa visual batik Kabupaten Ngawi, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Ngawi.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-pacitan-heritage-rokat-tase",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Rokat Tase merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan?",
     "options": [
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Pacitan",
-      "Kabupaten Sidoarjo"
+      "Petik Laut",
+      "Reog Cemandi",
+      "Rokat Tase",
+      "Ojhung"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Rokat Tase termasuk warisan budaya Kabupaten Pacitan. Rokat Tase adalah tradisi komunal Kabupaten Pacitan yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Rokat Tase",
+    "explanation": "Rokat Tase termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Rokat Tase adalah tradisi komunal Kabupaten Pacitan yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-pacitan-heritage-upacara-adat-tetaken",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Upacara Adat Tetaken merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Magetan"
+      "Upacara Adat Tetaken",
+      "Topeng Dalang",
+      "Turonggo Yakso",
+      "Warok"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Upacara Adat Tetaken termasuk warisan budaya Kabupaten Pacitan. Upacara Adat Tetaken hidup dalam lanskap budaya Kabupaten Pacitan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Upacara Adat Tetaken",
+    "explanation": "Upacara Adat Tetaken termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Upacara Adat Tetaken hidup dalam lanskap budaya Kabupaten Pacitan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-pacitan-food-jadah-bakar",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Jadah Bakar dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Pacitan?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Pacitan",
-      "Kabupaten Ngawi"
+      "Nasi Jotos",
+      "Nasi Pecel Majapahit",
+      "Jadah Bakar",
+      "Nasi Boranan"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Jadah Bakar termasuk kuliner Kabupaten Pacitan. Jadah Bakar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pacitan.",
-    "difficulty": "easy"
+    "correctAnswer": "Jadah Bakar",
+    "explanation": "Jadah Bakar termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Jadah Bakar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pacitan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-pacitan-food-kupat-tahu",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Kupat Tahu dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Pacitan?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kabupaten Pacitan",
-      "Kota Pasuruan"
+      "Bakso Lulur",
+      "Bebek Songkem",
+      "Kupat Tahu",
+      "Ayam Kesrut"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Kupat Tahu termasuk kuliner Kabupaten Pacitan. Kupat Tahu adalah bagian dari kuliner lokal Pacitan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Kupat Tahu",
+    "explanation": "Kupat Tahu termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Kupat Tahu adalah bagian dari kuliner lokal Pacitan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-pacitan-destination-banyu-tibo",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Banyu Tibo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Pacitan?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar",
-      "Kota Surabaya"
+      "Banyu Tibo",
+      "Malik Ibrahim",
+      "Museum Angkut",
+      "Pantai Balekambang"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Banyu Tibo termasuk destinasi Kabupaten Pacitan. Banyu Tibo adalah tujuan kunjungan di Kabupaten Pacitan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Banyu Tibo",
+    "explanation": "Banyu Tibo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Banyu Tibo adalah tujuan kunjungan di Kabupaten Pacitan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-pacitan-destination-goa-tabuhan",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Goa Tabuhan berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Pacitan?",
     "options": [
-      "Kabupaten Nganjuk",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar",
-      "Kabupaten Pacitan"
+      "Sumber Sirah",
+      "Taman Safari",
+      "Telaga Ngebel",
+      "Goa Tabuhan"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Goa Tabuhan termasuk destinasi Kabupaten Pacitan. Goa Tabuhan menampilkan lanskap alam Kabupaten Pacitan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pacitan.",
-    "difficulty": "easy"
+    "correctAnswer": "Goa Tabuhan",
+    "explanation": "Goa Tabuhan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Goa Tabuhan menampilkan lanskap alam Kabupaten Pacitan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pacitan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-pacitan-batik-batik-pace",
     "regionSlug": "kabupaten-pacitan",
-    "question": "Batik Pace merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Pacitan?",
     "options": [
-      "Kabupaten Magetan",
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban",
-      "Kabupaten Pacitan"
+      "Batik Mojokerto",
+      "Batik Sekarjati",
+      "Batik Damar Kurung",
+      "Batik Pace"
     ],
-    "correctAnswer": "Kabupaten Pacitan",
-    "explanation": "Batik Pace termasuk motif batik Kabupaten Pacitan. Batik Pace memperkenalkan bahasa visual batik Kabupaten Pacitan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pacitan.",
+    "correctAnswer": "Batik Pace",
+    "explanation": "Batik Pace termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Pacitan. Batik Pace memperkenalkan bahasa visual batik Kabupaten Pacitan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pacitan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-pamekasan-heritage-karapan-sapi",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Karapan Sapi merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan?",
     "options": [
-      "Kabupaten Madiun",
-      "Kabupaten Pasuruan",
-      "Kabupaten Pamekasan",
-      "Kabupaten Bondowoso"
+      "Kopi Cethe",
+      "Malang Tempo Doeloe",
+      "Karapan Sapi",
+      "Kesenian Besutan"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Karapan Sapi termasuk warisan budaya Kabupaten Pamekasan. Karapan Sapi berasal dari tradisi Madura yang menempatkan sapi sebagai bagian dari kebanggaan, ketangkasan, dan perayaan masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Karapan Sapi",
+    "explanation": "Karapan Sapi termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Karapan Sapi berasal dari tradisi Madura yang menempatkan sapi sebagai bagian dari kebanggaan, ketangkasan, dan perayaan masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-pamekasan-heritage-rokat-tase",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Rokat Tase merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kabupaten Pamekasan",
-      "Kabupaten Situbondo",
-      "Kota Kediri"
+      "Jaranan Kediri",
+      "Rokat Tase",
+      "Gajah Gajahan",
+      "Janger"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Rokat Tase termasuk warisan budaya Kabupaten Pamekasan. Rokat Tase adalah tradisi komunal Kabupaten Pamekasan yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Rokat Tase",
+    "explanation": "Rokat Tase termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Rokat Tase adalah tradisi komunal Kabupaten Pamekasan yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-pamekasan-food-campor",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Campor dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Pamekasan?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kabupaten Pamekasan"
+      "Nasi Krawu",
+      "Nasi Serpang",
+      "Onde Onde Mojokerto",
+      "Campor"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Campor termasuk kuliner Kabupaten Pamekasan. Campor adalah bagian dari kuliner lokal Pamekasan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Campor",
+    "explanation": "Campor termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Campor adalah bagian dari kuliner lokal Pamekasan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-pamekasan-food-jamu-ramuan-pamekasan",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Jamu Ramuan Pamekasan dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Pamekasan?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kabupaten Pamekasan",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi"
+      "Soto Sabreng",
+      "Jamu Ramuan Pamekasan",
+      "Sego Empok",
+      "Soto Ayam Prolink"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Jamu Ramuan Pamekasan termasuk kuliner Kabupaten Pamekasan. Jamu Ramuan Pamekasan adalah bagian dari kuliner lokal Pamekasan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Jamu Ramuan Pamekasan",
+    "explanation": "Jamu Ramuan Pamekasan termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Jamu Ramuan Pamekasan adalah bagian dari kuliner lokal Pamekasan, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-pamekasan-destination-api-tak-kunjung",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Api Tak Kunjung berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Pamekasan?",
     "options": [
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Pamekasan"
+      "Vihara Avalokitesvara",
+      "Wisata Payung Madinah",
+      "Air Terjun Kapas Biru",
+      "Api Tak Kunjung"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Api Tak Kunjung termasuk destinasi Kabupaten Pamekasan. Api Tak Kunjung adalah tujuan kunjungan di Kabupaten Pamekasan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Api Tak Kunjung",
+    "explanation": "Api Tak Kunjung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Api Tak Kunjung adalah tujuan kunjungan di Kabupaten Pamekasan, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-pamekasan-destination-bukit-brukoh",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Bukit Brukoh berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Pamekasan?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Pamekasan",
-      "Kota Malang"
+      "Bukit Cumbri",
+      "Candi Lor",
+      "Bukit Brukoh",
+      "Banyu Tibo"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Bukit Brukoh termasuk destinasi Kabupaten Pamekasan. Bukit Brukoh menampilkan lanskap alam Kabupaten Pamekasan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pamekasan.",
-    "difficulty": "easy"
+    "correctAnswer": "Bukit Brukoh",
+    "explanation": "Bukit Brukoh termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Bukit Brukoh menampilkan lanskap alam Kabupaten Pamekasan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pamekasan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-pamekasan-batik-batik-podhek",
     "regionSlug": "kabupaten-pamekasan",
-    "question": "Batik Podhek merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Pamekasan?",
     "options": [
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Pamekasan",
-      "Kota Batu"
+      "Batik Sekarjati",
+      "Batik Damar Kurung",
+      "Batik Podhek",
+      "Batik Mojokerto"
     ],
-    "correctAnswer": "Kabupaten Pamekasan",
-    "explanation": "Batik Podhek termasuk motif batik Kabupaten Pamekasan. Batik Podhek memperkenalkan bahasa visual batik Kabupaten Pamekasan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pamekasan.",
+    "correctAnswer": "Batik Podhek",
+    "explanation": "Batik Podhek termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Pamekasan. Batik Podhek memperkenalkan bahasa visual batik Kabupaten Pamekasan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pamekasan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-pasuruan-heritage-tradisi-praon",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Tradisi Praon merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto",
-      "Kabupaten Pasuruan"
+      "Tari Mojoputri",
+      "Tari Topeng Kaliwungu",
+      "Topeng Getak",
+      "Tradisi Praon"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Tradisi Praon termasuk warisan budaya Kabupaten Pasuruan. Tradisi Praon hidup dalam lanskap budaya Kabupaten Pasuruan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Tradisi Praon",
+    "explanation": "Tradisi Praon termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Tradisi Praon hidup dalam lanskap budaya Kabupaten Pasuruan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-pasuruan-heritage-upacara-adat-karo",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Upacara Adat Karo merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan?",
     "options": [
-      "Kabupaten Pasuruan",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar"
+      "Upacara Adat Karo",
+      "Candi Penataran",
+      "Festival Rujak Uleg",
+      "Grebeg Tape"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Upacara Adat Karo termasuk warisan budaya Kabupaten Pasuruan. Upacara Adat Karo berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
-    "difficulty": "medium"
+    "correctAnswer": "Upacara Adat Karo",
+    "explanation": "Upacara Adat Karo termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Upacara Adat Karo berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-pasuruan-food-bipang-jangkar",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Bipang Jangkar dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Pasuruan?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk",
-      "Kabupaten Pasuruan"
+      "Lontong Cecek",
+      "Mendol Tempe",
+      "Nasi Glepung",
+      "Bipang Jangkar"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Bipang Jangkar termasuk kuliner Kabupaten Pasuruan. Bipang Jangkar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
-    "difficulty": "easy"
+    "correctAnswer": "Bipang Jangkar",
+    "explanation": "Bipang Jangkar termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Bipang Jangkar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-pasuruan-food-klepon-bulusari",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Klepon Bulusari dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Pasuruan?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Pasuruan",
-      "Kabupaten Trenggalek"
+      "Strundel Batu",
+      "Tahu Takwa",
+      "Klepon Bulusari",
+      "Soto Kraksaan"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Klepon Bulusari termasuk kuliner Kabupaten Pasuruan. Klepon Bulusari adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
-    "difficulty": "easy"
+    "correctAnswer": "Klepon Bulusari",
+    "explanation": "Klepon Bulusari termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Klepon Bulusari adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-pasuruan-destination-air-terjun-madakaripura",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Air Terjun Madakaripura berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Pasuruan?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk",
-      "Kabupaten Pasuruan"
+      "Pantai Dalegan",
+      "Pantai Kuyon",
+      "Pantai Permata Pilang",
+      "Air Terjun Madakaripura"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Air Terjun Madakaripura termasuk destinasi Kabupaten Pasuruan. Air Terjun Madakaripura menampilkan lanskap alam Kabupaten Pasuruan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pasuruan.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Madakaripura",
+    "explanation": "Air Terjun Madakaripura termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Air Terjun Madakaripura menampilkan lanskap alam Kabupaten Pasuruan, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Pasuruan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-pasuruan-destination-candi-jawi",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Candi Jawi berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Pasuruan?",
     "options": [
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Pasuruan",
-      "Kabupaten Sidoarjo"
+      "Candi Pari",
+      "Candi Tegowangi",
+      "Candi Jawi",
+      "Bukit Cumbri"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Candi Jawi termasuk destinasi Kabupaten Pasuruan. Candi Jawi menyimpan jejak sejarah Kabupaten Pasuruan, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Jawi",
+    "explanation": "Candi Jawi termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Candi Jawi menyimpan jejak sejarah Kabupaten Pasuruan, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-pasuruan-batik-batik-pasuruan",
     "regionSlug": "kabupaten-pasuruan",
-    "question": "Batik Pasuruan merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Pasuruan?",
     "options": [
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kabupaten Pasuruan",
-      "Kabupaten Blitar"
+      "Batik Sampang",
+      "Batik Blitar",
+      "Batik Pasuruan",
+      "Batik Merak"
     ],
-    "correctAnswer": "Kabupaten Pasuruan",
-    "explanation": "Batik Pasuruan termasuk motif batik Kabupaten Pasuruan. Batik Pasuruan memperkenalkan bahasa visual batik Kabupaten Pasuruan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pasuruan.",
+    "correctAnswer": "Batik Pasuruan",
+    "explanation": "Batik Pasuruan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Pasuruan. Batik Pasuruan memperkenalkan bahasa visual batik Kabupaten Pasuruan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pasuruan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-ponorogo-heritage-grebeg-suro",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Grebeg Suro merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Trenggalek",
-      "Kota Malang",
-      "Kabupaten Blitar"
+      "Grebeg Suro",
+      "Grebeg Tape",
+      "Jaranan Eklek",
+      "Jaranan Slining"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Grebeg Suro termasuk warisan budaya Kabupaten Ponorogo. Grebeg Suro adalah tradisi komunal Kabupaten Ponorogo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Grebeg Suro",
+    "explanation": "Grebeg Suro termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Grebeg Suro adalah tradisi komunal Kabupaten Ponorogo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-ponorogo-heritage-gajah-gajahan",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Gajah Gajahan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Jember",
-      "Kabupaten Malang",
-      "Kabupaten Probolinggo"
+      "Gajah Gajahan",
+      "Batik Manggur",
+      "Batik Pasuruan",
+      "Batik Sumenep"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Gajah Gajahan termasuk warisan budaya Kabupaten Ponorogo. Gajah Gajahan hidup dalam lanskap budaya Kabupaten Ponorogo, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Gajah Gajahan",
+    "explanation": "Gajah Gajahan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Gajah Gajahan hidup dalam lanskap budaya Kabupaten Ponorogo, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-ponorogo-food-dawet-jabung",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Dawet Jabung dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kabupaten Pamekasan"
+      "Dawet Jabung",
+      "Rujak Soto",
+      "Sate Bekicot",
+      "Sate Lalat"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Dawet Jabung termasuk kuliner Kabupaten Ponorogo. Dawet Jabung adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Ponorogo.",
-    "difficulty": "easy"
+    "correctAnswer": "Dawet Jabung",
+    "explanation": "Dawet Jabung termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Dawet Jabung adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Ponorogo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-ponorogo-food-garang-asem",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Garang Asem dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto",
-      "Kabupaten Ponorogo",
-      "Kabupaten Bangkalan"
+      "Bandeng Presto",
+      "Bipang Jangkar",
+      "Garang Asem",
+      "Ayam Panggang Bledug"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Garang Asem termasuk kuliner Kabupaten Ponorogo. Garang Asem memperlihatkan olahan rumahan dan warung tradisional Ponorogo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Garang Asem",
+    "explanation": "Garang Asem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Garang Asem memperlihatkan olahan rumahan dan warung tradisional Ponorogo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-ponorogo-destination-air-terjun-sunggah",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Air Terjun Sunggah berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Pamekasan",
-      "Kabupaten Trenggalek",
-      "Kabupaten Ponorogo",
-      "Kabupaten Madiun"
+      "Jatim Park 3",
+      "Kampung Mebel Bukir",
+      "Air Terjun Sunggah",
+      "Gua Lebar"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Air Terjun Sunggah termasuk destinasi Kabupaten Ponorogo. Air Terjun Sunggah menampilkan lanskap alam Kabupaten Ponorogo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ponorogo.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Sunggah",
+    "explanation": "Air Terjun Sunggah termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Air Terjun Sunggah menampilkan lanskap alam Kabupaten Ponorogo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ponorogo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-ponorogo-destination-bukit-cumbri",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Bukit Cumbri berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kabupaten Situbondo",
-      "Kabupaten Ponorogo"
+      "Candi Penataran",
+      "Cangar",
+      "Dermaga Rindu",
+      "Bukit Cumbri"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Bukit Cumbri termasuk destinasi Kabupaten Ponorogo. Bukit Cumbri menampilkan lanskap alam Kabupaten Ponorogo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ponorogo.",
-    "difficulty": "easy"
+    "correctAnswer": "Bukit Cumbri",
+    "explanation": "Bukit Cumbri termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Bukit Cumbri menampilkan lanskap alam Kabupaten Ponorogo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Ponorogo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-ponorogo-batik-batik-merak",
     "regionSlug": "kabupaten-ponorogo",
-    "question": "Batik Merak merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Ponorogo?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Ponorogo",
-      "Kabupaten Trenggalek",
-      "Kota Malang"
+      "Batik Sekarjati",
+      "Batik Merak",
+      "Batik Magetan",
+      "Batik Nganjuk"
     ],
-    "correctAnswer": "Kabupaten Ponorogo",
-    "explanation": "Batik Merak termasuk motif batik Kabupaten Ponorogo. Batik Merak memperkenalkan bahasa visual batik Kabupaten Ponorogo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Ponorogo.",
+    "correctAnswer": "Batik Merak",
+    "explanation": "Batik Merak termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Ponorogo. Batik Merak memperkenalkan bahasa visual batik Kabupaten Ponorogo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Ponorogo.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-probolinggo-heritage-kasada",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Kasada merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kabupaten Sampang",
-      "Kabupaten Probolinggo",
-      "Kabupaten Jombang"
+      "Ojhung",
+      "Petik Laut",
+      "Kasada",
+      "Malang Tempo Doeloe"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Kasada termasuk warisan budaya Kabupaten Probolinggo. Kasada berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
-    "difficulty": "medium"
+    "correctAnswer": "Kasada",
+    "explanation": "Kasada termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Kasada berkaitan dengan tradisi masyarakat Tengger di kawasan Bromo, berisi doa, persembahan, dan penghormatan pada warisan leluhur.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-probolinggo-heritage-petik-laut",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Petik Laut merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo?",
     "options": [
-      "Kabupaten Sampang",
-      "Kabupaten Probolinggo",
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto"
+      "Malang Tempo Doeloe",
+      "Petik Laut",
+      "Kesenian Besutan",
+      "Kopi Cethe"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Petik Laut termasuk warisan budaya Kabupaten Probolinggo. Petik Laut adalah tradisi komunal Kabupaten Probolinggo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Petik Laut",
+    "explanation": "Petik Laut termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Petik Laut adalah tradisi komunal Kabupaten Probolinggo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-probolinggo-food-ikan-asap",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Ikan Asap dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Probolinggo?",
     "options": [
-      "Kabupaten Malang",
-      "Kabupaten Ponorogo",
-      "Kabupaten Tulungagung",
-      "Kabupaten Probolinggo"
+      "Nasi Mamong",
+      "Nasi Tiwul",
+      "Otak Otak Bandeng",
+      "Ikan Asap"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Ikan Asap termasuk kuliner Kabupaten Probolinggo. Ikan Asap memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Probolinggo.",
-    "difficulty": "easy"
+    "correctAnswer": "Ikan Asap",
+    "explanation": "Ikan Asap termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Ikan Asap memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Probolinggo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-probolinggo-food-ketan-kratok",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Ketan Kratok dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Probolinggo?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Blitar",
-      "Kabupaten Probolinggo",
-      "Kabupaten Nganjuk"
+      "Kue Ladu",
+      "Lethok",
+      "Ketan Kratok",
+      "Keripik Buah"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Ketan Kratok termasuk kuliner Kabupaten Probolinggo. Ketan Kratok adalah bagian dari kuliner lokal Probolinggo, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Ketan Kratok",
+    "explanation": "Ketan Kratok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Ketan Kratok adalah bagian dari kuliner lokal Probolinggo, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-probolinggo-destination-bermi-echo-park",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Bermi Echo Park berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Probolinggo?",
     "options": [
-      "Kabupaten Probolinggo",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri"
+      "Bermi Echo Park",
+      "Tanah Goyang",
+      "Tugu Malang",
+      "Watu Rumpuk"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Bermi Echo Park termasuk destinasi Kabupaten Probolinggo. Bermi Echo Park adalah tujuan kunjungan di Kabupaten Probolinggo, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bermi Echo Park",
+    "explanation": "Bermi Echo Park termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Bermi Echo Park adalah tujuan kunjungan di Kabupaten Probolinggo, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-probolinggo-destination-danau-ranu-agung",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Danau Ranu Agung berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Probolinggo?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Probolinggo"
+      "Makam Ratu Ibu",
+      "Museum Airlangga",
+      "Padusan",
+      "Danau Ranu Agung"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Danau Ranu Agung termasuk destinasi Kabupaten Probolinggo. Danau Ranu Agung menampilkan lanskap alam Kabupaten Probolinggo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Probolinggo.",
-    "difficulty": "easy"
+    "correctAnswer": "Danau Ranu Agung",
+    "explanation": "Danau Ranu Agung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Danau Ranu Agung menampilkan lanskap alam Kabupaten Probolinggo, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Probolinggo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-probolinggo-batik-batik-manggur",
     "regionSlug": "kabupaten-probolinggo",
-    "question": "Batik Manggur merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Probolinggo?",
     "options": [
-      "Kabupaten Gresik",
-      "Kabupaten Magetan",
-      "Kabupaten Pasuruan",
-      "Kabupaten Probolinggo"
+      "Batik Nganjuk",
+      "Batik Sekarjati",
+      "Batik Damar Kurung",
+      "Batik Manggur"
     ],
-    "correctAnswer": "Kabupaten Probolinggo",
-    "explanation": "Batik Manggur termasuk motif batik Kabupaten Probolinggo. Batik Manggur memperkenalkan bahasa visual batik Kabupaten Probolinggo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Probolinggo.",
+    "correctAnswer": "Batik Manggur",
+    "explanation": "Batik Manggur termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Probolinggo. Batik Manggur memperkenalkan bahasa visual batik Kabupaten Probolinggo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Probolinggo.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-sampang-heritage-rokat-tase",
     "regionSlug": "kabupaten-sampang",
-    "question": "Rokat Tase merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sampang?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kabupaten Sampang",
-      "Kabupaten Situbondo",
-      "Kota Kediri"
+      "Jaran Bodhag",
+      "Rokat Tase",
+      "Damar Kurung",
+      "Gandrung Banyuwangi"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Rokat Tase termasuk warisan budaya Kabupaten Sampang. Rokat Tase adalah tradisi komunal Kabupaten Sampang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Rokat Tase",
+    "explanation": "Rokat Tase termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Rokat Tase adalah tradisi komunal Kabupaten Sampang yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-sampang-heritage-daul-dug-dug",
     "regionSlug": "kabupaten-sampang",
-    "question": "Daul Dug Dug merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sampang?",
     "options": [
-      "Kabupaten Sampang",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar"
+      "Daul Dug Dug",
+      "JFC",
+      "Kesenian Bantengan",
+      "Kirab Grebeg Pancasila"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Daul Dug Dug termasuk warisan budaya Kabupaten Sampang. Daul Dug Dug memperlihatkan tradisi musik rakyat Kabupaten Sampang, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
-    "difficulty": "medium"
+    "correctAnswer": "Daul Dug Dug",
+    "explanation": "Daul Dug Dug termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Daul Dug Dug memperlihatkan tradisi musik rakyat Kabupaten Sampang, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-sampang-food-bebek-songkem",
     "regionSlug": "kabupaten-sampang",
-    "question": "Bebek Songkem dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Sampang?",
     "options": [
-      "Kabupaten Kediri",
-      "Kabupaten Sampang",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi"
+      "Soto Kraksaan",
+      "Bebek Songkem",
+      "Sate Ponorogo",
+      "Sego Kelor"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Bebek Songkem termasuk kuliner Kabupaten Sampang. Bebek Songkem menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
-    "difficulty": "easy"
+    "correctAnswer": "Bebek Songkem",
+    "explanation": "Bebek Songkem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Bebek Songkem menonjolkan olahan bebek berbumbu kuat, digoreng atau dikukus hingga empuk, lalu disajikan dengan sambal dan nasi hangat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-sampang-food-campor-lorjuk",
     "regionSlug": "kabupaten-sampang",
-    "question": "Campor Lorjuk dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Sampang?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Sampang",
-      "Kota Blitar",
-      "Kota Surabaya"
+      "Nasi Jhong",
+      "Campor Lorjuk",
+      "Lorjuk",
+      "Nasi Becek"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Campor Lorjuk termasuk kuliner Kabupaten Sampang. Campor Lorjuk memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Sampang.",
-    "difficulty": "easy"
+    "correctAnswer": "Campor Lorjuk",
+    "explanation": "Campor Lorjuk termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Campor Lorjuk memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Sampang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-sampang-destination-aire-terjun-toroan",
     "regionSlug": "kabupaten-sampang",
-    "question": "Aire Terjun Toroan berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Sampang?",
     "options": [
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Sampang"
+      "Candi Tawangalun",
+      "Danau Ranu Agung",
+      "Gereja Merah",
+      "Aire Terjun Toroan"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Aire Terjun Toroan termasuk destinasi Kabupaten Sampang. Aire Terjun Toroan adalah tujuan kunjungan di Kabupaten Sampang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Aire Terjun Toroan",
+    "explanation": "Aire Terjun Toroan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Aire Terjun Toroan adalah tujuan kunjungan di Kabupaten Sampang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-sampang-destination-gua-lebar",
     "regionSlug": "kabupaten-sampang",
-    "question": "Gua Lebar berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Sampang?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Sampang",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang"
+      "Pantai Lombang",
+      "Gua Lebar",
+      "Museum Trinil",
+      "Pantai Gemah"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Gua Lebar termasuk destinasi Kabupaten Sampang. Gua Lebar menampilkan lanskap alam Kabupaten Sampang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sampang.",
-    "difficulty": "easy"
+    "correctAnswer": "Gua Lebar",
+    "explanation": "Gua Lebar termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Gua Lebar menampilkan lanskap alam Kabupaten Sampang, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sampang.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-sampang-batik-batik-sampang",
     "regionSlug": "kabupaten-sampang",
-    "question": "Batik Sampang merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Sampang?",
     "options": [
-      "Kabupaten Pamekasan",
-      "Kabupaten Trenggalek",
-      "Kabupaten Sampang",
-      "Kabupaten Madiun"
+      "Batik Mojokerto",
+      "Batik Sekarjati",
+      "Batik Sampang",
+      "Batik Magetan"
     ],
-    "correctAnswer": "Kabupaten Sampang",
-    "explanation": "Batik Sampang termasuk motif batik Kabupaten Sampang. Batik Sampang memperkenalkan bahasa visual batik Kabupaten Sampang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Sampang.",
+    "correctAnswer": "Batik Sampang",
+    "explanation": "Batik Sampang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Sampang. Batik Sampang memperkenalkan bahasa visual batik Kabupaten Sampang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Sampang.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-sidoarjo-heritage-nyadran",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Nyadran merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Tuban",
-      "Kota Mojokerto"
+      "Kerapan Sapi",
+      "Nyadran",
+      "Jaranan Eklek",
+      "Jaranan Slining"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Nyadran termasuk warisan budaya Kabupaten Sidoarjo. Nyadran adalah tradisi komunal Kabupaten Sidoarjo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Nyadran",
+    "explanation": "Nyadran termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Nyadran adalah tradisi komunal Kabupaten Sidoarjo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-sidoarjo-heritage-ruwat",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Ruwat merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Sumenep",
-      "Kota Madiun",
-      "Kabupaten Sidoarjo"
+      "Wayang Thengul",
+      "Batik Damar Kurung",
+      "Batik Kediri",
+      "Ruwat"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Ruwat termasuk warisan budaya Kabupaten Sidoarjo. Ruwat adalah tradisi komunal Kabupaten Sidoarjo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Ruwat",
+    "explanation": "Ruwat termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Ruwat adalah tradisi komunal Kabupaten Sidoarjo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-sidoarjo-food-bandeng-presto",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Bandeng Presto dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Sidoarjo?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Sumenep",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Lumajang"
+      "Onde Onde Jeblos",
+      "Pecel Korek",
+      "Bandeng Presto",
+      "Nasi Punel Bangil"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Bandeng Presto termasuk kuliner Kabupaten Sidoarjo. Bandeng Presto memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Sidoarjo.",
-    "difficulty": "easy"
+    "correctAnswer": "Bandeng Presto",
+    "explanation": "Bandeng Presto termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Bandeng Presto memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Sidoarjo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-sidoarjo-food-lontong-cecek",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Lontong Cecek dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Sidoarjo?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang",
-      "Kota Blitar"
+      "Lontong Cecek",
+      "Soto Pacitan",
+      "Suwar Suwir",
+      "Tajin Palappa"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Lontong Cecek termasuk kuliner Kabupaten Sidoarjo. Lontong Cecek memperlihatkan olahan rumahan dan warung tradisional Sidoarjo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Lontong Cecek",
+    "explanation": "Lontong Cecek termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Lontong Cecek memperlihatkan olahan rumahan dan warung tradisional Sidoarjo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-sidoarjo-destination-candi-pari",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Candi Pari berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Sidoarjo?",
     "options": [
-      "Kabupaten Sumenep",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Lumajang",
-      "Kabupaten Pacitan"
+      "Vihara Avalokitesvara",
+      "Candi Pari",
+      "Taman Sekargadung",
+      "Telaga Sarangan"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Candi Pari termasuk destinasi Kabupaten Sidoarjo. Candi Pari menyimpan jejak sejarah Kabupaten Sidoarjo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Pari",
+    "explanation": "Candi Pari termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Candi Pari menyimpan jejak sejarah Kabupaten Sidoarjo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-sidoarjo-destination-candi-sumur",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Candi Sumur berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Sidoarjo?",
     "options": [
-      "Kabupaten Lamongan",
-      "Kabupaten Sidoarjo",
-      "Kota Malang",
-      "Kabupaten Blitar"
+      "Kampung Kerapu",
+      "Candi Sumur",
+      "Gua Gong",
+      "Jatim Park 2"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Candi Sumur termasuk destinasi Kabupaten Sidoarjo. Candi Sumur menyimpan jejak sejarah Kabupaten Sidoarjo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Candi Sumur",
+    "explanation": "Candi Sumur termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Candi Sumur menyimpan jejak sejarah Kabupaten Sidoarjo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-sidoarjo-batik-batik-jetis",
     "regionSlug": "kabupaten-sidoarjo",
-    "question": "Batik Jetis merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Sidoarjo?",
     "options": [
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Tuban"
+      "Batik Nganjuk",
+      "Batik Sekarjati",
+      "Batik Jetis",
+      "Batik Malang"
     ],
-    "correctAnswer": "Kabupaten Sidoarjo",
-    "explanation": "Batik Jetis termasuk motif batik Kabupaten Sidoarjo. Batik Jetis terkait dengan Kampung Batik Jetis Sidoarjo, salah satu pusat batik lokal yang berkembang di kawasan delta.",
+    "correctAnswer": "Batik Jetis",
+    "explanation": "Batik Jetis termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Sidoarjo. Batik Jetis terkait dengan Kampung Batik Jetis Sidoarjo, salah satu pusat batik lokal yang berkembang di kawasan delta.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-situbondo-heritage-ojhung",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Ojhung merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Kediri",
-      "Kabupaten Bangkalan",
-      "Kabupaten Situbondo"
+      "Daul Dug Dug",
+      "Grebeg Suro",
+      "Jaran Bodhag",
+      "Ojhung"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Ojhung termasuk warisan budaya Kabupaten Situbondo. Ojhung adalah seni pertunjukan rakyat Kabupaten Situbondo yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
-    "difficulty": "medium"
+    "correctAnswer": "Ojhung",
+    "explanation": "Ojhung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Ojhung adalah seni pertunjukan rakyat Kabupaten Situbondo yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-situbondo-heritage-tari-landhung",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Tari Landhung merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kabupaten Situbondo",
-      "Kota Pasuruan"
+      "Tari Muang Sangkal",
+      "Tari Topeng Malangan",
+      "Tari Landhung",
+      "Sorong Kasereng"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Tari Landhung termasuk warisan budaya Kabupaten Situbondo. Tari Landhung adalah seni tari Kabupaten Situbondo yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
-    "difficulty": "medium"
+    "correctAnswer": "Tari Landhung",
+    "explanation": "Tari Landhung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Tari Landhung adalah seni tari Kabupaten Situbondo yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-situbondo-food-bakso-lulur",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Bakso Lulur dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Situbondo?",
     "options": [
-      "Kabupaten Ngawi",
-      "Kabupaten Sidoarjo",
-      "Kabupaten Situbondo",
-      "Kabupaten Lamongan"
+      "Nasi Tiwul",
+      "Orem Orem",
+      "Bakso Lulur",
+      "Nasi Macan"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Bakso Lulur termasuk kuliner Kabupaten Situbondo. Bakso Lulur memperlihatkan olahan rumahan dan warung tradisional Situbondo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bakso Lulur",
+    "explanation": "Bakso Lulur termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Bakso Lulur memperlihatkan olahan rumahan dan warung tradisional Situbondo, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-situbondo-food-nasi-karak",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Nasi Karak dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Situbondo?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kabupaten Situbondo",
-      "Kabupaten Sidoarjo",
-      "Kota Kediri"
+      "Pecel Dhoho",
+      "Nasi Karak",
+      "Nasi Punel",
+      "Onde Onde Bo Liem"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Nasi Karak termasuk kuliner Kabupaten Situbondo. Nasi Karak adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Situbondo.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Karak",
+    "explanation": "Nasi Karak termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Nasi Karak adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Situbondo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-situbondo-destination-baluran",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Baluran berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Situbondo?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kota Mojokerto",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang"
+      "Baluran",
+      "Kota Tua",
+      "Makam Ratu Ibu",
+      "Museum Airlangga"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Baluran termasuk destinasi Kabupaten Situbondo. Baluran adalah tujuan kunjungan di Kabupaten Situbondo, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Baluran",
+    "explanation": "Baluran termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Baluran adalah tujuan kunjungan di Kabupaten Situbondo, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-situbondo-destination-kampung-kerapu",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Kampung Kerapu berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Situbondo?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo",
-      "Kota Batu",
-      "Kabupaten Situbondo"
+      "Pantai Kelapa",
+      "Pantai Pathek",
+      "Pantai Tambakrejo",
+      "Kampung Kerapu"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Kampung Kerapu termasuk destinasi Kabupaten Situbondo. Kampung Kerapu memberi pengalaman budaya di Kabupaten Situbondo, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Kampung Kerapu",
+    "explanation": "Kampung Kerapu termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Kampung Kerapu memberi pengalaman budaya di Kabupaten Situbondo, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-situbondo-batik-batik-situbondo",
     "regionSlug": "kabupaten-situbondo",
-    "question": "Batik Situbondo merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Situbondo?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kabupaten Situbondo",
-      "Kota Blitar"
+      "Batik Malang",
+      "Batik Nganjuk",
+      "Batik Situbondo",
+      "Batik Kediri"
     ],
-    "correctAnswer": "Kabupaten Situbondo",
-    "explanation": "Batik Situbondo termasuk motif batik Kabupaten Situbondo. Batik Situbondo memperkenalkan bahasa visual batik Kabupaten Situbondo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Situbondo.",
+    "correctAnswer": "Batik Situbondo",
+    "explanation": "Batik Situbondo termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Situbondo. Batik Situbondo memperkenalkan bahasa visual batik Kabupaten Situbondo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Situbondo.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-sumenep-heritage-tari-muang-sangkal",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Tari Muang Sangkal merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Sumenep"
+      "Tari Beskalan",
+      "Tari Orek Orek",
+      "Terbang Bandung",
+      "Tari Muang Sangkal"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Tari Muang Sangkal termasuk warisan budaya Kabupaten Sumenep. Tari Muang Sangkal adalah seni tari Kabupaten Sumenep yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
-    "difficulty": "medium"
+    "correctAnswer": "Tari Muang Sangkal",
+    "explanation": "Tari Muang Sangkal termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Tari Muang Sangkal adalah seni tari Kabupaten Sumenep yang menampilkan bahasa gerak, kostum, dan irama lokal sebagai identitas panggung daerah.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-sumenep-heritage-topeng-dalang",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Topeng Dalang merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kabupaten Sumenep",
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan"
+      "Jaranan Senterewe",
+      "Topeng Dalang",
+      "Grebeg Suro",
+      "Jaran Kencak"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Topeng Dalang termasuk warisan budaya Kabupaten Sumenep. Topeng Dalang menampilkan tradisi topeng dan kisah Panji, dengan karakter, gerak tari, dan musik yang hidup dalam budaya Sumenep.",
-    "difficulty": "medium"
+    "correctAnswer": "Topeng Dalang",
+    "explanation": "Topeng Dalang termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Topeng Dalang menampilkan tradisi topeng dan kisah Panji, dengan karakter, gerak tari, dan musik yang hidup dalam budaya Sumenep.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-sumenep-food-campor",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Campor dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Sumenep?",
     "options": [
-      "Kabupaten Kediri",
-      "Kabupaten Sumenep",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi"
+      "Soto Pacitan",
+      "Campor",
+      "Sayur Kalakan",
+      "Sego Rumo"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Campor termasuk kuliner Kabupaten Sumenep. Campor adalah bagian dari kuliner lokal Sumenep, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Campor",
+    "explanation": "Campor termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Campor adalah bagian dari kuliner lokal Sumenep, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-sumenep-food-kaldu-kokot",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Kaldu Kokot dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Sumenep?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Sumenep"
+      "Kupang Kraton",
+      "Lontong Cecek",
+      "Mendol Tempe",
+      "Kaldu Kokot"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Kaldu Kokot termasuk kuliner Kabupaten Sumenep. Kaldu Kokot adalah sup kaki sapi khas Madura dengan kuah gurih pekat, kacang hijau, dan rempah yang membuatnya mengenyangkan.",
-    "difficulty": "easy"
+    "correctAnswer": "Kaldu Kokot",
+    "explanation": "Kaldu Kokot termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Kaldu Kokot adalah sup kaki sapi khas Madura dengan kuah gurih pekat, kacang hijau, dan rempah yang membuatnya mengenyangkan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-sumenep-destination-gili-iyang",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Gili Iyang berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Sumenep?",
     "options": [
-      "Kabupaten Probolinggo",
-      "Kota Batu",
-      "Kota Probolinggo",
-      "Kabupaten Sumenep"
+      "Ranu Kumbolo",
+      "Sedudo Waterfall",
+      "Situs Duplang",
+      "Gili Iyang"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Gili Iyang termasuk destinasi Kabupaten Sumenep. Gili Iyang menampilkan lanskap alam Kabupaten Sumenep, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sumenep.",
-    "difficulty": "easy"
+    "correctAnswer": "Gili Iyang",
+    "explanation": "Gili Iyang termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Gili Iyang menampilkan lanskap alam Kabupaten Sumenep, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sumenep.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-sumenep-destination-gili-labak",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Gili Labak berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Sumenep?",
     "options": [
-      "Kabupaten Sumenep",
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Magetan"
+      "Gili Labak",
+      "Air Terjun Besuki",
+      "Air Terjun Seweru",
+      "Alas Kandung"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Gili Labak termasuk destinasi Kabupaten Sumenep. Gili Labak menampilkan lanskap alam Kabupaten Sumenep, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sumenep.",
-    "difficulty": "easy"
+    "correctAnswer": "Gili Labak",
+    "explanation": "Gili Labak termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Gili Labak menampilkan lanskap alam Kabupaten Sumenep, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Sumenep.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-sumenep-batik-batik-sumenep",
     "regionSlug": "kabupaten-sumenep",
-    "question": "Batik Sumenep merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Sumenep?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Kediri",
-      "Kabupaten Sumenep",
-      "Kabupaten Ngawi"
+      "Batik Batu",
+      "Batik Jombang",
+      "Batik Sumenep",
+      "Batik Pasuruan"
     ],
-    "correctAnswer": "Kabupaten Sumenep",
-    "explanation": "Batik Sumenep termasuk motif batik Kabupaten Sumenep. Batik Sumenep memperkenalkan bahasa visual batik Kabupaten Sumenep, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Sumenep.",
+    "correctAnswer": "Batik Sumenep",
+    "explanation": "Batik Sumenep termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Sumenep. Batik Sumenep memperkenalkan bahasa visual batik Kabupaten Sumenep, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Sumenep.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-trenggalek-heritage-dam-bagong",
     "regionSlug": "kabupaten-trenggalek",
-    "question": "Dam Bagong merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kabupaten Sidoarjo"
+      "Dam Bagong",
+      "Turonggo Yakso",
+      "Upacara Kasada",
+      "Bantengan Mojokerto"
     ],
-    "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Dam Bagong termasuk warisan budaya Kabupaten Trenggalek. Dam Bagong hidup dalam lanskap budaya Kabupaten Trenggalek, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Dam Bagong",
+    "explanation": "Dam Bagong termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek. Dam Bagong hidup dalam lanskap budaya Kabupaten Trenggalek, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-trenggalek-heritage-jaranan-senterewe",
     "regionSlug": "kabupaten-trenggalek",
-    "question": "Jaranan Senterewe merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek?",
     "options": [
-      "Kota Blitar",
-      "Kabupaten Trenggalek",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang"
+      "Bantengan Mojokerto",
+      "Jaranan Senterewe",
+      "Turonggo Yakso",
+      "Upacara Kasada"
     ],
-    "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Jaranan Senterewe termasuk warisan budaya Kabupaten Trenggalek. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Trenggalek, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Senterewe",
+    "explanation": "Jaranan Senterewe termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Trenggalek, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-trenggalek-food-ayam-lodho",
     "regionSlug": "kabupaten-trenggalek",
-    "question": "Ayam Lodho dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Trenggalek?",
     "options": [
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang",
-      "Kabupaten Pacitan",
-      "Kabupaten Trenggalek"
+      "Jenang Mirah",
+      "Keripik Melinjo",
+      "Kripik Talas",
+      "Ayam Lodho"
     ],
-    "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Ayam Lodho termasuk kuliner Kabupaten Trenggalek. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Trenggalek, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Ayam Lodho",
+    "explanation": "Ayam Lodho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Trenggalek, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-trenggalek-food-nasi-gegok",
     "regionSlug": "kabupaten-trenggalek",
-    "question": "Nasi Gegok dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Trenggalek?",
     "options": [
-      "Kabupaten Magetan",
-      "Kabupaten Trenggalek",
-      "Kota Probolinggo",
-      "Kabupaten Gresik"
+      "Nasi Serpang",
+      "Nasi Gegok",
+      "Nasi Glepung",
+      "Nasi Krawu"
     ],
-    "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Nasi Gegok termasuk kuliner Kabupaten Trenggalek. Nasi Gegok adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Trenggalek.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Gegok",
+    "explanation": "Nasi Gegok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek. Nasi Gegok adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Trenggalek.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-trenggalek-destination-goa-lowo",
     "regionSlug": "kabupaten-trenggalek",
-    "question": "Goa Lowo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Trenggalek?",
     "options": [
-      "Kabupaten Sampang",
-      "Kota Blitar",
-      "Kota Surabaya",
-      "Kabupaten Trenggalek"
+      "Benteng Van De Bosch",
+      "Bukit Jamur",
+      "Candi Penampihan",
+      "Goa Lowo"
     ],
-    "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Goa Lowo termasuk destinasi Kabupaten Trenggalek. Goa Lowo menampilkan lanskap alam Kabupaten Trenggalek, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Trenggalek.",
-    "difficulty": "easy"
+    "correctAnswer": "Goa Lowo",
+    "explanation": "Goa Lowo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek. Goa Lowo menampilkan lanskap alam Kabupaten Trenggalek, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Trenggalek.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-trenggalek-destination-pantai-kuyon",
     "regionSlug": "kabupaten-trenggalek",
-    "question": "Pantai Kuyon berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Trenggalek?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun"
+      "Pantai Kuyon",
+      "Pantai Tiga Warna",
+      "Pulau Bawean",
+      "Ranu Gumbolo"
     ],
-    "correctAnswer": "Kabupaten Trenggalek",
-    "explanation": "Pantai Kuyon termasuk destinasi Kabupaten Trenggalek. Pantai Kuyon menampilkan lanskap alam Kabupaten Trenggalek, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Trenggalek.",
-    "difficulty": "easy"
+    "correctAnswer": "Pantai Kuyon",
+    "explanation": "Pantai Kuyon termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Trenggalek. Pantai Kuyon menampilkan lanskap alam Kabupaten Trenggalek, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Trenggalek.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-culture-kabupaten-tuban-heritage-grebeg-tape",
     "regionSlug": "kabupaten-tuban",
-    "question": "Grebeg Tape merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tuban?",
     "options": [
-      "Kabupaten Tuban",
-      "Kabupaten Jombang",
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo"
+      "Grebeg Tape",
+      "Larung Sesaji",
+      "Musik Patrol",
+      "Parade Juang"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Grebeg Tape termasuk warisan budaya Kabupaten Tuban. Grebeg Tape adalah tradisi komunal Kabupaten Tuban yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Grebeg Tape",
+    "explanation": "Grebeg Tape termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Grebeg Tape adalah tradisi komunal Kabupaten Tuban yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-tuban-heritage-sandur",
     "regionSlug": "kabupaten-tuban",
-    "question": "Sandur merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tuban?",
     "options": [
-      "Kabupaten Tuban",
-      "Kabupaten Ngawi",
-      "Kabupaten Sidoarjo",
-      "Kota Kediri"
+      "Sandur",
+      "Festival Rujak Uleg",
+      "Grebeg Tape",
+      "Jaranan Eklek"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Sandur termasuk warisan budaya Kabupaten Tuban. Sandur adalah tradisi tutur atau pertunjukan rakyat yang membawa cerita, musik, dan pesan moral dalam ruang budaya Tuban.",
-    "difficulty": "medium"
+    "correctAnswer": "Sandur",
+    "explanation": "Sandur termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Sandur adalah tradisi tutur atau pertunjukan rakyat yang membawa cerita, musik, dan pesan moral dalam ruang budaya Tuban.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-tuban-food-ampo",
     "regionSlug": "kabupaten-tuban",
-    "question": "Ampo dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Tuban?",
     "options": [
-      "Kabupaten Situbondo",
-      "Kota Madiun",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Tuban"
+      "Dendeng Sapi",
+      "Getuk Golan",
+      "Jumbrek",
+      "Ampo"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Ampo termasuk kuliner Kabupaten Tuban. Ampo adalah bagian dari kuliner lokal Tuban, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Ampo",
+    "explanation": "Ampo termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Ampo adalah bagian dari kuliner lokal Tuban, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-tuban-food-becek-tuban",
     "regionSlug": "kabupaten-tuban",
-    "question": "Becek Tuban dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Tuban?",
     "options": [
-      "Kabupaten Sampang",
-      "Kabupaten Tuban",
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk"
+      "Kue Ledre",
+      "Becek Tuban",
+      "Jumbrek",
+      "Ketan Bubuk"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Becek Tuban termasuk kuliner Kabupaten Tuban. Becek Tuban adalah bagian dari kuliner lokal Tuban, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Becek Tuban",
+    "explanation": "Becek Tuban termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Becek Tuban adalah bagian dari kuliner lokal Tuban, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-tuban-destination-air-terjun-nglirip",
     "regionSlug": "kabupaten-tuban",
-    "question": "Air Terjun Nglirip berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Tuban?",
     "options": [
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Tuban"
+      "Bukit Salju",
+      "Candi Sawentar",
+      "Cimoryland",
+      "Air Terjun Nglirip"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Air Terjun Nglirip termasuk destinasi Kabupaten Tuban. Air Terjun Nglirip menampilkan lanskap alam Kabupaten Tuban, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Tuban.",
-    "difficulty": "easy"
+    "correctAnswer": "Air Terjun Nglirip",
+    "explanation": "Air Terjun Nglirip termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Air Terjun Nglirip menampilkan lanskap alam Kabupaten Tuban, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Tuban.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-tuban-destination-bektiharjo",
     "regionSlug": "kabupaten-tuban",
-    "question": "Bektiharjo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Tuban?",
     "options": [
-      "Kabupaten Jombang",
-      "Kabupaten Tuban",
-      "Kota Kediri",
-      "Kabupaten Bangkalan"
+      "Dander Waterpark",
+      "Bektiharjo",
+      "Candi Pari",
+      "Candi Tegowangi"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Bektiharjo termasuk destinasi Kabupaten Tuban. Bektiharjo adalah tujuan kunjungan di Kabupaten Tuban, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bektiharjo",
+    "explanation": "Bektiharjo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Bektiharjo adalah tujuan kunjungan di Kabupaten Tuban, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-tuban-batik-batik-tuban",
     "regionSlug": "kabupaten-tuban",
-    "question": "Batik Tuban merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Tuban?",
     "options": [
-      "Kabupaten Tuban",
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo",
-      "Kota Madiun"
+      "Batik Tuban",
+      "Batik Pasuruan",
+      "Batik Sumenep",
+      "Batik Jetis"
     ],
-    "correctAnswer": "Kabupaten Tuban",
-    "explanation": "Batik Tuban termasuk motif batik Kabupaten Tuban. Batik Tuban dekat dengan tradisi batik pesisir Tuban yang dikenal lewat warna bumi, motif flora-fauna, dan napas budaya pantura.",
+    "correctAnswer": "Batik Tuban",
+    "explanation": "Batik Tuban termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Tuban. Batik Tuban dekat dengan tradisi batik pesisir Tuban yang dikenal lewat warna bumi, motif flora-fauna, dan napas budaya pantura.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-tulungagung-heritage-ulur-ulur",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Ulur Ulur merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung?",
     "options": [
-      "Kota Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kabupaten Probolinggo",
-      "Kota Batu"
+      "Batik Ngawi",
+      "Ulur Ulur",
+      "Batik Kintir Kintir",
+      "Batik Malang"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Ulur Ulur termasuk warisan budaya Kabupaten Tulungagung. Ulur Ulur hidup dalam lanskap budaya Kabupaten Tulungagung, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Ulur Ulur",
+    "explanation": "Ulur Ulur termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Ulur Ulur hidup dalam lanskap budaya Kabupaten Tulungagung, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kabupaten-tulungagung-heritage-jaranan-senterewe",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Jaranan Senterewe merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban",
-      "Kabupaten Tulungagung",
-      "Kabupaten Malang"
+      "Gandrung Banyuwangi",
+      "Jaran Bodhag",
+      "Jaranan Senterewe",
+      "Damar Kurung"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Jaranan Senterewe termasuk warisan budaya Kabupaten Tulungagung. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Tulungagung, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Senterewe",
+    "explanation": "Jaranan Senterewe termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Jaranan Senterewe adalah seni kuda kepang yang berkembang di Tulungagung, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kabupaten-tulungagung-food-ayam-lodho",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Ayam Lodho dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Tulungagung?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Tulungagung",
-      "Kota Malang"
+      "Jenang Mirah",
+      "Keripik Melinjo",
+      "Ayam Lodho",
+      "Garang Asem"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Ayam Lodho termasuk kuliner Kabupaten Tulungagung. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Tulungagung, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Ayam Lodho",
+    "explanation": "Ayam Lodho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Ayam Lodho memperlihatkan olahan rumahan dan warung tradisional Tulungagung, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kabupaten-tulungagung-food-enting-gepuk",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Enting Gepuk dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kabupaten Tulungagung?",
     "options": [
-      "Kota Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kabupaten Probolinggo",
-      "Kota Batu"
+      "Suwar Suwir",
+      "Enting Gepuk",
+      "Sego Rumo",
+      "Soto Pacitan"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Enting Gepuk termasuk kuliner Kabupaten Tulungagung. Enting Gepuk adalah bagian dari kuliner lokal Tulungagung, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Enting Gepuk",
+    "explanation": "Enting Gepuk termasuk kuliner yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Enting Gepuk adalah bagian dari kuliner lokal Tulungagung, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-tulungagung-destination-agro-wilis",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Agro Wilis berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Tulungagung?",
     "options": [
-      "Kota Batu",
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kabupaten Tulungagung"
+      "Air Terjun Pengantin",
+      "Akar Langit",
+      "Bantaran Brantas Park",
+      "Agro Wilis"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Agro Wilis termasuk destinasi Kabupaten Tulungagung. Agro Wilis adalah tujuan kunjungan di Kabupaten Tulungagung, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Agro Wilis",
+    "explanation": "Agro Wilis termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Agro Wilis adalah tujuan kunjungan di Kabupaten Tulungagung, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kabupaten-tulungagung-destination-alas-kandung",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Alas Kandung berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kabupaten Tulungagung?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kabupaten Pamekasan",
-      "Kabupaten Tulungagung"
+      "Bukit Salju",
+      "Candi Sawentar",
+      "Cimoryland",
+      "Alas Kandung"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Alas Kandung termasuk destinasi Kabupaten Tulungagung. Alas Kandung adalah tujuan kunjungan di Kabupaten Tulungagung, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Alas Kandung",
+    "explanation": "Alas Kandung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Alas Kandung adalah tujuan kunjungan di Kabupaten Tulungagung, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kabupaten-tulungagung-batik-batik-gajah-mada",
     "regionSlug": "kabupaten-tulungagung",
-    "question": "Batik Gajah Mada merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kabupaten Tulungagung?",
     "options": [
-      "Kabupaten Tulungagung",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang",
-      "Kota Blitar"
+      "Batik Gajah Mada",
+      "Batik Manggur",
+      "Batik Pasuruan",
+      "Batik Sumenep"
     ],
-    "correctAnswer": "Kabupaten Tulungagung",
-    "explanation": "Batik Gajah Mada termasuk motif batik Kabupaten Tulungagung. Batik Gajah Mada memperkenalkan bahasa visual batik Kabupaten Tulungagung, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Tulungagung.",
+    "correctAnswer": "Batik Gajah Mada",
+    "explanation": "Batik Gajah Mada termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kabupaten Tulungagung. Batik Gajah Mada memperkenalkan bahasa visual batik Kabupaten Tulungagung, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Tulungagung.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-batu-heritage-upacara-bersih-desa",
     "regionSlug": "kota-batu",
-    "question": "Upacara Bersih Desa merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Batu?",
     "options": [
-      "Kota Surabaya",
-      "Kabupaten Jember",
-      "Kota Batu",
-      "Kota Blitar"
+      "Purnama Seruling",
+      "Reyog Kendang",
+      "Upacara Bersih Desa",
+      "Parade Juang"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "Upacara Bersih Desa termasuk warisan budaya Kota Batu. Upacara Bersih Desa adalah tradisi komunal Kota Batu yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Upacara Bersih Desa",
+    "explanation": "Upacara Bersih Desa termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Batu. Upacara Bersih Desa adalah tradisi komunal Kota Batu yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-batu-heritage-bantengan",
     "regionSlug": "kota-batu",
-    "question": "Bantengan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Batu?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kota Batu",
-      "Kabupaten Tuban",
-      "Kota Pasuruan"
+      "Wayang Beber",
+      "Bantengan",
+      "Topeng Kona",
+      "Ulur Ulur"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "Bantengan termasuk warisan budaya Kota Batu. Bantengan adalah seni pertunjukan rakyat Kota Batu yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
-    "difficulty": "medium"
+    "correctAnswer": "Bantengan",
+    "explanation": "Bantengan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Batu. Bantengan adalah seni pertunjukan rakyat Kota Batu yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-batu-food-cwie-mie",
     "regionSlug": "kota-batu",
-    "question": "Cwie Mie dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Batu?",
     "options": [
-      "Kota Batu",
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang"
+      "Cwie Mie",
+      "Bubur Sruntul",
+      "Dawet Siwalan",
+      "Gethuk Lindri"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "Cwie Mie termasuk kuliner Kota Batu. Cwie Mie adalah bagian dari kuliner lokal Batu, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Cwie Mie",
+    "explanation": "Cwie Mie termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Batu. Cwie Mie adalah bagian dari kuliner lokal Batu, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-batu-food-keripik-buah",
     "regionSlug": "kota-batu",
-    "question": "Keripik Buah dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Batu?",
     "options": [
-      "Kabupaten Magetan",
-      "Kabupaten Pasuruan",
-      "Kota Batu",
-      "Kabupaten Gresik"
+      "Tiwul Goreng",
+      "Ayam Lodho",
+      "Keripik Buah",
+      "Tajin Palappa"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "Keripik Buah termasuk kuliner Kota Batu. Keripik Buah mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Batu.",
-    "difficulty": "easy"
+    "correctAnswer": "Keripik Buah",
+    "explanation": "Keripik Buah termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Batu. Keripik Buah mengolah hasil pertanian lokal menjadi camilan ringan, sehingga mudah dibawa sebagai buah tangan dari Batu.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-batu-destination-bns",
     "regionSlug": "kota-batu",
-    "question": "BNS berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Batu?",
     "options": [
-      "Kabupaten Blitar",
-      "Kota Batu",
-      "Kabupaten Sumenep",
-      "Kota Malang"
+      "Sumber Sirah",
+      "BNS",
+      "Sendang Duwur",
+      "Situs Megalitikum"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "BNS termasuk destinasi Kota Batu. BNS adalah tujuan kunjungan di Kota Batu, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "BNS",
+    "explanation": "BNS termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Batu. BNS adalah tujuan kunjungan di Kota Batu, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-batu-destination-cangar",
     "regionSlug": "kota-batu",
-    "question": "Cangar berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Batu?",
     "options": [
-      "Kota Batu",
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kabupaten Pamekasan"
+      "Cangar",
+      "Goa Tabuhan",
+      "Jatim Park 1",
+      "Kampung Batik Jetis"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "Cangar termasuk destinasi Kota Batu. Cangar adalah tujuan kunjungan di Kota Batu, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Cangar",
+    "explanation": "Cangar termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Batu. Cangar adalah tujuan kunjungan di Kota Batu, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-batu-batik-batik-batu",
     "regionSlug": "kota-batu",
-    "question": "Batik Batu merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Batu?",
     "options": [
-      "Kota Batu",
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo",
-      "Kota Madiun"
+      "Batik Batu",
+      "Batik Manggur",
+      "Batik Pasuruan",
+      "Batik Sumenep"
     ],
-    "correctAnswer": "Kota Batu",
-    "explanation": "Batik Batu termasuk motif batik Kota Batu. Batik Batu memperkenalkan bahasa visual batik Kota Batu, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Batu.",
+    "correctAnswer": "Batik Batu",
+    "explanation": "Batik Batu termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Batu. Batik Batu memperkenalkan bahasa visual batik Kota Batu, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Batu.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-blitar-heritage-kirab-grebeg-pancasila",
     "regionSlug": "kota-blitar",
-    "question": "Kirab Grebeg Pancasila merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Blitar?",
     "options": [
-      "Kota Blitar",
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun"
+      "Kirab Grebeg Pancasila",
+      "Jaranan Kediri",
+      "Jaranan Tril",
+      "Kesenian Bantengan"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Kirab Grebeg Pancasila termasuk warisan budaya Kota Blitar. Kirab Grebeg Pancasila adalah tradisi komunal Kota Blitar yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Kirab Grebeg Pancasila",
+    "explanation": "Kirab Grebeg Pancasila termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Blitar. Kirab Grebeg Pancasila adalah tradisi komunal Kota Blitar yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-blitar-heritage-jaranan-eklek",
     "regionSlug": "kota-blitar",
-    "question": "Jaranan Eklek merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Blitar?",
     "options": [
-      "Kabupaten Magetan",
-      "Kota Blitar",
-      "Kota Probolinggo",
-      "Kabupaten Gresik"
+      "Rokat Tase",
+      "Jaranan Eklek",
+      "Peraon",
+      "Rebo Wekasan"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Jaranan Eklek termasuk warisan budaya Kota Blitar. Jaranan Eklek adalah seni kuda kepang yang berkembang di Blitar, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Eklek",
+    "explanation": "Jaranan Eklek termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Blitar. Jaranan Eklek adalah seni kuda kepang yang berkembang di Blitar, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-blitar-food-es-drop",
     "regionSlug": "kota-blitar",
-    "question": "Es Drop dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Blitar?",
     "options": [
-      "Kota Madiun",
-      "Kabupaten Banyuwangi",
-      "Kota Blitar",
-      "Kabupaten Situbondo"
+      "Nasi Punel",
+      "Onde Onde Bo Liem",
+      "Es Drop",
+      "Nasi Karak"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Es Drop termasuk kuliner Kota Blitar. Es Drop adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Blitar.",
-    "difficulty": "easy"
+    "correctAnswer": "Es Drop",
+    "explanation": "Es Drop termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Blitar. Es Drop adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Blitar.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-blitar-food-es-pleret",
     "regionSlug": "kota-blitar",
-    "question": "Es Pleret dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Blitar?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kota Blitar"
+      "Legen Siwalan",
+      "Lupis Cenil",
+      "Nasi Boran",
+      "Es Pleret"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Es Pleret termasuk kuliner Kota Blitar. Es Pleret adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Blitar.",
-    "difficulty": "easy"
+    "correctAnswer": "Es Pleret",
+    "explanation": "Es Pleret termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Blitar. Es Pleret adalah minuman lokal yang mengandalkan kesegaran bahan daerah, cocok untuk melengkapi kuliner Blitar.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-blitar-destination-kebon-rojo",
     "regionSlug": "kota-blitar",
-    "question": "Kebon Rojo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Blitar?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri",
-      "Kota Blitar",
-      "Kota Madiun"
+      "Telaga Ngebel",
+      "Umbul Square",
+      "Kebon Rojo",
+      "Taman Safari"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Kebon Rojo termasuk destinasi Kota Blitar. Kebon Rojo adalah tujuan kunjungan di Kota Blitar, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Kebon Rojo",
+    "explanation": "Kebon Rojo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Blitar. Kebon Rojo adalah tujuan kunjungan di Kota Blitar, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-blitar-destination-makam-bung-karno",
     "regionSlug": "kota-blitar",
-    "question": "Makam Bung Karno berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Blitar?",
     "options": [
-      "Kota Blitar",
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang"
+      "Makam Bung Karno",
+      "Pantai Gemah",
+      "Pantai Lombang",
+      "Pantai Prigi"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Makam Bung Karno termasuk destinasi Kota Blitar. Makam Bung Karno menyimpan jejak sejarah Kota Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Makam Bung Karno",
+    "explanation": "Makam Bung Karno termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Blitar. Makam Bung Karno menyimpan jejak sejarah Kota Blitar, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-blitar-batik-batik-blitar",
     "regionSlug": "kota-blitar",
-    "question": "Batik Blitar merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Blitar?",
     "options": [
-      "Kota Blitar",
-      "Kota Malang",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan"
+      "Batik Blitar",
+      "Batik Manggur",
+      "Batik Pace",
+      "Batik Situbondo"
     ],
-    "correctAnswer": "Kota Blitar",
-    "explanation": "Batik Blitar termasuk motif batik Kota Blitar. Batik Blitar memperkenalkan bahasa visual batik Kota Blitar, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Blitar.",
+    "correctAnswer": "Batik Blitar",
+    "explanation": "Batik Blitar termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Blitar. Batik Blitar memperkenalkan bahasa visual batik Kota Blitar, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Blitar.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-kediri-heritage-larung-sesaji",
     "regionSlug": "kota-kediri",
-    "question": "Larung Sesaji merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Kediri?",
     "options": [
-      "Kota Kediri",
-      "Kota Batu",
-      "Kota Surabaya",
-      "Kabupaten Jember"
+      "Larung Sesaji",
+      "Parade Juang",
+      "Purnama Seruling",
+      "Reyog Kendang"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Larung Sesaji termasuk warisan budaya Kota Kediri. Larung Sesaji adalah tradisi komunal Kota Kediri yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Larung Sesaji",
+    "explanation": "Larung Sesaji termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Kediri. Larung Sesaji adalah tradisi komunal Kota Kediri yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-kediri-heritage-jaranan-kediri",
     "regionSlug": "kota-kediri",
-    "question": "Jaranan Kediri merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Kediri?",
     "options": [
-      "Kabupaten Probolinggo",
-      "Kabupaten Tulungagung",
-      "Kota Probolinggo",
-      "Kota Kediri"
+      "Batik Gajah Mada",
+      "Batik Kediri",
+      "Batik Malang",
+      "Jaranan Kediri"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Jaranan Kediri termasuk warisan budaya Kota Kediri. Jaranan Kediri adalah seni kuda kepang yang berkembang di Kediri, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaranan Kediri",
+    "explanation": "Jaranan Kediri termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Kediri. Jaranan Kediri adalah seni kuda kepang yang berkembang di Kediri, memadukan irama, gerak dinamis, dan suasana pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-kediri-food-pecel-dhoho",
     "regionSlug": "kota-kediri",
-    "question": "Pecel Dhoho dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Kediri?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kabupaten Madiun",
-      "Kota Kediri",
-      "Kota Pasuruan"
+      "Nasi Krawu",
+      "Nasi Serpang",
+      "Pecel Dhoho",
+      "Nasi Glepung"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Pecel Dhoho termasuk kuliner Kota Kediri. Pecel Dhoho mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Kediri memberi warna tersendiri pada tradisi pecel Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Pecel Dhoho",
+    "explanation": "Pecel Dhoho termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Kediri. Pecel Dhoho mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Kediri memberi warna tersendiri pada tradisi pecel Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-kediri-food-sambel-tumpang",
     "regionSlug": "kota-kediri",
-    "question": "Sambel Tumpang dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Kediri?",
     "options": [
-      "Kota Madiun",
-      "Kota Kediri",
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo"
+      "Nasi Tiwul",
+      "Sambel Tumpang",
+      "Nasi Jotos",
+      "Nasi Mamong"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Sambel Tumpang termasuk kuliner Kota Kediri. Sambel Tumpang adalah bagian dari kuliner lokal Kediri, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Sambel Tumpang",
+    "explanation": "Sambel Tumpang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Kediri. Sambel Tumpang adalah bagian dari kuliner lokal Kediri, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-kediri-destination-goa-selomangleng",
     "regionSlug": "kota-kediri",
-    "question": "Goa Selomangleng berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Kediri?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kota Kediri",
-      "Kota Malang"
+      "Sungai Maron",
+      "Taman Sumber Wangi",
+      "Goa Selomangleng",
+      "Snorkelling Peak"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Goa Selomangleng termasuk destinasi Kota Kediri. Goa Selomangleng menampilkan lanskap alam Kota Kediri, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Kediri.",
-    "difficulty": "easy"
+    "correctAnswer": "Goa Selomangleng",
+    "explanation": "Goa Selomangleng termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Kediri. Goa Selomangleng menampilkan lanskap alam Kota Kediri, dari pesisir, perbukitan, hingga ruang terbuka yang sering menjadi tujuan wisata utama Kediri.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-kediri-destination-kediri-waterpark",
     "regionSlug": "kota-kediri",
-    "question": "Kediri Waterpark berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Kediri?",
     "options": [
-      "Kota Kediri",
-      "Kabupaten Tuban",
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso"
+      "Kediri Waterpark",
+      "Pantai Kasap",
+      "Pantai Papuma",
+      "Pantai Sukamade"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Kediri Waterpark termasuk destinasi Kota Kediri. Kediri Waterpark menjadi ruang kunjungan populer di Kota Kediri, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Kediri.",
-    "difficulty": "easy"
+    "correctAnswer": "Kediri Waterpark",
+    "explanation": "Kediri Waterpark termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Kediri. Kediri Waterpark menjadi ruang kunjungan populer di Kota Kediri, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Kediri.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-kediri-batik-batik-kediri",
     "regionSlug": "kota-kediri",
-    "question": "Batik Kediri merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Kediri?",
     "options": [
-      "Kota Kediri",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi"
+      "Batik Kediri",
+      "Batik Lamongan",
+      "Batik Manggur",
+      "Batik Pasuruan"
     ],
-    "correctAnswer": "Kota Kediri",
-    "explanation": "Batik Kediri termasuk motif batik Kota Kediri. Batik Kediri memperkenalkan bahasa visual batik Kota Kediri, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Kediri.",
+    "correctAnswer": "Batik Kediri",
+    "explanation": "Batik Kediri termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Kediri. Batik Kediri memperkenalkan bahasa visual batik Kota Kediri, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Kediri.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-madiun-heritage-dongkrek-madiun",
     "regionSlug": "kota-madiun",
-    "question": "Dongkrek Madiun merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Madiun?",
     "options": [
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kota Madiun"
+      "Tari Landhung",
+      "Tari Thengul",
+      "Topeng Dalang",
+      "Dongkrek Madiun"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Dongkrek Madiun termasuk warisan budaya Kota Madiun. Dongkrek Madiun adalah kesenian Madiun yang memakai topeng, bunyi kentongan, dan narasi tolak bala dalam pertunjukan rakyat.",
-    "difficulty": "medium"
+    "correctAnswer": "Dongkrek Madiun",
+    "explanation": "Dongkrek Madiun termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Madiun. Dongkrek Madiun adalah kesenian Madiun yang memakai topeng, bunyi kentongan, dan narasi tolak bala dalam pertunjukan rakyat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-madiun-heritage-gajah-gajah",
     "regionSlug": "kota-madiun",
-    "question": "Gajah Gajah merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Madiun?",
     "options": [
-      "Kota Probolinggo",
-      "Kabupaten Gresik",
-      "Kota Madiun",
-      "Kabupaten Tulungagung"
+      "Terbang Japi",
+      "Topeng Situbondo",
+      "Gajah Gajah",
+      "Tari Sandur Manduro"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Gajah Gajah termasuk warisan budaya Kota Madiun. Gajah Gajah hidup dalam lanskap budaya Kota Madiun, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Gajah Gajah",
+    "explanation": "Gajah Gajah termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Madiun. Gajah Gajah hidup dalam lanskap budaya Kota Madiun, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-madiun-food-brem",
     "regionSlug": "kota-madiun",
-    "question": "Brem dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Madiun?",
     "options": [
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi",
-      "Kota Madiun",
-      "Kabupaten Blitar"
+      "Kupang Lontong",
+      "Lontong Kupang",
+      "Brem",
+      "Ketan Kratok"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Brem termasuk kuliner Kota Madiun. Brem berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
-    "difficulty": "easy"
+    "correctAnswer": "Brem",
+    "explanation": "Brem termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Madiun. Brem berasal dari tradisi fermentasi dan olahan manis tapai, cocok sebagai camilan atau oleh-oleh khas Madiun.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-madiun-food-lempeng-puli",
     "regionSlug": "kota-madiun",
-    "question": "Lempeng Puli dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Madiun?",
     "options": [
-      "Kabupaten Madiun",
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kota Madiun"
+      "Jenang Kelapa Muda",
+      "Keripik Buah",
+      "Klepon Bulusari",
+      "Lempeng Puli"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Lempeng Puli termasuk kuliner Kota Madiun. Lempeng Puli adalah bagian dari kuliner lokal Madiun, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Lempeng Puli",
+    "explanation": "Lempeng Puli termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Madiun. Lempeng Puli adalah bagian dari kuliner lokal Madiun, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-madiun-destination-alun-alun",
     "regionSlug": "kota-madiun",
-    "question": "Alun Alun berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Madiun?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Madiun",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi"
+      "Candi Tawangalun",
+      "Alun Alun",
+      "Bukit Cumbri",
+      "Candi Lor"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Alun Alun termasuk destinasi Kota Madiun. Alun Alun menjadi ruang kunjungan populer di Kota Madiun, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Madiun.",
-    "difficulty": "easy"
+    "correctAnswer": "Alun Alun",
+    "explanation": "Alun Alun termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Madiun. Alun Alun menjadi ruang kunjungan populer di Kota Madiun, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Madiun.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-madiun-destination-bantaran-brantas-park",
     "regionSlug": "kota-madiun",
-    "question": "Bantaran Brantas Park berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Madiun?",
     "options": [
-      "Kota Madiun",
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang",
-      "Kota Batu"
+      "Bantaran Brantas Park",
+      "Air Terjun Sunggah",
+      "Alun Alun",
+      "Batik Probolinggo"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Bantaran Brantas Park termasuk destinasi Kota Madiun. Bantaran Brantas Park adalah tujuan kunjungan di Kota Madiun, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bantaran Brantas Park",
+    "explanation": "Bantaran Brantas Park termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Madiun. Bantaran Brantas Park adalah tujuan kunjungan di Kota Madiun, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-madiun-batik-batik-madiun",
     "regionSlug": "kota-madiun",
-    "question": "Batik Madiun merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Madiun?",
     "options": [
-      "Kota Madiun",
-      "Kabupaten Lumajang",
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo"
+      "Batik Madiun",
+      "Batik Sekarjati",
+      "Batik Damar Kurung",
+      "Batik Kediri"
     ],
-    "correctAnswer": "Kota Madiun",
-    "explanation": "Batik Madiun termasuk motif batik Kota Madiun. Batik Madiun memperkenalkan bahasa visual batik Kota Madiun, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Madiun.",
+    "correctAnswer": "Batik Madiun",
+    "explanation": "Batik Madiun termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Madiun. Batik Madiun memperkenalkan bahasa visual batik Kota Madiun, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Madiun.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-malang-heritage-kesenian-bantengan",
     "regionSlug": "kota-malang",
-    "question": "Kesenian Bantengan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Malang?",
     "options": [
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep",
-      "Kota Malang",
-      "Kabupaten Madiun"
+      "Batik Kediri",
+      "Batik Magetan",
+      "Kesenian Bantengan",
+      "Batik Damar Kurung"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Kesenian Bantengan termasuk warisan budaya Kota Malang. Kesenian Bantengan adalah seni pertunjukan rakyat Kota Malang yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
-    "difficulty": "medium"
+    "correctAnswer": "Kesenian Bantengan",
+    "explanation": "Kesenian Bantengan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Malang. Kesenian Bantengan adalah seni pertunjukan rakyat Kota Malang yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-malang-heritage-tari-topeng-malangan",
     "regionSlug": "kota-malang",
-    "question": "Tari Topeng Malangan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Malang?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kabupaten Situbondo",
-      "Kota Kediri",
-      "Kota Malang"
+      "Reog Bulkiyo",
+      "Rokat Tase",
+      "Seribu Barong",
+      "Tari Topeng Malangan"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Tari Topeng Malangan termasuk warisan budaya Kota Malang. Tari Topeng Malangan menampilkan tradisi topeng dan kisah Panji, dengan karakter, gerak tari, dan musik yang hidup dalam budaya Malang.",
-    "difficulty": "medium"
+    "correctAnswer": "Tari Topeng Malangan",
+    "explanation": "Tari Topeng Malangan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Malang. Tari Topeng Malangan menampilkan tradisi topeng dan kisah Panji, dengan karakter, gerak tari, dan musik yang hidup dalam budaya Malang.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-malang-food-bakso-malang",
     "regionSlug": "kota-malang",
-    "question": "Bakso Malang dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Malang?",
     "options": [
-      "Kabupaten Mojokerto",
-      "Kota Malang",
-      "Kabupaten Bangkalan",
-      "Kabupaten Jombang"
+      "Nasi Uceng",
+      "Bakso Malang",
+      "Nasi Jotos",
+      "Nasi Pecel Majapahit"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Bakso Malang termasuk kuliner Kota Malang. Bakso Malang memperlihatkan olahan rumahan dan warung tradisional Malang, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Bakso Malang",
+    "explanation": "Bakso Malang termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Malang. Bakso Malang memperlihatkan olahan rumahan dan warung tradisional Malang, dengan bumbu kuat yang dekat dengan selera Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-malang-food-cwie-mie",
     "regionSlug": "kota-malang",
-    "question": "Cwie Mie dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Malang?",
     "options": [
-      "Kota Pasuruan",
-      "Kabupaten Bondowoso",
-      "Kota Malang",
-      "Kabupaten Tuban"
+      "Coklat Tempe",
+      "Es Pleret",
+      "Cwie Mie",
+      "Brem"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Cwie Mie termasuk kuliner Kota Malang. Cwie Mie adalah bagian dari kuliner lokal Malang, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Cwie Mie",
+    "explanation": "Cwie Mie termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Malang. Cwie Mie adalah bagian dari kuliner lokal Malang, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-malang-destination-kajoetangan",
     "regionSlug": "kota-malang",
-    "question": "Kajoetangan berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Malang?",
     "options": [
-      "Kabupaten Pacitan",
-      "Kota Malang",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang"
+      "Jatim Park 2",
+      "Kajoetangan",
+      "Gili Labak",
+      "Gua Gong"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Kajoetangan termasuk destinasi Kota Malang. Kajoetangan adalah tujuan kunjungan di Kota Malang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Kajoetangan",
+    "explanation": "Kajoetangan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Malang. Kajoetangan adalah tujuan kunjungan di Kota Malang, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-malang-destination-kampung-warna-warni",
     "regionSlug": "kota-malang",
-    "question": "Kampung Warna Warni berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Malang?",
     "options": [
-      "Kabupaten Bangkalan",
-      "Kota Malang",
-      "Kabupaten Sidoarjo",
-      "Kota Blitar"
+      "Candi Lor",
+      "Kampung Warna Warni",
+      "Batik Probolinggo",
+      "Bukit Cumbri"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Kampung Warna Warni termasuk destinasi Kota Malang. Kampung Warna Warni memberi pengalaman budaya di Kota Malang, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Kampung Warna Warni",
+    "explanation": "Kampung Warna Warni termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Malang. Kampung Warna Warni memberi pengalaman budaya di Kota Malang, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-malang-batik-batik-malang",
     "regionSlug": "kota-malang",
-    "question": "Batik Malang merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Malang?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Sampang",
-      "Kota Batu",
-      "Kota Surabaya"
+      "Batik Malang",
+      "Batik Ngawi",
+      "Batik Singoulung",
+      "Batik Gajah Mada"
     ],
-    "correctAnswer": "Kota Malang",
-    "explanation": "Batik Malang termasuk motif batik Kota Malang. Batik Malang memperkenalkan bahasa visual batik Kota Malang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Malang.",
+    "correctAnswer": "Batik Malang",
+    "explanation": "Batik Malang termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Malang. Batik Malang memperkenalkan bahasa visual batik Kota Malang, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Malang.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-mojokerto-heritage-mojotirto",
     "regionSlug": "kota-mojokerto",
-    "question": "Mojotirto merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Mojokerto?",
     "options": [
-      "Kota Kediri",
-      "Kabupaten Banyuwangi",
-      "Kota Mojokerto",
-      "Kabupaten Situbondo"
+      "Damar Kurung",
+      "Gandrung Banyuwangi",
+      "Mojotirto",
+      "Batik Tuban"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Mojotirto termasuk warisan budaya Kota Mojokerto. Mojotirto hidup dalam lanskap budaya Kota Mojokerto, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Mojotirto",
+    "explanation": "Mojotirto termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Mojotirto hidup dalam lanskap budaya Kota Mojokerto, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-mojokerto-heritage-bantengan-urban",
     "regionSlug": "kota-mojokerto",
-    "question": "Bantengan Urban merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Mojokerto?",
     "options": [
-      "Kota Mojokerto",
-      "Kota Madiun",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan"
+      "Bantengan Urban",
+      "Budaya Ndaru",
+      "Dongkrek Madiun",
+      "Grebeg Suro"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Bantengan Urban termasuk warisan budaya Kota Mojokerto. Bantengan Urban adalah seni pertunjukan rakyat Kota Mojokerto yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
-    "difficulty": "medium"
+    "correctAnswer": "Bantengan Urban",
+    "explanation": "Bantengan Urban termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Bantengan Urban adalah seni pertunjukan rakyat Kota Mojokerto yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-mojokerto-food-bubur-sruntul",
     "regionSlug": "kota-mojokerto",
-    "question": "Bubur Sruntul dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Mojokerto?",
     "options": [
-      "Kota Kediri",
-      "Kabupaten Banyuwangi",
-      "Kota Mojokerto",
-      "Kabupaten Situbondo"
+      "Brem Madiun",
+      "Cwie Mie",
+      "Bubur Sruntul",
+      "Belut Surabaya"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Bubur Sruntul termasuk kuliner Kota Mojokerto. Bubur Sruntul adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Mojokerto.",
-    "difficulty": "easy"
+    "correctAnswer": "Bubur Sruntul",
+    "explanation": "Bubur Sruntul termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Bubur Sruntul adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Mojokerto.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-mojokerto-food-nasi-pecel-majapahit",
     "regionSlug": "kota-mojokerto",
-    "question": "Nasi Pecel Majapahit dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Mojokerto?",
     "options": [
-      "Kabupaten Kediri",
-      "Kota Mojokerto",
-      "Kota Kediri",
-      "Kabupaten Banyuwangi"
+      "Opak Gambir",
+      "Nasi Pecel Majapahit",
+      "Nasi Krawu",
+      "Nasi Sodu"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Nasi Pecel Majapahit termasuk kuliner Kota Mojokerto. Nasi Pecel Majapahit mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Mojokerto memberi warna tersendiri pada tradisi pecel Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Pecel Majapahit",
+    "explanation": "Nasi Pecel Majapahit termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Nasi Pecel Majapahit mengandalkan bumbu kacang, sayuran, dan pelengkap lokal; versi Mojokerto memberi warna tersendiri pada tradisi pecel Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-mojokerto-destination-alun-alun",
     "regionSlug": "kota-mojokerto",
-    "question": "Alun Alun berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Mojokerto?",
     "options": [
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Malang",
-      "Kabupaten Ponorogo"
+      "Museum Trinil",
+      "Alun Alun",
+      "Maharani Zoo",
+      "Monumen Kapal Selam"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Alun Alun termasuk destinasi Kota Mojokerto. Alun Alun menjadi ruang kunjungan populer di Kota Mojokerto, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Mojokerto.",
-    "difficulty": "easy"
+    "correctAnswer": "Alun Alun",
+    "explanation": "Alun Alun termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Alun Alun menjadi ruang kunjungan populer di Kota Mojokerto, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Mojokerto.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-mojokerto-destination-pemandian-sekarsari",
     "regionSlug": "kota-mojokerto",
-    "question": "Pemandian Sekarsari berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Mojokerto?",
     "options": [
-      "Kota Madiun",
-      "Kota Mojokerto",
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep"
+      "Tebing Pelangi",
+      "Pemandian Sekarsari",
+      "Sumber Podang",
+      "Taman Galuh"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Pemandian Sekarsari termasuk destinasi Kota Mojokerto. Pemandian Sekarsari adalah tujuan kunjungan di Kota Mojokerto, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Pemandian Sekarsari",
+    "explanation": "Pemandian Sekarsari termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Pemandian Sekarsari adalah tujuan kunjungan di Kota Mojokerto, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-mojokerto-batik-batik-mojokerto",
     "regionSlug": "kota-mojokerto",
-    "question": "Batik Mojokerto merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Mojokerto?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Bojonegoro",
-      "Kota Mojokerto",
-      "Kabupaten Trenggalek"
+      "Batik Sampang",
+      "Batik Blitar",
+      "Batik Mojokerto",
+      "Batik Merak"
     ],
-    "correctAnswer": "Kota Mojokerto",
-    "explanation": "Batik Mojokerto termasuk motif batik Kota Mojokerto. Batik Mojokerto memperkenalkan bahasa visual batik Kota Mojokerto, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Mojokerto.",
+    "correctAnswer": "Batik Mojokerto",
+    "explanation": "Batik Mojokerto termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Mojokerto. Batik Mojokerto memperkenalkan bahasa visual batik Kota Mojokerto, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Mojokerto.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-pasuruan-heritage-peraon",
     "regionSlug": "kota-pasuruan",
-    "question": "Peraon merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Pasuruan?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kota Pasuruan",
-      "Kabupaten Situbondo",
-      "Kota Kediri"
+      "Batik Manggur",
+      "Peraon",
+      "Batik Jetis",
+      "Batik Lamongan"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Peraon termasuk warisan budaya Kota Pasuruan. Peraon hidup dalam lanskap budaya Kota Pasuruan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
-    "difficulty": "medium"
+    "correctAnswer": "Peraon",
+    "explanation": "Peraon termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Peraon hidup dalam lanskap budaya Kota Pasuruan, hadir lewat acara warga, ruang kreatif, atau cerita turun-temurun yang masih dikenali setempat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-pasuruan-heritage-terbang-bandung",
     "regionSlug": "kota-pasuruan",
-    "question": "Terbang Bandung merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Pasuruan?",
     "options": [
-      "Kabupaten Tulungagung",
-      "Kota Pasuruan",
-      "Kabupaten Mojokerto",
-      "Kabupaten Probolinggo"
+      "Jaranan Mayangkara",
+      "Terbang Bandung",
+      "Gandrung Banyuwangi",
+      "Jaran Bodhag"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Terbang Bandung termasuk warisan budaya Kota Pasuruan. Terbang Bandung memperlihatkan tradisi musik rakyat Kota Pasuruan, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
-    "difficulty": "medium"
+    "correctAnswer": "Terbang Bandung",
+    "explanation": "Terbang Bandung termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Terbang Bandung memperlihatkan tradisi musik rakyat Kota Pasuruan, biasanya hadir dalam perayaan, arak-arakan, atau panggung kampung.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-pasuruan-food-bipang-jangkar",
     "regionSlug": "kota-pasuruan",
-    "question": "Bipang Jangkar dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Pasuruan?",
     "options": [
-      "Kota Malang",
-      "Kabupaten Bojonegoro",
-      "Kabupaten Lumajang",
-      "Kota Pasuruan"
+      "Ayam Panggang Bledug",
+      "Bandeng Presto",
+      "Bonggolan",
+      "Bipang Jangkar"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Bipang Jangkar termasuk kuliner Kota Pasuruan. Bipang Jangkar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
-    "difficulty": "easy"
+    "correctAnswer": "Bipang Jangkar",
+    "explanation": "Bipang Jangkar termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Bipang Jangkar adalah jajanan tradisional bernuansa manis atau legit, biasanya hadir sebagai camilan pasar dan oleh-oleh dari Pasuruan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-pasuruan-food-nasi-punel",
     "regionSlug": "kota-pasuruan",
-    "question": "Nasi Punel dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Pasuruan?",
     "options": [
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Bondowoso",
-      "Kota Pasuruan"
+      "Prol Tape",
+      "Rujak Cingur",
+      "Sambel Wader",
+      "Nasi Punel"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Nasi Punel termasuk kuliner Kota Pasuruan. Nasi Punel adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Pasuruan.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Punel",
+    "explanation": "Nasi Punel termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Nasi Punel adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Pasuruan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-pasuruan-destination-kampung-mebel-bukir",
     "regionSlug": "kota-pasuruan",
-    "question": "Kampung Mebel Bukir berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Pasuruan?",
     "options": [
-      "Kabupaten Trenggalek",
-      "Kota Malang",
-      "Kota Pasuruan",
-      "Kabupaten Pasuruan"
+      "Coban Rondo",
+      "Gapura Wringin",
+      "Kampung Mebel Bukir",
+      "Candi Sumur"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Kampung Mebel Bukir termasuk destinasi Kota Pasuruan. Kampung Mebel Bukir memberi pengalaman budaya di Kota Pasuruan, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Kampung Mebel Bukir",
+    "explanation": "Kampung Mebel Bukir termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Kampung Mebel Bukir memberi pengalaman budaya di Kota Pasuruan, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-pasuruan-destination-taman-sekargadung",
     "regionSlug": "kota-pasuruan",
-    "question": "Taman Sekargadung berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Pasuruan?",
     "options": [
-      "Kabupaten Nganjuk",
-      "Kabupaten Sampang",
-      "Kota Batu",
-      "Kota Pasuruan"
+      "Sedudo Waterfall",
+      "Situs Duplang",
+      "Sumber Sentong",
+      "Taman Sekargadung"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Taman Sekargadung termasuk destinasi Kota Pasuruan. Taman Sekargadung menjadi ruang kunjungan populer di Kota Pasuruan, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Pasuruan.",
-    "difficulty": "easy"
+    "correctAnswer": "Taman Sekargadung",
+    "explanation": "Taman Sekargadung termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Taman Sekargadung menjadi ruang kunjungan populer di Kota Pasuruan, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Pasuruan.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-pasuruan-batik-batik-pasuruan",
     "regionSlug": "kota-pasuruan",
-    "question": "Batik Pasuruan merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Pasuruan?",
     "options": [
-      "Kota Pasuruan",
-      "Kabupaten Blitar",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi"
+      "Batik Pasuruan",
+      "Batik Mojokerto",
+      "Batik Singoulung",
+      "Batik Gajah Mada"
     ],
-    "correctAnswer": "Kota Pasuruan",
-    "explanation": "Batik Pasuruan termasuk motif batik Kota Pasuruan. Batik Pasuruan memperkenalkan bahasa visual batik Kota Pasuruan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pasuruan.",
+    "correctAnswer": "Batik Pasuruan",
+    "explanation": "Batik Pasuruan termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Pasuruan. Batik Pasuruan memperkenalkan bahasa visual batik Kota Pasuruan, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Pasuruan.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-probolinggo-heritage-petik-laut",
     "regionSlug": "kota-probolinggo",
-    "question": "Petik Laut merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Probolinggo?",
     "options": [
-      "Kabupaten Banyuwangi",
-      "Kota Probolinggo",
-      "Kabupaten Situbondo",
-      "Kota Kediri"
+      "Bantengan Urban",
+      "Petik Laut",
+      "Ujung Ujungan",
+      "Warok"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Petik Laut termasuk warisan budaya Kota Probolinggo. Petik Laut adalah tradisi komunal Kota Probolinggo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Petik Laut",
+    "explanation": "Petik Laut termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Petik Laut adalah tradisi komunal Kota Probolinggo yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-probolinggo-heritage-jaran-bodhag",
     "regionSlug": "kota-probolinggo",
-    "question": "Jaran Bodhag merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Probolinggo?",
     "options": [
-      "Kabupaten Bondowoso",
-      "Kota Probolinggo",
-      "Kabupaten Tuban",
-      "Kota Mojokerto"
+      "Tari Muang Sangkal",
+      "Jaran Bodhag",
+      "Sastra Panji",
+      "Tari Beskalan"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Jaran Bodhag termasuk warisan budaya Kota Probolinggo. Jaran Bodhag adalah seni pertunjukan rakyat Kota Probolinggo yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
-    "difficulty": "medium"
+    "correctAnswer": "Jaran Bodhag",
+    "explanation": "Jaran Bodhag termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Jaran Bodhag adalah seni pertunjukan rakyat Kota Probolinggo yang menggabungkan gerak, musik, kostum, dan cerita lokal sebagai tontonan komunal.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-probolinggo-food-ketan-kratok",
     "regionSlug": "kota-probolinggo",
-    "question": "Ketan Kratok dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Probolinggo?",
     "options": [
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban",
-      "Kota Probolinggo",
-      "Kabupaten Malang"
+      "Onde Onde Mojokerto",
+      "Pecel Lele",
+      "Ketan Kratok",
+      "Nasi Serpang"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Ketan Kratok termasuk kuliner Kota Probolinggo. Ketan Kratok adalah bagian dari kuliner lokal Probolinggo, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Ketan Kratok",
+    "explanation": "Ketan Kratok termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Ketan Kratok adalah bagian dari kuliner lokal Probolinggo, dikenal lewat bahan daerah, bumbu rumahan, dan cara penyajian yang dekat dengan keseharian masyarakat setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-probolinggo-food-nasi-glepung",
     "regionSlug": "kota-probolinggo",
-    "question": "Nasi Glepung dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Probolinggo?",
     "options": [
-      "Kota Probolinggo",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri",
-      "Kabupaten Nganjuk"
+      "Nasi Glepung",
+      "Rawon Nguling",
+      "Sale Pisang Anggur",
+      "Sate Kelinci"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Nasi Glepung termasuk kuliner Kota Probolinggo. Nasi Glepung adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Probolinggo.",
-    "difficulty": "easy"
+    "correctAnswer": "Nasi Glepung",
+    "explanation": "Nasi Glepung termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Nasi Glepung adalah sajian nasi lokal dengan lauk, sambal, atau sayur khas daerah; hidangan ini merekam selera harian masyarakat Probolinggo.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-probolinggo-destination-batik-probolinggo",
     "regionSlug": "kota-probolinggo",
-    "question": "Batik Probolinggo berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Probolinggo?",
     "options": [
-      "Kota Batu",
-      "Kota Surabaya",
-      "Kota Probolinggo",
-      "Kabupaten Sampang"
+      "Santera",
+      "Singosari",
+      "Batik Probolinggo",
+      "Puncak B29"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Batik Probolinggo termasuk destinasi Kota Probolinggo. Batik Probolinggo memberi pengalaman budaya di Kota Probolinggo, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
-    "difficulty": "easy"
+    "correctAnswer": "Batik Probolinggo",
+    "explanation": "Batik Probolinggo termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Batik Probolinggo memberi pengalaman budaya di Kota Probolinggo, mempertemukan aktivitas warga, tradisi, kuliner, dan ruang kreatif setempat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-probolinggo-destination-gereja-merah",
     "regionSlug": "kota-probolinggo",
-    "question": "Gereja Merah berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Probolinggo?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Blitar",
-      "Kota Probolinggo",
-      "Kabupaten Ngawi"
+      "Candi Sawentar",
+      "Cimoryland",
+      "Gereja Merah",
+      "Bukit Salju"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Gereja Merah termasuk destinasi Kota Probolinggo. Gereja Merah menyimpan jejak sejarah Kota Probolinggo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
-    "difficulty": "easy"
+    "correctAnswer": "Gereja Merah",
+    "explanation": "Gereja Merah termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Gereja Merah menyimpan jejak sejarah Kota Probolinggo, cocok untuk membaca lapisan masa lalu, tokoh, dan perubahan kota dari dekat.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-probolinggo-batik-batik-manggur",
     "regionSlug": "kota-probolinggo",
-    "question": "Batik Manggur merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Probolinggo?",
     "options": [
-      "Kota Madiun",
-      "Kota Probolinggo",
-      "Kabupaten Pamekasan",
-      "Kabupaten Sumenep"
+      "Batik Koi",
+      "Batik Manggur",
+      "Batik Sumenep",
+      "Batik Gentongan"
     ],
-    "correctAnswer": "Kota Probolinggo",
-    "explanation": "Batik Manggur termasuk motif batik Kota Probolinggo. Batik Manggur memperkenalkan bahasa visual batik Kota Probolinggo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Probolinggo.",
+    "correctAnswer": "Batik Manggur",
+    "explanation": "Batik Manggur termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Probolinggo. Batik Manggur memperkenalkan bahasa visual batik Kota Probolinggo, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Probolinggo.",
     "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-surabaya-heritage-ludruk-suroboyoan",
     "regionSlug": "kota-surabaya",
-    "question": "Ludruk Suroboyoan merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Surabaya?",
     "options": [
-      "Kabupaten Jember",
-      "Kabupaten Malang",
-      "Kota Surabaya",
-      "Kota Probolinggo"
+      "Gandrung Banyuwangi",
+      "Jaran Bodhag",
+      "Ludruk Suroboyoan",
+      "Damar Kurung"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Ludruk Suroboyoan termasuk warisan budaya Kota Surabaya. Ludruk Suroboyoan adalah teater rakyat Jawa Timur yang memadukan dialog, humor, musik, dan kritik sosial dalam bahasa keseharian masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Ludruk Suroboyoan",
+    "explanation": "Ludruk Suroboyoan termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Surabaya. Ludruk Suroboyoan adalah teater rakyat Jawa Timur yang memadukan dialog, humor, musik, dan kritik sosial dalam bahasa keseharian masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-culture-kota-surabaya-heritage-festival-rujak-uleg",
     "regionSlug": "kota-surabaya",
-    "question": "Festival Rujak Uleg merupakan warisan budaya yang dikaitkan dengan daerah mana?",
+    "question": "Manakah warisan budaya yang dikurasi sebagai bagian dari identitas Kota Surabaya?",
     "options": [
-      "Kabupaten Nganjuk",
-      "Kota Surabaya",
-      "Kabupaten Banyuwangi",
-      "Kabupaten Kediri"
+      "Terbang Bandung",
+      "Festival Rujak Uleg",
+      "Tari Ceprotan",
+      "Tari Orek Orek"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Festival Rujak Uleg termasuk warisan budaya Kota Surabaya. Festival Rujak Uleg adalah tradisi komunal Kota Surabaya yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
-    "difficulty": "medium"
+    "correctAnswer": "Festival Rujak Uleg",
+    "explanation": "Festival Rujak Uleg termasuk warisan budaya yang dikurasi sebagai bagian dari identitas Kota Surabaya. Festival Rujak Uleg adalah tradisi komunal Kota Surabaya yang mempertemukan doa, arak-arakan, seni, dan rasa syukur masyarakat.",
+    "difficulty": "hard"
   },
   {
     "id": "quiz-food-kota-surabaya-food-belut-surabaya",
     "regionSlug": "kota-surabaya",
-    "question": "Belut Surabaya dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Surabaya?",
     "options": [
-      "Kabupaten Sidoarjo",
-      "Kota Surabaya",
-      "Kabupaten Lamongan",
-      "Kabupaten Ngawi"
+      "Bipang Jangkar",
+      "Belut Surabaya",
+      "Ayam Lodho",
+      "Balung Kuwuk"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Belut Surabaya termasuk kuliner Kota Surabaya. Belut Surabaya memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Surabaya.",
-    "difficulty": "easy"
+    "correctAnswer": "Belut Surabaya",
+    "explanation": "Belut Surabaya termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Surabaya. Belut Surabaya memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Surabaya.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-food-kota-surabaya-food-kupang-lontong",
     "regionSlug": "kota-surabaya",
-    "question": "Kupang Lontong dikenal sebagai kuliner dari daerah mana?",
+    "question": "Manakah kuliner lokal yang dikaitkan dengan Kota Surabaya?",
     "options": [
-      "Kota Madiun",
-      "Kabupaten Blitar",
-      "Kota Surabaya",
-      "Kabupaten Sumenep"
+      "Tahu Tek",
+      "Ting Ting Jahe",
+      "Kupang Lontong",
+      "Sumpil"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Kupang Lontong termasuk kuliner Kota Surabaya. Kupang Lontong memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Surabaya.",
-    "difficulty": "easy"
+    "correctAnswer": "Kupang Lontong",
+    "explanation": "Kupang Lontong termasuk kuliner yang dikurasi sebagai bagian dari identitas Kota Surabaya. Kupang Lontong memanfaatkan hasil laut atau perairan lokal, menghadirkan rasa gurih pesisir yang kuat di Surabaya.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-surabaya-destination-jalan-tunjungan",
     "regionSlug": "kota-surabaya",
-    "question": "Jalan Tunjungan berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Surabaya?",
     "options": [
-      "Kota Mojokerto",
-      "Kota Surabaya",
-      "Kabupaten Ponorogo",
-      "Kabupaten Tuban"
+      "Jatim Park 1",
+      "Jalan Tunjungan",
+      "Gili Iyang",
+      "Goa Selomangleng"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Jalan Tunjungan termasuk destinasi Kota Surabaya. Jalan Tunjungan menjadi ruang kunjungan populer di Kota Surabaya, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Surabaya.",
-    "difficulty": "easy"
+    "correctAnswer": "Jalan Tunjungan",
+    "explanation": "Jalan Tunjungan termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Surabaya. Jalan Tunjungan menjadi ruang kunjungan populer di Kota Surabaya, dekat dengan aktivitas kota, rekreasi keluarga, atau wajah urban Surabaya.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-destination-kota-surabaya-destination-jembatan-suramadu",
     "regionSlug": "kota-surabaya",
-    "question": "Jembatan Suramadu berada atau dikaitkan dengan daerah mana di Jawa Timur?",
+    "question": "Manakah destinasi atau landmark yang berada dalam kurasi Kota Surabaya?",
     "options": [
-      "Kabupaten Jember",
-      "Kota Surabaya",
-      "Kota Batu",
-      "Kota Probolinggo"
+      "Tumpak Sewu",
+      "Jembatan Suramadu",
+      "Taman Hutan Joyoboyo",
+      "Teksas Wonocolo"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Jembatan Suramadu termasuk destinasi Kota Surabaya. Jembatan Suramadu adalah tujuan kunjungan di Kota Surabaya, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
-    "difficulty": "easy"
+    "correctAnswer": "Jembatan Suramadu",
+    "explanation": "Jembatan Suramadu termasuk destinasi atau landmark yang dikurasi sebagai bagian dari identitas Kota Surabaya. Jembatan Suramadu adalah tujuan kunjungan di Kota Surabaya, menghadirkan pengalaman lokal yang melengkapi peta budaya dan perjalanan di Jawa Timur.",
+    "difficulty": "medium"
   },
   {
     "id": "quiz-batik-kota-surabaya-batik-batik-kintir-kintir",
     "regionSlug": "kota-surabaya",
-    "question": "Batik Kintir Kintir merupakan motif atau identitas batik dari daerah mana?",
+    "question": "Manakah motif atau identitas batik yang dikaitkan dengan Kota Surabaya?",
     "options": [
-      "Kabupaten Tuban",
-      "Kota Mojokerto",
-      "Kabupaten Bondowoso",
-      "Kota Surabaya"
+      "Batik Pasuruan",
+      "Batik Tuban",
+      "Batik Jetis",
+      "Batik Kintir Kintir"
     ],
-    "correctAnswer": "Kota Surabaya",
-    "explanation": "Batik Kintir Kintir termasuk motif batik Kota Surabaya. Batik Kintir Kintir memperkenalkan bahasa visual batik Kota Surabaya, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Surabaya.",
+    "correctAnswer": "Batik Kintir Kintir",
+    "explanation": "Batik Kintir Kintir termasuk motif atau identitas batik yang dikurasi sebagai bagian dari identitas Kota Surabaya. Batik Kintir Kintir memperkenalkan bahasa visual batik Kota Surabaya, mengambil inspirasi dari ikon, alam, sejarah, atau cerita masyarakat Surabaya.",
     "difficulty": "hard"
   }
 ];

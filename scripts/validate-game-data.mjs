@@ -72,7 +72,6 @@ const regionNameBySlug = new Map([
     `Kota ${name}`,
   ]),
 ]);
-const validRegionNames = new Set(regionNameBySlug.values());
 const sourceItemsByCategory = {
   culture: heritageItems,
   food: foods,
@@ -88,6 +87,15 @@ const sourceLabelsByCategoryAndRegion = Object.fromEntries(
       groups.set(item.regionSlug, labels);
       return groups;
     }, new Map()),
+  ]),
+);
+const sourceLabelsByCategory = Object.fromEntries(
+  Object.entries(sourceItemsByCategory).map(([category, items]) => [
+    category,
+    items.reduce((labels, item) => {
+      labels.add(item.name);
+      return labels;
+    }, new Set()),
   ]),
 );
 const sourceImageSrcs = new Set(
@@ -176,15 +184,26 @@ for (const question of quizQuestions) {
     errors.push(`regionSlug quiz tidak valid: ${question.regionSlug}`);
   }
 
-  if (question.regionSlug && question.correctAnswer !== regionNameBySlug.get(question.regionSlug)) {
-    errors.push(
-      `correctAnswer quiz tidak cocok dengan regionSlug ${question.regionSlug}: ${question.correctAnswer}`,
-    );
+  const quizCategory = question.id.match(/^quiz-(culture|food|destination|batik)-/)?.[1];
+
+  if (!quizCategory) {
+    errors.push(`Kategori quiz tidak terbaca dari id: ${question.id}`);
+  }
+
+  if (question.regionSlug && quizCategory) {
+    const validSourceLabels =
+      sourceLabelsByCategoryAndRegion[quizCategory]?.get(question.regionSlug) ?? new Set();
+
+    if (!validSourceLabels.has(question.correctAnswer)) {
+      errors.push(
+        `correctAnswer quiz tidak ada di data sumber ${question.regionSlug} ${quizCategory}: ${question.correctAnswer}`,
+      );
+    }
   }
 
   for (const option of question.options) {
-    if (!validRegionNames.has(option)) {
-      errors.push(`Opsi quiz bukan nama region valid di ${question.id}: ${option}`);
+    if (quizCategory && !sourceLabelsByCategory[quizCategory]?.has(option)) {
+      errors.push(`Opsi quiz bukan item ${quizCategory} valid di ${question.id}: ${option}`);
     }
   }
 

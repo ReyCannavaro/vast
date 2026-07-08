@@ -115,7 +115,7 @@ export default function GamePage() {
       <SiteHeader />
 
       <main>
-        <section className="relative flex min-h-[740px] items-center justify-center overflow-hidden bg-[#6b6563] px-6 pb-20 pt-32 text-center text-white">
+        <section className="relative flex min-h-[740px] items-center justify-center overflow-hidden bg-[#2f2118] px-6 pb-20 pt-32 text-center text-white">
           <Image
             src="/images/regions/kabupaten-ponorogo/hero/hero.jpg"
             alt="Pertunjukan Reog Ponorogo di antara rumpun bambu"
@@ -124,28 +124,28 @@ export default function GamePage() {
             sizes="100vw"
             className="object-cover object-center"
           />
-          <div className="absolute inset-0 bg-[#625b58]/78" />
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgb(120_86_55_/_0.24),transparent_42%),linear-gradient(180deg,rgb(40_34_31_/_0.18),rgb(40_34_31_/_0.38))]" />
+          <div className="absolute inset-0 bg-[#211811]/58" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgb(195_125_62_/_0.30),transparent_38%),linear-gradient(180deg,rgb(22_17_13_/_0.34),rgb(88_52_24_/_0.54)_54%,rgb(28_20_15_/_0.72))]" />
 
           <div className="relative mx-auto max-w-4xl">
-            <h1 className="text-5xl font-bold leading-none tracking-[-0.04em] text-primary sm:text-6xl lg:text-[72px]">
+            <h1 className="text-5xl font-bold leading-none tracking-[-0.04em] text-[#d79b63] sm:text-6xl lg:text-[72px]">
               Belajar Sambil Bermain
             </h1>
-            <p className="mx-auto mt-6 max-w-3xl text-[20px] leading-8 text-white/55">
+            <p className="mx-auto mt-6 max-w-3xl text-[20px] leading-8 text-white/72">
               Uji wawasan budayamu lewat kuis, mencocokkan warisan, dan menyusun puzzle
               Jawa Timur secara interaktif.
             </p>
 
             <div className="mt-9 flex flex-wrap justify-center gap-4">
-              <span className="inline-flex h-11 items-center gap-3 rounded-full bg-[#f5f0e9] px-7 text-sm font-bold text-[#74481f] shadow-sm">
+              <span className="inline-flex h-11 items-center gap-3 rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 <HeroPillIcon type="game" />
                 {gameItems.length} Mini Game
               </span>
-              <span className="inline-flex h-11 items-center gap-3 rounded-full bg-[#f5f0e9] px-7 text-sm font-bold text-[#74481f] shadow-sm">
+              <span className="inline-flex h-11 items-center gap-3 rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 <HeroPillIcon type="region" />
                 {summary.quiz.coveredRegions} Wilayah
               </span>
-              <span className="inline-flex h-11 items-center gap-3 rounded-full bg-[#f5f0e9] px-7 text-sm font-bold text-[#74481f] shadow-sm">
+              <span className="inline-flex h-11 items-center gap-3 rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 <HeroPillIcon type="score" />
                 Skor &amp; Progress
               </span>

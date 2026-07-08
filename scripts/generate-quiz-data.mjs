@@ -79,31 +79,34 @@ function pickHeritageItems(items) {
   return sorted.slice(0, 2);
 }
 
-function createOptions(correctRegionSlug, seed, regionNames) {
-  const slugs = [...regionNames.keys()].filter((slug) => slug !== correctRegionSlug);
-  const offset = hashText(seed) % slugs.length;
-  const distractorSlugs = [];
+function createOptions(correctItem, categoryItems, seed) {
+  const candidates = sortByName(categoryItems).filter(
+    (item) =>
+      item.id !== correctItem.id &&
+      item.name.toLowerCase() !== correctItem.name.toLowerCase(),
+  );
+  const offset = candidates.length > 0 ? hashText(seed) % candidates.length : 0;
+  const distractors = [];
 
-  for (let index = 0; distractorSlugs.length < 3; index += 1) {
-    const candidate = slugs[(offset + index * 7) % slugs.length];
+  for (let index = 0; distractors.length < 3 && index < candidates.length * 2; index += 1) {
+    const candidate = candidates[(offset + index * 7) % candidates.length];
 
-    if (!distractorSlugs.includes(candidate)) {
-      distractorSlugs.push(candidate);
+    if (!distractors.some((item) => item.name === candidate.name)) {
+      distractors.push(candidate);
     }
   }
 
-  const optionSlugs = [correctRegionSlug, ...distractorSlugs];
-  const rotation = hashText(`${seed}-rotation`) % optionSlugs.length;
-  const rotatedSlugs = [
-    ...optionSlugs.slice(rotation),
-    ...optionSlugs.slice(0, rotation),
+  const options = [correctItem.name, ...distractors.map((item) => item.name)];
+  const rotation = hashText(`${seed}-rotation`) % options.length;
+  return [
+    ...options.slice(rotation),
+    ...options.slice(0, rotation),
   ];
-
-  return rotatedSlugs.map((slug) => regionNames.get(slug));
 }
 
-function createQuizQuestion({ item, category, regionNames }) {
-  const correctAnswer = regionNames.get(item.regionSlug);
+function createQuizQuestion({ item, category, categoryItems, regionNames }) {
+  const regionName = regionNames.get(item.regionSlug);
+  const correctAnswer = item.name;
   const typeText = {
     culture: "warisan budaya",
     food: "kuliner",
@@ -111,15 +114,15 @@ function createQuizQuestion({ item, category, regionNames }) {
     batik: "motif atau identitas batik",
   }[category];
   const questionText = {
-    culture: `${item.name} merupakan warisan budaya yang dikaitkan dengan daerah mana?`,
-    food: `${item.name} dikenal sebagai kuliner dari daerah mana?`,
-    destination: `${item.name} berada atau dikaitkan dengan daerah mana di Jawa Timur?`,
-    batik: `${item.name} merupakan motif atau identitas batik dari daerah mana?`,
+    culture: `Manakah warisan budaya yang dikurasi sebagai bagian dari identitas ${regionName}?`,
+    food: `Manakah kuliner lokal yang dikaitkan dengan ${regionName}?`,
+    destination: `Manakah destinasi atau landmark yang berada dalam kurasi ${regionName}?`,
+    batik: `Manakah motif atau identitas batik yang dikaitkan dengan ${regionName}?`,
   }[category];
   const difficulty = {
-    culture: "medium",
-    food: "easy",
-    destination: "easy",
+    culture: "hard",
+    food: "medium",
+    destination: "medium",
     batik: "hard",
   }[category];
 
@@ -127,9 +130,9 @@ function createQuizQuestion({ item, category, regionNames }) {
     id: `quiz-${category}-${item.id}`,
     regionSlug: item.regionSlug,
     question: questionText,
-    options: createOptions(item.regionSlug, `${category}-${item.id}`, regionNames),
+    options: createOptions(item, categoryItems, `${category}-${item.id}`),
     correctAnswer,
-    explanation: `${item.name} termasuk ${typeText} yang dikurasi sebagai bagian dari identitas ${correctAnswer}.`,
+    explanation: `${item.name} termasuk ${typeText} yang dikurasi sebagai bagian dari identitas ${regionName}. ${item.description}`,
     difficulty,
   };
 }
@@ -157,19 +160,32 @@ const quizQuestions = [];
 
 for (const regionSlug of [...regionNames.keys()].sort((a, b) => a.localeCompare(b))) {
   for (const item of pickHeritageItems(heritageByRegion.get(regionSlug) ?? [])) {
-    quizQuestions.push(createQuizQuestion({ item, category: "culture", regionNames }));
+    quizQuestions.push(
+      createQuizQuestion({ item, category: "culture", categoryItems: heritageItems, regionNames }),
+    );
   }
 
   for (const item of pickItems(foodsByRegion.get(regionSlug) ?? [], 2)) {
-    quizQuestions.push(createQuizQuestion({ item, category: "food", regionNames }));
+    quizQuestions.push(
+      createQuizQuestion({ item, category: "food", categoryItems: foods, regionNames }),
+    );
   }
 
   for (const item of pickItems(destinationsByRegion.get(regionSlug) ?? [], 2)) {
-    quizQuestions.push(createQuizQuestion({ item, category: "destination", regionNames }));
+    quizQuestions.push(
+      createQuizQuestion({
+        item,
+        category: "destination",
+        categoryItems: destinations,
+        regionNames,
+      }),
+    );
   }
 
   for (const item of pickItems(batikByRegion.get(regionSlug) ?? [], 1)) {
-    quizQuestions.push(createQuizQuestion({ item, category: "batik", regionNames }));
+    quizQuestions.push(
+      createQuizQuestion({ item, category: "batik", categoryItems: batikPatterns, regionNames }),
+    );
   }
 }
 
