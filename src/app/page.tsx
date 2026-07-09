@@ -231,7 +231,7 @@ function MiniMapPreview() {
             ))}
           </svg>
 
-          <div className="absolute bottom-4 left-4 max-w-[250px] rounded-[10px] border border-white/60 bg-white/88 px-4 py-3 text-[#332f2a] shadow-[0_14px_30px_rgb(36_42_36_/_0.16)] backdrop-blur-md">
+          <div className="absolute bottom-4 left-4 max-w-[250px] rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-4 py-3 text-[#332f2a] shadow-[0_14px_30px_rgb(64_45_31_/_0.12)]">
             <p className="text-[11px] font-black uppercase tracking-[0.12em] text-[#8c531f]">
               Highlight
             </p>
@@ -299,7 +299,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] border border-white/72 bg-white/93 px-7 py-7 text-[#111111] shadow-[inset_0_1px_0_rgb(255_255_255_/_0.82),0_26px_70px_rgb(30_22_16_/_0.16)] backdrop-blur-sm sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
+          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] border border-[#eadfd3] bg-[#fffaf5] px-7 py-7 text-[#111111] shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(64_45_31_/_0.14)] sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
             <div className="grid gap-7 md:grid-cols-[285px_1fr] md:items-center">
               <div className="relative min-h-[192px] overflow-hidden rounded-[14px] bg-[#c8c8c8]">
                 <Image
@@ -401,7 +401,7 @@ export default function Home() {
                 sizes="50vw"
               />
             </div>
-            <div className="relative top-20 max-w-[630px] rounded-[18px] border border-[#e4d7cb] bg-white/94 px-14 py-14 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_28px_80px_rgb(92_61_39_/_0.13)] backdrop-blur-sm sm:px-16 sm:py-16 lg:-ml-8 xl:-ml-12">
+            <div className="relative top-20 max-w-[630px] rounded-[14px] border border-[#e4d7cb] bg-[#fffaf5] px-14 py-14 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_28px_80px_rgb(92_61_39_/_0.12)] sm:px-16 sm:py-16 lg:-ml-8 xl:-ml-12">
               <div className="absolute left-0 top-14 hidden h-24 w-[5px] rounded-r-full bg-[#8c531f] sm:block" />
               <h2 className="text-[46px] font-semibold leading-[1.24] tracking-[-0.04em] sm:text-[60px]">
                 Jelajahi Warisan Budaya Jawa Timur
@@ -489,7 +489,7 @@ export default function Home() {
                 className="rounded-[22px] object-cover"
                 sizes="(min-width: 1024px) 48vw, 100vw"
               />
-              <div className="absolute bottom-[-34px] left-1/2 w-[82%] -translate-x-1/2 rounded-[18px] border border-[#e5d8cc] bg-white/94 px-9 py-9 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(92_61_39_/_0.14)] backdrop-blur-sm">
+              <div className="absolute bottom-[-34px] left-1/2 w-[82%] -translate-x-1/2 rounded-[14px] border border-[#e5d8cc] bg-[#fffaf5] px-9 py-9 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(92_61_39_/_0.12)]">
                 <h3 className="text-[26px] font-semibold tracking-[-0.04em]">
                   Learn While You Play
                 </h3>

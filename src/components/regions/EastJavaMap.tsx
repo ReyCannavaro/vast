@@ -262,7 +262,7 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
             ) : null}
           </svg>
 
-          <div className="absolute bottom-5 right-5 rounded-[8px] border border-white/64 bg-white/80 px-4 py-2 text-[12px] font-bold text-[#6f3f1b] shadow-[0_12px_28px_rgb(56_45_34_/_0.12)] backdrop-blur-xl">
+          <div className="absolute bottom-5 right-5 rounded-[8px] border border-[#eadfd3] bg-[#fffaf5] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] shadow-[0_12px_28px_rgb(56_45_34_/_0.12)]">
             {getContentSummary(activeRegion)}
           </div>
         </div>

@@ -137,15 +137,15 @@ export default function GamePage() {
             </p>
 
             <div className="mt-9 flex flex-wrap justify-center gap-4">
-              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
+              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.16)]">
                 <HeroPillIcon type="game" />
                 {gameItems.length} Mini Game
               </span>
-              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
+              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.16)]">
                 <HeroPillIcon type="region" />
                 {summary.quiz.coveredRegions} Wilayah
               </span>
-              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
+              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.16)]">
                 <HeroPillIcon type="score" />
                 Skor &amp; Progress
               </span>
