@@ -94,7 +94,8 @@ function CultureModal({
               className="object-cover"
             />
           ) : null}
-          <div className="absolute inset-0 bg-gradient-to-t from-black/56 via-black/8 to-black/8" />
+          <div className="absolute inset-0 bg-[#1b130d]/18" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#160f0a]/66 via-[#160f0a]/14 to-[#160f0a]/16" />
           <div className="absolute bottom-7 left-7 right-7 text-white">
             <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/75">
               {item.category}
@@ -163,11 +164,12 @@ function CultureCard({
             alt={item.image.alt}
             fill
             sizes="(min-width: 1024px) 288px, (min-width: 768px) 50vw, 100vw"
-            className="object-cover opacity-95 transition duration-500 group-hover:scale-[1.035]"
+            className="object-cover transition duration-500 group-hover:scale-[1.035]"
           />
         ) : null}
-        <div className="absolute inset-0 bg-gradient-to-b from-white/22 via-transparent to-white/30" />
-        <p className="absolute left-5 top-5 text-[11px] font-bold uppercase tracking-[0.08em] text-primary">
+        <div className="absolute inset-0 bg-[#1b130d]/10" />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(22_15_10_/_0.18),rgb(22_15_10_/_0.05)_42%,rgb(22_15_10_/_0.52))]" />
+        <p className="absolute left-5 top-5 text-[11px] font-bold uppercase tracking-[0.08em] text-white drop-shadow-[0_1px_8px_rgb(0_0_0_/_0.35)]">
           {item.category}
         </p>
       </div>

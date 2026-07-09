@@ -213,7 +213,8 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
               className="object-cover"
             />
           ) : null}
-          <div className="absolute inset-0 bg-gradient-to-t from-black/42 via-[#554d4b]/24 to-[#554d4b]/18" />
+          <div className="absolute inset-0 bg-[#19120d]/28" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_64%_30%,rgb(155_96_45_/_0.14),transparent_42%),linear-gradient(180deg,rgb(17_13_10_/_0.18),rgb(17_13_10_/_0.36)_46%,rgb(17_13_10_/_0.68))]" />
           <div className="relative mx-auto flex min-h-[700px] max-w-7xl flex-col px-6 pb-14 pt-44 lg:px-10">
             <nav className="text-lg font-medium text-white/45" aria-label="Breadcrumb">
               <Link href="/gallery" className="transition hover:text-white">
@@ -264,7 +265,8 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
                   sizes="(min-width: 1024px) 760px, 100vw"
                   className="object-cover"
                 />
-                <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_52%,rgb(0_0_0_/_0.18))]" />
+                <div className="absolute inset-0 bg-[#1b130d]/12" />
+                <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(18_13_10_/_0.04),rgb(18_13_10_/_0.18)_54%,rgb(18_13_10_/_0.42))]" />
               </div>
             ) : null}
             <div className="p-8 md:p-10">

@@ -171,8 +171,8 @@ function DetailCard({
   const radius = variant === "food" ? "rounded-[10px]" : "rounded-[12px]";
   const gradient =
     variant === "food"
-      ? "from-black/70 via-black/18 to-transparent"
-      : "from-black/55 via-black/10 to-transparent";
+      ? "from-[#160f0a]/86 via-[#160f0a]/34 to-[#160f0a]/8"
+      : "from-[#160f0a]/78 via-[#160f0a]/28 to-[#160f0a]/6";
 
   return (
     <button
@@ -189,6 +189,7 @@ function DetailCard({
           className="object-cover transition duration-500 group-hover:scale-[1.04]"
         />
       ) : null}
+      <div className="absolute inset-0 bg-[#1b130d]/12" />
       <div className={`absolute inset-0 bg-gradient-to-t ${gradient}`} />
       <div className="absolute inset-x-0 bottom-0 p-6 text-white">
         <p className="mb-3 inline-flex rounded-[8px] bg-white/18 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.08em] text-white backdrop-blur">
