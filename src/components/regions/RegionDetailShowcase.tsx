@@ -199,8 +199,14 @@ function DetailCard({
         <p className="mt-3 text-sm leading-6 text-white/82">
           {clampText(item.description, variant === "food" ? 104 : 68)}
         </p>
-        <span className="mt-5 inline-flex min-h-9 items-center justify-center rounded-[8px] border border-white/24 bg-[#17110d]/46 px-4 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-[0_10px_24px_rgb(0_0_0/0.20)] backdrop-blur-md transition group-hover:border-white/38 group-hover:bg-white/16">
-          Baca lengkap
+        <span className="mt-5 inline-flex min-h-9 items-center gap-3 rounded-[8px] border border-white/24 bg-[#17110d]/46 px-3 py-1 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-[0_10px_24px_rgb(0_0_0/0.20)] backdrop-blur-md transition group-hover:border-white/38 group-hover:bg-white/16">
+          <span>Baca lengkap</span>
+          <span
+            aria-hidden="true"
+            className="grid h-6 w-6 place-items-center rounded-[7px] bg-white text-[13px] leading-none text-[#6f3f1b] transition group-hover:translate-x-0.5"
+          >
+            -&gt;
+          </span>
         </span>
       </div>
     </button>

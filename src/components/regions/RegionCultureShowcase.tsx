@@ -172,6 +172,12 @@ function CultureCard({
         <p className="absolute left-5 top-5 text-[11px] font-bold uppercase tracking-[0.08em] text-white drop-shadow-[0_1px_8px_rgb(0_0_0_/_0.35)]">
           {item.category}
         </p>
+        <span
+          aria-hidden="true"
+          className="absolute right-5 top-5 grid h-8 w-8 place-items-center rounded-[8px] border border-white/24 bg-[#17110d]/52 text-xs font-bold text-white shadow-[0_10px_24px_rgb(0_0_0/0.20)] backdrop-blur-md transition group-hover:translate-x-0.5 group-hover:bg-white/18"
+        >
+          -&gt;
+        </span>
       </div>
 
       <div className="flex flex-1 flex-col justify-end px-6 pb-6 pt-5">
@@ -179,6 +185,15 @@ function CultureCard({
         <p className="mt-3 text-sm leading-6 text-[#675b53]">
           {clampText(item.description)}
         </p>
+        <span className="mt-5 inline-flex w-max items-center gap-2 rounded-[8px] border border-[#eadfd6] bg-[#fbf7f2] px-3 py-2 text-[11px] font-bold uppercase tracking-[0.08em] text-primary transition group-hover:border-primary/35 group-hover:bg-[#f5eadf]">
+          Buka detail
+          <span
+            aria-hidden="true"
+            className="grid h-5 w-5 place-items-center rounded-[7px] bg-primary text-[11px] leading-none text-white transition group-hover:translate-x-0.5"
+          >
+            -&gt;
+          </span>
+        </span>
       </div>
     </button>
   );
