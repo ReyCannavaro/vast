@@ -38,15 +38,16 @@ function PopularRegionCard({
             sizes="(min-width: 1024px) 220px, 45vw"
           />
         ) : null}
-        <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_20%,rgb(0_0_0_/_0.68))]" />
-        <div className="absolute left-4 top-4 rounded-full bg-white/86 px-3 py-1 text-[11px] font-bold text-[#6f3f1b] backdrop-blur-md">
+        <div className="absolute inset-0 bg-[#17110d]/16" />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(18_13_10_/_0.22),transparent_36%,rgb(18_13_10_/_0.78))]" />
+        <div className="absolute left-4 top-4 rounded-[8px] border border-white/70 bg-white px-3 py-1 text-[11px] font-bold text-[#7a451f] shadow-[0_10px_24px_rgb(0_0_0/0.16)]">
           {zone}
         </div>
         <div className="absolute inset-x-0 bottom-0 p-5 text-white">
-          <h2 className="text-[22px] font-bold leading-tight tracking-[-0.04em]">
+          <h2 className="text-[22px] font-bold leading-tight tracking-[-0.04em] drop-shadow-[0_3px_14px_rgb(0_0_0_/_0.26)]">
             {label}
           </h2>
-          <p className="mt-2 text-[12px] font-semibold text-white/76">
+          <p className="mt-2 text-[12px] font-semibold text-white/86">
             {region.destinationIds.length} destinasi, {region.foodIds.length} kuliner
           </p>
         </div>

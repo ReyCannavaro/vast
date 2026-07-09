@@ -124,28 +124,28 @@ export default function GamePage() {
             sizes="100vw"
             className="object-cover object-center"
           />
-          <div className="absolute inset-0 bg-[#211811]/58" />
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgb(195_125_62_/_0.30),transparent_38%),linear-gradient(180deg,rgb(22_17_13_/_0.34),rgb(88_52_24_/_0.54)_54%,rgb(28_20_15_/_0.72))]" />
+          <div className="absolute inset-0 bg-[#17110d]/62" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgb(195_125_62_/_0.18),transparent_38%),linear-gradient(180deg,rgb(18_13_10_/_0.38),rgb(18_13_10_/_0.46)_52%,rgb(18_13_10_/_0.78))]" />
 
           <div className="relative mx-auto max-w-4xl">
-            <h1 className="text-5xl font-bold leading-none tracking-[-0.04em] text-[#d79b63] sm:text-6xl lg:text-[72px]">
+            <h1 className="text-5xl font-bold leading-none tracking-[-0.04em] text-[#fff5ec] drop-shadow-[0_10px_34px_rgb(0_0_0_/_0.34)] sm:text-6xl lg:text-[72px]">
               Belajar Sambil Bermain
             </h1>
-            <p className="mx-auto mt-6 max-w-3xl text-[20px] leading-8 text-white/72">
+            <p className="mx-auto mt-6 max-w-3xl text-[20px] leading-8 text-white/84">
               Uji wawasan budayamu lewat kuis, mencocokkan warisan, dan menyusun puzzle
               Jawa Timur secara interaktif.
             </p>
 
             <div className="mt-9 flex flex-wrap justify-center gap-4">
-              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
+              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.16)]">
                 <HeroPillIcon type="game" />
                 {gameItems.length} Mini Game
               </span>
-              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
+              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.16)]">
                 <HeroPillIcon type="region" />
                 {summary.quiz.coveredRegions} Wilayah
               </span>
-              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
+              <span className="hero-stat-pill inline-flex h-11 items-center gap-3 rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.16)]">
                 <HeroPillIcon type="score" />
                 Skor &amp; Progress
               </span>
@@ -229,7 +229,7 @@ export default function GamePage() {
 
                 <Link
                   href="/game/quiz"
-                  className="mt-10 inline-flex h-12 items-center justify-center rounded-full bg-primary px-7 text-sm font-bold text-white transition hover:bg-secondary"
+                  className="mt-10 inline-flex h-12 items-center justify-center rounded-[10px] bg-primary px-7 text-sm font-bold text-white transition hover:bg-secondary"
                 >
                   Mulai dari Culture Quiz
                 </Link>

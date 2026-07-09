@@ -213,19 +213,24 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
               className="object-cover"
             />
           ) : null}
-          <div className="absolute inset-0 bg-gradient-to-t from-black/42 via-[#554d4b]/24 to-[#554d4b]/18" />
+          <div className="absolute inset-0 bg-[#19120d]/28" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_64%_30%,rgb(155_96_45_/_0.14),transparent_42%),linear-gradient(180deg,rgb(17_13_10_/_0.18),rgb(17_13_10_/_0.36)_46%,rgb(17_13_10_/_0.68))]" />
+          <div className="absolute inset-x-0 top-0 h-[320px] bg-gradient-to-b from-[#17110d]/72 via-[#17110d]/34 to-transparent" />
           <div className="relative mx-auto flex min-h-[700px] max-w-7xl flex-col px-6 pb-14 pt-44 lg:px-10">
-            <nav className="text-lg font-medium text-white/45" aria-label="Breadcrumb">
+            <nav
+              className="text-lg font-medium text-white/72 drop-shadow-[0_2px_12px_rgb(0_0_0_/_0.38)]"
+              aria-label="Breadcrumb"
+            >
               <Link href="/gallery" className="transition hover:text-white">
                 Gallery
               </Link>
-              <span className="mx-2 text-white/28">›</span>
-              <span className="text-primary">{shortName}</span>
+              <span className="mx-2 text-white/42">›</span>
+              <span className="text-white/92">{shortName}</span>
             </nav>
 
             <div className="mt-auto flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between">
               <div>
-                <p className="inline-flex rounded-full bg-[#ffd4b8] px-4 py-2 text-sm font-medium uppercase tracking-[0.02em] text-[#3a2820]">
+                <p className="inline-flex rounded-[8px] border border-white/72 bg-white px-4 py-2 text-[13px] font-bold uppercase tracking-[0.04em] text-[#7a451f] shadow-[0_12px_28px_rgb(0_0_0/0.16)]">
                   {formatType(region)}
                 </p>
                 <h1 className="mt-6 text-6xl font-semibold leading-none tracking-[-0.03em] text-white md:text-7xl">
@@ -264,7 +269,8 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
                   sizes="(min-width: 1024px) 760px, 100vw"
                   className="object-cover"
                 />
-                <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_52%,rgb(0_0_0_/_0.18))]" />
+                <div className="absolute inset-0 bg-[#1b130d]/12" />
+                <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(18_13_10_/_0.04),rgb(18_13_10_/_0.18)_54%,rgb(18_13_10_/_0.42))]" />
               </div>
             ) : null}
             <div className="p-8 md:p-10">
@@ -278,7 +284,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
               {chips.map((chip, index) => (
                 <span
                   key={chip}
-                  className={`rounded-full border px-4 py-2 text-sm ${
+                  className={`rounded-[8px] border px-4 py-2 text-sm ${
                     index === 1
                       ? "border-[#d8ded0] bg-[#eef2ea] text-[#65755a]"
                       : "border-[#ead5cb] bg-[#fbf0e9] text-primary"

@@ -207,7 +207,7 @@ function PuzzleGameSurface({ puzzle, region }: PuzzleGameSurfaceProps) {
         {/* Header - Unified Stats Dashboard */}
         <div className="relative z-10 flex flex-col xl:flex-row xl:items-end justify-between gap-8 border-b border-border pb-8">
           <div>
-            <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
+            <div className="mb-4 inline-flex items-center gap-2 rounded-[8px] border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
               <div className="h-1.5 w-1.5 rounded-full bg-primary" />
               Sliding Puzzle
             </div>
@@ -321,13 +321,13 @@ function PuzzleGameSurface({ puzzle, region }: PuzzleGameSurfaceProps) {
                   <button
                     type="button"
                     onClick={handleShuffle}
-                    className="flex flex-1 h-14 items-center justify-center rounded-xl bg-primary px-8 text-sm font-bold tracking-widest uppercase text-white shadow-md transition-colors hover:bg-secondary active:scale-[0.98]"
+                    className="flex flex-1 h-14 items-center justify-center rounded-[10px] bg-primary px-8 text-sm font-bold tracking-widest uppercase text-white shadow-md transition-colors hover:bg-secondary active:scale-[0.98]"
                   >
                     Acak Gambar
                   </button>
                   <Link
                     href="/game/puzzle"
-                    className="flex flex-1 h-14 items-center justify-center rounded-xl border border-primary bg-surface px-8 text-sm font-bold tracking-widest uppercase text-primary transition-colors hover:bg-primary/10 active:scale-[0.98]"
+                    className="flex flex-1 h-14 items-center justify-center rounded-[10px] border border-primary bg-surface px-8 text-sm font-bold tracking-widest uppercase text-primary transition-colors hover:bg-primary/10 active:scale-[0.98]"
                   >
                     Gambar Lain
                   </Link>
@@ -390,10 +390,10 @@ function PuzzleGameSurface({ puzzle, region }: PuzzleGameSurfaceProps) {
                 Kamu berhasil menyelesaikan visual {puzzleName} dari {region.name} hanya dalam {moves} langkah. Sangat mengesankan!
              </p>
              <div className="flex w-full max-w-md flex-col sm:flex-row gap-4">
-                <button onClick={handleShuffle} className="flex flex-1 items-center justify-center rounded-xl bg-white py-4 text-sm font-bold text-primary transition-all hover:scale-105 shadow-md">
+                <button onClick={handleShuffle} className="flex flex-1 items-center justify-center rounded-[10px] bg-white py-4 text-sm font-bold text-primary transition-all hover:scale-105 shadow-md">
                   Acak & Main Lagi
                 </button>
-                <Link href="/game/puzzle" className="flex flex-1 items-center justify-center rounded-xl border-2 border-white/30 bg-primary py-4 text-sm font-bold text-white transition-all hover:bg-white/10">
+                <Link href="/game/puzzle" className="flex flex-1 items-center justify-center rounded-[10px] border-2 border-white/30 bg-primary py-4 text-sm font-bold text-white transition-all hover:bg-white/10">
                   Pilih Puzzle Lain
                 </Link>
              </div>
@@ -411,7 +411,7 @@ export function PuzzlePlayClient({ puzzle, region }: PuzzlePlayClientProps) {
         <div className="flex w-full max-w-md flex-col items-center rounded-[2rem] bg-surface p-12 text-center shadow-xl ring-1 ring-border">
           <h1 className="text-3xl font-semibold tracking-tight text-ink">Belum ada puzzle</h1>
           <p className="mt-4 text-base text-muted">Wilayah ini belum memiliki paket puzzle yang bisa dimainkan.</p>
-          <Link href="/game/puzzle" className="mt-8 rounded-xl bg-primary px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-secondary">
+          <Link href="/game/puzzle" className="mt-8 rounded-[10px] bg-primary px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-secondary">
             Pilih wilayah lain
           </Link>
         </div>

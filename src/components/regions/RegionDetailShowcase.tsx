@@ -171,8 +171,8 @@ function DetailCard({
   const radius = variant === "food" ? "rounded-[10px]" : "rounded-[12px]";
   const gradient =
     variant === "food"
-      ? "from-black/70 via-black/18 to-transparent"
-      : "from-black/55 via-black/10 to-transparent";
+      ? "from-[#160f0a]/86 via-[#160f0a]/34 to-[#160f0a]/8"
+      : "from-[#160f0a]/78 via-[#160f0a]/28 to-[#160f0a]/6";
 
   return (
     <button
@@ -189,17 +189,24 @@ function DetailCard({
           className="object-cover transition duration-500 group-hover:scale-[1.04]"
         />
       ) : null}
+      <div className="absolute inset-0 bg-[#1b130d]/12" />
       <div className={`absolute inset-0 bg-gradient-to-t ${gradient}`} />
       <div className="absolute inset-x-0 bottom-0 p-6 text-white">
-        <p className="mb-3 inline-flex rounded-full bg-white/18 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.08em] text-white backdrop-blur">
+        <p className="mb-3 inline-flex rounded-[8px] border border-white/70 bg-white px-3 py-1 text-[11px] font-bold uppercase tracking-[0.08em] text-[#7a451f] shadow-[0_10px_22px_rgb(0_0_0/0.14)]">
           {item.badge}
         </p>
         <h3 className="text-lg font-bold">{item.name}</h3>
         <p className="mt-3 text-sm leading-6 text-white/82">
           {clampText(item.description, variant === "food" ? 104 : 68)}
         </p>
-        <span className="mt-5 inline-flex border-b border-white/55 pb-1 text-sm font-bold text-white/92">
-          Baca lengkap
+        <span className="mt-5 inline-flex min-h-9 items-center gap-3 rounded-[8px] border border-white/24 bg-[#17110d]/46 px-3 py-1 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-[0_10px_24px_rgb(0_0_0/0.20)] backdrop-blur-md transition group-hover:border-white/38 group-hover:bg-white/16">
+          <span>Baca lengkap</span>
+          <span
+            aria-hidden="true"
+            className="grid h-6 w-6 place-items-center rounded-[7px] bg-white text-[13px] leading-none text-[#6f3f1b] transition group-hover:translate-x-0.5"
+          >
+            -&gt;
+          </span>
         </span>
       </div>
     </button>

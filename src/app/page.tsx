@@ -168,7 +168,7 @@ function MiniMapPreview() {
         </div>
         <Link
           href="/regions"
-          className="rounded-full border border-[#d9c8b8] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] transition hover:border-[#8c531f] hover:text-[#8c531f]"
+          className="rounded-[8px] border border-[#d9c8b8] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] transition hover:border-[#8c531f] hover:text-[#8c531f]"
         >
           Buka Peta
         </Link>
@@ -231,7 +231,7 @@ function MiniMapPreview() {
             ))}
           </svg>
 
-          <div className="absolute bottom-4 left-4 max-w-[250px] rounded-[10px] border border-white/60 bg-white/88 px-4 py-3 text-[#332f2a] shadow-[0_14px_30px_rgb(36_42_36_/_0.16)] backdrop-blur-md">
+          <div className="absolute bottom-4 left-4 max-w-[250px] rounded-[10px] border border-[#eadfd3] bg-[#fffaf5] px-4 py-3 text-[#332f2a] shadow-[0_14px_30px_rgb(64_45_31_/_0.12)]">
             <p className="text-[11px] font-black uppercase tracking-[0.12em] text-[#8c531f]">
               Highlight
             </p>
@@ -283,15 +283,15 @@ export default function Home() {
             className="object-cover"
             sizes="100vw"
           />
-          <div className="absolute inset-0 bg-[#211811]/22" />
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_68%_34%,rgb(195_125_62_/_0.16),transparent_38%),linear-gradient(90deg,rgb(16_11_8_/_0.40),rgb(16_11_8_/_0.16)_46%,rgb(16_11_8_/_0.04)),linear-gradient(180deg,rgb(22_17_13_/_0.12),transparent_52%,rgb(28_20_15_/_0.24))]" />
+          <div className="absolute inset-0 bg-[#211811]/26" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_68%_34%,rgb(195_125_62_/_0.14),transparent_38%),linear-gradient(90deg,rgb(16_11_8_/_0.48),rgb(16_11_8_/_0.20)_46%,rgb(16_11_8_/_0.08)),linear-gradient(180deg,rgb(22_17_13_/_0.16),transparent_52%,rgb(28_20_15_/_0.30))]" />
 
           <div className="relative mx-auto max-w-[1340px] px-6 pb-48 pt-[178px] sm:px-10 lg:px-20">
             <div className="max-w-[610px]">
               <h1 className="text-[52px] font-semibold leading-[1.24] tracking-[-0.02em] sm:text-[66px] lg:text-[78px]">
                 Satu Peta, 38 Daerah, Tak Terbatas Cerita.
               </h1>
-              <p className="mt-12 max-w-[730px] text-[15px] font-medium leading-6 text-white/72">
+              <p className="mt-12 max-w-[730px] text-[15px] font-medium leading-6 text-white/84">
                 Jelajahi kekayaan budaya Jawa Timur melalui satu pengalaman interaktif.
                 Temukan tradisi lokal, destinasi ikonik, kuliner khas, dan kisah unik
                 dari setiap kota dan kabupaten.
@@ -299,7 +299,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] border border-white/72 bg-white/93 px-7 py-7 text-[#111111] shadow-[inset_0_1px_0_rgb(255_255_255_/_0.82),0_26px_70px_rgb(30_22_16_/_0.16)] backdrop-blur-sm sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
+          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] border border-[#eadfd3] bg-[#fffaf5] px-7 py-7 text-[#111111] shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(64_45_31_/_0.14)] sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
             <div className="grid gap-7 md:grid-cols-[285px_1fr] md:items-center">
               <div className="relative min-h-[192px] overflow-hidden rounded-[14px] bg-[#c8c8c8]">
                 <Image
@@ -321,13 +321,13 @@ export default function Home() {
                 <div className="mt-7 flex flex-wrap gap-4">
                   <Link
                     href="/regions"
-                    className="inline-flex h-10 items-center justify-center rounded-full bg-[#8c531f] px-5 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
+                    className="inline-flex h-10 items-center justify-center rounded-[8px] bg-[#8c531f] px-5 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
                   >
                     Mulai Menjelajah
                   </Link>
                   <Link
                     href="/regions"
-                    className="inline-flex h-10 items-center justify-center rounded-full bg-black px-5 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
+                    className="inline-flex h-10 items-center justify-center rounded-[8px] bg-black px-5 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
                   >
                     Lihat Daerah
                   </Link>
@@ -337,7 +337,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto grid max-w-[1350px] gap-16 px-6 pb-24 pt-[158px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
+        <section className="mx-auto grid max-w-[1350px] gap-16 px-6 pb-24 pt-[220px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
           <div className="relative min-h-[480px] overflow-hidden bg-[#c9c9c9] lg:min-h-[590px]">
             <Image
               src="/images/regions/kota-surabaya/destinations/tugu-pahlawan.jpg"
@@ -401,7 +401,7 @@ export default function Home() {
                 sizes="50vw"
               />
             </div>
-            <div className="relative top-20 max-w-[630px] rounded-[18px] border border-[#e4d7cb] bg-white/94 px-14 py-14 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_28px_80px_rgb(92_61_39_/_0.13)] backdrop-blur-sm sm:px-16 sm:py-16 lg:-ml-8 xl:-ml-12">
+            <div className="relative top-20 max-w-[630px] rounded-[14px] border border-[#e4d7cb] bg-[#fffaf5] px-14 py-14 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_28px_80px_rgb(92_61_39_/_0.12)] sm:px-16 sm:py-16 lg:-ml-8 xl:-ml-12">
               <div className="absolute left-0 top-14 hidden h-24 w-[5px] rounded-r-full bg-[#8c531f] sm:block" />
               <h2 className="text-[46px] font-semibold leading-[1.24] tracking-[-0.04em] sm:text-[60px]">
                 Jelajahi Warisan Budaya Jawa Timur
@@ -458,7 +458,7 @@ export default function Home() {
                 <Link
                   key={item}
                   href="/regions"
-                  className={`inline-flex h-11 items-center rounded-full border px-5 text-[15px] font-medium transition ${
+                  className={`inline-flex h-11 items-center rounded-[8px] border px-5 text-[15px] font-medium transition ${
                     index === 0
                       ? "border-[#8c531f] bg-[#8c531f] text-white hover:bg-[#a2632c]"
                       : "border-[#d9c8b8] bg-white text-[#594d43] hover:border-[#8c531f] hover:text-[#8c531f]"
@@ -489,7 +489,7 @@ export default function Home() {
                 className="rounded-[22px] object-cover"
                 sizes="(min-width: 1024px) 48vw, 100vw"
               />
-              <div className="absolute bottom-[-34px] left-1/2 w-[82%] -translate-x-1/2 rounded-[18px] border border-[#e5d8cc] bg-white/94 px-9 py-9 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(92_61_39_/_0.14)] backdrop-blur-sm">
+              <div className="absolute bottom-[-34px] left-1/2 w-[82%] -translate-x-1/2 rounded-[14px] border border-[#e5d8cc] bg-[#fffaf5] px-9 py-9 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(92_61_39_/_0.12)]">
                 <h3 className="text-[26px] font-semibold tracking-[-0.04em]">
                   Learn While You Play
                 </h3>
@@ -500,13 +500,13 @@ export default function Home() {
                 <div className="mt-7 flex flex-wrap gap-4">
                   <Link
                     href="/regions"
-                    className="inline-flex h-11 items-center rounded-full bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
+                    className="inline-flex h-11 items-center rounded-[8px] bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
                   >
                     Explore the Map
                   </Link>
                   <Link
                     href="/game"
-                    className="inline-flex h-11 items-center rounded-full bg-black px-6 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
+                    className="inline-flex h-11 items-center rounded-[8px] bg-black px-6 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
                   >
                     Play Mini Game
                   </Link>

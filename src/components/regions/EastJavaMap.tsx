@@ -116,7 +116,7 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
               ].map((item) => (
                 <span
                   key={item}
-                  className="rounded-full bg-[#f2eee9] px-3 py-2 text-[11px] font-bold text-[#6f3f1b]"
+                  className="rounded-[8px] bg-[#f2eee9] px-3 py-2 text-[11px] font-bold text-[#6f3f1b]"
                 >
                   {item}
                 </span>
@@ -125,7 +125,7 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
 
             <Link
               href={activeRegion.href}
-              className="mt-7 inline-flex h-12 w-full items-center justify-center rounded-full bg-[#8c531f] px-5 text-[13px] font-bold text-white transition hover:bg-[#a2632c] active:translate-y-px"
+              className="mt-7 inline-flex h-12 w-full items-center justify-center rounded-[10px] bg-[#8c531f] px-5 text-[13px] font-bold text-white transition hover:bg-[#a2632c] active:translate-y-px"
             >
               Lihat Detail Wilayah
             </Link>
@@ -262,7 +262,7 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
             ) : null}
           </svg>
 
-          <div className="absolute bottom-5 right-5 rounded-full border border-white/64 bg-white/80 px-4 py-2 text-[12px] font-bold text-[#6f3f1b] shadow-[0_12px_28px_rgb(56_45_34_/_0.12)] backdrop-blur-xl">
+          <div className="absolute bottom-5 right-5 rounded-[8px] border border-[#eadfd3] bg-[#fffaf5] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] shadow-[0_12px_28px_rgb(56_45_34_/_0.12)]">
             {getContentSummary(activeRegion)}
           </div>
         </div>
