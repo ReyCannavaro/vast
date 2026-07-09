@@ -46,6 +46,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
   const selectedAnswer = activeQuestion ? answers[activeQuestion.id] : undefined;
   const isAnswered = Boolean(selectedAnswer);
   const isLastQuestion = activeIndex === questions.length - 1;
+  const displayedQuestionNumber = isComplete ? questions.length : activeIndex + 1;
   const correctCount = useMemo(
     () =>
       questions.filter((question) => {
@@ -145,7 +146,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
 
           <div className="mt-16 flex items-center justify-between text-sm font-medium text-muted">
             <div>
-              Soal <span className="text-ink font-semibold">{activeIndex + (isComplete ? 0 : 1)}</span> dari {questions.length}
+              Soal <span className="text-ink font-semibold">{displayedQuestionNumber}</span> dari {questions.length}
             </div>
             <div className="flex items-center gap-3">
               <span className="h-px w-8 bg-border"></span>
@@ -159,7 +160,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
           {isComplete ? (
             <div className="flex flex-col items-start justify-center animate-in fade-in zoom-in-95 duration-500">
                <h3 className="text-[80px] sm:text-[100px] font-semibold tracking-tighter text-primary leading-none">
-                  {Math.round((correctCount/questions.length)*100)}<span className="text-4xl text-muted">%</span>
+                  {Math.round((correctCount / Math.max(questions.length, 1)) * 100)}<span className="text-4xl text-muted">%</span>
                </h3>
                <p className="mt-6 text-lg text-ink/80 leading-relaxed font-medium">
                   Kamu berhasil menjawab <span className="font-semibold text-primary">{correctCount}</span> dari {questions.length} soal dengan benar. Total poin akhirmu adalah <span className="font-semibold text-primary">{score}</span>.

@@ -375,16 +375,16 @@ export default function Home() {
 
             <div className="mt-[72px] grid grid-cols-2 gap-10">
               <div>
-                <p className="text-[50px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
+                <p className="text-[50px] font-semibold leading-none tracking-[-0.04em] text-[#252b35]">
                   {heritageItems.length}+
                 </p>
-                <p className="mt-5 text-[15px] text-[#252b35]">Warisan Budaya</p>
+                <p className="mt-5 text-[15px] font-semibold text-[#252b35]">Warisan Budaya</p>
               </div>
               <div>
-                <p className="text-[50px] font-light leading-none tracking-[-0.04em] text-[#252b35]">
+                <p className="text-[50px] font-semibold leading-none tracking-[-0.04em] text-[#252b35]">
                   {regions.length}+
                 </p>
-                <p className="mt-5 text-[15px] text-[#252b35]">Kota & Kabupaten</p>
+                <p className="mt-5 text-[15px] font-semibold text-[#252b35]">Kota & Kabupaten</p>
               </div>
             </div>
           </div>

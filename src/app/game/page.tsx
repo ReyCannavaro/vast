@@ -12,7 +12,7 @@ const cardToneByHref = {
 } as const;
 
 const cardBadgeByHref: Record<string, string> = {
-  "/game/quiz": "10 Soal",
+  "/game/quiz": "Maks. 10 Soal",
   "/game/matching": "Memory Game",
   "/game/puzzle": "Logic",
 };

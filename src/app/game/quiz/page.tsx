@@ -19,7 +19,7 @@ export default function QuizPage() {
       <SiteHeader />
 
       <main>
-        <section className="relative isolate overflow-hidden bg-[#2f2118] px-6 pb-24 pt-36 text-white">
+        <section className="relative isolate flex min-h-[100svh] items-center overflow-hidden bg-[#2f2118] px-6 py-24 pt-40 text-white">
           <Image
             src="/images/regions/kabupaten-ponorogo/hero/hero.jpg"
             alt="Pertunjukan Reog Ponorogo sebagai latar pemilihan quiz"
@@ -28,8 +28,9 @@ export default function QuizPage() {
             sizes="100vw"
             className="-z-20 object-cover object-center"
           />
-          <div className="absolute inset-0 -z-10 bg-[#211811]/54" />
-          <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_50%_32%,rgb(195_125_62_/_0.32),transparent_39%),linear-gradient(180deg,rgb(22_17_13_/_0.30),rgb(88_52_24_/_0.44)_54%,rgb(28_20_15_/_0.66))]" />
+          <div className="absolute inset-0 -z-10 bg-[#17110d]/58" />
+          <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_50%_34%,rgb(195_125_62_/_0.30),transparent_39%),linear-gradient(180deg,rgb(18_13_10_/_0.34),rgb(83_49_24_/_0.42)_55%,rgb(18_13_10_/_0.72))]" />
+          <div className="absolute inset-x-0 bottom-0 -z-10 h-32 bg-gradient-to-t from-white via-white/70 to-transparent" />
 
           <div className="mx-auto max-w-6xl text-center">
             <Link
@@ -38,7 +39,7 @@ export default function QuizPage() {
             >
               <span aria-hidden="true">&lt;-</span>&nbsp;Kembali ke Mini Game
             </Link>
-            <h1 className="mt-16 text-5xl font-bold leading-none tracking-[-0.04em] text-primary md:text-7xl">
+            <h1 className="mt-12 text-5xl font-bold leading-none tracking-[-0.04em] text-primary md:text-7xl">
               Pilih Wilayah Quiz
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-white/62">
@@ -54,7 +55,7 @@ export default function QuizPage() {
                 {totalQuestions} Soal
               </span>
               <span className="quiz-hero-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
-                10 Soal per ronde
+                Maks. 10 soal per ronde
               </span>
             </div>
           </div>

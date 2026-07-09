@@ -67,7 +67,7 @@ function MatchingCard({
       type="button"
       disabled={isLocked}
       onClick={onSelect}
-      className={`group relative flex min-h-[72px] w-full items-center justify-between rounded-2xl border-2 text-left transition-all duration-200 overflow-hidden ${
+      className={`group relative flex min-h-[88px] w-full items-center justify-between rounded-2xl border-2 text-left transition-all duration-200 overflow-hidden ${
         status === "correct"
           ? "border-leaf border-b-2 bg-leaf text-white shadow-none translate-y-[4px]"
           : status === "wrong"
@@ -88,7 +88,7 @@ function MatchingCard({
              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-4 h-4 text-white animate-in zoom-in duration-300"><path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
           )}
         </div>
-        <span className={`text-base font-bold tracking-tight ${status !== "idle" ? "" : "text-ink"}`}>
+        <span className={`text-sm font-bold leading-relaxed tracking-tight sm:text-[15px] ${status !== "idle" ? "" : "text-ink"}`}>
           {card.label}
         </span>
       </div>
