@@ -108,7 +108,7 @@ export function SiteFooter() {
               </p>
               <Link
                 href="/gallery"
-                className="mt-[29px] inline-flex h-[35px] w-[109px] items-center justify-center rounded-full bg-[#9d5b23] text-[12px] font-medium text-white transition-colors hover:bg-[#b16a2c]"
+                className="mt-[29px] inline-flex h-[35px] w-[109px] items-center justify-center rounded-[8px] bg-[#9d5b23] text-[12px] font-medium text-white transition-colors hover:bg-[#b16a2c]"
               >
                 Subscribe
               </Link>

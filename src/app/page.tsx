@@ -168,7 +168,7 @@ function MiniMapPreview() {
         </div>
         <Link
           href="/regions"
-          className="rounded-full border border-[#d9c8b8] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] transition hover:border-[#8c531f] hover:text-[#8c531f]"
+          className="rounded-[8px] border border-[#d9c8b8] px-4 py-2 text-[12px] font-bold text-[#6f3f1b] transition hover:border-[#8c531f] hover:text-[#8c531f]"
         >
           Buka Peta
         </Link>
@@ -321,13 +321,13 @@ export default function Home() {
                 <div className="mt-7 flex flex-wrap gap-4">
                   <Link
                     href="/regions"
-                    className="inline-flex h-10 items-center justify-center rounded-full bg-[#8c531f] px-5 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
+                    className="inline-flex h-10 items-center justify-center rounded-[8px] bg-[#8c531f] px-5 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
                   >
                     Mulai Menjelajah
                   </Link>
                   <Link
                     href="/regions"
-                    className="inline-flex h-10 items-center justify-center rounded-full bg-black px-5 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
+                    className="inline-flex h-10 items-center justify-center rounded-[8px] bg-black px-5 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
                   >
                     Lihat Daerah
                   </Link>
@@ -458,7 +458,7 @@ export default function Home() {
                 <Link
                   key={item}
                   href="/regions"
-                  className={`inline-flex h-11 items-center rounded-full border px-5 text-[15px] font-medium transition ${
+                  className={`inline-flex h-11 items-center rounded-[8px] border px-5 text-[15px] font-medium transition ${
                     index === 0
                       ? "border-[#8c531f] bg-[#8c531f] text-white hover:bg-[#a2632c]"
                       : "border-[#d9c8b8] bg-white text-[#594d43] hover:border-[#8c531f] hover:text-[#8c531f]"
@@ -500,13 +500,13 @@ export default function Home() {
                 <div className="mt-7 flex flex-wrap gap-4">
                   <Link
                     href="/regions"
-                    className="inline-flex h-11 items-center rounded-full bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
+                    className="inline-flex h-11 items-center rounded-[8px] bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"
                   >
                     Explore the Map
                   </Link>
                   <Link
                     href="/game"
-                    className="inline-flex h-11 items-center rounded-full bg-black px-6 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
+                    className="inline-flex h-11 items-center rounded-[8px] bg-black px-6 text-[12px] font-semibold text-white transition hover:bg-[#8c531f]"
                   >
                     Play Mini Game
                   </Link>

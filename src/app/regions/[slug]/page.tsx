@@ -225,7 +225,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
 
             <div className="mt-auto flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between">
               <div>
-                <p className="inline-flex rounded-full bg-[#ffd4b8] px-4 py-2 text-sm font-medium uppercase tracking-[0.02em] text-[#3a2820]">
+                <p className="inline-flex rounded-[8px] bg-[#ffd4b8] px-4 py-2 text-sm font-medium uppercase tracking-[0.02em] text-[#3a2820]">
                   {formatType(region)}
                 </p>
                 <h1 className="mt-6 text-6xl font-semibold leading-none tracking-[-0.03em] text-white md:text-7xl">
@@ -278,7 +278,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
               {chips.map((chip, index) => (
                 <span
                   key={chip}
-                  className={`rounded-full border px-4 py-2 text-sm ${
+                  className={`rounded-[8px] border px-4 py-2 text-sm ${
                     index === 1
                       ? "border-[#d8ded0] bg-[#eef2ea] text-[#65755a]"
                       : "border-[#ead5cb] bg-[#fbf0e9] text-primary"

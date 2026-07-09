@@ -191,7 +191,7 @@ function DetailCard({
       ) : null}
       <div className={`absolute inset-0 bg-gradient-to-t ${gradient}`} />
       <div className="absolute inset-x-0 bottom-0 p-6 text-white">
-        <p className="mb-3 inline-flex rounded-full bg-white/18 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.08em] text-white backdrop-blur">
+        <p className="mb-3 inline-flex rounded-[8px] bg-white/18 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.08em] text-white backdrop-blur">
           {item.badge}
         </p>
         <h3 className="text-lg font-bold">{item.name}</h3>

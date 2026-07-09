@@ -100,7 +100,7 @@ function GalleryCard({
           />
         ) : null}
         <div className="absolute inset-x-0 top-0 flex justify-end p-3">
-          <span className="rounded-full bg-[#e5efd2] px-3 py-1 text-[10px] font-bold uppercase text-[#5f7a34]">
+          <span className="rounded-[8px] bg-[#e5efd2] px-3 py-1 text-[10px] font-bold uppercase text-[#5f7a34]">
             {item.regionName}
           </span>
         </div>
@@ -180,7 +180,7 @@ export function GalleryRandomSections({ items }: GalleryRandomSectionsProps) {
         <div className="absolute inset-0 bg-[#2d2925]/62" />
         <div className="absolute inset-0 bg-gradient-to-b from-black/32 via-black/18 to-[#3c3a38]/78" />
         <div className="relative mx-auto flex min-h-[520px] max-w-5xl flex-col items-center justify-center">
-          <p className="rounded-full border border-white/42 px-4 py-2 text-xs font-bold uppercase tracking-[0.12em] text-white/80">
+          <p className="rounded-[8px] border border-white/42 px-4 py-2 text-xs font-bold uppercase tracking-[0.12em] text-white/80">
             Eksplorasi Warisan Nusantara
           </p>
           <h1 className="mt-6 text-5xl font-bold leading-none text-primary md:text-7xl">

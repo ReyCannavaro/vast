@@ -94,7 +94,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
         <div className="flex w-full max-w-md flex-col items-center rounded-[2rem] bg-surface p-12 text-center shadow-xl ring-1 ring-border">
           <h1 className="text-3xl font-semibold tracking-tight text-ink">Tidak ada soal</h1>
           <p className="mt-4 text-base text-muted">Belum ada paket soal untuk {region?.name || 'wilayah ini'}.</p>
-          <Link href="/game/quiz" className="mt-8 rounded-xl bg-primary px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-secondary">
+          <Link href="/game/quiz" className="mt-8 rounded-[10px] bg-primary px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-secondary">
             Kembali ke Peta
           </Link>
         </div>
@@ -121,7 +121,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
           <div>
             {!isComplete ? (
               <div className="animate-in fade-in duration-500">
-                <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
+                <div className="mb-6 inline-flex items-center gap-2 rounded-[8px] border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
                   <div className="h-1.5 w-1.5 rounded-full bg-primary" />
                   {getQuestionCategory(activeQuestion.id)}
                 </div>
@@ -131,7 +131,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
               </div>
             ) : (
               <div className="animate-in fade-in duration-500">
-                <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
+                <div className="mb-6 inline-flex items-center gap-2 rounded-[8px] border border-border bg-background px-3 py-1.5 text-[11px] font-bold uppercase tracking-widest text-muted">
                   Kuis Selesai
                 </div>
                 <h2 className="text-4xl font-semibold tracking-tight text-ink md:text-5xl lg:text-5xl leading-[1.1]">
@@ -166,10 +166,10 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
                   Kamu berhasil menjawab <span className="font-semibold text-primary">{correctCount}</span> dari {questions.length} soal dengan benar. Total poin akhirmu adalah <span className="font-semibold text-primary">{score}</span>.
                </p>
                <div className="mt-10 flex w-full flex-col gap-3">
-                  <button onClick={handleRestart} className="flex w-full items-center justify-center rounded-xl bg-primary py-4 text-sm font-semibold text-white transition-all hover:bg-secondary shadow-md hover:shadow-lg">
+                  <button onClick={handleRestart} className="flex w-full items-center justify-center rounded-[10px] bg-primary py-4 text-sm font-semibold text-white transition-all hover:bg-secondary shadow-md hover:shadow-lg">
                     Main Lagi
                   </button>
-                  <Link href="/game/quiz" className="flex w-full items-center justify-center rounded-xl border border-primary bg-surface py-4 text-sm font-semibold text-primary transition-all hover:bg-primary/10">
+                  <Link href="/game/quiz" className="flex w-full items-center justify-center rounded-[10px] border border-primary bg-surface py-4 text-sm font-semibold text-primary transition-all hover:bg-primary/10">
                     Pilih Wilayah Lain
                   </Link>
                </div>
@@ -238,7 +238,7 @@ export function QuizPlayClient({ questions, region }: QuizPlayClientProps) {
                    </div>
                    <button
                      onClick={handleNextQuestion}
-                     className="mt-4 flex w-full items-center justify-center gap-2 rounded-2xl bg-primary py-4 text-sm font-semibold text-white transition-all hover:bg-secondary shadow-md hover:shadow-lg"
+                     className="mt-4 flex w-full items-center justify-center gap-2 rounded-[10px] bg-primary py-4 text-sm font-semibold text-white transition-all hover:bg-secondary shadow-md hover:shadow-lg"
                    >
                      {isLastQuestion ? "Lihat Hasil Akhir" : "Lanjut ke Soal Berikutnya"}
                      <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>

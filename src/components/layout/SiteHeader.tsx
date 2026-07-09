@@ -169,7 +169,7 @@ export function SiteHeader() {
         </div>
         <Link
           href="/regions"
-          className="inline-flex h-9 shrink-0 items-center justify-center rounded-full bg-primary px-5 text-[11px] font-bold text-white shadow-[0_10px_22px_rgb(138_79_29_/_0.22)] transition hover:bg-secondary active:translate-y-px sm:h-10 sm:px-6"
+          className="inline-flex h-9 shrink-0 items-center justify-center rounded-[10px] bg-primary px-5 text-[11px] font-bold text-white shadow-[0_10px_22px_rgb(138_79_29_/_0.22)] transition hover:bg-secondary active:translate-y-px sm:h-10 sm:px-6"
         >
           Get Started
         </Link>

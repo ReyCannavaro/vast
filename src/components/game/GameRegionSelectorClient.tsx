@@ -117,7 +117,7 @@ export function GameRegionSelectorClient({
                 key={filter.value}
                 type="button"
                 onClick={() => setActiveFilter(filter.value)}
-                className={`h-12 rounded-full border px-6 text-sm font-bold transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] active:scale-[0.98] ${
+                className={`h-12 rounded-[10px] border px-6 text-sm font-bold transition duration-300 ease-[cubic-bezier(0.32,0.72,0,1)] active:scale-[0.98] ${
                   isActive
                     ? styles.activeFilter
                     : "border-[#dfd0c2] bg-white text-[#675a51] hover:border-primary hover:text-primary"
@@ -153,7 +153,7 @@ export function GameRegionSelectorClient({
                   />
                 ) : null}
                 <div className="absolute inset-0 bg-gradient-to-t from-black/54 via-black/8 to-transparent" />
-                <span className="absolute bottom-4 left-4 rounded-full bg-white/88 px-4 py-2 text-xs font-bold uppercase tracking-[0.08em] text-primary">
+                <span className="absolute bottom-4 left-4 rounded-[8px] bg-white/88 px-4 py-2 text-xs font-bold uppercase tracking-[0.08em] text-primary">
                   {formatRegionType(region.type)}
                 </span>
               </div>
@@ -168,7 +168,7 @@ export function GameRegionSelectorClient({
                       {region.culturalArea ?? "Jawa Timur"}
                     </p>
                   </div>
-                  <span className={`rounded-full px-4 py-2 text-sm font-bold ${styles.badge}`}>
+                  <span className={`rounded-[8px] px-4 py-2 text-sm font-bold ${styles.badge}`}>
                     {region.itemCount} {itemLabel}
                   </span>
                 </div>

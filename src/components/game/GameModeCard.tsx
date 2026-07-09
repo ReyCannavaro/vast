@@ -67,7 +67,7 @@ export function GameModeCard({ game, tone = "quiz", badge }: GameModeCardProps) 
       <div className={`relative flex min-h-[160px] items-center justify-center ${styles.top}`}>
         <GameIcon tone={tone} />
         <span
-          className={`absolute bottom-5 right-5 rounded-full border px-4 py-2 text-sm ${styles.badge}`}
+          className={`absolute bottom-5 right-5 rounded-[8px] border px-4 py-2 text-sm ${styles.badge}`}
         >
           {badge ?? `${game.totalItems} Item`}
         </span>

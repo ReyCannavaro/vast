@@ -39,7 +39,7 @@ function PopularRegionCard({
           />
         ) : null}
         <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_20%,rgb(0_0_0_/_0.68))]" />
-        <div className="absolute left-4 top-4 rounded-full bg-white/86 px-3 py-1 text-[11px] font-bold text-[#6f3f1b] backdrop-blur-md">
+        <div className="absolute left-4 top-4 rounded-[8px] bg-white/86 px-3 py-1 text-[11px] font-bold text-[#6f3f1b] backdrop-blur-md">
           {zone}
         </div>
         <div className="absolute inset-x-0 bottom-0 p-5 text-white">
