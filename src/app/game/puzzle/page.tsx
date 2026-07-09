@@ -47,13 +47,13 @@ export default function PuzzlePage() {
             </p>
 
             <div className="mt-9 flex flex-wrap justify-center gap-4">
-              <span className="inline-flex h-11 items-center rounded-full bg-[#f5f0e9] px-7 text-sm font-bold text-[#74481f]">
+              <span className="hero-stat-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 {regions.length} Wilayah
               </span>
-              <span className="inline-flex h-11 items-center rounded-full bg-[#f5f0e9] px-7 text-sm font-bold text-[#74481f]">
+              <span className="hero-stat-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 {totalPuzzles} Puzzle
               </span>
-              <span className="inline-flex h-11 items-center rounded-full bg-[#f5f0e9] px-7 text-sm font-bold text-[#74481f]">
+              <span className="hero-stat-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 Board 3x3
               </span>
             </div>
