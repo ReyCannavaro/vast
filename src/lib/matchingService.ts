@@ -54,6 +54,42 @@ function normalizeText(value: string) {
   return value.trim().replace(/\s+/g, " ").toLowerCase();
 }
 
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function getCategoryClueLabel(category: MatchingCategory) {
+  const labels: Record<MatchingCategory, string> = {
+    batik: "Motif batik",
+    culture: "Budaya",
+    destination: "Destinasi",
+    food: "Kuliner",
+  };
+
+  return labels[category];
+}
+
+function createLeftCardLabel(item: MatchingGameItem) {
+  if (!item.explanation) {
+    return `${getCategoryClueLabel(item.category)} dari ${item.leftLabel}`;
+  }
+
+  const answerPattern = new RegExp(escapeRegExp(item.rightLabel), "gi");
+  const regionPattern = new RegExp(escapeRegExp(item.leftLabel), "gi");
+  const cleanedExplanation = item.explanation
+    .replace(answerPattern, "Ikon ini")
+    .replace(regionPattern, "wilayah ini")
+    .replace(/\s+/g, " ")
+    .trim();
+  const sentences = cleanedExplanation.split(/(?<=[.!?])\s+/);
+  const clue =
+    sentences.find((sentence) => !sentence.toLowerCase().includes("termasuk")) ??
+    sentences[0] ??
+    `Berasal dari ${item.leftLabel}`;
+
+  return `${getCategoryClueLabel(item.category)}: ${clue.replace(/[.!?]$/, "")}`;
+}
+
 function getStableHash(value: string) {
   return [...value].reduce((hash, character) => {
     return (hash * 31 + character.charCodeAt(0)) >>> 0;
@@ -74,7 +110,7 @@ function createMatchingCard(item: MatchingGameItem, side: MatchingCardSide): Mat
     id: `${item.id}-${side}`,
     itemId: item.id,
     side,
-    label: side === "left" ? item.leftLabel : item.rightLabel,
+    label: side === "left" ? createLeftCardLabel(item) : item.rightLabel,
     regionSlug: item.regionSlug,
     category: item.category,
   };
