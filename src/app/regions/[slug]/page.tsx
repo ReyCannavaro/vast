@@ -254,7 +254,20 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
         </section>
 
         <section className="mx-auto grid max-w-7xl gap-6 px-6 pb-20 lg:grid-cols-[1fr_375px] lg:px-10">
-          <article className="flex min-h-[380px] flex-col justify-end rounded-[12px] border border-[#eadfd6] bg-white p-8 md:p-10">
+          <article className="overflow-hidden rounded-[12px] border border-[#eadfd6] bg-white shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_22px_58px_rgb(72_54_39_/_0.075)]">
+            {heroImage ? (
+              <div className="relative aspect-[16/5] w-full overflow-hidden bg-[#d9d4ce]">
+                <Image
+                  src={heroImage.src}
+                  alt={heroImage.alt}
+                  fill
+                  sizes="(min-width: 1024px) 760px, 100vw"
+                  className="object-cover"
+                />
+                <div className="absolute inset-0 bg-[linear-gradient(180deg,transparent_52%,rgb(0_0_0_/_0.18))]" />
+              </div>
+            ) : null}
+            <div className="p-8 md:p-10">
             <h2 className="text-4xl font-medium tracking-[-0.03em] text-primary">
               Identitas Budaya
             </h2>
@@ -274,6 +287,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
                   {chip}
                 </span>
               ))}
+            </div>
             </div>
           </article>
 
