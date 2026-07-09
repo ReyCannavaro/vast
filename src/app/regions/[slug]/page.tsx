@@ -216,12 +216,12 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
           <div className="absolute inset-0 bg-[#19120d]/28" />
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_64%_30%,rgb(155_96_45_/_0.14),transparent_42%),linear-gradient(180deg,rgb(17_13_10_/_0.18),rgb(17_13_10_/_0.36)_46%,rgb(17_13_10_/_0.68))]" />
           <div className="relative mx-auto flex min-h-[700px] max-w-7xl flex-col px-6 pb-14 pt-44 lg:px-10">
-            <nav className="text-lg font-medium text-white/45" aria-label="Breadcrumb">
+            <nav className="text-lg font-medium text-white/64" aria-label="Breadcrumb">
               <Link href="/gallery" className="transition hover:text-white">
                 Gallery
               </Link>
               <span className="mx-2 text-white/28">›</span>
-              <span className="text-primary">{shortName}</span>
+              <span className="text-white/88">{shortName}</span>
             </nav>
 
             <div className="mt-auto flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between">

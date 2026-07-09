@@ -124,14 +124,14 @@ export default function GamePage() {
             sizes="100vw"
             className="object-cover object-center"
           />
-          <div className="absolute inset-0 bg-[#211811]/58" />
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgb(195_125_62_/_0.30),transparent_38%),linear-gradient(180deg,rgb(22_17_13_/_0.34),rgb(88_52_24_/_0.54)_54%,rgb(28_20_15_/_0.72))]" />
+          <div className="absolute inset-0 bg-[#17110d]/62" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_35%,rgb(195_125_62_/_0.18),transparent_38%),linear-gradient(180deg,rgb(18_13_10_/_0.38),rgb(18_13_10_/_0.46)_52%,rgb(18_13_10_/_0.78))]" />
 
           <div className="relative mx-auto max-w-4xl">
-            <h1 className="text-5xl font-bold leading-none tracking-[-0.04em] text-[#d79b63] sm:text-6xl lg:text-[72px]">
+            <h1 className="text-5xl font-bold leading-none tracking-[-0.04em] text-[#fff5ec] drop-shadow-[0_10px_34px_rgb(0_0_0_/_0.34)] sm:text-6xl lg:text-[72px]">
               Belajar Sambil Bermain
             </h1>
-            <p className="mx-auto mt-6 max-w-3xl text-[20px] leading-8 text-white/72">
+            <p className="mx-auto mt-6 max-w-3xl text-[20px] leading-8 text-white/84">
               Uji wawasan budayamu lewat kuis, mencocokkan warisan, dan menyusun puzzle
               Jawa Timur secara interaktif.
             </p>

@@ -283,15 +283,15 @@ export default function Home() {
             className="object-cover"
             sizes="100vw"
           />
-          <div className="absolute inset-0 bg-[#211811]/22" />
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_68%_34%,rgb(195_125_62_/_0.16),transparent_38%),linear-gradient(90deg,rgb(16_11_8_/_0.40),rgb(16_11_8_/_0.16)_46%,rgb(16_11_8_/_0.04)),linear-gradient(180deg,rgb(22_17_13_/_0.12),transparent_52%,rgb(28_20_15_/_0.24))]" />
+          <div className="absolute inset-0 bg-[#211811]/26" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_68%_34%,rgb(195_125_62_/_0.14),transparent_38%),linear-gradient(90deg,rgb(16_11_8_/_0.48),rgb(16_11_8_/_0.20)_46%,rgb(16_11_8_/_0.08)),linear-gradient(180deg,rgb(22_17_13_/_0.16),transparent_52%,rgb(28_20_15_/_0.30))]" />
 
           <div className="relative mx-auto max-w-[1340px] px-6 pb-48 pt-[178px] sm:px-10 lg:px-20">
             <div className="max-w-[610px]">
               <h1 className="text-[52px] font-semibold leading-[1.24] tracking-[-0.02em] sm:text-[66px] lg:text-[78px]">
                 Satu Peta, 38 Daerah, Tak Terbatas Cerita.
               </h1>
-              <p className="mt-12 max-w-[730px] text-[15px] font-medium leading-6 text-white/72">
+              <p className="mt-12 max-w-[730px] text-[15px] font-medium leading-6 text-white/84">
                 Jelajahi kekayaan budaya Jawa Timur melalui satu pengalaman interaktif.
                 Temukan tradisi lokal, destinasi ikonik, kuliner khas, dan kisah unik
                 dari setiap kota dan kabupaten.

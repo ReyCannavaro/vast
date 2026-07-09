@@ -99,13 +99,15 @@ function GalleryCard({
             className="object-cover transition duration-500 group-hover:scale-[1.04]"
           />
         ) : null}
+        <div className="absolute inset-0 bg-[#17110d]/18" />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(18_13_10_/_0.32),transparent_44%,rgb(18_13_10_/_0.42))]" />
         <div className="absolute inset-x-0 top-0 flex justify-end p-3">
-          <span className="rounded-[8px] bg-[#e5efd2] px-3 py-1 text-[10px] font-bold uppercase text-[#5f7a34]">
+          <span className="rounded-[8px] border border-white/24 bg-[#17110d]/52 px-3 py-1 text-[10px] font-bold uppercase text-white shadow-[0_8px_20px_rgb(0_0_0/0.18)] backdrop-blur-md">
             {item.regionName}
           </span>
         </div>
         {mode === "imageTop" ? (
-          <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/60 to-transparent" />
+          <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-black/70 to-transparent" />
         ) : null}
       </div>
 
@@ -177,16 +179,16 @@ export function GalleryRandomSections({ items }: GalleryRandomSectionsProps) {
           sizes="100vw"
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-[#2d2925]/62" />
-        <div className="absolute inset-0 bg-gradient-to-b from-black/32 via-black/18 to-[#3c3a38]/78" />
+        <div className="absolute inset-0 bg-[#18120e]/54" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_34%,rgb(195_125_62_/_0.16),transparent_40%),linear-gradient(180deg,rgb(18_13_10_/_0.34),rgb(18_13_10_/_0.24)_42%,rgb(18_13_10_/_0.82))]" />
         <div className="relative mx-auto flex min-h-[520px] max-w-5xl flex-col items-center justify-center">
-          <p className="rounded-[8px] border border-white/42 px-4 py-2 text-xs font-bold uppercase tracking-[0.12em] text-white/80">
+          <p className="rounded-[8px] border border-white/42 px-4 py-2 text-xs font-bold uppercase tracking-[0.12em] text-white/88">
             Eksplorasi Warisan Nusantara
           </p>
-          <h1 className="mt-6 text-5xl font-bold leading-none text-primary md:text-7xl">
+          <h1 className="mt-6 text-5xl font-bold leading-none text-white drop-shadow-[0_10px_32px_rgb(0_0_0_/_0.34)] md:text-7xl">
             Budaya Jawa Timur
           </h1>
-          <p className="mt-6 max-w-2xl text-sm leading-7 text-white/76 md:text-base">
+          <p className="mt-6 max-w-2xl text-sm leading-7 text-white/84 md:text-base">
             Menelusuri kekayaan tak ternilai dari 38 kota dan kabupaten. Dari
             gemulai tarian tradisional, kelezatan kuliner otentik, hingga mahakarya
             batik yang menyimpan filosofi luhur di setiap helai kainnya.
