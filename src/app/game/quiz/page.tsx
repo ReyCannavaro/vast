@@ -50,10 +50,10 @@ export default function QuizPage() {
               <span className="quiz-hero-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 {regions.length} Wilayah
               </span>
-              <span className="quiz-hero-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] [animation-delay:160ms] backdrop-blur-md">
+              <span className="quiz-hero-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 {totalQuestions} Soal
               </span>
-              <span className="quiz-hero-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] [animation-delay:320ms] backdrop-blur-md">
+              <span className="quiz-hero-pill inline-flex h-11 items-center rounded-full border border-white/18 bg-[#f5f0e9]/92 px-7 text-sm font-bold text-[#74481f] shadow-[0_14px_30px_rgb(19_12_8_/_0.18)] backdrop-blur-md">
                 10 Soal per ronde
               </span>
             </div>

@@ -49,28 +49,27 @@ button {
   background: rgb(138 79 29 / 0.24);
 }
 
+.hero-stat-pill,
 .quiz-hero-pill {
-  animation: quiz-pill-float 4.8s ease-in-out infinite;
-  transform: translateZ(0);
+  transform: translateY(0) translateZ(0);
+  transition:
+    transform 220ms ease,
+    box-shadow 220ms ease,
+    background-color 220ms ease,
+    border-color 220ms ease;
 }
 
-@keyframes quiz-pill-float {
-  0%,
-  100% {
-    transform: translateY(0);
-    box-shadow: 0 14px 30px rgb(19 12 8 / 0.18);
-  }
-
-  45% {
-    transform: translateY(-6px);
-    box-shadow: 0 20px 40px rgb(19 12 8 / 0.24);
-  }
+.hero-stat-pill:hover,
+.quiz-hero-pill:hover {
+  transform: translateY(-6px) translateZ(0);
+  border-color: rgb(255 255 255 / 0.46);
+  background: rgb(255 251 245 / 0.98);
+  box-shadow: 0 20px 42px rgb(19 12 8 / 0.26);
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .quiz-hero-pill {
-    animation: none;
-  }
+.hero-stat-pill:active,
+.quiz-hero-pill:active {
+  transform: translateY(-2px) translateZ(0);
 }
 
 .vast-shell {
