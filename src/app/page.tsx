@@ -283,7 +283,8 @@ export default function Home() {
             className="object-cover"
             sizes="100vw"
           />
-          <div className="absolute inset-0 bg-[linear-gradient(90deg,rgb(0_0_0_/_0.34),rgb(0_0_0_/_0.18)_46%,rgb(0_0_0_/_0.10)),linear-gradient(180deg,rgb(0_0_0_/_0.22),rgb(0_0_0_/_0.08)_48%,rgb(0_0_0_/_0.30))]" />
+          <div className="absolute inset-0 bg-[#211811]/22" />
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_68%_34%,rgb(195_125_62_/_0.16),transparent_38%),linear-gradient(90deg,rgb(16_11_8_/_0.40),rgb(16_11_8_/_0.16)_46%,rgb(16_11_8_/_0.04)),linear-gradient(180deg,rgb(22_17_13_/_0.12),transparent_52%,rgb(28_20_15_/_0.24))]" />
 
           <div className="relative mx-auto max-w-[1340px] px-6 pb-48 pt-[178px] sm:px-10 lg:px-20">
             <div className="max-w-[610px]">
