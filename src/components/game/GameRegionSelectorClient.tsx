@@ -154,7 +154,7 @@ export function GameRegionSelectorClient({
                 ) : null}
                 <div className="absolute inset-0 bg-[#17110d]/14" />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#17110d]/72 via-[#17110d]/16 to-[#17110d]/18" />
-                <span className="absolute bottom-4 left-4 rounded-[8px] border border-white/24 bg-[#17110d]/54 px-4 py-2 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-[0_8px_20px_rgb(0_0_0/0.18)] backdrop-blur-md">
+                <span className="absolute bottom-4 left-4 rounded-[8px] border border-white/70 bg-white px-4 py-2 text-xs font-bold uppercase tracking-[0.08em] text-[#7a451f] shadow-[0_10px_24px_rgb(0_0_0/0.16)]">
                   {formatRegionType(region.type)}
                 </span>
               </div>

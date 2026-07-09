@@ -230,7 +230,7 @@ export default async function RegionDetailPage({ params }: RegionDetailPageProps
 
             <div className="mt-auto flex flex-col gap-8 sm:flex-row sm:items-end sm:justify-between">
               <div>
-                <p className="inline-flex rounded-[8px] bg-[#ffd4b8] px-4 py-2 text-sm font-medium uppercase tracking-[0.02em] text-[#3a2820]">
+                <p className="inline-flex rounded-[8px] border border-white/72 bg-white px-4 py-2 text-[13px] font-bold uppercase tracking-[0.04em] text-[#7a451f] shadow-[0_12px_28px_rgb(0_0_0/0.16)]">
                   {formatType(region)}
                 </p>
                 <h1 className="mt-6 text-6xl font-semibold leading-none tracking-[-0.03em] text-white md:text-7xl">

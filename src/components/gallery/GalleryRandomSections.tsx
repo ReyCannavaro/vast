@@ -102,7 +102,7 @@ function GalleryCard({
         <div className="absolute inset-0 bg-[#17110d]/18" />
         <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(18_13_10_/_0.32),transparent_44%,rgb(18_13_10_/_0.42))]" />
         <div className="absolute inset-x-0 top-0 flex justify-end p-3">
-          <span className="rounded-[8px] border border-white/24 bg-[#17110d]/52 px-3 py-1 text-[10px] font-bold uppercase text-white shadow-[0_8px_20px_rgb(0_0_0/0.18)] backdrop-blur-md">
+          <span className="rounded-[8px] border border-white/70 bg-white px-3 py-1 text-[10px] font-bold uppercase text-[#7a451f] shadow-[0_10px_24px_rgb(0_0_0/0.16)]">
             {item.regionName}
           </span>
         </div>
