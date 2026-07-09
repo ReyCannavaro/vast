@@ -19,7 +19,7 @@ export default function MatchingPage() {
       <SiteHeader />
 
       <main>
-        <section className="relative isolate overflow-hidden bg-[#6b6563] px-6 pb-24 pt-36 text-white">
+        <section className="relative isolate flex min-h-[100svh] items-center overflow-hidden bg-[#2f2118] px-6 py-24 pt-40 text-white">
           <Image
             src="/images/regions/kabupaten-ponorogo/hero/hero.jpg"
             alt="Pertunjukan Reog Ponorogo sebagai latar pemilihan matching"
@@ -28,8 +28,9 @@ export default function MatchingPage() {
             sizes="100vw"
             className="-z-20 object-cover object-center"
           />
-          <div className="absolute inset-0 -z-10 bg-[#625b58]/80" />
-          <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_50%_18%,rgb(141_84_35_/_0.28),transparent_38%)]" />
+          <div className="absolute inset-0 -z-10 bg-[#17110d]/58" />
+          <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_50%_34%,rgb(195_125_62_/_0.30),transparent_39%),linear-gradient(180deg,rgb(18_13_10_/_0.34),rgb(83_49_24_/_0.42)_55%,rgb(18_13_10_/_0.72))]" />
+          <div className="absolute inset-x-0 bottom-0 -z-10 h-32 bg-gradient-to-t from-white via-white/70 to-transparent" />
 
           <div className="mx-auto max-w-6xl text-center">
             <Link
@@ -38,7 +39,7 @@ export default function MatchingPage() {
             >
               <span aria-hidden="true">&lt;-</span>&nbsp;Kembali ke Mini Game
             </Link>
-            <h1 className="mt-16 text-5xl font-bold leading-none tracking-[-0.04em] text-primary md:text-7xl">
+            <h1 className="mt-12 text-5xl font-bold leading-none tracking-[-0.04em] text-primary md:text-7xl">
               Pilih Wilayah Matching
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-white/62">
