@@ -156,7 +156,7 @@ function MiniMapPreview() {
   });
 
   return (
-    <div className="rounded-[10px] border border-[#d9c8b8] bg-white p-6 shadow-[0_18px_42px_rgb(56_45_34_/_0.045)]">
+    <div className="rounded-[10px] border border-[#eadfd3] bg-white p-6 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_60px_rgb(63_47_29_/_0.08)]">
       <div className="flex flex-wrap items-start justify-between gap-4">
         <div>
           <p className="text-[11px] font-black uppercase tracking-[0.14em] text-[#8c531f]">
@@ -246,15 +246,15 @@ function MiniMapPreview() {
       </div>
 
       <div className="mt-5 grid gap-3 sm:grid-cols-3">
-        <div className="rounded-[8px] bg-[#f7f2ec] px-4 py-4">
+        <div className="rounded-[8px] border border-[#ece4dc] bg-white px-4 py-4 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_10px_24px_rgb(72_54_39_/_0.055)]">
           <p className="text-[24px] font-semibold leading-none text-[#332f2a]">38</p>
           <p className="mt-2 text-[12px] font-medium text-[#756b62]">Kota & Kabupaten</p>
         </div>
-        <div className="rounded-[8px] bg-[#f7f2ec] px-4 py-4">
+        <div className="rounded-[8px] border border-[#ece4dc] bg-white px-4 py-4 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_10px_24px_rgb(72_54_39_/_0.055)]">
           <p className="text-[24px] font-semibold leading-none text-[#332f2a]">4</p>
           <p className="mt-2 text-[12px] font-medium text-[#756b62]">Kawasan Budaya</p>
         </div>
-        <div className="rounded-[8px] bg-[#f7f2ec] px-4 py-4">
+        <div className="rounded-[8px] border border-[#ece4dc] bg-white px-4 py-4 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_10px_24px_rgb(72_54_39_/_0.055)]">
           <p className="text-[24px] font-semibold leading-none text-[#332f2a]">1</p>
           <p className="mt-2 text-[12px] font-medium text-[#756b62]">Peta Terhubung</p>
         </div>
@@ -298,7 +298,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] bg-white/95 px-7 py-7 text-[#111111] shadow-[0_22px_42px_rgb(0_0_0_/_0.085)] backdrop-blur-sm sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
+          <div className="absolute bottom-[-118px] left-1/2 z-10 w-[calc(100%-2rem)] max-w-[700px] -translate-x-1/2 rounded-[14px] border border-white/72 bg-white/93 px-7 py-7 text-[#111111] shadow-[inset_0_1px_0_rgb(255_255_255_/_0.82),0_26px_70px_rgb(30_22_16_/_0.16)] backdrop-blur-sm sm:px-8 lg:left-[6.4%] lg:w-[700px] lg:translate-x-0">
             <div className="grid gap-7 md:grid-cols-[285px_1fr] md:items-center">
               <div className="relative min-h-[192px] overflow-hidden rounded-[14px] bg-[#c8c8c8]">
                 <Image
@@ -357,15 +357,15 @@ export default function Home() {
               platform interaktif.
             </p>
 
-            <div className="mt-16 grid gap-8 lg:grid-cols-[1fr_0.82fr] lg:items-start">
-              <p className="max-w-[275px] text-[22px] leading-[1.45] tracking-[-0.02em] text-[#262b35]">
+            <div className="mt-16 grid gap-4 rounded-[8px] border border-[#eadfd3] bg-white px-4 py-2 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.94),0_18px_48px_rgb(63_48_37/0.075)] sm:px-5 sm:py-2 lg:grid-cols-[0.82fr_1.18fr] lg:items-center">
+              <p className="max-w-[285px] text-[18px] leading-[1.8] tracking-[-0.02em] text-[#262b35] sm:text-[19px]">
                 Menjelajahi Warisan Budaya, Satu Daerah dalam Setiap Perjalanan.
               </p>
-              <div className="rounded-[8px] bg-[#8c531f] px-8 py-6 text-white">
-                <h3 className="text-[15px] font-semibold leading-[1.3]">
+              <div className="rounded-[8px] bg-[#8c531f] px-9 py-5 text-white shadow-[0_10px_28px_rgb(82_46_21/0.14)]">
+                <h3 className="max-w-[280px] text-[16px] font-semibold leading-[1.25]">
                   Menjelajahi Warisan Budaya Jawa Timur
                 </h3>
-                <p className="mt-4 text-[13px] leading-[1.18] text-white/78">
+                <p className="mt-4 max-w-[300px] text-[14px] leading-[1.12] text-white/78">
                   Discover authentic traditions, regional specialties, breathtaking
                   destinations, and inspiring stories from all 38 cities and regencies.
                 </p>
@@ -400,7 +400,8 @@ export default function Home() {
                 sizes="50vw"
               />
             </div>
-            <div className="relative top-20 max-w-[630px] rounded-[18px] bg-white px-14 py-14 shadow-[0_18px_42px_rgb(0_0_0_/_0.06)] sm:px-16 sm:py-16">
+            <div className="relative top-20 max-w-[630px] rounded-[18px] border border-[#e4d7cb] bg-white/94 px-14 py-14 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_28px_80px_rgb(92_61_39_/_0.13)] backdrop-blur-sm sm:px-16 sm:py-16 lg:-ml-8 xl:-ml-12">
+              <div className="absolute left-0 top-14 hidden h-24 w-[5px] rounded-r-full bg-[#8c531f] sm:block" />
               <h2 className="text-[46px] font-semibold leading-[1.24] tracking-[-0.04em] sm:text-[60px]">
                 Jelajahi Warisan Budaya Jawa Timur
               </h2>
@@ -416,7 +417,7 @@ export default function Home() {
             {featureCards.map((item) => (
               <article
                 key={item.title}
-                className="min-h-[330px] rounded-[10px] bg-white px-12 py-14 text-center shadow-[0_16px_42px_rgb(0_0_0_/_0.045)]"
+                className="min-h-[330px] rounded-[10px] border border-[#eadfd3] bg-white px-12 py-14 text-center shadow-[inset_0_1px_0_rgb(255_255_255_/_0.94),0_18px_52px_rgb(92_61_39_/_0.075)] transition duration-300 hover:-translate-y-1 hover:shadow-[inset_0_1px_0_rgb(255_255_255_/_0.94),0_24px_64px_rgb(92_61_39_/_0.11)]"
               >
                 <div className="mx-auto grid h-[58px] w-[58px] place-items-center rounded-[6px] bg-[#8c531f] text-white">
                   <FeatureIcon type={item.icon} />
@@ -479,7 +480,7 @@ export default function Home() {
           </p>
 
           <div className="mt-28 grid gap-16 text-left lg:grid-cols-[0.95fr_0.85fr] lg:items-start">
-            <div className="relative min-h-[540px] rounded-[22px] bg-[#c9c9c9]">
+            <div className="relative min-h-[500px] rounded-[22px] border border-[#d9c8b8] bg-[#c9c9c9] shadow-[0_18px_48px_rgb(92_61_39_/_0.08)] lg:min-h-[520px]">
               <Image
                 src="/images/regions/kabupaten-banyuwangi/destinations/kawah-ijen.jpg"
                 alt="Kawah Ijen Banyuwangi"
@@ -487,15 +488,15 @@ export default function Home() {
                 className="rounded-[22px] object-cover"
                 sizes="(min-width: 1024px) 48vw, 100vw"
               />
-              <div className="absolute bottom-[-44px] left-1/2 w-[88%] -translate-x-1/2 rounded-[20px] bg-white px-12 py-12 shadow-[0_18px_42px_rgb(0_0_0_/_0.055)]">
-                <h3 className="text-[28px] font-semibold tracking-[-0.04em]">
+              <div className="absolute bottom-[-34px] left-1/2 w-[82%] -translate-x-1/2 rounded-[18px] border border-[#e5d8cc] bg-white/94 px-9 py-9 shadow-[inset_0_1px_0_rgb(255_255_255_/_0.92),0_24px_64px_rgb(92_61_39_/_0.14)] backdrop-blur-sm">
+                <h3 className="text-[26px] font-semibold tracking-[-0.04em]">
                   Learn While You Play
                 </h3>
-                <p className="mt-10 max-w-[420px] text-[13px] leading-[1.55] text-[#7c766f]">
+                <p className="mt-7 max-w-[400px] text-[13px] leading-[1.55] text-[#7c766f]">
                   Challenge yourself with educational mini games designed to make
                   exploring East Java&apos;s culture engaging and memorable for everyone.
                 </p>
-                <div className="mt-8 flex flex-wrap gap-4">
+                <div className="mt-7 flex flex-wrap gap-4">
                   <Link
                     href="/regions"
                     className="inline-flex h-11 items-center rounded-full bg-[#8c531f] px-6 text-[12px] font-semibold text-white transition hover:bg-[#a2632c]"

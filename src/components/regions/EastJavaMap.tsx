@@ -78,7 +78,6 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
 
     return region ? [region] : [];
   });
-
   return (
     <section className="overflow-hidden rounded-[18px] border border-[#e7ddd3] bg-white shadow-[0_28px_90px_rgb(33_30_27_/_0.08)]">
       <div className="grid lg:grid-cols-[360px_1fr]">
@@ -158,6 +157,7 @@ export function EastJavaMap({ mapData }: EastJavaMapProps) {
 
         <div className="relative min-h-[580px] overflow-hidden bg-[#a9dbe8] lg:min-h-[680px]">
           <div className="absolute inset-0 bg-[linear-gradient(180deg,rgb(255_255_255_/_0.24),transparent_34%),radial-gradient(circle_at_28%_20%,rgb(255_255_255_/_0.24),transparent_24%),radial-gradient(circle_at_74%_70%,rgb(15_89_111_/_0.12),transparent_30%)]" />
+          <div className="absolute inset-0 opacity-[0.16] [background-image:linear-gradient(rgb(255_255_255_/_0.55)_1px,transparent_1px),linear-gradient(90deg,rgb(255_255_255_/_0.45)_1px,transparent_1px)] [background-size:72px_72px]" />
           <svg
             viewBox={displayMapViewBox}
             aria-label="Peta interaktif kabupaten dan kota Jawa Timur"

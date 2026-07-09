@@ -49,6 +49,30 @@ button {
   background: rgb(138 79 29 / 0.24);
 }
 
+.quiz-hero-pill {
+  animation: quiz-pill-float 4.8s ease-in-out infinite;
+  transform: translateZ(0);
+}
+
+@keyframes quiz-pill-float {
+  0%,
+  100% {
+    transform: translateY(0);
+    box-shadow: 0 14px 30px rgb(19 12 8 / 0.18);
+  }
+
+  45% {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px rgb(19 12 8 / 0.24);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quiz-hero-pill {
+    animation: none;
+  }
+}
+
 .vast-shell {
   min-height: 100dvh;
   background: var(--background);
