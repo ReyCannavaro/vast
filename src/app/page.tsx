@@ -337,7 +337,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="mx-auto grid max-w-[1350px] gap-16 px-6 pb-24 pt-[158px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
+        <section className="mx-auto grid max-w-[1350px] gap-16 px-6 pb-24 pt-[220px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
           <div className="relative min-h-[480px] overflow-hidden bg-[#c9c9c9] lg:min-h-[590px]">
             <Image
               src="/images/regions/kota-surabaya/destinations/tugu-pahlawan.jpg"
