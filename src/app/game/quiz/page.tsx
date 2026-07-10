@@ -30,8 +30,6 @@ export default function QuizPage() {
           />
           <div className="absolute inset-0 -z-10 bg-[#17110d]/62" />
           <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_50%_34%,rgb(195_125_62_/_0.18),transparent_39%),linear-gradient(180deg,rgb(18_13_10_/_0.38),rgb(18_13_10_/_0.48)_55%,rgb(18_13_10_/_0.78))]" />
-          <div className="absolute inset-x-0 bottom-0 -z-10 h-32 bg-gradient-to-t from-white via-white/70 to-transparent" />
-
           <div className="mx-auto max-w-6xl text-center">
             <Link
               href="/game"
