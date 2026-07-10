@@ -116,8 +116,14 @@ function GalleryCard({
         <p className="mt-3 flex-1 text-sm leading-6 text-[#6d6258]">
           {clampText(item.description, mode === "imageTop" ? 96 : 104)}
         </p>
-        <span className="mt-5 text-xs font-bold text-primary transition group-hover:text-secondary">
-          Lihat Detail +
+        <span className="mt-5 inline-flex w-max items-center gap-3 rounded-[8px] border border-[#e2d6ca] bg-[#fffaf5] px-4 py-2 text-sm font-semibold text-[#17110d] shadow-[0_10px_24px_rgb(64_45_31/0.08)] transition duration-300 group-hover:border-primary/40 group-hover:bg-white group-hover:text-primary">
+          <span>Baca selengkapnya</span>
+          <span
+            aria-hidden="true"
+            className="text-base leading-none transition duration-300 group-hover:translate-x-1"
+          >
+            -&gt;
+          </span>
         </span>
       </div>
     </Link>
