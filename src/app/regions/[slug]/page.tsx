@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { destinations } from "@/data/destinations";
+import { eastJavaMapPoints } from "@/data/eastJavaMap";
 import { foods } from "@/data/foods";
 import { heritageItems } from "@/data/heritageItems";
 import { SiteFooter } from "@/components/layout/SiteFooter";
@@ -52,6 +53,44 @@ function formatRegionCharacter(region: Region) {
   return region.culturalArea ?? formatCategories(region);
 }
 
+const adjacentRegionSlugs: Record<string, string[]> = {
+  "kabupaten-bangkalan": [
+    "kabupaten-sampang",
+    "kabupaten-gresik",
+    "kota-surabaya",
+    "kabupaten-lamongan",
+  ],
+  "kabupaten-sampang": [
+    "kabupaten-bangkalan",
+    "kabupaten-pamekasan",
+    "kabupaten-sumenep",
+    "kota-surabaya",
+  ],
+  "kabupaten-pamekasan": [
+    "kabupaten-sampang",
+    "kabupaten-sumenep",
+    "kabupaten-bangkalan",
+    "kabupaten-situbondo",
+  ],
+  "kabupaten-sumenep": [
+    "kabupaten-pamekasan",
+    "kabupaten-sampang",
+    "kabupaten-situbondo",
+    "kabupaten-bondowoso",
+  ],
+};
+
+function getMapPoint(slug: string) {
+  return eastJavaMapPoints.find((point) => point.slug === slug);
+}
+
+function getCoordinateDistance(a: NonNullable<ReturnType<typeof getMapPoint>>, b: NonNullable<ReturnType<typeof getMapPoint>>) {
+  const longitudeDistance = (a.longitude - b.longitude) * Math.cos(((a.latitude + b.latitude) / 2) * (Math.PI / 180));
+  const latitudeDistance = a.latitude - b.latitude;
+
+  return Math.hypot(longitudeDistance, latitudeDistance);
+}
+
 function getRegionCollections(region: Region) {
   return {
     heritage: heritageItems.filter((item) => item.regionSlug === region.slug),
@@ -88,16 +127,38 @@ function buildFactItems(region: Region): FactItem[] {
 }
 
 function getNearbyRegions(region: Region) {
-  const matchingCategory = getAllRegions().filter(
+  const regions = getAllRegions();
+  const selectedPoint = getMapPoint(region.slug);
+  const adjacentRegions = (adjacentRegionSlugs[region.slug] ?? [])
+    .map((slug) => getRegionBySlug(slug))
+    .filter((item): item is Region => Boolean(item));
+
+  const distanceSortedRegions = selectedPoint
+    ? regions
+        .filter((item) => item.slug !== region.slug)
+        .map((item) => {
+          const point = getMapPoint(item.slug);
+
+          return {
+            region: item,
+            distance: point ? getCoordinateDistance(selectedPoint, point) : Number.POSITIVE_INFINITY,
+          };
+        })
+        .sort((a, b) => a.distance - b.distance)
+        .map((item) => item.region)
+    : [];
+
+  const fallbackRegions = regions.filter(
     (item) =>
       item.slug !== region.slug &&
       item.categories.some((category) => region.categories.includes(category)),
   );
 
-  const fallbackRegions = getAllRegions().filter((item) => item.slug !== region.slug);
-
-  return [...matchingCategory, ...fallbackRegions]
-    .filter((item, index, collection) => collection.findIndex((target) => target.slug === item.slug) === index)
+  return [...adjacentRegions, ...distanceSortedRegions, ...fallbackRegions]
+    .filter(
+      (item, index, collection) =>
+        collection.findIndex((target) => target.slug === item.slug) === index,
+    )
     .slice(0, 4);
 }
 
