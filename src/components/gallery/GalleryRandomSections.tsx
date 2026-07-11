@@ -4,6 +4,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 
+import { CtaArrowIcon } from "@/components/ui/CtaArrowIcon";
+
 export type GalleryItem = {
   id: string;
   name: string;
@@ -120,9 +122,9 @@ function GalleryCard({
           <span>Baca selengkapnya</span>
           <span
             aria-hidden="true"
-            className="text-base leading-none transition duration-300 group-hover:translate-x-1"
+            className="inline-flex h-5 w-5 items-center justify-center transition duration-300 group-hover:translate-x-1"
           >
-            -&gt;
+            <CtaArrowIcon className="h-4 w-4" />
           </span>
         </span>
       </div>
