@@ -135,7 +135,7 @@ export function SiteHeader() {
 
   useEffect(() => {
     const closeDesktopMenu = () => {
-      if (window.innerWidth >= 768) {
+      if (window.innerWidth >= 1024) {
         setIsMobileMenuOpen(false);
       }
     };
@@ -164,7 +164,7 @@ export function SiteHeader() {
           />
         </Link>
         <div
-          className={`hidden items-center gap-10 text-[14px] font-bold transition-colors duration-300 md:flex lg:gap-14 ${
+          className={`hidden items-center gap-10 text-[14px] font-bold transition-colors duration-300 lg:flex lg:gap-14 ${
             isDarkText
               ? "text-ink drop-shadow-[0_1px_10px_rgb(255_255_255_/_0.62)]"
               : "text-white drop-shadow-[0_1px_8px_rgb(0_0_0_/_0.24)]"
@@ -189,7 +189,7 @@ export function SiteHeader() {
           </Link>
           <button
             type="button"
-            className={`inline-flex h-9 w-9 items-center justify-center rounded-[10px] border transition md:hidden ${
+            className={`inline-flex h-9 w-9 items-center justify-center rounded-[10px] border transition lg:hidden ${
               isDarkText
                 ? "border-[#d8cabe] bg-white/72 text-[#17110d]"
                 : "border-white/24 bg-[#17110d]/28 text-white"
@@ -224,7 +224,7 @@ export function SiteHeader() {
       </nav>
       <div
         id="mobile-navigation"
-        className={`mx-auto mt-3 max-w-[960px] overflow-hidden rounded-[16px] border border-[#eadfd3] bg-white/94 text-[#17110d] shadow-[0_20px_54px_rgb(30_22_16_/_0.18)] backdrop-blur-xl transition-all duration-300 md:hidden ${
+        className={`mx-auto mt-3 max-w-[960px] overflow-hidden rounded-[16px] border border-[#eadfd3] bg-white/94 text-[#17110d] shadow-[0_20px_54px_rgb(30_22_16_/_0.18)] backdrop-blur-xl transition-all duration-300 lg:hidden ${
           isMobileMenuOpen
             ? "max-h-80 translate-y-0 opacity-100"
             : "pointer-events-none max-h-0 -translate-y-2 opacity-0"
