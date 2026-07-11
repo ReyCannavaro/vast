@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
+import { CtaArrowIcon } from "@/components/ui/CtaArrowIcon";
 import type { HeritageItem, ImageAsset } from "@/types/region";
 
 type CultureModalItem = {
@@ -174,9 +175,9 @@ function CultureCard({
         </p>
         <span
           aria-hidden="true"
-          className="absolute right-5 top-5 grid h-8 w-8 place-items-center rounded-[8px] border border-white/24 bg-[#17110d]/52 text-xs font-bold text-white shadow-[0_10px_24px_rgb(0_0_0/0.20)] backdrop-blur-md transition group-hover:translate-x-0.5 group-hover:bg-white/18"
+          className="absolute right-5 top-5 grid h-8 w-8 place-items-center rounded-[8px] border border-white/24 bg-[#17110d]/52 text-white shadow-[0_10px_24px_rgb(0_0_0/0.20)] backdrop-blur-md transition group-hover:translate-x-0.5 group-hover:bg-white/18"
         >
-          -&gt;
+          <CtaArrowIcon className="h-4 w-4" />
         </span>
       </div>
 
@@ -185,13 +186,13 @@ function CultureCard({
         <p className="mt-3 text-sm leading-6 text-[#675b53]">
           {clampText(item.description)}
         </p>
-        <span className="mt-5 inline-flex w-max items-center gap-2 rounded-[8px] border border-[#eadfd6] bg-[#fbf7f2] px-3 py-2 text-[11px] font-bold uppercase tracking-[0.08em] text-primary transition group-hover:border-primary/35 group-hover:bg-[#f5eadf]">
-          Buka detail
+        <span className="mt-5 inline-flex w-max items-center gap-3 rounded-[8px] border border-[#e2d6ca] bg-[#fffaf5] px-4 py-2 text-sm font-semibold text-[#17110d] shadow-[0_10px_24px_rgb(64_45_31/0.08)] transition duration-300 group-hover:border-primary/40 group-hover:bg-white group-hover:text-primary">
+          <span>Buka detail</span>
           <span
             aria-hidden="true"
-            className="grid h-5 w-5 place-items-center rounded-[7px] bg-primary text-[11px] leading-none text-white transition group-hover:translate-x-0.5"
+            className="inline-flex h-5 w-5 items-center justify-center transition duration-300 group-hover:translate-x-1"
           >
-            -&gt;
+            <CtaArrowIcon className="h-4 w-4" />
           </span>
         </span>
       </div>
@@ -226,7 +227,7 @@ export function RegionCultureShowcase({ items, regionName }: RegionCultureShowca
             className="inline-flex items-center gap-2 text-base font-bold text-primary transition hover:text-secondary"
           >
             Lihat Semua Budaya
-            <span aria-hidden="true">-&gt;</span>
+            <CtaArrowIcon className="h-4 w-4" />
           </Link>
         </div>
 

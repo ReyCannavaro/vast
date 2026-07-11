@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 
+import { CtaArrowIcon } from "@/components/ui/CtaArrowIcon";
 import type { DestinationItem, FoodItem, ImageAsset } from "@/types/region";
 
 type ModalItem = {
@@ -203,9 +204,9 @@ function DetailCard({
           <span>Baca lengkap</span>
           <span
             aria-hidden="true"
-            className="grid h-6 w-6 place-items-center rounded-[7px] bg-white text-[13px] leading-none text-[#6f3f1b] transition group-hover:translate-x-0.5"
+            className="grid h-6 w-6 place-items-center rounded-[7px] bg-white text-[#6f3f1b] transition group-hover:translate-x-0.5"
           >
-            -&gt;
+            <CtaArrowIcon className="h-4 w-4" />
           </span>
         </span>
       </div>
