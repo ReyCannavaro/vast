@@ -45,6 +45,7 @@ export function SiteHeader() {
   const headerRef = useRef<HTMLElement>(null);
   const toneRef = useRef<NavTone>("lightText");
   const [tone, setTone] = useState<NavTone>("lightText");
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     const header = headerRef.current;
@@ -132,15 +133,27 @@ export function SiteHeader() {
     };
   }, []);
 
+  useEffect(() => {
+    const closeDesktopMenu = () => {
+      if (window.innerWidth >= 768) {
+        setIsMobileMenuOpen(false);
+      }
+    };
+
+    window.addEventListener("resize", closeDesktopMenu);
+
+    return () => window.removeEventListener("resize", closeDesktopMenu);
+  }, []);
+
   const isDarkText = tone === "darkText";
 
   return (
     <header ref={headerRef} className="fixed left-0 right-0 top-4 z-30 px-4 sm:top-6">
-      <nav className="relative isolate mx-auto flex h-[58px] max-w-[960px] items-center justify-between overflow-hidden rounded-full border border-white/24 bg-white/16 px-6 shadow-[inset_0_1px_1px_rgb(255_255_255_/_0.30),0_18px_54px_rgb(0_0_0_/_0.18)] backdrop-blur-2xl backdrop-saturate-150 sm:h-[68px] sm:px-10 lg:max-w-[1040px]">
+      <nav className="relative isolate mx-auto flex h-[58px] max-w-[960px] items-center justify-between overflow-hidden rounded-full border border-white/24 bg-white/16 px-4 shadow-[inset_0_1px_1px_rgb(255_255_255_/_0.30),0_18px_54px_rgb(0_0_0_/_0.18)] backdrop-blur-2xl backdrop-saturate-150 sm:h-[68px] sm:px-10 lg:max-w-[1040px]">
         <div className="pointer-events-none absolute inset-0 -z-10 rounded-full bg-[linear-gradient(145deg,rgb(255_255_255_/_0.20),rgb(255_255_255_/_0.08)_45%,rgb(0_0_0_/_0.08)_100%)]" />
         <div className="pointer-events-none absolute inset-x-8 top-0 -z-10 h-px bg-white/45" />
         <div className="pointer-events-none absolute inset-px -z-10 rounded-full border border-primary/20" />
-        <Link href="/" className="relative h-12 w-[142px] shrink-0 sm:h-[58px] sm:w-[178px]">
+        <Link href="/" className="relative h-12 w-[132px] shrink-0 sm:h-[58px] sm:w-[178px]">
           <Image
             src="/logo.png"
             alt="VAST"
@@ -167,13 +180,69 @@ export function SiteHeader() {
             </Link>
           ))}
         </div>
-        <Link
-          href="/regions"
-          className="inline-flex h-9 shrink-0 items-center justify-center rounded-[10px] bg-primary px-5 text-[11px] font-bold text-white shadow-[0_10px_22px_rgb(138_79_29_/_0.22)] transition hover:bg-secondary active:translate-y-px sm:h-10 sm:px-6"
-        >
-          Get Started
-        </Link>
+        <div className="flex shrink-0 items-center gap-2 sm:gap-3">
+          <Link
+            href="/regions"
+            className="inline-flex h-9 shrink-0 items-center justify-center rounded-[10px] bg-primary px-4 text-[11px] font-bold text-white shadow-[0_10px_22px_rgb(138_79_29_/_0.22)] transition hover:bg-secondary active:translate-y-px sm:h-10 sm:px-6"
+          >
+            Get Started
+          </Link>
+          <button
+            type="button"
+            className={`inline-flex h-9 w-9 items-center justify-center rounded-[10px] border transition md:hidden ${
+              isDarkText
+                ? "border-[#d8cabe] bg-white/72 text-[#17110d]"
+                : "border-white/24 bg-[#17110d]/28 text-white"
+            }`}
+            aria-label={isMobileMenuOpen ? "Tutup menu navigasi" : "Buka menu navigasi"}
+            aria-expanded={isMobileMenuOpen}
+            aria-controls="mobile-navigation"
+            onClick={() => setIsMobileMenuOpen((isOpen) => !isOpen)}
+          >
+            <span className="sr-only">
+              {isMobileMenuOpen ? "Tutup menu navigasi" : "Buka menu navigasi"}
+            </span>
+            <span className="relative h-3.5 w-4" aria-hidden="true">
+              <span
+                className={`absolute left-0 top-0 h-0.5 w-4 rounded-full bg-current transition ${
+                  isMobileMenuOpen ? "translate-y-[6px] rotate-45" : ""
+                }`}
+              />
+              <span
+                className={`absolute left-0 top-[6px] h-0.5 w-4 rounded-full bg-current transition ${
+                  isMobileMenuOpen ? "opacity-0" : ""
+                }`}
+              />
+              <span
+                className={`absolute bottom-0 left-0 h-0.5 w-4 rounded-full bg-current transition ${
+                  isMobileMenuOpen ? "-translate-y-[6px] -rotate-45" : ""
+                }`}
+              />
+            </span>
+          </button>
+        </div>
       </nav>
+      <div
+        id="mobile-navigation"
+        className={`mx-auto mt-3 max-w-[960px] overflow-hidden rounded-[16px] border border-[#eadfd3] bg-white/94 text-[#17110d] shadow-[0_20px_54px_rgb(30_22_16_/_0.18)] backdrop-blur-xl transition-all duration-300 md:hidden ${
+          isMobileMenuOpen
+            ? "max-h-80 translate-y-0 opacity-100"
+            : "pointer-events-none max-h-0 -translate-y-2 opacity-0"
+        }`}
+      >
+        <div className="grid gap-1 p-2">
+          {navItems.map((item) => (
+            <Link
+              key={item.href}
+              href={item.href}
+              className="rounded-[10px] px-4 py-3 text-sm font-bold transition hover:bg-[#f5eadf] hover:text-primary"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              {item.label}
+            </Link>
+          ))}
+        </div>
+      </div>
     </header>
   );
 }

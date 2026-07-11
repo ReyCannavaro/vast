@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { SiteFooter, SiteHeader } from "@/components/layout";
+import { FallbackImage } from "@/components/ui/FallbackImage";
 import { heritageItems } from "@/data/heritageItems";
 import { getEastJavaMapData } from "@/lib/mapService";
 import { getAllRegions } from "@/lib/regionService";
@@ -339,8 +340,9 @@ export default function Home() {
 
         <section className="mx-auto grid max-w-[1350px] gap-16 px-6 pb-24 pt-[220px] sm:px-10 lg:grid-cols-[0.98fr_0.9fr] lg:px-20">
           <div className="relative min-h-[480px] overflow-hidden bg-[#c9c9c9] lg:min-h-[590px]">
-            <Image
+            <FallbackImage
               src="/images/regions/kota-surabaya/destinations/tugu-pahlawan.jpg"
+              fallbackSrc="/images/regions/kota-surabaya/hero/hero.jpg"
               alt="Tugu Pahlawan Surabaya"
               fill
               className="object-cover"
